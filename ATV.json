@@ -5117,10 +5117,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "07:55:36 PM 07-06-2026",
+        "Last update time": "08:00:57 PM 07-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "51",
+        "Upcoming": "52",
         "events": [
             {
                 "cat": "Motorsport",
@@ -10231,6 +10231,13 @@
             },
             {
                 "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://feijing-xzbforanchor.52kq.top/live/sd-1-4548794.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/07 15:20:00 +0000",
@@ -10486,6 +10493,30 @@
                 "id": 1108,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
                 "title": "LaLiga 2"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://upload.wikimedia.org/wikipedia/en/b/b2/National_T20_Cup_2021_Logo.png\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/07 20:00:00 +0000",
+                    "eventName": "Pakistan National T20 2026",
+                    "isHot": "0",
+                    "startTime": "2026/06/07 15:00:00 +0000",
+                    "teamA": "National T20",
+                    "teamAFlag": "https://i.ibb.co/v658DZVx/20260312-191816.png",
+                    "teamB": "National T20",
+                    "teamBFlag": "https://i.ibb.co/v658DZVx/20260312-191816.png"
+                },
+                "id": 1109,
+                "league_logo": "https://i.ibb.co/20j47ZWc/National-T20-Cup-2021-Logo.png",
+                "title": "Pakistan National T20 2026"
             }
         ]
     }
