@@ -2,14 +2,26 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "07/06/26 14:15:51 IST",
-    "Total_Matches": 1,
+    "Last update": "07/06/26 14:16:32 IST",
+    "Total_Matches": 3,
     "Live_Data": [
         {
             "Id": "1",
             "Rivels": "Cronulla Sharks vs St George Illawarra Dragons",
             "Title": "NRL 07:05 (S-1)",
             "Link": "http://193.47.62.59/hls/DDDDRR.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Sydney Swans vs St Kilda Saints",
+            "Title": "AFL Aussie Rules 06:15 (S-1)",
+            "Link": "http://193.47.62.59/hls/DDDDRRR.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "India vs Afghanistan",
+            "Title": "Cricket 05:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/EEEE.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
