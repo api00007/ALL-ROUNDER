@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/atv",
+      "destination": "/api?file=ATV"
+    },
+    {
+      "source": "/tvb",
+      "destination": "/api?file=tvb"
+    },
+    {
+      "source": "/ubn",
+      "destination": "/api?file=ubn"
+    },
+    {
+      "source": "/:path",
+      "destination": "/api?file=:path"
+    }
+  ]
+}
