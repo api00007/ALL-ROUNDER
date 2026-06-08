@@ -2,14 +2,26 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "08/06/26 18:15:25 IST",
-    "Total_Matches": 1,
+    "Last update": "08/06/26 18:17:22 IST",
+    "Total_Matches": 3,
     "Live_Data": [
         {
             "Id": "1",
-            "Rivels": "Tennis WTA London",
-            "Title": "Tennis WTA 12:00 (S-1)",
-            "Link": "http://193.47.62.42/hls/GAAAQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Ivory Coast U20 vs Canada U20",
+            "Title": "Friendly Match 14:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/vggg.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Sri Lanka vs Bhutan",
+            "Title": "Friendly Match 12:30 (S-1)",
+            "Link": "http://193.47.62.42/hls/GAAAQQq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Tennis ATP Stuttgart",
+            "Title": "Tennis ATP 10:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/GAAAQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
