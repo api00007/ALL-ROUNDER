@@ -5117,10 +5117,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "08:55:34 AM 08-06-2026",
+        "Last update time": "09:05:29 AM 08-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "45",
+        "Upcoming": "48",
         "events": [
             {
                 "cat": "Motorsport",
@@ -11206,6 +11206,78 @@
                 "id": 1129,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
                 "title": "MLB"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/09 09:30:00 +0000",
+                    "eventName": "One Day International",
+                    "isHot": "0",
+                    "startTime": "2026/06/09 05:00:00 +0000",
+                    "teamA": "BAN",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+                    "teamB": "AUS",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image"
+                },
+                "id": 1131,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+                "title": "One Day International"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/12 22:00:00 +0000",
+                    "eventName": "ICC Women World Twenty20",
+                    "isHot": "0",
+                    "startTime": "2026/06/12 17:30:00 +0000",
+                    "teamA": "ENG-W",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+                    "teamB": "SL-W",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image"
+                },
+                "id": 1130,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+                "title": "ICC Women World Twenty20"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/19 05:00:00 +0000",
+                    "eventName": "Major League Cricket",
+                    "isHot": "0",
+                    "startTime": "2026/06/19 00:30:00 +0000",
+                    "teamA": "TSK",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/485010/image",
+                    "teamB": "SO",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/485014/image"
+                },
+                "id": 1132,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
+                "title": "Major League Cricket"
             }
         ]
     }
