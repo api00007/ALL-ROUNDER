@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:40:44 PM 08-06-2026",
+    "Last update time": "07:50:43 PM 08-06-2026",
     "events": [
         {
             "id": 50007,
@@ -427,6 +427,39 @@
             ]
         },
         {
+            "id": 50059,
+            "title": "West Indies vs Sri Lanka",
+            "cat": "Cricket",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "WI",
+                "teamB": "SL",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+                "eventName": "West Indies vs Sri Lanka",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/08 19:30:00 +0000",
+                "endTime": "2026/06/09 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "type": "1",
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
+                },
+                {
+                    "title": "TNT Sports HD",
+                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
             "id": 50060,
             "title": "England W vs Australia W",
             "cat": "Cricket",
@@ -454,6 +487,12 @@
                 {
                     "title": "SKY MIX HD",
                     "link": "https://cdn9859.shop/skymix.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/EEEE.m3u8|Referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 }
@@ -561,33 +600,6 @@
                     "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50064,
-            "title": "West Indies vs Sri Lanka",
-            "cat": "Cricket",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "Sri Lanka",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-                "eventName": "West Indies vs Sri Lanka",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/08 19:30:00 +0000",
-                "endTime": "2026/06/09 03:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Willow HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "type": "1",
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
                 }
             ]
         },
