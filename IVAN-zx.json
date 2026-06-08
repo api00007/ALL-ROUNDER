@@ -1,8 +1,41 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:10:38 PM 08-06-2026",
+    "Last update time": "07:20:41 PM 08-06-2026",
     "events": [
+        {
+            "id": 50007,
+            "title": "Bangladesh vs Australia",
+            "cat": "Cricket",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "BAN",
+                "teamB": "AUS",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+                "eventName": "Bangladesh vs Australia",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/09 05:00:00 +0000",
+                "endTime": "2026/06/09 12:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "type": "1",
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
+                },
+                {
+                    "title": "TNT SPORTS HD",
+                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
         {
             "id": 50010,
             "title": "WWE Raw",
@@ -30,7 +63,7 @@
                 },
                 {
                     "title": "HD SERVER",
-                    "link": "https://libgen.loreofeldenring.site/dailymotion/live/playlist/2.m3u8",
+                    "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
                     "type": "0",
                     "api": ""
                 },
@@ -504,6 +537,87 @@
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "type": "1",
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                }
+            ]
+        },
+        {
+            "id": 50065,
+            "title": "Orioles vs Seattle Mariners",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Orioles",
+                "teamB": "Mariners",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+                "eventName": "Baltimore Orioles vs Seattle Mariners",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/08 22:35:00 +0000",
+                "endTime": "2026/06/09 01:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z MLB",
+                    "link": "https://edgestreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50066,
+            "title": "Cleveland Guardians vs Yankees",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Guardians",
+                "teamB": "Yankees",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                "eventName": "Cleveland Guardians vs Yankees",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/08 22:40:00 +0000",
+                "endTime": "2026/06/09 01:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z MLB",
+                    "link": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50067,
+            "title": "Tampa Bay Rays vs Red Sox",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Rays",
+                "teamB": "Red Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "eventName": "Tampa Bay Rays vs Red Sox",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/08 22:40:00 +0000",
+                "endTime": "2026/06/09 01:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z MLB",
+                    "link": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         }
