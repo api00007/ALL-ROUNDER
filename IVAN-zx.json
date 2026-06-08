@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "02:20:38 PM 08-06-2026",
+    "Last update time": "02:31:05 PM 08-06-2026",
     "events": [
         {
             "id": 50008,
@@ -449,8 +449,20 @@
             },
             "channels_data": [
                 {
-                    "title": "FIFA",
-                    "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qcpb7bzjck/out/v1/2c4ae674e09448c9abb1799276cb4205/cenc.mpd",
+                    "type": "1",
+                    "api": "03e1add5a43c252c32fcee4a6682e12d:6371be9cf5c4a95ded0be6fc1fa89d4b"
+                },
+                {
+                    "title": "SKY MIX HD",
+                    "link": "https://cdn9859.shop/skymix.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SKY MIX SD",
+                    "link": "https://cdn9859.shop/skymixsd.m3u8",
                     "type": "0",
                     "api": ""
                 }
