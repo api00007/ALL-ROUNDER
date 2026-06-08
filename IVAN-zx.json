@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:00:57 PM 08-06-2026",
+    "Last update time": "07:10:38 PM 08-06-2026",
     "events": [
         {
             "id": 50010,
@@ -355,45 +355,6 @@
             ]
         },
         {
-            "id": 50059,
-            "title": "West Indies W vs India W",
-            "cat": "Cricket",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "WI-W",
-                "teamB": "IND-W",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-                "eventName": "West Indies W vs India W",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/08 09:00:00 +0000",
-                "endTime": "2026/06/08 12:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qcpb7bzjck/out/v1/2c4ae674e09448c9abb1799276cb4205/cenc.mpd",
-                    "type": "1",
-                    "api": "03e1add5a43c252c32fcee4a6682e12d:6371be9cf5c4a95ded0be6fc1fa89d4b"
-                },
-                {
-                    "title": "SKY MIX HD",
-                    "link": "https://cdn9859.shop/skymix.m3u8",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SKY MIX SD",
-                    "link": "https://cdn9859.shop/skymixsd.m3u8",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
             "id": 50060,
             "title": "England W vs Australia W",
             "cat": "Cricket",
@@ -413,8 +374,14 @@
             },
             "channels_data": [
                 {
-                    "title": "FIFA",
-                    "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7klzhpqkxr/out/v1/4f1498425da34eebbe94adba7c5306b3/cenc.mpd",
+                    "type": "1",
+                    "api": "af0af89c98d55d4c290c2739e25d1d48:e5401c3c26d141b545f8513bf153b9fb"
+                },
+                {
+                    "title": "SKY MIX HD",
+                    "link": "https://cdn9859.shop/skymix.m3u8",
                     "type": "0",
                     "api": ""
                 }
