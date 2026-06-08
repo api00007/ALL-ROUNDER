@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "01:00:50 AM 09-06-2026",
+    "Last update time": "01:10:38 AM 09-06-2026",
     "events": [
         {
             "id": 50007,
@@ -470,6 +470,12 @@
             },
             "channels_data": [
                 {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6vycgcgdg/out/v1/e3614a5efc5b44799d3ea5a7e7ca3cb8/cenc.mpd",
+                    "type": "1",
+                    "api": "f0d7f03f56d238007788d3720ba43b53:92d5ed9d45ca277bf955d0114d4eb3bd"
+                },
+                {
                     "title": "TNT Sports FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
                     "type": "1",
@@ -477,13 +483,31 @@
                 },
                 {
                     "title": "FANCODE FHD",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                     "type": "1",
                     "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
                 },
                 {
+                    "title": "FANCODE SD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                    "type": "1",
+                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e"
+                },
+                {
                     "title": "TNT Sports HD",
                     "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "WILLOW SD",
+                    "link": "https://cdn9859.shop/willoweng.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/EEEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 }
