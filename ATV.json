@@ -5130,7 +5130,7 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "09:35:42 PM 09-06-2026",
+        "Last update time": "09:40:45 PM 09-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
         "Upcoming": "111",
@@ -6975,6 +6975,23 @@
             },
             {
                 "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0091d3f6ac34f99290fdb37a8d36fbb2&txTime=6a288c04\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://daffodil.thelistener.pk/chile.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "CHILE TV",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.cdnfaster-a.live/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "LIVE SERVER",
+                        "tokenApi": ""
+                    }
+                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/09 18:20:00 +0000",
