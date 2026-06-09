@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:00:56 PM 09-06-2026",
+    "Last update time": "07:10:37 PM 09-06-2026",
     "events": [
         {
             "id": 50007,
@@ -19,7 +19,7 @@
                 "eventBanner": "",
                 "isHot": "0",
                 "startTime": "2026/06/09 05:00:00 +0000",
-                "endTime": "2026/06/09 13:00:00 +0000"
+                "endTime": "2026/06/09 13:50:00 +0000"
             },
             "channels_data": [
                 {
@@ -776,10 +776,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Willow HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/my3ogq1dih/out/v1/3c592727f2a1426093668f8db81f9e68/cenc.mpd",
                     "type": "1",
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                    "api": "abd12c233933fd5c6ea3cd2c4fc0fb81:421e5e595a4879f3f41c86816d48bce1"
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
@@ -803,10 +809,22 @@
             },
             "channels_data": [
                 {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h9k0od3tkf/out/v1/e5abb366273841c1aebc024cca95f77a/cenc.mpd",
+                    "type": "1",
+                    "api": "3791743fff0baa803275abff2851bf04:68c469d8483efbefbf8af37e0e24a800"
+                },
+                {
                     "title": "Willow HD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "type": "1",
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/ZZZZQQ.m3u8|Referer=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
