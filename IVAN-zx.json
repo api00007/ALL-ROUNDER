@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "06:30:57 AM 09-06-2026",
+    "Last update time": "06:40:39 AM 09-06-2026",
     "events": [
         {
             "id": 50007,
@@ -481,6 +481,66 @@
                 {
                     "title": "IVAN-z Live",
                     "link": "https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50059,
+            "title": "Scotland W vs Pakistan W",
+            "cat": "Cricket",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "SCO-W",
+                "teamB": "PAK-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/453162/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+                "eventName": "Scotland W vs Pakistan W",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/09 09:00:00 +0000",
+                "endTime": "2026/06/09 12:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6vycgcgdg/out/v1/e3614a5efc5b44799d3ea5a7e7ca3cb8/cenc.mpd",
+                    "type": "1",
+                    "api": "f0d7f03f56d238007788d3720ba43b53:92d5ed9d45ca277bf955d0114d4eb3bd"
+                }
+            ]
+        },
+        {
+            "id": 50060,
+            "title": "Ireland W vs Bangladesh W",
+            "cat": "Cricket",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "IRE-W",
+                "teamB": "BAN-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213116/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+                "eventName": "Ireland W vs Bangladesh W",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/09 09:00:00 +0000",
+                "endTime": "2026/06/09 12:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7klzhpqkxr/out/v1/4f1498425da34eebbe94adba7c5306b3/cenc.mpd",
+                    "type": "1",
+                    "api": "af0af89c98d55d4c290c2739e25d1d48:e5401c3c26d141b545f8513bf153b9fb"
+                },
+                {
+                    "title": "SKY MIX HD",
+                    "link": "https://cdn9859.shop/skymix.m3u8",
                     "type": "0",
                     "api": ""
                 }
