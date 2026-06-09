@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "11:20:43 PM 09-06-2026",
+    "Last update time": "11:31:04 PM 09-06-2026",
     "events": [
         {
             "id": 50010,
@@ -676,90 +676,6 @@
             ]
         },
         {
-            "id": 50067,
-            "title": "South Africa W vs New Zealand W",
-            "cat": "Cricket",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "SA-W",
-                "teamB": "NZ-W",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/213118/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-                "eventName": "South Africa W vs New Zealand W",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/09 14:00:00 +0000",
-                "endTime": "2026/06/09 17:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/my3ogq1dih/out/v1/3c592727f2a1426093668f8db81f9e68/cenc.mpd",
-                    "type": "1",
-                    "api": "abd12c233933fd5c6ea3cd2c4fc0fb81:421e5e595a4879f3f41c86816d48bce1"
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/qvcuptplyx/out/v1/31ed20e170674f29b46b24facb33ce4d/cenc.mpd",
-                    "type": "1",
-                    "api": "ac3f53c24685b4c35057f87494b7752c:9199baa523ff5b378896c2762f1667b3"
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50068,
-            "title": "Netherlands W vs Sri Lanka W",
-            "cat": "Cricket",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "NED-W",
-                "teamB": "SL-W",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/417753/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-                "eventName": "Netherlands W vs Sri Lanka W",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/09 14:00:00 +0000",
-                "endTime": "2026/06/09 17:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h9k0od3tkf/out/v1/e5abb366273841c1aebc024cca95f77a/cenc.mpd",
-                    "type": "1",
-                    "api": "3791743fff0baa803275abff2851bf04:68c469d8483efbefbf8af37e0e24a800"
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pfkpm3tldh/out/v1/8241545b9e984998ad3976050251e949/cenc.mpd",
-                    "type": "1",
-                    "api": "e25f71383958e521e5f9785610ac1348:b7c9c1fc1464db109858847a6a395213"
-                },
-                {
-                    "title": "Willow HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "type": "1",
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.59/hls/ZZZZQQ.m3u8|Referer=http://www.fawanews.sc/",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
             "id": 50075,
             "title": "Belarus vs Burkina Faso",
             "cat": "FIFA Friendlies",
@@ -933,6 +849,12 @@
                     "link": "https://instreams.pro/bil2/skysport3/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
                     "type": "0",
                     "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.43/hls/IIIIZZZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
@@ -960,6 +882,24 @@
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi2jpx1gff/out/v1/3e14d47403704434abef7ff0e5580b7d/cenc.mpd",
                     "type": "1",
                     "api": "2bbf05dedfc936c01f7ed20e0bd05888:81caa4aa3c154548a2cfe9181f225960"
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "type": "1",
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                },
+                {
+                    "title": "SKY SPORTS HD",
+                    "link": "https://cdn9859.shop/skynz1.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.47/hls/KSSSQqqqqC.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
