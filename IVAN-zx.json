@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:10:37 AM 09-06-2026",
+    "Last update time": "07:20:35 AM 09-06-2026",
     "events": [
         {
             "id": 50007,
@@ -31,6 +31,18 @@
                 {
                     "title": "TNT SPORTS HD",
                     "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "FOX CRICKET",
+                    "link": "https://cdn9859.shop/foxcricket.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 }
@@ -412,60 +424,6 @@
             ]
         },
         {
-            "id": 50055,
-            "title": "Mystics vs Indiana Fever",
-            "cat": "WNBA",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Mystics",
-                "teamB": "Fever",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-                "eventName": "Washington Mystics vs Indiana Fever",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/08 23:00:00 +0000",
-                "endTime": "2026/06/09 01:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50056,
-            "title": "Connecticut Sun vs Liberty",
-            "cat": "WNBA",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Connecticut",
-                "teamB": "Liberty",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-                "eventName": "Connecticut Sun vs Liberty",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/08 23:00:00 +0000",
-                "endTime": "2026/06/09 01:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
             "id": 50057,
             "title": "Aces vs Seattle Storm",
             "cat": "WNBA",
@@ -618,31 +576,22 @@
                     "link": "https://cdn9859.shop/beinarabic2.m3u8",
                     "type": "0",
                     "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50065,
-            "title": "Orioles vs Mariners",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Orioles",
-                "teamB": "Mariners",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-                "eventName": "Baltimore Orioles vs Seattle Mariners",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/08 22:35:00 +0000",
-                "endTime": "2026/06/09 01:35:00 +0000"
-            },
-            "channels_data": [
+                },
                 {
-                    "title": "IVAN-z MLB",
-                    "link": "https://edgestreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://cdn9859.shop/dazn2de.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER [EN]",
+                    "link": "http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER [ES]",
+                    "link": "http://193.47.62.59/hls/KSSSQqqqq.m3u8|Referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 }
@@ -670,33 +619,6 @@
                 {
                     "title": "IVAN-z MLB",
                     "link": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50067,
-            "title": "Rays vs Red Sox",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Rays",
-                "teamB": "Red Sox",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-                "eventName": "Tampa Bay Rays vs Red Sox",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/08 22:40:00 +0000",
-                "endTime": "2026/06/09 01:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z MLB",
-                    "link": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
