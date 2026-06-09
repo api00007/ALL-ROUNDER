@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "06:20:39 PM 09-06-2026",
+    "Last update time": "06:31:02 PM 09-06-2026",
     "events": [
         {
             "id": 50007,
@@ -563,21 +563,21 @@
         },
         {
             "id": 50059,
-            "title": "Scotland W vs Pakistan W",
+            "title": "India W vs England W",
             "cat": "Cricket",
             "image": "o",
             "publish": "1",
             "adsLimit": "0",
             "eventInfo": {
-                "teamA": "SCO-W",
-                "teamB": "PAK-W",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/453162/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
-                "eventName": "Scotland W vs Pakistan W",
+                "teamA": "IND-W",
+                "teamB": "ENG-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+                "eventName": "India W vs England W",
                 "eventBanner": "",
                 "isHot": "0",
-                "startTime": "2026/06/09 09:00:00 +0000",
-                "endTime": "2026/06/09 12:30:00 +0000"
+                "startTime": "2026/06/10 09:00:00 +0000",
+                "endTime": "2026/06/10 12:45:00 +0000"
             },
             "channels_data": [
                 {
@@ -585,6 +585,33 @@
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sbwje1k3ak/out/v1/33e73a4e71cb40cb82df69fcf881d2f1/cenc.mpd",
                     "type": "1",
                     "api": "d0ad0d4877d70b6235ed6feca4697a5d:66f3b516bdc5d1853a97034ccfda458b"
+                }
+            ]
+        },
+        {
+            "id": 50060,
+            "title": "West Indies W vs Australia W",
+            "cat": "Cricket",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "WI-W",
+                "teamB": "AUS-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+                "eventName": "West Indies W vs Australia W",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/10 14:00:00 +0000",
+                "endTime": "2026/06/10 17:45:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tg9qrqv61z/out/v1/0745325e38a74feaa5e4376c11e7b460/cenc.mpd",
+                    "type": "1",
+                    "api": "af17c6ab374aed89b9ab743be9599e0a:31135d77be3cf785b2e3da58acdb282a"
                 }
             ]
         },
@@ -842,6 +869,12 @@
                     "api": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6Mwe5jfecmQX3PTomg.m3u8?txSecret=a77aba0fd4894c3aa95fe7d50eff9926&txTime=6A2836A1",
+                    "type": "0",
+                    "api": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.46/hls/JRRRQ.m3u8|referer=http://www.fawanews.sc/",
                     "type": "0",
@@ -873,6 +906,12 @@
                     "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4544848.m3u8?txSecret=74d69a257a6c6535e66b504679ab2de3&txTime=6A294BAA",
                     "type": "0",
                     "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.46/hls/JRRRQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
@@ -896,8 +935,8 @@
             },
             "channels_data": [
                 {
-                    "title": "FIFA",
-                    "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.46/hls/JRRRQQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 }
@@ -1055,21 +1094,21 @@
         },
         {
             "id": 50078,
-            "title": "India A vs Sri Lanka A",
-            "cat": "Cricket",
+            "title": "Essex vs Kent",
+            "cat": "T20 Blast",
             "image": "o",
             "publish": "1",
             "adsLimit": "0",
             "eventInfo": {
-                "teamA": "IND-A",
-                "teamB": "SL-A",
-                "teamAFlag": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381895.png",
-                "teamBFlag": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/340000/340047.png",
-                "eventName": "India A vs Sri Lanka A",
+                "teamA": "ESS",
+                "teamB": "KET",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187829/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187834/image",
+                "eventName": "Essex vs Kent",
                 "eventBanner": "null",
                 "isHot": "0",
-                "startTime": "2026/06/09 04:30:00 +0000",
-                "endTime": "2026/06/09 12:50:00 +0000"
+                "startTime": "2026/06/09 18:00:00 +0000",
+                "endTime": "2026/06/09 21:45:00 +0000"
             },
             "channels_data": [
                 {
@@ -1077,30 +1116,6 @@
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nln1owcafu/out/v1/1ab82f752659435f965cc8c8005b0357/cenc.mpd",
                     "type": "1",
                     "api": "a7bde5ef96b11eca0367fc6ae9139bc8:9f44a2653bb6df7915c38fdd831610ee"
-                },
-                {
-                    "title": "WILLOW HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "type": "1",
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-                },
-                {
-                    "title": "SonyLIV [ENG]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781023498~acl=/*~id=61397237817331631238880113886606~hmac=d83798f0c2a8f7ed52cc00f32b42caf92e011523b8bf757a700da61c330dc537|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SonyLIV [HIN]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781023498~acl=/*~id=61397237817331631238880113886606~hmac=d83798f0c2a8f7ed52cc00f32b42caf92e011523b8bf757a700da61c330dc537|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SonyLIV [TAM]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781023498~acl=/*~id=61397237817331631238880113886606~hmac=d83798f0c2a8f7ed52cc00f32b42caf92e011523b8bf757a700da61c330dc537|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-                    "type": "0",
-                    "api": ""
                 }
             ]
         },
