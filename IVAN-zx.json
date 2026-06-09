@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "10:20:35 AM 09-06-2026",
+    "Last update time": "10:30:58 AM 09-06-2026",
     "events": [
         {
             "id": 50007,
@@ -49,6 +49,12 @@
                 {
                     "title": "FANCODE FHD",
                     "link": "https://fncd.kuvuslov.cymru/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "T SPORTS HD",
+                    "link": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
                     "type": "0",
                     "api": ""
                 },
@@ -289,45 +295,6 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50033,
-            "title": "Houston Astros",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Angels",
-                "teamB": "Astros",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-                "eventName": "Angels vs Houston Astros",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/09 01:38:00 +0000",
-                "endTime": "2026/06/09 04:49:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z MLB",
-                    "link": "https://chatgpt.hereisman.net/playlist/51777/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "MLB LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/51778/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -963,6 +930,24 @@
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "type": "1",
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                },
+                {
+                    "title": "SonyLIV [ENG]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781023498~acl=/*~id=61397237817331631238880113886606~hmac=d83798f0c2a8f7ed52cc00f32b42caf92e011523b8bf757a700da61c330dc537|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SonyLIV [HIN]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781023498~acl=/*~id=61397237817331631238880113886606~hmac=d83798f0c2a8f7ed52cc00f32b42caf92e011523b8bf757a700da61c330dc537|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SonyLIV [TAM]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781023498~acl=/*~id=61397237817331631238880113886606~hmac=d83798f0c2a8f7ed52cc00f32b42caf92e011523b8bf757a700da61c330dc537|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         }
