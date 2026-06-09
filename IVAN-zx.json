@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "08:20:36 AM 09-06-2026",
+    "Last update time": "08:31:06 AM 09-06-2026",
     "events": [
         {
             "id": 50007,
@@ -841,6 +841,177 @@
                 {
                     "title": "FIFA",
                     "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50073,
+            "title": "Tajikistan vs India",
+            "cat": "FIFA Friendlies",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Tajikistan",
+                "teamB": "India",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/23488/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+                "eventName": "Tajikistan vs India",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/09 15:00:00 +0000",
+                "endTime": "2026/06/09 17:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FIFA",
+                    "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50074,
+            "title": "Armenia vs Moldova",
+            "cat": "FIFA Friendlies",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Armenia",
+                "teamB": "Moldova",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4740/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
+                "eventName": "Armenia vs Moldova",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/09 15:00:00 +0000",
+                "endTime": "2026/06/09 17:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FUBO SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+                    "type": "1",
+                    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+                },
+                {
+                    "title": "Sport CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                    "type": "1",
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+                },
+                {
+                    "title": "SKY SPORTS SD",
+                    "link": "https://instreams.pro/bil2/skysport6/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50075,
+            "title": "Belarus vs Burkina Faso",
+            "cat": "FIFA Friendlies",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Belarus",
+                "teamB": "Burkina Faso",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4743/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4749/image",
+                "eventName": "Belarus vs Burkina Faso",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/09 16:30:00 +0000",
+                "endTime": "2026/06/09 18:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SKY SPORTS SD",
+                    "link": "https://instreams.pro/bil2/skysport4/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50076,
+            "title": "Hungary vs Kazakhstan",
+            "cat": "FIFA Friendlies",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Hungary",
+                "teamB": "Kazakhstan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4709/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4772/image",
+                "eventName": "Hungary vs Kazakhstan",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/09 17:00:00 +0000",
+                "endTime": "2026/06/09 19:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FOX SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                    "type": "1",
+                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+                },
+                {
+                    "title": "SporTV BR",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "type": "1",
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733"
+                },
+                {
+                    "title": "Sport CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                    "type": "1",
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+                },
+                {
+                    "title": "SKY SPORTS SD",
+                    "link": "https://instreams.pro/bil2/skysport2/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50077,
+            "title": "San Marino vs Azerbaijan",
+            "cat": "FIFA Friendlies",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "San Marino",
+                "teamB": "Azerbaijan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4833/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
+                "eventName": "San Marino vs Azerbaijan",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/09 18:00:00 +0000",
+                "endTime": "2026/06/09 20:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Sport CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                    "type": "1",
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+                },
+                {
+                    "title": "SKY SPORTS SD",
+                    "link": "https://instreams.pro/bil2/skysport3/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
                     "type": "0",
                     "api": ""
                 }
