@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "10:10:39 AM 09-06-2026",
+    "Last update time": "10:20:35 AM 09-06-2026",
     "events": [
         {
             "id": 50007,
@@ -35,8 +35,20 @@
                     "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
                 },
                 {
+                    "title": "WILLOW FHD [ALT]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tsw4vdwngu/out/v1/e1a3a734256c498dbd7b01cdaa7c7c8c/cenc.mpd",
+                    "type": "1",
+                    "api": "8b16f37636a12cb83d7082e4df2dd39e:36bff5eb3a4f040223460e1aa2f41c3f"
+                },
+                {
                     "title": "TNT SPORTS HD",
                     "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://fncd.kuvuslov.cymru/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
                     "type": "0",
                     "api": ""
                 },
@@ -316,39 +328,6 @@
                 {
                     "title": "IVAN-z Live",
                     "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50052,
-            "title": "Washington Nationals",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Giants",
-                "teamB": "Nationals",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-                "eventName": "Giants vs Washington Nationals",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/09 01:45:00 +0000",
-                "endTime": "2026/06/09 04:45:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z MLB",
-                    "link": "https://chatgpt.hereisman.net/playlist/51780/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -951,6 +930,39 @@
                     "link": "https://instreams.pro/bil2/skysport3/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
                     "type": "0",
                     "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50078,
+            "title": "India A vs Sri Lanka A",
+            "cat": "Cricket",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "IND-A",
+                "teamB": "SL-A",
+                "teamAFlag": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381895.png",
+                "teamBFlag": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/340000/340047.png",
+                "eventName": "India A vs Sri Lanka A",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/09 04:30:00 +0000",
+                "endTime": "2026/06/09 12:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nln1owcafu/out/v1/1ab82f752659435f965cc8c8005b0357/cenc.mpd",
+                    "type": "1",
+                    "api": "a7bde5ef96b11eca0367fc6ae9139bc8:9f44a2653bb6df7915c38fdd831610ee"
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "type": "1",
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
                 }
             ]
         }
