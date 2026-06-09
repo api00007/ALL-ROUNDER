@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "09:01:01 PM 09-06-2026",
+    "Last update time": "09:10:42 PM 09-06-2026",
     "events": [
         {
             "id": 50010,
@@ -734,6 +734,12 @@
                     "api": "3791743fff0baa803275abff2851bf04:68c469d8483efbefbf8af37e0e24a800"
                 },
                 {
+                    "title": "WILLOW ALT",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pfkpm3tldh/out/v1/8241545b9e984998ad3976050251e949/cenc.mpd",
+                    "type": "1",
+                    "api": "e25f71383958e521e5f9785610ac1348:b7c9c1fc1464db109858847a6a395213"
+                },
+                {
                     "title": "Willow HD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "type": "1",
@@ -743,51 +749,6 @@
                     "title": "SD SERVER",
                     "link": "http://193.47.62.59/hls/ZZZZQQ.m3u8|Referer=http://www.fawanews.sc/",
                     "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50070,
-            "title": "Indonesia vs Mozambique",
-            "cat": "FIFA Friendlies",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Indonesia",
-                "teamB": "Mozambique",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4783/image",
-                "eventName": "Indonesia vs Mozambique",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/09 13:00:00 +0000",
-                "endTime": "2026/06/09 15:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4549871.m3u8?txSecret=6883d4646c32f2703e3cfc582965823f&txTime=6A294C24",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6Mwe5jfecmQX3PTomg.m3u8?txSecret=a77aba0fd4894c3aa95fe7d50eff9926&txTime=6A2836A1",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.46/hls/JRRRQ.m3u8|referer=http://www.fawanews.sc/",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "FHD SERVER",
-                    "link": "https://junkieembeds.pages.dev/embed/dazn-01",
-                    "type": "2",
                     "api": ""
                 }
             ]
@@ -952,6 +913,12 @@
                 "endTime": "2026/06/09 18:30:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://pul-tenm.nbs3g.com/live/sd-1-4544885.m3u8?txSecret=e4f1c224131f31200002934a6a2c87fe&txTime=6A297DD4",
+                    "type": "0",
+                    "api": ""
+                },
                 {
                     "title": "SKY SPORTS SD",
                     "link": "https://instreams.pro/bil2/skysport4/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
