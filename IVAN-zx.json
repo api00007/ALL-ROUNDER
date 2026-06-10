@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "05:50:42 PM 10-06-2026",
+    "Last update time": "06:00:57 PM 10-06-2026",
     "events": [
         {
             "id": 50009,
@@ -226,6 +226,180 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50027,
+            "title": "Carolina Hurricanes",
+            "cat": "NHL",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Hurricanes",
+                "teamB": "Golden Knights",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+                "eventName": "Carolina Hurricanes vs Golden Knights",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/12 00:00:00 +0000",
+                "endTime": "2026/06/12 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "PREMIER SPORTS",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+                    "type": "1",
+                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+                },
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50032,
+            "title": "Chicago White Sox",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "White Sox",
+                "teamB": "Braves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "eventName": "White Sox vs Atlanta Braves",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/10 23:40:00 +0000",
+                "endTime": "2026/06/11 02:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z LIVE",
+                    "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50033,
+            "title": "Texas Rangers",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Royals",
+                "teamB": "Rangers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                "eventName": "Royals vs Texas Rangers",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/10 23:40:00 +0000",
+                "endTime": "2026/06/11 02:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50034,
+            "title": "Colorado Rockies",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Rockies",
+                "teamB": "Cubs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "eventName": "Colorado Rockies vs Chicago Cubs",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/11 00:40:00 +0000",
+                "endTime": "2026/06/11 03:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50052,
+            "title": "Milwaukee Brewers",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Athletics",
+                "teamB": "Brewers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "eventName": "Athletics vs Milwaukee Brewers",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/11 01:05:00 +0000",
+                "endTime": "2026/06/11 04:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50053,
+            "title": "Houston Astros",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Angels",
+                "teamB": "Astros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "eventName": "Angels vs Houston Astros",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/11 01:38:00 +0000",
+                "endTime": "2026/06/11 04:38:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -848,7 +1022,7 @@
         },
         {
             "id": 50079,
-            "title": "Miami Marlins vs Diamondbacks",
+            "title": "Marlins vs Diamondbacks",
             "cat": "MLB",
             "image": "o",
             "publish": "1",
@@ -863,6 +1037,87 @@
                 "isHot": "0",
                 "startTime": "2026/06/10 22:40:00 +0000",
                 "endTime": "2026/06/11 01:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50080,
+            "title": "Pirates vs Dodgers",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Pirates",
+                "teamB": "Dodgers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+                "eventName": "Pittsburgh Pirates vs Dodgers",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/10 22:40:00 +0000",
+                "endTime": "2026/06/11 01:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50081,
+            "title": "Blue Jays vs Philadelphia Phillies",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Blue Jays",
+                "teamB": "Phillies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "eventName": "Blue Jays vs Philadelphia Phillies",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/10 23:07:00 +0000",
+                "endTime": "2026/06/11 02:07:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50082,
+            "title": "Mets vs Cardinals",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Mets",
+                "teamB": "Cardinals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "eventName": "New York Mets vs Cardinals",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/10 23:10:00 +0000",
+                "endTime": "2026/06/11 02:10:00 +0000"
             },
             "channels_data": [
                 {
