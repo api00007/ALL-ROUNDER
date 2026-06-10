@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "10:50:42 PM 10-06-2026",
+    "Last update time": "11:40:55 PM 10-06-2026",
     "events": [
         {
             "id": 50002,
@@ -166,6 +166,93 @@
                 "endTime": "2026/06/15 05:30:00 +0000"
             },
             "channels_data": []
+        },
+        {
+            "id": 50007,
+            "title": "Bangladesh vs Australia",
+            "cat": "Cricket",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "BAN",
+                "teamB": "AUS",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+                "eventName": "Bangladesh vs Australia",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/11 05:00:00 +0000",
+                "endTime": "2026/06/11 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+                    "type": "1",
+                    "api": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844"
+                },
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/39g4vfcmed/out/v1/2cc3881eeb644aafbd089ba91ee5a39c/cenc.mpd",
+                    "type": "1",
+                    "api": "8e9c51025bcae87deb2cad3def7be311:6ed8b036a7668c104046c706b29ddabb"
+                },
+                {
+                    "title": "WILLOW FHD [ALT]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tsw4vdwngu/out/v1/e1a3a734256c498dbd7b01cdaa7c7c8c/cenc.mpd",
+                    "type": "1",
+                    "api": "8b16f37636a12cb83d7082e4df2dd39e:36bff5eb3a4f040223460e1aa2f41c3f"
+                },
+                {
+                    "title": "FANCODE AQ",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                    "type": "1",
+                    "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2"
+                },
+                {
+                    "title": "TNT SPORTS HD",
+                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://fncd.kuvuslov.cymru/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "T SPORTS HD",
+                    "link": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SKY SPORTS HD",
+                    "link": "https://cdn9859.shop/skynz1.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "FOX CRICKET",
+                    "link": "https://cdn9859.shop/foxcricket.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
         },
         {
             "id": 50009,
@@ -567,35 +654,122 @@
             ]
         },
         {
-            "id": 50060,
-            "title": "West Indies W vs Australia W",
+            "id": 50055,
+            "title": "Tempo vs Connecticut Sun",
+            "cat": "WNBA",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Tempo",
+                "teamB": "Connecticut",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+                "eventName": "Toronto Tempo vs Connecticut Sun",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/10 23:00:00 +0000",
+                "endTime": "2026/06/11 01:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TSN SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+                    "type": "1",
+                    "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4"
+                },
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50056,
+            "title": "Seattle Storm vs Sparks",
+            "cat": "WNBA",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Storm",
+                "teamB": "Sparks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+                "eventName": "Seattle Storm vs Sparks",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/11 02:00:00 +0000",
+                "endTime": "2026/06/11 04:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50058,
+            "title": "Bulldogs vs Adelaide Crows",
+            "cat": "AFL",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Bulldogs",
+                "teamB": "Adelaide",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4455/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4442/image",
+                "eventName": "Western Bulldogs vs Adelaide Crows",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/11 09:30:00 +0000",
+                "endTime": "2026/06/11 12:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "type": "1",
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
+                }
+            ]
+        },
+        {
+            "id": 50059,
+            "title": "England W vs Sri Lanka W",
             "cat": "Cricket",
             "image": "o",
             "publish": "1",
             "adsLimit": "0",
             "eventInfo": {
-                "teamA": "WI-W",
-                "teamB": "AUS-W",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-                "eventName": "West Indies W vs Australia W",
+                "teamA": "ENG-W",
+                "teamB": "SL-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+                "eventName": "England W vs Sri Lanka W",
                 "eventBanner": "",
                 "isHot": "0",
-                "startTime": "2026/06/10 14:00:00 +0000",
-                "endTime": "2026/06/10 17:45:00 +0000"
+                "startTime": "2026/06/12 17:30:00 +0000",
+                "endTime": "2026/06/12 21:15:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mojspoyam9/out/v1/a6d017b96a58446381227f6b190d19a7/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dj1km6b6es/out/v1/19df13cc1d8847e984b2ead17006a44f/cenc.mpd",
                     "type": "1",
-                    "api": "251c8e60d755886d2ea3cdb313ce17b8:c23518db83006653ee9f1e3408ab136d"
+                    "api": "20c2d7ead10beb5a3a10ef13e95459a3:e3141f63f4fe35b0ee97ebf882ab64fe"
                 },
                 {
-                    "title": "WILLOW [ALT]",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wb5rrwverb/out/v1/7d659cec19f84403a79adc0a4523a10a/cenc.mpd",
-                    "type": "1",
-                    "api": "402390e423c778bf9a0cf61485d1188b:123e7efc50b67411a64980aec500d54d"
+                    "title": "SKY CRICKET",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
+                    "type": "0",
+                    "api": ""
                 },
                 {
                     "title": "WILLOW HD",
@@ -1270,6 +1444,12 @@
             },
             "channels_data": [
                 {
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "type": "1",
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
+                },
+                {
                     "title": "IVAN-z Live",
                     "link": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
@@ -1279,7 +1459,7 @@
         },
         {
             "id": 50081,
-            "title": "Blue Jays vs Philadelphia Phillies",
+            "title": "Blue Jays vs Phillies",
             "cat": "MLB",
             "image": "o",
             "publish": "1",
