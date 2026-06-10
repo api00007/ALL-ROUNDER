@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "12:20:39 PM 10-06-2026",
+    "Last update time": "12:31:04 PM 10-06-2026",
     "events": [
         {
             "id": 50009,
@@ -309,6 +309,96 @@
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tg9qrqv61z/out/v1/0745325e38a74feaa5e4376c11e7b460/cenc.mpd",
                     "type": "1",
                     "api": "af17c6ab374aed89b9ab743be9599e0a:31135d77be3cf785b2e3da58acdb282a"
+                }
+            ]
+        },
+        {
+            "id": 50061,
+            "title": "Portugal vs Nigeria",
+            "cat": "FIFA Friendlies",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Portugal",
+                "teamB": "Nigeria",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4704/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
+                "eventName": "Portugal vs Nigeria",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/10 19:45:00 +0000",
+                "endTime": "2026/06/10 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SporTV BR",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "type": "1",
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733"
+                },
+                {
+                    "title": "ViX ESPANOL FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3qbjuzhvsh/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "type": "1",
+                    "api": "b0a9544d5391b21aa283d05b9c5658af:7cf6b835b17cbb0ecf60c83409a07954"
+                },
+                {
+                    "title": "Sport CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                    "type": "1",
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+                },
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50062,
+            "title": "England vs Costa Rica",
+            "cat": "FIFA Friendlies",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "England",
+                "teamB": "Costa Rica",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image",
+                "eventName": "England vs Costa Rica",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/10 20:00:00 +0000",
+                "endTime": "2026/06/10 22:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                    "type": "1",
+                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+                },
+                {
+                    "title": "Sport CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                    "type": "1",
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+                },
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SKY SPORTS HD",
+                    "link": "https://cdn9859.shop/skynz1.m3u8",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
