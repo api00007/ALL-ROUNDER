@@ -1,8 +1,53 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "05:40:40 AM 10-06-2026",
+    "Last update time": "06:00:53 AM 10-06-2026",
     "events": [
+        {
+            "id": 50009,
+            "title": "ONE Friday Fights",
+            "cat": "Boxing",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Friday Fights",
+                "teamB": "Friday Fights",
+                "teamAFlag": "https://iili.io/FDjaT1R.md.png",
+                "teamBFlag": "https://iili.io/FDjaT1R.md.png",
+                "eventName": "ONE Friday Fights",
+                "eventBanner": "https://iili.io/BihxDjj.png",
+                "isHot": "0",
+                "startTime": "2026/06/12 12:30:00 +0000",
+                "endTime": "2026/06/12 16:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "One Fight FHD",
+                    "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+                    "type": "1",
+                    "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+                },
+                {
+                    "title": "ESPN SPORTS",
+                    "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1780134416~acl=%2F*~id=973bec32-7006-493b-b2ff-937f0e9af4bc~data=hdntl,dWlkPVJaUGF0anw5MTA3ZGE5OC0xOGYwLTRiNmItOTM1Ny1jOTZhOWIzZjRiMjUmaXA9MTgwLjE5MS4xMjcuMiZleHA9MTc4MDEzNDQ0NSZlaWQ9MzAyMTY1JmNpZD1kY2UudWZjJm9pZD0xNDgmdHlwZT1MSVZF~hmac=5e342fdc53d0060e048ff3fd9380a1d79d58b1d2fa20b6b9cc46640e6064ac75/dash/live/2093723/219038-321034/manifest-d.mpd",
+                    "type": "1",
+                    "api": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121"
+                },
+                {
+                    "title": "Server 2",
+                    "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+                    "type": "1",
+                    "api": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
+                },
+                {
+                    "title": "Server 3",
+                    "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+                    "type": "1",
+                    "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0"
+                }
+            ]
+        },
         {
             "id": 50010,
             "title": "WWE Raw",
@@ -200,7 +245,7 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
                 "eventName": "Golden Knights vs Carolina Hurricanes",
                 "eventBanner": "",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/10 00:00:00 +0000",
                 "endTime": "2026/06/10 03:00:00 +0000"
             },
@@ -566,11 +611,17 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/4708/image",
                 "eventName": "Argentina vs Iceland",
                 "eventBanner": "",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/10 01:00:00 +0000",
                 "endTime": "2026/06/10 03:10:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "type": "1",
+                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
+                },
                 {
                     "title": "CAZE TV FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
@@ -584,6 +635,18 @@
                     "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a"
                 },
                 {
+                    "title": "ESPN DEPORTES",
+                    "link": "https://chatgpt.hereisman.net/playlist/51813/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "IVAN-z Live",
+                    "link": "ttps://pul-tenm.nbs3g.com/live/hd-en-1-4529486.m3u8?txSecret=baf6fe379c9a5b59ecf383ae757000e0&txTime=6A29FCDA",
+                    "type": "0",
+                    "api": ""
+                },
+                {
                     "title": "SKY SPORTS HD",
                     "link": "https://cdn9859.shop/skynz1.m3u8",
                     "type": "0",
@@ -592,6 +655,12 @@
                 {
                     "title": "TYC SPORTS",
                     "link": "https://instreams.pro/bil2/tycar/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "FOX SOCCER+",
+                    "link": "https://cdn9859.shop/foxsoccerplus.m3u8",
                     "type": "0",
                     "api": ""
                 }
