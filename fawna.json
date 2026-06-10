@@ -2,8 +2,8 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "10/06/26 16:22:34 IST",
-    "Total_Matches": 6,
+    "Last update": "10/06/26 16:24:41 IST",
+    "Total_Matches": 7,
     "Live_Data": [
         {
             "Id": "1",
@@ -40,6 +40,12 @@
             "Rivels": "Tennis ATP Hertogenbosch",
             "Title": "Tennis ATP 10:00 (S-1)",
             "Link": "http://193.47.62.42/hls/GAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
+            "Rivels": "Tennis WTA London/Hertogenbosch",
+            "Title": "Tennis WTA 10:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/GAAAQQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
