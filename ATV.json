@@ -5155,10 +5155,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "11:31:12 PM 11-06-2026",
+        "Last update time": "11:45:46 PM 11-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "40",
+        "Upcoming": "42",
         "events": [
             {
                 "cat": "Motorsport",
@@ -6370,13 +6370,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/12 02:05:00 +0000",
@@ -6418,13 +6411,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/12 01:40:00 +0000",
@@ -6442,13 +6428,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/11 22:10:00 +0000",
@@ -6536,13 +6515,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/12 02:40:00 +0000",
@@ -6557,6 +6529,64 @@
                 "id": 1261,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
                 "title": "MLB"
+            },
+            {
+                "cat": "Basketball",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/12 01:30:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/06/11 23:00:00 +0000",
+                    "teamA": "Fever",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+                    "teamB": "Chicago",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image"
+                },
+                "id": 1265,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
+            },
+            {
+                "cat": "Basketball",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/12 02:00:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/06/11 23:30:00 +0000",
+                    "teamA": "Atlanta",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+                    "teamB": "Liberty",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image"
+                },
+                "id": 1266,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/12 03:30:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/06/12 01:00:00 +0000",
+                    "teamA": "Wings",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                    "teamB": "Mercury",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image"
+                },
+                "id": 1267,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
             }
         ]
     }
