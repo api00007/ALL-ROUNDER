@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "12:25:56 PM 11-06-2026",
+    "Last update time": "12:31:10 PM 11-06-2026",
     "events": [
         {
             "id": 50002,
@@ -770,7 +770,56 @@
                 "startTime": "2026/06/11 19:00:00 +0000",
                 "endTime": "2026/06/11 21:10:00 +0000"
             },
-            "channels_data": []
+            "channels_data": [
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "type": "1",
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003"
+                },
+                {
+                    "title": "TELEMUNDO FHD",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "type": "1",
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+                },
+                {
+                    "title": "SporTV BR",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "type": "1",
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733"
+                },
+                {
+                    "title": "CAZE TV FHD",
+                    "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "TSN SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                    "type": "1",
+                    "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689"
+                },
+                {
+                    "title": "TSN SPORTS 3",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+                    "type": "1",
+                    "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
+                },
+                {
+                    "title": "BTV BDIX",
+                    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "Somoy TV",
+                    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
         },
         {
             "id": 50064,
