@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "06:14:38 AM 11-06-2026",
+    "Last update time": "06:25:35 AM 11-06-2026",
     "events": [
         {
             "id": 50002,
@@ -166,6 +166,57 @@
                 "endTime": "2026/06/15 05:30:00 +0000"
             },
             "channels_data": []
+        },
+        {
+            "id": 50006,
+            "title": "WWE",
+            "cat": "WWE",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "AEW",
+                "teamB": "AEW",
+                "teamAFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
+                "teamBFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
+                "eventName": "AEW Dynamite",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/11 00:00:00 +0000",
+                "endTime": "2026/06/11 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TSN SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+                    "type": "1",
+                    "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b"
+                },
+                {
+                    "title": "IVAN-z WWE",
+                    "link": "https://sauce.loreofeldenring.site/dailymotion/live/playlist/11.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "Fox Sports Premium",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+                    "type": "1",
+                    "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
+                },
+                {
+                    "title": "BACKUP HD",
+                    "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "BACKUP SD",
+                    "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
         },
         {
             "id": 50007,
@@ -439,12 +490,6 @@
             },
             "channels_data": [
                 {
-                    "title": "ABC SPORTS FHD",
-                    "link": "https://live1-ott.izzigo.tv//out/u/dash/REY2/ABC-HD/default.mpd",
-                    "type": "1",
-                    "api": "4333764048f11ff107d0c08ad775636e:f983c348e6bff5a52c39c249dcb9098f"
-                },
-                {
                     "title": "ABC SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/51848/load-playlist?|Referer=https://gooz.aapmains.net",
                     "type": "0",
@@ -702,6 +747,18 @@
                 "endTime": "2026/06/11 04:38:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "IVAN-z MLB",
+                    "link": "https://chatgpt.hereisman.net/playlist/51856/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "MLB LIVE HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/51857/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "type": "0",
+                    "api": ""
+                },
                 {
                     "title": "IVAN-z Live",
                     "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
