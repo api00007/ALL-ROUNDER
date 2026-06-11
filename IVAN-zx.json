@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "01:03:46 AM 12-06-2026",
+    "Last update time": "01:14:37 AM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -859,10 +859,10 @@
                     "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003"
                 },
                 {
-                    "title": "CRAVE FHD",
-                    "link": "https://a104live-pv-ta-amazon.akamaized.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xoxuubsye0/out/v1/2338e2a81148432d8e2178a3059b6edb/309a8d92-c45b-48bc-b5ac-4e8bb19ebf91-cenc.mpd",
+                    "title": "CRAVE AQ FHD",
+                    "link": "https://a104live-pv-ta-amazon.akamaized.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xoxuubsye0/out/v1/2338e2a81148432d8e2178a3059b6edb/309a8d92-c45b-48bc-b5ac-4e8bb19ebf91-cenc.mpd?",
                     "type": "1",
-                    "api": "22fd403b05f5aa3aca7f2da216c0b6ce:c63b23022cdb494345629bd2470f465e"
+                    "api": "0ec2902098abb21c2716cf56547ba209:58195622dbd9996aa49376111e141e65"
                 },
                 {
                     "title": "TELEMUNDO FHD",
@@ -1481,7 +1481,14 @@
                 "startTime": "2026/06/11 19:10:00 +0000",
                 "endTime": "2026/06/11 22:10:00 +0000"
             },
-            "channels_data": []
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
         }
     ]
 }
