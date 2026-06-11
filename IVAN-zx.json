@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "05:41:34 PM 11-06-2026",
+    "Last update time": "05:52:35 PM 11-06-2026",
     "events": [
         {
             "id": 50002,
@@ -781,34 +781,28 @@
         },
         {
             "id": 50058,
-            "title": "Bulldogs vs Adelaide Crows",
-            "cat": "AFL",
+            "title": "Portland Fire vs Aces",
+            "cat": "WNBA",
             "image": "o",
             "publish": "1",
             "adsLimit": "0",
             "eventInfo": {
-                "teamA": "Bulldogs",
-                "teamB": "Adelaide",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4455/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4442/image",
-                "eventName": "Western Bulldogs vs Adelaide Crows",
+                "teamA": "Fire",
+                "teamB": "Las Vegas",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+                "eventName": "Portland Fire vs Las Vegas Aces",
                 "eventBanner": "",
                 "isHot": "0",
-                "startTime": "2026/06/11 09:30:00 +0000",
-                "endTime": "2026/06/11 12:30:00 +0000"
+                "startTime": "2026/06/12 02:00:00 +0000",
+                "endTime": "2026/06/12 04:40:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "TNT Sports FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-                    "type": "1",
-                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
-                },
-                {
-                    "title": "FOX SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                    "type": "1",
-                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+                    "title": "FIFA",
+                    "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
@@ -873,7 +867,7 @@
                 "eventBanner": "",
                 "isHot": "0",
                 "startTime": "2026/06/11 04:30:00 +0000",
-                "endTime": "2026/06/11 11:45:00 +0000"
+                "endTime": "2026/06/11 12:45:00 +0000"
             },
             "channels_data": [
                 {
