@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "08:52:41 PM 11-06-2026",
+    "Last update time": "09:03:35 PM 11-06-2026",
     "events": [
         {
             "id": 50002,
@@ -518,6 +518,12 @@
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
                     "type": "1",
                     "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa"
+                },
+                {
+                    "title": "M6 FRANCE",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "type": "1",
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
                 }
             ]
         },
@@ -970,6 +976,12 @@
                     "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
                 },
                 {
+                    "title": "RTVE SPANISH",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+                    "type": "1",
+                    "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa"
+                },
+                {
                     "title": "T SPORTS HD",
                     "link": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
                     "type": "0",
@@ -978,6 +990,36 @@
                 {
                     "title": "Somoy TV",
                     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "RAI ITALY FHD",
+                    "link": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "VRT DUTCH FHD",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "type": "1",
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
+                },
+                {
+                    "title": "ORF GERMAN HD",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+                    "type": "1",
+                    "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398"
+                },
+                {
+                    "title": "ZDF GERMAN HD",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "type": "1",
+                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813"
+                },
+                {
+                    "title": "TRT SPORTS FHD",
+                    "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
                     "type": "0",
                     "api": ""
                 },
