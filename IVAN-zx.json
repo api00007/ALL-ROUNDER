@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:41:38 PM 11-06-2026",
+    "Last update time": "07:52:40 PM 11-06-2026",
     "events": [
         {
             "id": 50002,
@@ -973,10 +973,16 @@
                     "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
                 },
                 {
-                    "title": "SporTV BR",
+                    "title": "SporTV BR FHD",
                     "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
                     "type": "1",
                     "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733"
+                },
+                {
+                    "title": "TUDN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+                    "type": "1",
+                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc"
                 },
                 {
                     "title": "FOX SPORTS HD",
@@ -995,6 +1001,12 @@
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
                     "type": "1",
                     "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689"
+                },
+                {
+                    "title": "CANAL SPORTS",
+                    "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+                    "type": "1",
+                    "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711"
                 },
                 {
                     "title": "TSN SPORTS 3",
