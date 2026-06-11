@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "10:25:47 PM 11-06-2026",
+    "Last update time": "10:41:39 PM 11-06-2026",
     "events": [
         {
             "id": 50002,
@@ -470,7 +470,7 @@
             "cat": "FIFA World Cup",
             "image": "o",
             "publish": "1",
-            "adsLimit": "0",
+            "adsLimit": "44",
             "eventInfo": {
                 "teamA": "FIFA World Cup",
                 "teamB": "FIFA World Cup",
@@ -483,6 +483,12 @@
                 "endTime": "2026/06/11 18:45:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "TSN Sports 4 AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "type": "1",
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003"
+                },
                 {
                     "title": "CIGNAL ENGLISH",
                     "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
