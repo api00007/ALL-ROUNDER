@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "08:41:39 PM 11-06-2026",
+    "Last update time": "08:52:41 PM 11-06-2026",
     "events": [
         {
             "id": 50002,
@@ -484,16 +484,40 @@
             },
             "channels_data": [
                 {
-                    "title": "IVAN-z Live",
-                    "link": "https://chatgpt.hereisman.net/playlist/51863/load-playlist?|Referer=https://gooz.aapmains.net/",
-                    "type": "0",
-                    "api": ""
+                    "title": "CIGNAL ENGLISH",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+                    "type": "1",
+                    "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050"
                 },
                 {
                     "title": "TELEMUNDO FHD",
                     "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
                     "type": "1",
                     "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+                },
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://chatgpt.hereisman.net/playlist/51863/load-playlist?|Referer=https://gooz.aapmains.net/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "TELEMUNDO ES",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "type": "1",
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
+                },
+                {
+                    "title": "TUDN ESPANOL",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+                    "type": "1",
+                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc"
+                },
+                {
+                    "title": "RTVE SPANISH",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+                    "type": "1",
+                    "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa"
                 }
             ]
         },
@@ -928,6 +952,12 @@
                     "api": ""
                 },
                 {
+                    "title": "BTV BDIX",
+                    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
                     "title": "CANAL SPORTS",
                     "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
                     "type": "1",
@@ -938,12 +968,6 @@
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
                     "type": "1",
                     "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
-                },
-                {
-                    "title": "BTV BDIX",
-                    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
-                    "type": "0",
-                    "api": ""
                 },
                 {
                     "title": "T SPORTS HD",
