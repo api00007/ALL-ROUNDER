@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "02:14:35 AM 12-06-2026",
+    "Last update time": "02:25:41 AM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1096,6 +1096,12 @@
                     "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
                 },
                 {
+                    "title": "CIGNAL ENGLISH",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+                    "type": "1",
+                    "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050"
+                },
+                {
                     "title": "D Sports FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
                     "type": "1",
@@ -1132,8 +1138,56 @@
                     "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc"
                 },
                 {
+                    "title": "HIMALIYA SPORTS",
+                    "link": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+                    "type": "1",
+                    "api": "220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306"
+                },
+                {
                     "title": "Somoy TV",
                     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "RAI ITALY FHD",
+                    "link": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "VRT DUTCH FHD",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "type": "1",
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
+                },
+                {
+                    "title": "ORF GERMAN HD",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+                    "type": "1",
+                    "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398"
+                },
+                {
+                    "title": "TRT SPORTS FHD",
+                    "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "UNiFy TV [IND]",
+                    "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+                    "type": "1",
+                    "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f"
+                },
+                {
+                    "title": "beIN MAX HD",
+                    "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "ENGLISH SD SERVER",
+                    "link": "https://cdn.obstream.pro/live/yq97gcrutx.m3u8|referer=https://obstream.pro/",
                     "type": "0",
                     "api": ""
                 }
