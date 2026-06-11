@@ -6641,6 +6641,13 @@
             },
             {
                 "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://api.sportsbite.xyz/hls/19.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/11 20:10:00 +0000",
