@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "05:14:36 PM 11-06-2026",
+    "Last update time": "05:25:41 PM 11-06-2026",
     "events": [
         {
             "id": 50002,
@@ -699,6 +699,87 @@
             ]
         },
         {
+            "id": 50055,
+            "title": "Fever vs Chicago Sky",
+            "cat": "WNBA",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Fever",
+                "teamB": "Chicago",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+                "eventName": "Indiana Fever vs Chicago Sky",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/11 23:00:00 +0000",
+                "endTime": "2026/06/12 01:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50056,
+            "title": "Atlanta Dream vs Liberty",
+            "cat": "WNBA",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Atlanta",
+                "teamB": "Liberty",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+                "eventName": "Atlanta Dream vs Liberty",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/11 23:30:00 +0000",
+                "endTime": "2026/06/12 02:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50057,
+            "title": "Dallas Wings vs Mercury",
+            "cat": "WNBA",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Wings",
+                "teamB": "Mercury",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+                "eventName": "Dallas Wings vs Phoenix Mercury",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/12 01:00:00 +0000",
+                "endTime": "2026/06/12 03:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
             "id": 50058,
             "title": "Bulldogs vs Adelaide Crows",
             "cat": "AFL",
@@ -714,7 +795,7 @@
                 "eventBanner": "",
                 "isHot": "0",
                 "startTime": "2026/06/11 09:30:00 +0000",
-                "endTime": "2026/06/11 12:00:00 +0000"
+                "endTime": "2026/06/11 12:30:00 +0000"
             },
             "channels_data": [
                 {
