@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:03:38 PM 11-06-2026",
+    "Last update time": "07:14:47 PM 11-06-2026",
     "events": [
         {
             "id": 50002,
@@ -548,6 +548,57 @@
                     "link": "http://193.47.62.52/hls/LLLLX.m3u8|Referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50023,
+            "title": "WC Opening Ceremony",
+            "cat": "FIFA World Cup",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "FIFA World Cup",
+                "teamB": "FIFA World Cup",
+                "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
+                "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
+                "eventName": "FIFA World CUP Opening Ceremony",
+                "eventBanner": "https://iili.io/CCJexUl.png",
+                "isHot": "1",
+                "startTime": "2026/06/11 17:00:00 +0000",
+                "endTime": "2026/06/11 18:45:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "type": "1",
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003"
+                },
+                {
+                    "title": "TSN SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                    "type": "1",
+                    "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689"
+                },
+                {
+                    "title": "TSN SPORTS 3",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+                    "type": "1",
+                    "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
+                },
+                {
+                    "title": "TSN SPORTS 5",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+                    "type": "1",
+                    "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4"
+                },
+                {
+                    "title": "CTV Live",
+                    "link": "https://a72live-pv-ta-amazon.akamaized.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/djbux4j5ip/out/v1/1520577e010943959d431bbb626c997a/9fc24ab3-6658-4740-a65a-d3dcb4d56ea0-cenc.mpd",
+                    "type": "1",
+                    "api": "51a4a5ab615c381304b8dd795282fd7e:1e6f4096000b31668c11d5cd339d8cac"
                 }
             ]
         },
