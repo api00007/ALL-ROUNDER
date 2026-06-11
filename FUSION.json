@@ -5189,6 +5189,27 @@
                 "name": "CityNews",
                 "type": "custom",
                 "visible": true
+            },
+            {
+                "channels_data": [
+                    {
+                        "is_playlist": false,
+                        "logo": "data:image/png;base64,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",
+                        "name": "AMC",
+                        "stream_links": [
+                            {
+                                "link": "<iframe src=\"https://dlhd.pk/stream/stream-303.php\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen></iframe>",
+                                "name": "Link 1",
+                                "tokenApi": ""
+                            }
+                        ],
+                        "visible": true
+                    }
+                ],
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQHazVx5Zwdr6fdSUxKfMwVo_79PuMB7L2A&s",
+                "name": "USA FREE",
+                "type": "custom",
+                "visible": true
             }
         ]
     },
