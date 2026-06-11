@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "02:25:41 AM 12-06-2026",
+    "Last update time": "02:41:33 AM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -784,6 +784,12 @@
             },
             "channels_data": [
                 {
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "type": "1",
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
+                },
+                {
                     "title": "WILLOW HD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "type": "1",
@@ -1009,6 +1015,12 @@
                     "api": ""
                 },
                 {
+                    "title": "Unite8 Sports 1",
+                    "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+                    "type": "1",
+                    "api": "521f18ae33645cabdd064c1d3732556a:c67544333910f31f7e8c7ebfbc8b1876"
+                },
+                {
                     "title": "UNiFy TV [IND]",
                     "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
                     "type": "1",
@@ -1090,12 +1102,6 @@
                     "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
                 },
                 {
-                    "title": "CAZE TV FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
-                    "type": "1",
-                    "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
-                },
-                {
                     "title": "CIGNAL ENGLISH",
                     "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
                     "type": "1",
@@ -1122,6 +1128,12 @@
                 {
                     "title": "BTV BDIX",
                     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "CAZE TV FHD",
+                    "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
                     "type": "0",
                     "api": ""
                 },
@@ -1174,6 +1186,18 @@
                     "api": ""
                 },
                 {
+                    "title": "Unite8 Sports [HIN]",
+                    "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+                    "type": "1",
+                    "api": "521f18ae33645cabdd064c1d3732556a:c67544333910f31f7e8c7ebfbc8b1876"
+                },
+                {
+                    "title": "Unite8 Sports [ENG]",
+                    "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
+                    "type": "1",
+                    "api": "501cb89acad2407e067c8ded661892f5:bfa0488efaae9ec16775747c80ee54a7"
+                },
+                {
                     "title": "UNiFy TV [IND]",
                     "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
                     "type": "1",
@@ -1190,6 +1214,12 @@
                     "link": "https://cdn.obstream.pro/live/yq97gcrutx.m3u8|referer=https://obstream.pro/",
                     "type": "0",
                     "api": ""
+                },
+                {
+                    "title": "CAZE TV FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+                    "type": "1",
+                    "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
                 }
             ]
         },
