@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "05:25:39 PM 12-06-2026",
+    "Last update time": "05:31:17 PM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -704,6 +704,141 @@
                     "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
                     "type": "1",
                     "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
+                }
+            ]
+        },
+        {
+            "id": 50032,
+            "title": "Houston Astros",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Royals",
+                "teamB": "Astros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "eventName": "Royals vs Houston Astros",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/13 00:10:00 +0000",
+                "endTime": "2026/06/13 03:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z LIVE",
+                    "link": "https://edgestreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50033,
+            "title": "Minnesota Twins",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Twins",
+                "teamB": "Cardinals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "eventName": "Minnesota Twins vs Cardinals",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/13 00:10:00 +0000",
+                "endTime": "2026/06/13 03:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50034,
+            "title": "Tampa Bay Rays",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Angels",
+                "teamB": "Rays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "eventName": "Angels vs Tampa Bay Rays",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/13 01:38:00 +0000",
+                "endTime": "2026/06/13 04:38:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50052,
+            "title": "Colorado Rockies",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Athletics",
+                "teamB": "Rockies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "eventName": "Athletics vs Colorado Rockies",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/13 02:05:00 +0000",
+                "endTime": "2026/06/13 05:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50053,
+            "title": "Chicago Cubs",
+            "cat": "MLB",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Giants",
+                "teamB": "Cubs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "eventName": "Giants vs Chicago Cubs",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/13 02:15:00 +0000",
+                "endTime": "2026/06/13 05:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
@@ -1613,7 +1748,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1640,7 +1775,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1667,7 +1802,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1694,7 +1829,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1721,7 +1856,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1748,7 +1883,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1775,7 +1910,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1802,7 +1937,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1829,7 +1964,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1856,7 +1991,7 @@
             "channels_data": [
                 {
                     "title": "IVAN-z Live",
-                    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
