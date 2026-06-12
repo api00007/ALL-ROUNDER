@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "11:25:54 PM 12-06-2026",
+    "Last update time": "11:41:33 PM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -967,22 +967,28 @@
                     "api": ""
                 },
                 {
+                    "title": "WILLOW FHD [ALT]",
+                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/4wja3cfwgg/out/v1/991189690f8b4dd68e0c674f6a398c39/cenc.mpd",
+                    "type": "1",
+                    "api": "979b2f5b62f09438e96fb1fe44b820e2:b976ab1bf969845cf9e4fee85f456c8d"
+                },
+                {
                     "title": "WILLOW HD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "type": "1",
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
                 },
                 {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.59/hls/hyhyhyhy.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SKY NZ HD",
+                    "link": "https://cdn9859.shop/skynz2.m3u8",
                     "type": "0",
                     "api": ""
                 },
                 {
-                    "title": "WILLOW FHD [ALT]",
-                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/4wja3cfwgg/out/v1/991189690f8b4dd68e0c674f6a398c39/cenc.mpd",
-                    "type": "q",
-                    "api": "979b2f5b62f09438e96fb1fe44b820e2:b976ab1bf969845cf9e4fee85f456c8d"
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/BHHHAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
@@ -1620,6 +1626,12 @@
                 {
                     "title": "BBC SPORTS HD",
                     "link": "https://cdn9859.shop/bbc1.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "Tsports HD",
+                    "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
                     "type": "0",
                     "api": ""
                 }
