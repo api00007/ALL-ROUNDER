@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "12:25:30 PM 12-06-2026",
+    "Last update time": "12:41:30 PM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -215,6 +215,81 @@
                     "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
                     "type": "0",
                     "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50008,
+            "title": "India vs Afghanistan",
+            "cat": "Cricket",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "India",
+                "teamB": "Afghanistan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+                "eventName": "India vs Afghanistan",
+                "eventBanner": "null",
+                "isHot": "0",
+                "startTime": "2026/06/13 08:00:00 +0000",
+                "endTime": "2026/06/13 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h3gdb4reni/out/v1/159b45c4cbc04cba8a9ca1a7372d3192/cenc.mpd",
+                    "type": "1",
+                    "api": "c1a959ddeedd4ffc6083f09d10445802:849993446d5264fc6990abfbd944b990"
+                },
+                {
+                    "title": "TNT SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+                    "type": "1",
+                    "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca"
+                },
+                {
+                    "title": "WILLOW - SD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/fffpudtfxr/out/v1/49b90c7f9f7640829fbd664039980768/cenc-sd.mpd",
+                    "type": "1",
+                    "api": "a9477e30b220d92a3bfa426bbf62b1fd:4f112b9c5ec1edbd6a93c5e7f1385a33"
+                },
+                {
+                    "title": "SS HINDHI - HD",
+                    "link": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "TNT SPORTS - AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "type": "1",
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
+                },
+                {
+                    "title": "FOX CRICKET",
+                    "link": "https://cdn9859.shop/foxcricket.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "TNT SPORTS SD",
+                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1600.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/EEEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "HOTSTAR HD",
+                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1780727405~acl=/*~id=9d77ffa6bda97973d97fa76b64aab84e~data=hdntl~hmac=d618fe019134dcc39f08f767609f00b34a3eb5d2af02a2102f766e623e1bb713&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/",
+                    "type": "1",
+                    "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092"
                 }
             ]
         },
@@ -461,6 +536,75 @@
                     "link": "http://193.47.62.52/hls/LLLLX.m3u8|Referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50023,
+            "title": "WC Opening Ceremony",
+            "cat": "FIFA World Cup",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "12",
+            "eventInfo": {
+                "teamA": "FIFA World Cup",
+                "teamB": "FIFA World Cup",
+                "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
+                "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
+                "eventName": "FIFA World CUP Opening Ceremony",
+                "eventBanner": "https://iili.io/CCYRVXR.png",
+                "isHot": "1",
+                "startTime": "2026/06/12 17:00:00 +0000",
+                "endTime": "2026/06/12 18:45:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TSN Sports 4 AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "type": "1",
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003"
+                },
+                {
+                    "title": "CIGNAL ENGLISH",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+                    "type": "1",
+                    "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050"
+                },
+                {
+                    "title": "TELEMUNDO FHD",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "type": "1",
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+                },
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://chatgpt.hereisman.net/playlist/51863/load-playlist?|Referer=https://gooz.aapmains.net/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "TELEMUNDO ES",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "type": "1",
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
+                },
+                {
+                    "title": "TUDN ESPANOL",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+                    "type": "1",
+                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc"
+                },
+                {
+                    "title": "RTVE SPANISH",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+                    "type": "1",
+                    "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa"
+                },
+                {
+                    "title": "M6 FRANCE",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "type": "1",
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
                 }
             ]
         },
