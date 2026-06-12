@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "02:31:05 PM 12-06-2026",
+    "Last update time": "02:41:25 PM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1280,6 +1280,36 @@
                     "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
                     "type": "0",
                     "api": ""
+                },
+                {
+                    "title": "M6 FRANCE FHD",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "type": "1",
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
+                },
+                {
+                    "title": "TIPIK FR FHD",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "type": "1",
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+                },
+                {
+                    "title": "VRT DUTCH FHD",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "type": "1",
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
+                },
+                {
+                    "title": "ORF GERMAN FHD",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+                    "type": "1",
+                    "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398"
+                },
+                {
+                    "title": "TRT SPORTS FHD",
+                    "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
@@ -1334,6 +1364,12 @@
                     "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
                     "type": "0",
                     "api": ""
+                },
+                {
+                    "title": "ZDF GERMAN HD",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "type": "1",
+                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813"
                 }
             ]
         },
