@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "03:25:37 PM 12-06-2026",
+    "Last update time": "03:41:26 PM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1320,6 +1320,18 @@
                 {
                     "title": "TRT SPORTS FHD",
                     "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "RAI 4k ITALIAN",
+                    "link": "https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd`",
+                    "type": "1",
+                    "api": "0:0"
+                },
+                {
+                    "title": "RAI ITALIAN",
+                    "link": "https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8",
                     "type": "0",
                     "api": ""
                 }
