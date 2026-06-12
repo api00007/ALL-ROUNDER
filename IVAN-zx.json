@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "08:14:45 PM 12-06-2026",
+    "Last update time": "08:25:46 PM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -17,11 +17,17 @@
                 "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
                 "eventName": "Formula 1 - SPAIN GP",
                 "eventBanner": "https://iili.io/CBXHVta.png",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/12 14:45:00 +0000",
                 "endTime": "2026/06/12 16:45:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+                    "type": "1",
+                    "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b"
+                },
                 {
                     "title": "FANCODE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
@@ -39,12 +45,6 @@
                     "link": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?|Referer=https://gooz.aapmains.net",
                     "type": "0",
                     "api": ""
-                },
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-                    "type": "1",
-                    "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b"
                 },
                 {
                     "title": "SKY SPORTS HD",
@@ -651,9 +651,9 @@
                 "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
                 "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
                 "eventName": "FIFA World CUP Opening Ceremony",
-                "eventBanner": "https://iili.io/CCYRVXR.png",
+                "eventBanner": "https://iili.io/CCWmes9.png",
                 "isHot": "1",
-                "startTime": "2026/06/12 17:00:00 +0000",
+                "startTime": "2026/06/12 17:30:00 +0000",
                 "endTime": "2026/06/12 18:45:00 +0000"
             },
             "channels_data": [
