@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "02:03:41 AM 13-06-2026",
+    "Last update time": "02:14:44 AM 13-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1735,10 +1735,58 @@
                     "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79"
                 },
                 {
+                    "title": "TELEMUNDO SPANISH",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "type": "1",
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
+                },
+                {
                     "title": "TSN SPORTS 1",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
                     "type": "1",
                     "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689"
+                },
+                {
+                    "title": "ZEE5 Bangla",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+                    "type": "1",
+                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc"
+                },
+                {
+                    "title": "ZEE5+ HINDI",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+                    "type": "1",
+                    "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed"
+                },
+                {
+                    "title": "beIN MAX FHD",
+                    "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "TIPIK FR FHD",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "type": "1",
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+                },
+                {
+                    "title": "Sporza DUTCH FHD",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "type": "1",
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
+                },
+                {
+                    "title": "ORF GERMAN FHD",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+                    "type": "1",
+                    "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398"
+                },
+                {
+                    "title": "TRT SPORTS FHD",
+                    "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
