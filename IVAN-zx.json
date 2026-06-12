@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:25:31 AM 12-06-2026",
+    "Last update time": "07:41:24 AM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -591,33 +591,6 @@
             ]
         },
         {
-            "id": 50056,
-            "title": "Atlanta Dream vs Liberty",
-            "cat": "WNBA",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Atlanta",
-                "teamB": "Liberty",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-                "eventName": "Atlanta Dream vs Liberty",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/11 23:30:00 +0000",
-                "endTime": "2026/06/12 02:10:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
             "id": 50057,
             "title": "Dallas Wings vs Mercury",
             "cat": "WNBA",
@@ -859,6 +832,12 @@
                     "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc"
                 },
                 {
+                    "title": "ZEE5+ HINDI",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+                    "type": "1",
+                    "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed"
+                },
+                {
                     "title": "FAST SERVER 1",
                     "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8L7PeMUSCn.m3u8?txSecret=a4c66b8d51235486091ed84739939f6b&txTime=6A2B8C39",
                     "type": "0",
@@ -907,12 +886,6 @@
                     "api": "220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306"
                 },
                 {
-                    "title": "Somoy TV",
-                    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
-                    "type": "0",
-                    "api": ""
-                },
-                {
                     "title": "beIN MAX HD",
                     "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
                     "type": "0",
@@ -925,10 +898,16 @@
                     "api": ""
                 },
                 {
-                    "title": "CAZE TV FHD",
-                    "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
-                    "type": "0",
-                    "api": ""
+                    "title": "TIPIK FR FHD",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "type": "1",
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+                },
+                {
+                    "title": "WIN SPORT ES FHD",
+                    "link": "https://362a33c2a385d7d1e52d89d18399caac6d7e6240.cdn.broadpeak.io/bcdn_token=wXicatWudpfabr0WFCdYvVzGduuaoe4-4wW0PV012zA&token_ignore_params=true&token_path=%2Fout%2Fv1%2F1f375ac45935404eb603d44841ced543%2F&expires=1781249235/out/v1/1f375ac45935404eb603d44841ced543/index.mpd",
+                    "type": "1",
+                    "api": "19ca642b3eba4f4d81637667a04fdd9e:a18d219ded2ebfa8f41db4a110324a9e"
                 },
                 {
                     "title": "VRT DUTCH FHD",
