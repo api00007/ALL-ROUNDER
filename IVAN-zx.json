@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "06:41:27 AM 12-06-2026",
+    "Last update time": "06:52:26 AM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -564,39 +564,6 @@
             ]
         },
         {
-            "id": 50053,
-            "title": "Atlanta Braves",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "White Sox",
-                "teamB": "Braves",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-                "eventName": "White Sox vs Atlanta Braves",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/11 23:40:00 +0000",
-                "endTime": "2026/06/12 02:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z MLB",
-                    "link": "https://chatgpt.hereisman.net/playlist/51885/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
             "id": 50054,
             "title": "CFL",
             "cat": "CFL",
@@ -814,16 +781,16 @@
                     "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
                 },
                 {
+                    "title": "FANCODE FHD",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "type": "1",
+                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
+                },
+                {
                     "title": "WILLOW [ALT]",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd",
                     "type": "1",
                     "api": "e6b07ce99d782b87ecb6d59271803cfa:484b67b5c7a9e216048d1f96d463d35b"
-                },
-                {
-                    "title": "WILLOW HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "type": "1",
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
                 },
                 {
                     "title": "SonyLiv [ENG]",
@@ -871,12 +838,6 @@
                     "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
                 },
                 {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                    "type": "1",
-                    "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689"
-                },
-                {
                     "title": "TELEMUNDO FHD",
                     "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
                     "type": "1",
@@ -887,6 +848,12 @@
                     "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
                     "type": "1",
                     "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050"
+                },
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                    "type": "1",
+                    "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689"
                 },
                 {
                     "title": "D Sports FHD",
@@ -947,12 +914,6 @@
                     "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
                     "type": "0",
                     "api": ""
-                },
-                {
-                    "title": "RTVE SPANISH",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-                    "type": "1",
-                    "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa"
                 },
                 {
                     "title": "ZEE5 Bangla",
@@ -1025,6 +986,12 @@
                     "link": "https://cdn.obstream.pro/live/yq97gcrutx.m3u8|referer=https://obstream.pro/",
                     "type": "0",
                     "api": ""
+                },
+                {
+                    "title": "RTVE SPANISH",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+                    "type": "1",
+                    "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa"
                 }
             ]
         },
