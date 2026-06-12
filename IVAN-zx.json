@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:41:24 AM 12-06-2026",
+    "Last update time": "07:52:41 AM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -537,33 +537,6 @@
             ]
         },
         {
-            "id": 50052,
-            "title": "Seattle Mariners",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Orioles",
-                "teamB": "Mariners",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-                "eventName": "Baltimore Orioles vs Seattle Mariners",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/11 23:05:00 +0000",
-                "endTime": "2026/06/12 02:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
             "id": 50054,
             "title": "CFL",
             "cat": "CFL",
@@ -581,14 +554,7 @@
                 "startTime": "2026/06/12 00:30:00 +0000",
                 "endTime": "2026/06/12 03:30:00 +0000"
             },
-            "channels_data": [
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-                    "type": "1",
-                    "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
-                }
-            ]
+            "channels_data": []
         },
         {
             "id": 50057,
@@ -838,6 +804,12 @@
                     "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed"
                 },
                 {
+                    "title": "HIMALIYA SPORTS",
+                    "link": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+                    "type": "1",
+                    "api": "220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306"
+                },
+                {
                     "title": "FAST SERVER 1",
                     "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8L7PeMUSCn.m3u8?txSecret=a4c66b8d51235486091ed84739939f6b&txTime=6A2B8C39",
                     "type": "0",
@@ -872,18 +844,6 @@
                     "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
                     "type": "1",
                     "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
-                },
-                {
-                    "title": "ZEE5 Bangla",
-                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-                    "type": "1",
-                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc"
-                },
-                {
-                    "title": "HIMALIYA SPORTS",
-                    "link": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-                    "type": "1",
-                    "api": "220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306"
                 },
                 {
                     "title": "beIN MAX HD",
@@ -954,6 +914,24 @@
                 {
                     "title": "ENGLISH SD SERVER",
                     "link": "https://cdn.obstream.pro/live/yq97gcrutx.m3u8|referer=https://obstream.pro/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.53/hls/zazaza.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "AZAM SPORT SD",
+                    "link": "http://193.47.62.47/hls/zazazaeddd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER FR",
+                    "link": "http://193.47.62.53/hls/zazazaed.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 },
@@ -1178,6 +1156,39 @@
                     "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
                     "type": "0",
                     "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50073,
+            "title": "Geelong Cats vs Gold Coast",
+            "cat": "AFL",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Geelong",
+                "teamB": "Gold Coast",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4443/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/47506/image",
+                "eventName": "Geelong Cats vs Gold Coast Suns",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/12 09:40:00 +0000",
+                "endTime": "2026/06/12 12:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "type": "1",
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
+                },
+                {
+                    "title": "FOX SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                    "type": "1",
+                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
                 }
             ]
         }
