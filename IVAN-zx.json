@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "05:41:41 PM 12-06-2026",
+    "Last update time": "05:52:33 PM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -863,6 +863,12 @@
             "channels_data": [
                 {
                     "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+                    "type": "1",
+                    "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4"
+                },
+                {
+                    "title": "TSN SPORTS HD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
                     "type": "1",
                     "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
@@ -888,6 +894,12 @@
                 "endTime": "2026/06/13 02:10:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+                    "type": "1",
+                    "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b"
+                },
                 {
                     "title": "IVAN-z Live",
                     "link": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1207,7 +1219,7 @@
         },
         {
             "id": 50064,
-            "title": "South Korea vs Czechia",
+            "title": "Sweden vs Tunisia",
             "cat": "FIFA World Cup",
             "image": "o",
             "publish": "1",
@@ -1540,6 +1552,18 @@
                     "api": ""
                 },
                 {
+                    "title": "TSN SPORTS 1",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                    "type": "1",
+                    "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689"
+                },
+                {
+                    "title": "TSN SPORTS 3",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+                    "type": "1",
+                    "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
+                },
+                {
                     "title": "RAI 4k ITALIAN",
                     "link": "https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd`",
                     "type": "1",
@@ -1547,7 +1571,7 @@
                 },
                 {
                     "title": "RAI ITALIAN",
-                    "link": "https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8",
+                    "link": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
                     "type": "0",
                     "api": ""
                 }
@@ -1750,21 +1774,21 @@
         },
         {
             "id": 50073,
-            "title": "Geelong Cats vs Gold Coast",
+            "title": "Melbourne vs Essendon",
             "cat": "AFL",
             "image": "o",
             "publish": "1",
             "adsLimit": "0",
             "eventInfo": {
-                "teamA": "Geelong",
-                "teamB": "Gold Coast",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4443/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/47506/image",
-                "eventName": "Geelong Cats vs Gold Coast Suns",
+                "teamA": "Melbourne",
+                "teamB": "Essendon",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4456/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4450/image",
+                "eventName": "Melbourne Demons vs Essendon Bombers",
                 "eventBanner": "",
                 "isHot": "0",
-                "startTime": "2026/06/12 09:40:00 +0000",
-                "endTime": "2026/06/12 12:40:00 +0000"
+                "startTime": "2026/06/13 03:15:00 +0000",
+                "endTime": "2026/06/13 06:15:00 +0000"
             },
             "channels_data": [
                 {
