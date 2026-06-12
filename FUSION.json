@@ -5533,7 +5533,7 @@
         " NAME ": "FluX-oW Live event ( Auto updated)",
         "AUTHOR": "iVan_FluX",
         "Finish": "00",
-        "Last update time": "02:25:38 PM 12-06-2026",
+        "Last update time": "02:40:44 PM 12-06-2026",
         "Live": "00",
         "Upcoming": "29",
         "events": [
@@ -6419,14 +6419,509 @@
                 "id": 1268,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
                 "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd&k1=e6b07ce99d782b87ecb6d59271803cfa&k2=484b67b5c7a9e216048d1f96d463d35b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "WILLOW FHD AD Free",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd&k1=d14658a0ede94debcb4013b2056ba6d1&k2=60838a3176127fed0eaf038a5575de11\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TNT SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd&k1=e6b07ce99d782b87ecb6d59271803cfa&k2=484b67b5c7a9e216048d1f96d463d35b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "WILLOW FHD ALT",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FANCODE FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd&k1=709c812e1b4174002605df1d17d34a4c&k2=0bbee6c9c20a0f065bf8369d54cbf83e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FANCODE SD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://in-mc-flive.fancode.com/mumbai/142975_english_hls_9179cae52353626_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FANCODE IND",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bd-mc-flive.fancode.com/mumbai/142975_english_hls_9179cae52353626_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FANCODE BAN",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/12 05:20:00 +0000",
+                    "eventName": "T20 International",
+                    "isHot": "0",
+                    "startTime": "2026/06/12 00:30:00 +0000",
+                    "teamA": "WI",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+                    "teamB": "SL",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image"
+                },
+                "id": 943,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+                "title": "T20 International"
+            },
+            {
+                "cat": "Motorsport",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "RALLY TV",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TNT SPORTS 3",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "  +0000",
+                    "eventName": "WRC Rally",
+                    "isHot": "0",
+                    "startTime": "2026/05/28 10:00:00 +0000",
+                    "teamA": "WRC",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
+                    "teamB": "WRC",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image"
+                },
+                "id": 212,
+                "league_logo": "https://img.sofascore.com/api/v1/category/84/image",
+                "title": "WRC Rally"
+            },
+            {
+                "cat": "Motorsport",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd&k1=192b1115da041585c77200128549efa1&k2=634e10efe4abbb14be400a3ccbac0258\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TNT SPORTS 4",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "  +0000",
+                    "eventName": "Grand Prix of Czech Republic",
+                    "isHot": "0",
+                    "startTime": "2026/05/30 09:15:00 +0000",
+                    "teamA": "SuperBike",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/category/1552/image",
+                    "teamB": "SuperBike",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/category/1552/image"
+                },
+                "id": 588,
+                "league_logo": "https://img.sofascore.com/api/v1/category/1552/image",
+                "title": "Grand Prix of Czech Republic"
+            },
+            {
+                "cat": "Boxing",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "BACKUP SD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://602.shdigital.site/wwe.m3u8|Referer=https://roxiestreams.info/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD WWE",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/10 04:00:00 +0000",
+                    "eventName": "WWE NXT",
+                    "isHot": "0",
+                    "startTime": "2026/06/10 00:00:00 +0000",
+                    "teamA": "WWE NXT",
+                    "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+                    "teamB": "WWE NXT",
+                    "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png"
+                },
+                "id": 72,
+                "league_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+                "title": "WWE NXT"
+            },
+            {
+                "cat": "Boxing",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/04/12 04:00:00 +0000",
+                    "eventName": "TNA iMPACT",
+                    "isHot": "0",
+                    "startTime": "2026/04/11 23:00:00 +0000",
+                    "teamA": "TNA iMPACT",
+                    "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+                    "teamB": "TNA iMPACT",
+                    "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png"
+                },
+                "id": 175,
+                "league_logo": "https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png",
+                "title": "TNA iMPACT"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd&k1=c4088f5f265f9de50cffd80bf89308b7&k2=2c4d2239d96d532b4ec2050653611003\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd&k1=1710ac2bbfcd3032d0f6533850968f47&k2=d2548dacc8efcd1cd0af0373060c82dc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "VIX Español FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd&k1=1223d5105392cabf1bb9c2c1fdf6539a&k2=340b409f4b8f78a343e0363a7938df38\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "CAZE TV FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&k1=4bbcff3289d457b4dd5dbdd21221de9a&k2=c4906b9a9f8dda3c0725bddb8c497733\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SporTV BR FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd&k1=549ab7cd35a64bb6bb479ecead04d69d&k2=829799ed534d11fcadeb4b192467e050\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "CIGNAL ENGLISH",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&k1=ce7ab3022e753307997f58afe001bac4&k2=72d631a66e635c60829a0fe7705516c1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TELEMUNDO FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://chatgpt.hereisman.net/playlist/51863/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FIFA LIVE",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&k1=7d6bb9f86e133e4cb33440b493b6b672&k2=584ad285dcb9e7d42cf3e93f1cc3fe11\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TELEMUNDO ES",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd&k1=1710ac2bbfcd3032d0f6533850968f47&k2=d2548dacc8efcd1cd0af0373060c82dc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TUDN ESPANOL",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd&k1=fd86dde0ae3e14ff51c8fc8f248a50db&k2=d106ae78b0893da2e4393ece99420baa\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "RTVE SPANISH",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8pold5zo8d/out/v1/3079be34d72a4985852d299a02406a0c/28324097-db6b-4d20-b965-8f775b050595-cenc.mpd&k1=d185684e2330de5bea436daa094a5e86&k2=014f0116154f5bf0050e03a6b0a23157\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "CRAVE FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd&k1=10e2114398744f3880cc96653568da55&k2=d6d40441f9fbebea03ec64c4aea7211f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "UNiFy TV 🇮🇳",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd&k1=433ffba670963e70857859a9dff4be04&k2=51ede3a821229fe81e71282c8eff80e3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "M6 FRANCE",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee53\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "UNITE8 SPORTS HINDI 🇮🇳",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee115\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "UINTE8 SPORTS ENGLISH 🇮🇳",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "  +0000",
+                    "eventName": "FIFA World CUP Opening Ceremany, 2026",
+                    "isHot": "0",
+                    "startTime": "2026/06/11 17:00:00 +0000",
+                    "teamA": "FIFA World Cup",
+                    "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
+                    "teamB": "FIFA World Cup",
+                    "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png"
+                },
+                "id": 1264,
+                "league_logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
+                "title": "FIFA World CUP Opening Ceremany, 2026"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&k1=5466ebd70704bdeb657f0abf3c5ca4ef&k2=bdd79b72d8e48ed483aa623cc38a8a16\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FOX SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&k1=ce7ab3022e753307997f58afe001bac4&k2=72d631a66e635c60829a0fe7705516c1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TELEMUNDO FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd&k1=549ab7cd35a64bb6bb479ecead04d69d&k2=829799ed534d11fcadeb4b192467e050\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "CIGNAL ENGLISH",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&k1=e51aa21f2a0fef9aabc120dfb655b52f&k2=a12a987fe725a40b6be95cd84b15f689\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd&k1=a7d11d37a1f7611ee88d4db880171f32&k2=68f96d618b0b956b008c445896a25a79\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "D SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "CAZE TV FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://chatgpt.hereisman.net/playlist/51862/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FOX SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://chatgpt.hereisman.net/playlist/51891/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "ITV SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd&k1=fbbfd9ce4bbe4d818b16df7dfe89f05b&k2=1e96d0f88ef740e982d6f6105721c8bc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "ZEE5 BANGLA",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8L7PeMUSCn.m3u8?txSecret=a4c66b8d51235486091ed84739939f6b&txTime=6A2B8C39\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FAST SERVER 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://live.vivo200.com/live/hd-en-1-4460938.m3u8?txSecret=ed5ce752729f658ad9211f35a1064d0f&txTime=6A2B6A8D|Referer=https://player.online909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FAST SERVER 2",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://chatgpt.hereisman.net/playlist/51888/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd&k1=c4088f5f265f9de50cffd80bf89308b7&k2=2c4d2239d96d532b4ec2050653611003\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN SPORTS - AQ",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&k1=7d6bb9f86e133e4cb33440b493b6b672&k2=584ad285dcb9e7d42cf3e93f1cc3fe11\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TELEMUNDO ES FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd&k1=220d8978f3fd45b696137c5b94f7a264&k2=7bfe13500edee4f837ec03a907896306\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HIMALIYA SPORTS",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "beIN MAX HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://emilyzooije054.s3.us-east-1.amazonaws.com/btsport.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN SPORTS",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd&k1=adca25b8779e4168a0cd710f59f61ccf&k2=be5383ed3cd8079f4ffe78ad067f476a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TIPIK FR FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&k1=893bc63340876605f52886a42e0ccce5&k2=d6c46d2d691056fbd091bf1f01b21a91\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "VRT DUTCH FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd&k1=429bcf031bbf3146a67f3f583e4c4355&k2=d1b92aba5a38a518c8b8a1fd2bca4398\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "ORF GERMAN HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://362a33c2a385d7d1e52d89d18399caac6d7e6240.cdn.broadpeak.io/bcdn_token=wXicatWudpfabr0WFCdYvVzGduuaoe4-4wW0PV012zA&token_ignore_params=true&token_path=%2Fout%2Fv1%2F1f375ac45935404eb603d44841ced543%2F&expires=1781249235/out/v1/1f375ac45935404eb603d44841ced543/index.mpd&k1=19ca642b3eba4f4d81637667a04fdd9e&k2=a18d219ded2ebfa8f41db4a110324a9e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "WIN SPORT ES FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=https://cdn.obstream.pro/live/yq97gcrutx.m3u8|Referer=https://obstream.pro/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "ENGLISH SD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=http://193.47.62.53/hls/zazaza.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=http://193.47.62.47/hls/zazazaeddd.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "AZAM SPORT SD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://proxy.fusion-sports.site/proxy/v2?url=http://193.47.62.53/hls/zazazaed.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SD SERVER FR",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd&k1=fbbfd9ce4bbe4d818b16df7dfe89f05b&k2=1e96d0f88ef740e982d6f6105721c8bc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "ZEE5 BANGLA FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd&k1=43513b13f4b542e39c9265921dfc1726&k2=b0b2678bcd274c37b888a6c987d502ed\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "ZEE HINDI 🇮🇳",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/12 05:00:00 +0000",
+                    "eventName": "FIFA World Cup",
+                    "isHot": "0",
+                    "startTime": "2026/06/12 02:00:00 +0000",
+                    "teamA": "South Korea",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
+                    "teamB": "Czechia",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4714/image"
+                },
+                "id": 886,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "title": "FIFA World Cup"
             }
         ]
     },
     "sync_history": {
         "sports_live": {
+            "FIFAWorldCup_FIFAWorldCup": [
+                "TSN SPORTS FHD",
+                "VIX Español FHD",
+                "CAZE TV FHD",
+                "SporTV BR FHD",
+                "CIGNAL ENGLISH",
+                "TELEMUNDO FHD",
+                "FIFA LIVE",
+                "TELEMUNDO ES",
+                "TUDN ESPANOL",
+                "RTVE SPANISH",
+                "CRAVE FHD",
+                "UNiFy TV 🇮🇳",
+                "M6 FRANCE",
+                "UNITE8 SPORTS HINDI 🇮🇳",
+                "UINTE8 SPORTS ENGLISH 🇮🇳"
+            ],
             "Formula1_Formula1": [
                 "Sky F1 DE",
                 "SKY SPORTS DE"
+            ],
+            "SouthKorea_Czechia": [
+                "FOX SPORTS FHD",
+                "TELEMUNDO FHD",
+                "CIGNAL ENGLISH",
+                "TSN SPORTS FHD",
+                "D SPORTS FHD",
+                "CAZE TV FHD",
+                "FOX SPORTS HD",
+                "ITV SPORTS HD",
+                "ZEE5 BANGLA",
+                "FAST SERVER 1",
+                "FAST SERVER 2",
+                "TSN SPORTS HD",
+                "TSN SPORTS - AQ",
+                "TELEMUNDO ES FHD",
+                "HIMALIYA SPORTS",
+                "beIN MAX HD",
+                "TSN SPORTS",
+                "TIPIK FR FHD",
+                "VRT DUTCH FHD",
+                "ORF GERMAN HD",
+                "WIN SPORT ES FHD",
+                "ENGLISH SD SERVER",
+                "SD SERVER",
+                "AZAM SPORT SD",
+                "SD SERVER FR",
+                "ZEE5 BANGLA FHD",
+                "ZEE HINDI 🇮🇳"
+            ],
+            "SuperBike_SuperBike": [
+                "TNT SPORTS 4"
+            ],
+            "TNAiMPACT_TNAiMPACT": [
+                "HD SERVER",
+                "SD SERVER"
+            ],
+            "WI_SL": [
+                "WILLOW FHD AD Free",
+                "TNT SPORTS FHD",
+                "WILLOW FHD ALT",
+                "FANCODE FHD",
+                "FANCODE SD",
+                "FANCODE IND",
+                "FANCODE BAN"
+            ],
+            "WRC_WRC": [
+                "RALLY TV",
+                "TNT SPORTS 3"
+            ],
+            "WWENXT_WWENXT": [
+                "HD SERVER",
+                "BACKUP SD",
+                "SD SERVER",
+                "HD WWE"
             ]
         }
     }
