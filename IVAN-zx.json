@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "03:14:27 PM 12-06-2026",
+    "Last update time": "03:25:37 PM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -49,6 +49,12 @@
                 {
                     "title": "SKY SPORTS HD",
                     "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SKY SPORTS F1 UHD",
+                    "link": "http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8",
                     "type": "0",
                     "api": ""
                 },
@@ -1274,6 +1280,12 @@
                     "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
                     "type": "1",
                     "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed"
+                },
+                {
+                    "title": "RTVE SPANISH",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+                    "type": "1",
+                    "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa"
                 },
                 {
                     "title": "beIN MAX FHD",
