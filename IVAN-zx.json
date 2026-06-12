@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "08:31:00 AM 12-06-2026",
+    "Last update time": "08:41:24 AM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -465,51 +465,6 @@
             ]
         },
         {
-            "id": 50027,
-            "title": "Carolina Hurricanes",
-            "cat": "NHL",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Hurricanes",
-                "teamB": "Golden Knights",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-                "eventName": "Carolina Hurricanes vs Golden Knights",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/12 00:00:00 +0000",
-                "endTime": "2026/06/12 03:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PREMIER SPORTS",
-                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-                    "type": "1",
-                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-                },
-                {
-                    "title": "IVAN-z NHL",
-                    "link": "https://chatgpt.hereisman.net/playlist/51886/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
             "id": 50054,
             "title": "CFL",
             "cat": "CFL",
@@ -533,39 +488,6 @@
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
                     "type": "1",
                     "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
-                }
-            ]
-        },
-        {
-            "id": 50057,
-            "title": "Dallas Wings vs Mercury",
-            "cat": "WNBA",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Wings",
-                "teamB": "Mercury",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
-                "eventName": "Dallas Wings vs Phoenix Mercury",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/12 01:00:00 +0000",
-                "endTime": "2026/06/12 03:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z WNBA",
-                    "link": "https://chatgpt.hereisman.net/playlist/51889/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
                 }
             ]
         },
