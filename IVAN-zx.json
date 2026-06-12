@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:52:41 AM 12-06-2026",
+    "Last update time": "08:03:19 AM 12-06-2026",
     "events": [
         {
             "id": 50002,
@@ -510,33 +510,6 @@
             ]
         },
         {
-            "id": 50034,
-            "title": "Pittsburgh Pirates",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Pirates",
-                "teamB": "Dodgers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-                "eventName": "Pittsburgh Pirates vs Dodgers",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/11 22:40:00 +0000",
-                "endTime": "2026/06/12 02:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
             "id": 50054,
             "title": "CFL",
             "cat": "CFL",
@@ -554,7 +527,14 @@
                 "startTime": "2026/06/12 00:30:00 +0000",
                 "endTime": "2026/06/12 03:30:00 +0000"
             },
-            "channels_data": []
+            "channels_data": [
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+                    "type": "1",
+                    "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
+                }
+            ]
         },
         {
             "id": 50057,
@@ -808,6 +788,12 @@
                     "link": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
                     "type": "1",
                     "api": "220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306"
+                },
+                {
+                    "title": "FAST SERVER EN",
+                    "link": "https://storage.googleapis.com/hynvessrworov1/mux_video_ts1/index-1.m3u8",
+                    "type": "0",
+                    "api": ""
                 },
                 {
                     "title": "FAST SERVER 1",
