@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "03:25:50 PM 13-06-2026",
+    "Last update time": "03:41:30 PM 13-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1624,10 +1624,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Willow HD",
+                    "title": "WILLOW FHD",
+                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/6qsuaj4hls/out/v1/eed7d72a62da4afd9f9da8744fdca16a/cenc.mpd",
+                    "type": "1",
+                    "api": "d7e1c8f880d1d51abd61375e53cb13e3:812c5b33c2575c4067c304d7023acfdf"
+                },
+                {
+                    "title": "SKY CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "WILLOW HD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "type": "1",
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://cdn9859.shop/skynz4.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SKY CRICKET HD",
+                    "link": "https://cdn9859.shop/skycricket.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SKY MAIN EVENT",
+                    "link": "https://cdn9859.shop/skymainevent.m3u8",
+                    "type": "0",
+                    "api": ""
                 }
             ]
         },
