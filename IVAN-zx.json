@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "04:25:36 AM 14-06-2026",
+    "Last update time": "04:31:17 AM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -703,12 +703,6 @@
             },
             "channels_data": [
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd",
-                    "type": "1",
-                    "api": "e6b07ce99d782b87ecb6d59271803cfa:484b67b5c7a9e216048d1f96d463d35b"
-                },
-                {
                     "title": "TNT Sports FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
                     "type": "1",
@@ -721,28 +715,16 @@
                     "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
                 },
                 {
-                    "title": "WILLOW [ALT]",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd",
                     "type": "1",
                     "api": "e6b07ce99d782b87ecb6d59271803cfa:484b67b5c7a9e216048d1f96d463d35b"
                 },
                 {
-                    "title": "SonyLiv [ENG]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi1106/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781194891~acl=/*~id=83726301575760378160297456854328~hmac=b542b9609108722cac050a431f63e1e71bfd754d9d73e95205d6f9604de4bebb|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SS SPORTS HD",
-                    "link": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SonyLiv [HIN]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi1106/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781194891~acl=/*~id=83726301575760378160297456854328~hmac=b542b9609108722cac050a431f63e1e71bfd754d9d73e95205d6f9604de4bebb|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
-                    "type": "0",
-                    "api": ""
+                    "title": "WILLOW [ALT]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd",
+                    "type": "1",
+                    "api": "e6b07ce99d782b87ecb6d59271803cfa:484b67b5c7a9e216048d1f96d463d35b"
                 }
             ]
         },
@@ -1404,6 +1386,12 @@
                 {
                     "title": "SOMOY TV",
                     "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8",
                     "type": "0",
                     "api": ""
                 }
