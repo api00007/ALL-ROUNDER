@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "06:41:25 AM 13-06-2026",
+    "Last update time": "06:52:31 AM 13-06-2026",
     "events": [
         {
             "id": 50002,
@@ -639,75 +639,6 @@
             ]
         },
         {
-            "id": 50023,
-            "title": "WC Opening Ceremony",
-            "cat": "FIFA World Cup",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "12",
-            "eventInfo": {
-                "teamA": "FIFA World Cup",
-                "teamB": "FIFA World Cup",
-                "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
-                "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
-                "eventName": "FIFA World CUP Opening Ceremony",
-                "eventBanner": "https://iili.io/CCXcn8F.png",
-                "isHot": "0",
-                "startTime": "2026/06/12 23:30:00 +0000",
-                "endTime": "2026/06/13 00:45:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TSN Sports 4 AQ",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-                    "type": "1",
-                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003"
-                },
-                {
-                    "title": "CIGNAL ENGLISH",
-                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-                    "type": "1",
-                    "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050"
-                },
-                {
-                    "title": "TELEMUNDO FHD",
-                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-                    "type": "1",
-                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-                },
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://chatgpt.hereisman.net/playlist/51863/load-playlist?|Referer=https://gooz.aapmains.net/",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "TELEMUNDO ES",
-                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-                    "type": "1",
-                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
-                },
-                {
-                    "title": "TUDN ESPANOL",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
-                    "type": "1",
-                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc"
-                },
-                {
-                    "title": "RTVE SPANISH",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-                    "type": "1",
-                    "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa"
-                },
-                {
-                    "title": "M6 FRANCE",
-                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-                    "type": "1",
-                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
-                }
-            ]
-        },
-        {
             "id": 50032,
             "title": "Houston Astros",
             "cat": "MLB",
@@ -781,6 +712,12 @@
             },
             "channels_data": [
                 {
+                    "title": "IVAN-z MLB",
+                    "link": "https://chatgpt.hereisman.net/playlist/51933/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "type": "0",
+                    "api": ""
+                },
+                {
                     "title": "IVAN-z Live",
                     "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
@@ -807,6 +744,12 @@
                 "endTime": "2026/06/13 05:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "IVAN-z MLB",
+                    "link": "https://chatgpt.hereisman.net/playlist/51937/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "type": "0",
+                    "api": ""
+                },
                 {
                     "title": "IVAN-z Live",
                     "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1471,6 +1414,12 @@
                     "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
                 },
                 {
+                    "title": "beIN MAX FHD",
+                    "link": "https://karim-medialive-906655021013-apse2.s3.ap-southeast-2.amazonaws.com/live/ch1/ch1.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
                     "title": "FAST SERVER 1",
                     "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSUYSUPxiz2.m3u8?txSecret=48f1b9aea0f005137e81bee7a0ac4e71&txTime=6A2CD279",
                     "type": "0",
@@ -1549,6 +1498,12 @@
                     "api": ""
                 },
                 {
+                    "title": "FAST SERVER 2",
+                    "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459827.m3u8?txSecret=a7c1b0d8f2a6b6f9f52473fae0a3081f&txTime=6A2DFC21",
+                    "type": "0",
+                    "api": ""
+                },
+                {
                     "title": "TSN SPORTS 3",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
                     "type": "1",
@@ -1561,10 +1516,16 @@
                     "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4"
                 },
                 {
-                    "title": "FAST SERVER 2",
-                    "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459827.m3u8?txSecret=a7c1b0d8f2a6b6f9f52473fae0a3081f&txTime=6A2DFC21",
-                    "type": "0",
-                    "api": ""
+                    "title": "UNiFy TV [IND]",
+                    "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+                    "type": "1",
+                    "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f"
+                },
+                {
+                    "title": "CANAL SPORTS - AQ",
+                    "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+                    "type": "1",
+                    "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711"
                 },
                 {
                     "title": "FOX SPORTS SD",
