@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "03:52:38 AM 14-06-2026",
+    "Last update time": "04:03:32 AM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1228,6 +1228,12 @@
             },
             "channels_data": [
                 {
+                    "title": "FUSSBALL TV 4k",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+                    "type": "1",
+                    "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
+                },
+                {
                     "title": "FOX ONE HD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
                     "type": "1",
@@ -1334,12 +1340,6 @@
                     "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
                     "type": "1",
                     "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813"
-                },
-                {
-                    "title": "FUSSBALL TV 4k",
-                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-                    "type": "1",
-                    "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
                 },
                 {
                     "title": "ZEE5 Bangla",
