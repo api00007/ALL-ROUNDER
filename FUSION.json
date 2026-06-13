@@ -5480,9 +5480,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "08:10:39 AM 13-06-2026",
+        "Last update time": "08:31:07 AM 13-06-2026",
         "Live": "00",
-        "Upcoming": "50",
+        "Upcoming": "53",
         "events": [
             {
                 "cat": "Cricket",
@@ -7804,6 +7804,81 @@
                 "id": 1286,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
                 "title": "ICC CWC League 2"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/13 22:00:00 +0000",
+                    "eventName": "ICC Women World Twenty20",
+                    "isHot": "0",
+                    "startTime": "2026/06/13 17:30:00 +0000",
+                    "teamA": "WI-W",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+                    "teamB": "NZ-W",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image"
+                },
+                "id": 1292,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+                "title": "ICC Women World Twenty20"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/14 14:00:00 +0000",
+                    "eventName": "ICC Women World Twenty20",
+                    "isHot": "0",
+                    "startTime": "2026/06/14 09:30:00 +0000",
+                    "teamA": "BAN-W",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+                    "teamB": "NED-W",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/417753/image"
+                },
+                "id": 1293,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+                "title": "ICC Women World Twenty20"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/13 18:00:00 +0000",
+                    "eventName": "ICC Women World Twenty20",
+                    "isHot": "0",
+                    "startTime": "2026/06/13 13:30:00 +0000",
+                    "teamA": "AUS-W",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+                    "teamB": "SA-W",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image"
+                },
+                "id": 1294,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+                "title": "ICC Women World Twenty20"
             }
         ]
     }
