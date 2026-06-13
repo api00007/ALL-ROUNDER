@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "09:14:25 AM 13-06-2026",
+    "Last update time": "09:25:52 AM 13-06-2026",
     "events": [
         {
             "id": 50002,
@@ -333,7 +333,7 @@
                 "eventBanner": "null",
                 "isHot": "0",
                 "startTime": "2026/06/13 08:00:00 +0000",
-                "endTime": "2026/06/13 16:20:00 +0000"
+                "endTime": "2026/06/13 16:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -1562,6 +1562,60 @@
                     "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
                     "type": "1",
                     "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
+                },
+                {
+                    "title": "ZDF GERMAN HD",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "type": "1",
+                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813"
+                },
+                {
+                    "title": "TSN SPORTS 1",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                    "type": "1",
+                    "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689"
+                },
+                {
+                    "title": "ZEE5 Bangla",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+                    "type": "1",
+                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc"
+                },
+                {
+                    "title": "ZEE5+ HINDI",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+                    "type": "1",
+                    "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed"
+                },
+                {
+                    "title": "beIN MAX FHD",
+                    "link": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "TIPIK FR FHD",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "type": "1",
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+                },
+                {
+                    "title": "Sporza DUTCH FHD",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "type": "1",
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
+                },
+                {
+                    "title": "M6 FRANCE FHD",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "type": "1",
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
+                },
+                {
+                    "title": "VRT DUTCH FHD",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "type": "1",
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
                 }
             ]
         },
@@ -1724,6 +1778,60 @@
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "type": "1",
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                }
+            ]
+        },
+        {
+            "id": 50075,
+            "title": "West Indies W vs New Zealand W",
+            "cat": "Cricket",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "WI-W",
+                "teamB": "NZ-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+                "eventName": "West Indies W vs New Zealand W",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/13 17:30:00 +0000",
+                "endTime": "2026/06/13 21:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Willow HD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "type": "1",
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                }
+            ]
+        },
+        {
+            "id": 50076,
+            "title": "Melbourne vs West Coast Eagles",
+            "cat": "AFL",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "North Melbourne",
+                "teamB": "West Coast",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4454/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4449/image",
+                "eventName": "North Melbourne vs West Coast Eagles",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/13 06:15:00 +0000",
+                "endTime": "2026/06/13 09:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "type": "1",
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
                 }
             ]
         }
