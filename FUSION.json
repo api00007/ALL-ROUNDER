@@ -5480,7 +5480,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "05:40:53 PM 13-06-2026",
+        "Last update time": "06:01:09 PM 13-06-2026",
         "Live": "00",
         "Upcoming": "57",
         "events": [
@@ -7705,6 +7705,61 @@
                 "id": 1319,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
                 "title": "WNBA"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4ca68ef5b5652db6247\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781366871~acl=/*~id=61585178293964262217251961379742~hmac=7a7388e5131177c958d3a11b0ec2b7e9b7c4ebe6c9021dd3ece45f8fe2f3f365\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [ENG]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781366871~acl=/*~id=61585178293964262217251961379742~hmac=7a7388e5131177c958d3a11b0ec2b7e9b7c4ebe6c9021dd3ece45f8fe2f3f365\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [HIN]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781366871~acl=/*~id=61585178293964262217251961379742~hmac=7a7388e5131177c958d3a11b0ec2b7e9b7c4ebe6c9021dd3ece45f8fe2f3f365\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [TAM]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781366871~acl=/*~id=61585178293964262217251961379742~hmac=7a7388e5131177c958d3a11b0ec2b7e9b7c4ebe6c9021dd3ece45f8fe2f3f365\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [TEL]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781366871~acl=/*~id=61585178293964262217251961379742~hmac=7a7388e5131177c958d3a11b0ec2b7e9b7c4ebe6c9021dd3ece45f8fe2f3f365\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [KAN]",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/15 13:00:00 +0000",
+                    "eventName": "Talent TV Cup 2026",
+                    "isHot": "0",
+                    "startTime": "2026/06/15 04:30:00 +0000",
+                    "teamA": "SL-A",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+                    "teamB": "IND-A",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image"
+                },
+                "id": 1140,
+                "league_logo": "https://i.ibb.co/pvt9ZqMj/f4ca1fcbae03889e77b831f672f47e02-cricket-wicket-semi-flat.png",
+                "title": "Talent TV Cup 2026"
             }
         ]
     }
