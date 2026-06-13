@@ -4276,6 +4276,20 @@
                             }
                         ],
                         "visible": true
+                    },
+                    {
+                        "is_playlist": false,
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2fQFVJkzyTcSH3lJAEPgprMcV-O3IrcGqG_s5_YVcoXsdkeUPDXywtg8MKICMwKiPSOWuLwubUIBaJOlx91r_9bAmMihMHd5syqL7fb0PUCkUk4BUHXJAUoQfwFMS_iO1TylaSfoVWuPYWdazGFFQ7n-0nnKflz-wBiyccRK7dhdNwDraZfWTt1rnRY/s1600/1000408534.jpg",
+                        "name": "SONY LIVE",
+                        "source": "ivan",
+                        "stream_links": [
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://live.balajibroadband.com:3500/live/892.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Link 1",
+                                "tokenApi": ""
+                            }
+                        ],
+                        "visible": true
                     }
                 ],
                 "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2fQFVJkzyTcSH3lJAEPgprMcV-O3IrcGqG_s5_YVcoXsdkeUPDXywtg8MKICMwKiPSOWuLwubUIBaJOlx91r_9bAmMihMHd5syqL7fb0PUCkUk4BUHXJAUoQfwFMS_iO1TylaSfoVWuPYWdazGFFQ7n-0nnKflz-wBiyccRK7dhdNwDraZfWTt1rnRY/s1600/1000408534.jpg",
@@ -5480,7 +5494,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "09:25:41 PM 13-06-2026",
+        "Last update time": "09:35:45 PM 13-06-2026",
         "Live": "00",
         "Upcoming": "57",
         "events": [
