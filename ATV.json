@@ -5160,10 +5160,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "08:55:38 AM 13-06-2026",
+        "Last update time": "09:10:46 AM 13-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "53",
+        "Upcoming": "54",
         "events": [
             {
                 "cat": "Motorsport",
@@ -7521,6 +7521,30 @@
                 "id": 1294,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
                 "title": "ICC Women World Twenty20"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/13 19:00:00 +0000",
+                    "eventName": "EUT20 Beljium 2026",
+                    "isHot": "0",
+                    "startTime": "2026/06/13 10:30:00 +0000",
+                    "teamA": "EUT20",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10",
+                    "teamB": "EUT20",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10"
+                },
+                "id": 1295,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10",
+                "title": "EUT20 Beljium 2026"
             }
         ]
     }
