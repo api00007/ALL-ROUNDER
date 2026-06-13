@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "09:03:25 AM 13-06-2026",
+    "Last update time": "09:14:25 AM 13-06-2026",
     "events": [
         {
             "id": 50002,
@@ -22,12 +22,6 @@
                 "endTime": "2026/06/13 15:30:00 +0000"
             },
             "channels_data": [
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-                    "type": "1",
-                    "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b"
-                },
                 {
                     "title": "FANCODE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
@@ -51,6 +45,12 @@
                     "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
+                },
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+                    "type": "1",
+                    "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
                 },
                 {
                     "title": "SKY SPORTS F1 UHD",
@@ -633,60 +633,6 @@
                 {
                     "title": "NBA LIVE [ALT]",
                     "link": "http://193.47.62.52/hls/LLLLX.m3u8|Referer=http://www.fawanews.sc/",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50032,
-            "title": "Houston Astros",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Royals",
-                "teamB": "Astros",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-                "eventName": "Royals vs Houston Astros",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/13 00:10:00 +0000",
-                "endTime": "2026/06/13 03:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z LIVE",
-                    "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50033,
-            "title": "Minnesota Twins",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Twins",
-                "teamB": "Cardinals",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-                "eventName": "Minnesota Twins vs Cardinals",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/13 00:10:00 +0000",
-                "endTime": "2026/06/13 03:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
@@ -1570,10 +1516,52 @@
             },
             "channels_data": [
                 {
-                    "title": "FIFA",
-                    "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
-                    "type": "0",
-                    "api": ""
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "type": "1",
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003"
+                },
+                {
+                    "title": "FOX ONE HD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+                    "type": "1",
+                    "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824"
+                },
+                {
+                    "title": "CIGNAL ENGLISH",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+                    "type": "1",
+                    "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050"
+                },
+                {
+                    "title": "TELEMUNDO FHD",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "type": "1",
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+                },
+                {
+                    "title": "SporTV BR FHD",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "type": "1",
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733"
+                },
+                {
+                    "title": "CAZE TV FHD",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+                    "type": "1",
+                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
+                },
+                {
+                    "title": "D Sports FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                    "type": "1",
+                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79"
+                },
+                {
+                    "title": "TELEMUNDO SPANISH",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "type": "1",
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
                 }
             ]
         },
@@ -1709,12 +1697,6 @@
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
                     "type": "1",
                     "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
-                },
-                {
-                    "title": "FOX SPORTS",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                    "type": "1",
-                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
                 }
             ]
         },
@@ -1742,60 +1724,6 @@
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "type": "1",
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-                }
-            ]
-        },
-        {
-            "id": 50075,
-            "title": "Nationals vs Mariners",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Nationals",
-                "teamB": "Mariners",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-                "eventName": "Washington Nationals vs Seattle Mariners",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/12 22:45:00 +0000",
-                "endTime": "2026/06/13 01:45:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50080,
-            "title": "Mets vs Atlanta Braves",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Mets",
-                "teamB": "Braves",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-                "eventName": "New York Mets vs Atlanta Braves",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/12 23:15:00 +0000",
-                "endTime": "2026/06/13 02:15:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
                 }
             ]
         }
