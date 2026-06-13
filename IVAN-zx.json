@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "01:31:05 PM 13-06-2026",
+    "Last update time": "01:41:22 PM 13-06-2026",
     "events": [
         {
             "id": 50002,
@@ -341,6 +341,12 @@
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd",
                     "type": "1",
                     "api": "7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88"
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
+                    "type": "1",
+                    "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
                 },
                 {
                     "title": "WILLOW FHD [ALT]",
@@ -1573,21 +1579,21 @@
         },
         {
             "id": 50073,
-            "title": "Melbourne vs Essendon",
+            "title": "Adelaide Power vs Sydney Swans",
             "cat": "AFL",
             "image": "o",
             "publish": "1",
             "adsLimit": "0",
             "eventInfo": {
-                "teamA": "Melbourne",
-                "teamB": "Essendon",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4456/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4450/image",
-                "eventName": "Melbourne Demons vs Essendon Bombers",
+                "teamA": "Port Adelaide",
+                "teamB": "Sydney",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4457/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4447/image",
+                "eventName": "Adelaide Power vs Sydney Swans",
                 "eventBanner": "",
                 "isHot": "0",
-                "startTime": "2026/06/13 03:15:00 +0000",
-                "endTime": "2026/06/13 06:15:00 +0000"
+                "startTime": "2026/06/13 09:35:00 +0000",
+                "endTime": "2026/06/13 12:35:00 +0000"
             },
             "channels_data": [
                 {
