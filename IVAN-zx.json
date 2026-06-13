@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "12:03:30 AM 14-06-2026",
+    "Last update time": "12:14:39 AM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1222,7 +1222,7 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
                 "eventName": "Qatar vs Switzerland",
                 "eventBanner": "",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/13 19:00:00 +0000",
                 "endTime": "2026/06/13 21:10:00 +0000"
             },
@@ -1234,16 +1234,34 @@
                     "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824"
                 },
                 {
-                    "title": "TSN SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/51950/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
+                    "title": "FOX SPORTS 4k",
+                    "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                    "type": "1",
+                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
                 },
                 {
                     "title": "CIGNAL ENGLISH",
                     "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
                     "type": "1",
                     "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050"
+                },
+                {
+                    "title": "FUSBALL TV FHD",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+                    "type": "1",
+                    "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
+                },
+                {
+                    "title": "TSN SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/51950/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "FUSSBALL TV 4k",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+                    "type": "1",
+                    "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
                 },
                 {
                     "title": "TELEMUNDO FHD",
