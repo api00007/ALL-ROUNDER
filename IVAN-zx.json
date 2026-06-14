@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "04:52:32 PM 14-06-2026",
+    "Last update time": "05:03:33 PM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1621,9 +1621,9 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/55827/image",
                 "eventName": "Germany vs Curaçao",
                 "eventBanner": "",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/14 17:00:00 +0000",
-                "endTime": "2026/06/14 19:10:00 +0000"
+                "endTime": "2026/06/14 19:15:00 +0000"
             },
             "channels_data": [
                 {
@@ -1703,6 +1703,12 @@
                     "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
                     "type": "1",
                     "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed"
+                },
+                {
+                    "title": "M6 FRANCE FHD",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "type": "1",
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
                 },
                 {
                     "title": "Sporza DUTCH FHD",
