@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "10:03:25 AM 14-06-2026",
+    "Last update time": "10:14:27 AM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -244,11 +244,17 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
                 "eventName": "Bangladesh vs Australia",
                 "eventBanner": "",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/14 05:00:00 +0000",
                 "endTime": "2026/06/14 13:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd",
+                    "type": "1",
+                    "api": "1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b"
+                },
                 {
                     "title": "TNT Sports FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
@@ -256,16 +262,10 @@
                     "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
                 },
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gilgmkgjpm/out/v1/f3abf1b2f3fb497ba7207eb19d8b692b/cenc.mpd",
-                    "type": "1",
-                    "api": "6533caaa83becafb78d9d04589e03d3e:8545a6ba4560da78f2f34f7393913fb9"
-                },
-                {
                     "title": "WILLOW FHD [ALT]",
-                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd",
+                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd",
                     "type": "1",
-                    "api": "a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0"
+                    "api": "1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b"
                 },
                 {
                     "title": "FANCODE FHD",
@@ -275,7 +275,7 @@
                 },
                 {
                     "title": "TNT SPORTS HD",
-                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
+                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
                     "type": "0",
                     "api": ""
                 },
@@ -629,51 +629,6 @@
                     "link": "http://193.47.62.43/hls/JJJJF.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50060,
-            "title": "West Indies vs Sri Lanka",
-            "cat": "Cricket",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "WI",
-                "teamB": "SL",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-                "eventName": "West Indies vs Sri Lanka",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/14 00:30:00 +0000",
-                "endTime": "2026/06/14 04:15:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rwlkwsuzy2/out/v1/e8065dc98ade40eb8efceaf93102c265/cenc.mpd",
-                    "type": "1",
-                    "api": "a9dae75b6cb99349a1556075b84a47cf:4e352802192626f915e9c69e635ce2ae"
-                },
-                {
-                    "title": "TNT Sports FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-                    "type": "1",
-                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
-                },
-                {
-                    "title": "FANCODE FHD",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "type": "1",
-                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
-                },
-                {
-                    "title": "WILLOW [ALT]",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rwlkwsuzy2/out/v1/e8065dc98ade40eb8efceaf93102c265/cenc.mpd",
-                    "type": "1",
-                    "api": "a9dae75b6cb99349a1556075b84a47cf:4e352802192626f915e9c69e635ce2ae"
                 }
             ]
         },
