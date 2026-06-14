@@ -5850,7 +5850,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "10:20:56 PM 14-06-2026",
+        "Last update time": "10:25:50 PM 14-06-2026",
         "Live": "00",
         "Upcoming": "50",
         "events": [
@@ -6353,6 +6353,21 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd&k1=d185684e2330de5bea436daa094a5e86&k2=014f0116154f5bf0050e03a6b0a23157\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "CTV SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://ataide0.sandhost.dpdns.org/tsn.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN (iOS)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://daffodil.thelistener.pk/fox.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FOX (iOS)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/111\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN (iOS) Backup",
                         "tokenApi": ""
                     },
                     {
