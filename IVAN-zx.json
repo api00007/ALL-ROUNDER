@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "05:52:32 AM 14-06-2026",
+    "Last update time": "06:03:28 AM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -496,11 +496,17 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
                 "eventName": "New York Knicks vs San Antonio Spurs",
                 "eventBanner": "null",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/14 00:30:00 +0000",
                 "endTime": "2026/06/14 03:45:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "NBA FINALS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dvi20dldek/out/v1/fedc067b45174f419d08e03ed70ebfc3/cenc.mpd",
+                    "type": "1",
+                    "api": "230ef7c88f9593b724d480ad69f4364e:53abde9522ef55d393b80bcb6c3a8899"
+                },
                 {
                     "title": "ESPN SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/51960/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1465,7 +1471,7 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/4695/image",
                 "eventName": "Haiti vs Scotland",
                 "eventBanner": "",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/14 01:00:00 +0000",
                 "endTime": "2026/06/14 03:10:00 +0000"
             },
@@ -1487,6 +1493,12 @@
                     "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
                     "type": "1",
                     "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050"
+                },
+                {
+                    "title": "CTV SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+                    "type": "1",
+                    "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157"
                 },
                 {
                     "title": "FUSSBALL TV 4k",
