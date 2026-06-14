@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "04:14:33 AM 15-06-2026",
+    "Last update time": "04:41:26 AM 15-06-2026",
     "events": [
         {
             "id": 50002,
@@ -465,33 +465,6 @@
             ]
         },
         {
-            "id": 50033,
-            "title": "Colorado Rockies",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Athletics",
-                "teamB": "Rockies",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-                "eventName": "Athletics vs Colorado Rockies",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/14 19:05:00 +0000",
-                "endTime": "2026/06/14 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                }
-            ]
-        },
-        {
             "id": 50052,
             "title": "Texas Rangers",
             "cat": "MLB",
@@ -531,29 +504,47 @@
             ]
         },
         {
-            "id": 50053,
-            "title": "Tampa Bay Rays",
-            "cat": "MLB",
+            "id": 50060,
+            "title": "West Indies vs Sri Lanka",
+            "cat": "Cricket",
             "image": "o",
             "publish": "1",
             "adsLimit": "0",
             "eventInfo": {
-                "teamA": "Angels",
-                "teamB": "Rays",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-                "eventName": "Angels vs Tampa Bay Rays",
+                "teamA": "WI",
+                "teamB": "SL",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+                "eventName": "West Indies vs Sri Lanka",
                 "eventBanner": "",
                 "isHot": "0",
-                "startTime": "2026/06/14 20:07:00 +0000",
-                "endTime": "2026/06/14 23:07:00 +0000"
+                "startTime": "2026/06/15 00:30:00 +0000",
+                "endTime": "2026/06/15 04:15:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "IVAN-z Live",
-                    "link": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+                    "type": "1",
+                    "api": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844"
+                },
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rwlkwsuzy2/out/v1/e8065dc98ade40eb8efceaf93102c265/cenc.mpd",
+                    "type": "1",
+                    "api": "a9dae75b6cb99349a1556075b84a47cf:4e352802192626f915e9c69e635ce2ae"
+                },
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "type": "1",
+                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
+                },
+                {
+                    "title": "WILLOW [ALT]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rwlkwsuzy2/out/v1/e8065dc98ade40eb8efceaf93102c265/cenc.mpd",
+                    "type": "1",
+                    "api": "a9dae75b6cb99349a1556075b84a47cf:4e352802192626f915e9c69e635ce2ae"
                 }
             ]
         },
@@ -571,14 +562,14 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
                 "eventName": "Côte d'Ivoire vs Ecuador",
                 "eventBanner": "",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/14 23:00:00 +0000",
                 "endTime": "2026/06/15 01:30:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "FOX SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+                    "link": "https://otte-tim.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozila",
                     "type": "1",
                     "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
                 },
@@ -587,6 +578,12 @@
                     "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
                     "type": "1",
                     "api": "7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76"
+                },
+                {
+                    "title": "FOX SPORTS",
+                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/laxpjik8el/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd|user-agent=Mozila",
+                    "type": "1",
+                    "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b"
                 },
                 {
                     "title": "CIGNAL ENGLISH",
@@ -644,9 +641,21 @@
                 },
                 {
                     "title": "FAST SERVER",
-                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSHZ37zq9DY.m3u8?txSecret=085a45c9d6551d87c61726a2eb83ec6e&txTime=6A2B2609",
+                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8Rf9mH87pr.m3u8?txSecret=41eefdcb7169d7a82593a798715d4cb1&txTime=6A2F5A49",
                     "type": "0",
                     "api": ""
+                },
+                {
+                    "title": "beIN MAX FHD",
+                    "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/NEEmokyzKJYdOlyk8eBRn0DMuzra9YMc6yxMJJIPnQ8fw2xQZGIhzIAXzJHiuNLwXEpSG7A-WaSg8wgtTbEgUA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "TELEMUNDO SPANISH",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "type": "1",
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
                 },
                 {
                     "title": "Sporza DUTCH FHD",
@@ -716,19 +725,19 @@
                 },
                 {
                     "title": "SD SERVER [ENG]",
-                    "link": "http://193.47.62.43/hls/zazaza.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.48/hls/XTATATADDDD.m3u8|referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 },
                 {
                     "title": "SD SERVER [ES]",
-                    "link": "http://193.47.62.49/hls/zazazaedd.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.52/hls/XTATATAD.m3u8|referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 },
                 {
                     "title": "SD SERVER [SWAHLI]",
-                    "link": "http://193.47.62.47/hls/zazazaeddd.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.48/hls/XTATATADDD.m3u8|referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 }
