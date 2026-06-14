@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "12:41:35 AM 15-06-2026",
+    "Last update time": "12:52:36 AM 15-06-2026",
     "events": [
         {
             "id": 50002,
@@ -2251,7 +2251,7 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/55827/image",
                 "eventName": "Germany vs Curaçao",
                 "eventBanner": "",
-                "isHot": "1",
+                "isHot": "0",
                 "startTime": "2026/06/14 17:00:00 +0000",
                 "endTime": "2026/06/14 19:15:00 +0000"
             },
@@ -2512,6 +2512,12 @@
                     "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
                 },
                 {
+                    "title": "FUSSBALL TV FHD",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+                    "type": "1",
+                    "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
+                },
+                {
                     "title": "D Sports FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
                     "type": "1",
@@ -2528,6 +2534,12 @@
                     "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
                     "type": "1",
                     "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
+                },
+                {
+                    "title": "VIX SPANISH FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+                    "type": "1",
+                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc"
                 },
                 {
                     "title": "ORF GERMAN HD",
