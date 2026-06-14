@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "07:14:29 AM 14-06-2026",
+    "Last update time": "07:25:35 AM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -625,6 +625,12 @@
             },
             "channels_data": [
                 {
+                    "title": "IVAN-z MLB",
+                    "link": "https://chatgpt.hereisman.net/playlist/51999/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "type": "0",
+                    "api": ""
+                },
+                {
                     "title": "IVAN-z Live",
                     "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
@@ -652,6 +658,18 @@
             },
             "channels_data": [
                 {
+                    "title": "NBC SPORTS FHD",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(csnbay)/master.mpd",
+                    "type": "1",
+                    "api": "20b593e9bee43324a8b1d830eaa82d78:a87dba51bd2dd7f7879730ac2bd4005b"
+                },
+                {
+                    "title": "IVAN-z MLB",
+                    "link": "https://chatgpt.hereisman.net/playlist/52001/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "type": "0",
+                    "api": ""
+                },
+                {
                     "title": "IVAN-z Live",
                     "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
@@ -678,6 +696,12 @@
                 "endTime": "2026/06/14 05:07:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "IVAN-z MLB",
+                    "link": "https://chatgpt.hereisman.net/playlist/52004/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "type": "0",
+                    "api": ""
+                },
                 {
                     "title": "IVAN-z Live",
                     "link": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2075,6 +2099,33 @@
                     "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
                     "type": "0",
                     "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50073,
+            "title": "Richmond Tigers vs Brisbane Lions",
+            "cat": "AFL",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Richmond",
+                "teamB": "Brisbane",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4451/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
+                "eventName": "Richmond Tigers vs Brisbane Lions",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/14 03:10:00 +0000",
+                "endTime": "2026/06/14 06:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TNT Sports FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
+                    "type": "1",
+                    "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
                 }
             ]
         },
