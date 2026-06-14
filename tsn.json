@@ -1,4 +1,96 @@
 {
+    "Prediction": {
+        "-Ov6F-a7qFHVV9Racexj": {
+            "analysis": {
+                "bulletPoints": [
+                    "PENALTY FOR GERMANY"
+                ],
+                "description": "",
+                "metrics": [
+                    {
+                        "label": "Goalkeeper",
+                        "t1": {
+                            "status": "GOOD",
+                            "value": 8
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "label": "Defence",
+                        "t1": {
+                            "status": "GOOD",
+                            "value": 6
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "label": "Midfield",
+                        "t1": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "label": "Winger",
+                        "t1": {
+                            "status": "GOOD",
+                            "value": 6
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "label": "Striker",
+                        "t1": {
+                            "status": "GOOD",
+                            "value": 7
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    }
+                ]
+            },
+            "category": "Football",
+            "matchTitle": "FIFA World Cup",
+            "predictionSettings": {
+                "enablePrediction": true,
+                "options": [
+                    {
+                        "outcome": "Germany",
+                        "title": "Match Winner"
+                    }
+                ],
+                "scorePredictionText": "Germany 3-2 Curaçao"
+            },
+            "subtitle": "",
+            "teams": {
+                "t1": {
+                    "logo": "https://img.sofascore.com/api/v1/team/4711/image",
+                    "name": "Germany"
+                },
+                "t2": {
+                    "logo": "https://img.sofascore.com/api/v1/team/55827/image",
+                    "name": "Curaçao"
+                }
+            },
+            "timestamp": 1781459323637,
+            "visible": true
+        }
+    },
     "SPORTS": {
         "categories": [
             {
@@ -5519,7 +5611,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "10:40:55 PM 14-06-2026",
+        "Last update time": "11:15:54 PM 14-06-2026",
         "Live": "00",
         "Upcoming": "50",
         "events": [
