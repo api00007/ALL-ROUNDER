@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "06:14:31 PM 14-06-2026",
+    "Last update time": "06:25:40 PM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -17,7 +17,7 @@
                 "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
                 "eventName": "Formula 1 - SPAIN GP",
                 "eventBanner": "https://iili.io/CBXHVta.png",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/14 12:50:00 +0000",
                 "endTime": "2026/06/14 14:45:00 +0000"
             },
@@ -27,6 +27,12 @@
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                     "type": "1",
                     "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
+                },
+                {
+                    "title": "beIN SPORTS FHD",
+                    "link": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd",
+                    "type": "1",
+                    "api": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48"
                 },
                 {
                     "title": "SKY SPORTS DE",
@@ -41,16 +47,34 @@
                     "api": ""
                 },
                 {
-                    "title": "SKY SPORTS HD",
-                    "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "title": "SKY GERMAN FHD",
+                    "link": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+                    "type": "1",
+                    "api": "ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b"
+                },
+                {
+                    "title": "SKY SPORTS FHD",
+                    "link": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8|referer=https://pushembdz.store/",
                     "type": "0",
                     "api": ""
                 },
                 {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-                    "type": "1",
-                    "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d"
+                    "title": "DAZN ESPANOL HD",
+                    "link": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8|referer=https://pushembdz.store/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SKY ITALY FHD",
+                    "link": "https://oe1.ossfeed.store/out/v2/984e389e76455ff421cd4f2aa19ce2d1/tracks-v0a0/mono.m3u8||referer=https://pushembdz.store/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SKY SPORTS HD",
+                    "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
                 },
                 {
                     "title": "SKY SPORTS F1 UHD",
