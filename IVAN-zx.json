@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "09:14:26 AM 14-06-2026",
+    "Last update time": "09:25:32 AM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -479,63 +479,6 @@
                     "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
                     "type": "1",
                     "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
-                }
-            ]
-        },
-        {
-            "id": 50012,
-            "title": "San Antonio Spurs",
-            "cat": "NBA",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Knicks",
-                "teamB": "Spurs",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-                "eventName": "New York Knicks vs San Antonio Spurs",
-                "eventBanner": "null",
-                "isHot": "1",
-                "startTime": "2026/06/14 00:30:00 +0000",
-                "endTime": "2026/06/14 03:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA FINALS FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dvi20dldek/out/v1/fedc067b45174f419d08e03ed70ebfc3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-                    "type": "1",
-                    "api": "230ef7c88f9593b724d480ad69f4364e:53abde9522ef55d393b80bcb6c3a8899"
-                },
-                {
-                    "title": "ESPN SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/51960/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "IVAN-z NBA",
-                    "link": "https://chatgpt.hereisman.net/playlist/51961/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/51988/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edgestreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "type": "0",
-                    "api": ""
                 }
             ]
         },
