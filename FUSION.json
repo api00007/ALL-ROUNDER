@@ -5743,6 +5743,59 @@
                             }
                         ],
                         "visible": true
+                    },
+                    {
+                        "is_playlist": false,
+                        "logo": "data:image/jpeg;base64,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",
+                        "name": "Sky Sports NZ",
+                        "stream_links": [
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/588\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Sport 1 NZ",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/589\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Sport 2 NZ",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/590\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Sport 3 NZ",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/591\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Sport 4 NZ",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/592\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Sport 5 NZ",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/593\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Sport 6 NZ",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/594\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Sport 7 NZ",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/595\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Sport 8 NZ",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/596\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Sport 9 NZ",
+                                "tokenApi": ""
+                            }
+                        ],
+                        "visible": true
                     }
                 ],
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQHazVx5Zwdr6fdSUxKfMwVo_79PuMB7L2A&s",
@@ -5754,7 +5807,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "06:40:50 PM 14-06-2026",
+        "Last update time": "07:05:48 PM 14-06-2026",
         "Live": "00",
         "Upcoming": "49",
         "events": [
@@ -6349,6 +6402,12 @@
                         "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "SKY CRICKET FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/zocg8e0tdf/out/v1/996f79aea3cf4edea1e709a48ded2215/cenc.mpd&k1=f6dae0b9319c439327aba694fe61b932&k2=01b10ce65a7e8f50be0a08c4a0d26c61\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW Ad Free",
                         "tokenApi": ""
                     }
                 ],
