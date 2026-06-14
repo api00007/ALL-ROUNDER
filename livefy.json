@@ -5519,9 +5519,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "08:01:13 PM 14-06-2026",
+        "Last update time": "08:20:58 PM 14-06-2026",
         "Live": "00",
-        "Upcoming": "49",
+        "Upcoming": "50",
         "events": [
             {
                 "cat": "Cricket",
@@ -7641,6 +7641,31 @@
                 "id": 1289,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
                 "title": "AFL"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/14 19:30:00 +0000",
+                    "eventName": "ICC CWC League 2",
+                    "isHot": "0",
+                    "startTime": "2026/06/14 15:00:00 +0000",
+                    "teamA": "USA",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/199276/image",
+                    "teamB": "NED",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187840/image"
+                },
+                "id": 1344,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+                "title": "ICC CWC League 2"
             }
         ]
     }
