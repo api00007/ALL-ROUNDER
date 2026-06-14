@@ -5611,7 +5611,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "05:45:52 AM 14-06-2026",
+        "Last update time": "05:50:51 AM 14-06-2026",
         "Live": "00",
         "Upcoming": "57",
         "events": [
@@ -8249,6 +8249,11 @@
                     {
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://movish.net/iptv-playlist/112\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "TSN 2 (iOS)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://ataide0.thelistener.pk/nba.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "NBA (Backup)",
                         "tokenApi": ""
                     }
                 ],
