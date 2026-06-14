@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "06:52:34 PM 14-06-2026",
+    "Last update time": "07:03:32 PM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1825,7 +1825,7 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
                 "eventName": "India W vs Pakistan W",
                 "eventBanner": "",
-                "isHot": "0",
+                "isHot": "1",
                 "startTime": "2026/06/14 13:30:00 +0000",
                 "endTime": "2026/06/14 17:15:00 +0000"
             },
@@ -1835,6 +1835,12 @@
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bv9fvzbb0x/out/v1/2d48cdbaca0f4cc3a996c9dc7905c336/cenc.mpd",
                     "type": "1",
                     "api": "fcbc6104335e2d7392733fb19c6496f0:2a24fe5795cb9ac1016c8e6cb187f3a1"
+                },
+                {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd",
+                    "type": "1",
+                    "api": "ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b"
                 },
                 {
                     "title": "SKY CRICKET FHD",
@@ -1863,6 +1869,18 @@
                 {
                     "title": "FOX CRICKET HD",
                     "link": "https://cdn9859.shop/foxcricket.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SKY MAIN EVENT",
+                    "link": "https://cdn9859.shop/skymainevent.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/ggggQ.m3u8|referer=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 }
