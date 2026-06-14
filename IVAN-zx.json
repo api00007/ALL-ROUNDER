@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "04:03:29 PM 14-06-2026",
+    "Last update time": "04:14:34 PM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -490,6 +490,12 @@
             },
             "channels_data": [
                 {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vw4tnp6ap4/out/v1/3f0ac57e65934d909cb934551d087816/cenc.mpd",
+                    "type": "1",
+                    "api": "b3eb35da28c14f0aeb6c44541bb08d07:f33db74a71a7bdd226c70974830f946e"
+                },
+                {
                     "title": "SKY CRICKET FHD",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
                     "type": "0",
@@ -502,16 +508,10 @@
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
                 },
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hripyr3p6f/out/v1/a63c97caafe641d382637502cad21e54/cenc.mpd",
-                    "type": "1",
-                    "api": "e4a325647528c3d7a885cddfa665f45a:6dfd66af3635dda336dc8775382af4b9"
-                },
-                {
                     "title": "WILLOW FHD [ALT]",
-                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/dzyb02igop/out/v1/b997f6ddb52f4af88c0db614580fa615/cenc.mpd",
+                    "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vw4tnp6ap4/out/v1/3f0ac57e65934d909cb934551d087816/cenc.mpd",
                     "type": "1",
-                    "api": "a66095f78e3bd3cfdf04354f9d0619fa:d7e8ea4cf8bcebf30757f251384e7a0c"
+                    "api": "b3eb35da28c14f0aeb6c44541bb08d07:f33db74a71a7bdd226c70974830f946e"
                 },
                 {
                     "title": "SKY NZ HD",
@@ -1511,33 +1511,6 @@
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
                     "type": "0",
                     "api": ""
-                }
-            ]
-        },
-        {
-            "id": 50075,
-            "title": "St Kilda Saints vs GWS Giants",
-            "cat": "AFL",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "St Kilda",
-                "teamB": "Giants",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4453/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/60170/image",
-                "eventName": "St Kilda Saints vs GWS Giants",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/14 05:15:00 +0000",
-                "endTime": "2026/06/14 08:15:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TNT Sports FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
-                    "type": "1",
-                    "api": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844"
                 }
             ]
         }
