@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "06:41:25 PM 14-06-2026",
+    "Last update time": "06:52:34 PM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -1831,8 +1831,38 @@
             },
             "channels_data": [
                 {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bv9fvzbb0x/out/v1/2d48cdbaca0f4cc3a996c9dc7905c336/cenc.mpd",
+                    "type": "1",
+                    "api": "fcbc6104335e2d7392733fb19c6496f0:2a24fe5795cb9ac1016c8e6cb187f3a1"
+                },
+                {
                     "title": "SKY CRICKET FHD",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "WILLOW FHD [ALT]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oqs1e78oje/out/v1/5fee0665212c492088570362037805bc/cenc.mpd",
+                    "type": "1",
+                    "api": "171c4539a8653c515e927b82ecabc2a0:4436fc9a03a14035bb6abccdb3020c94"
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "type": "1",
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                },
+                {
+                    "title": "SKY NZ HD",
+                    "link": "https://cdn9859.shop/skynz2.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "https://cdn9859.shop/foxcricket.m3u8",
                     "type": "0",
                     "api": ""
                 }
