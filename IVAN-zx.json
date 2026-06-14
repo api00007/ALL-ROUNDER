@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "01:14:40 AM 15-06-2026",
+    "Last update time": "01:25:52 AM 15-06-2026",
     "events": [
         {
             "id": 50002,
@@ -625,6 +625,18 @@
             },
             "channels_data": [
                 {
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+                    "type": "1",
+                    "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+                },
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "type": "1",
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003"
+                },
+                {
                     "title": "D Sports FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
                     "type": "1",
@@ -635,12 +647,6 @@
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
                     "type": "1",
                     "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc"
-                },
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-                    "type": "1",
-                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003"
                 },
                 {
                     "title": "CRAVE AQ FHD",
@@ -656,9 +662,9 @@
                 },
                 {
                     "title": "CAZE TV FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
                     "type": "1",
-                    "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
+                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
                 },
                 {
                     "title": "SporTV BR FHD",
@@ -677,36 +683,6 @@
                     "link": "https://chatgpt.hereisman.net/playlist/51875/load-playlist?|Referer=https://gooz.aapmains.net",
                     "type": "0",
                     "api": ""
-                },
-                {
-                    "title": "TSN SPORTS",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                    "type": "1",
-                    "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689"
-                },
-                {
-                    "title": "FOX SPORTS FHD",
-                    "link": "https://lcdn-2.kumo.social/media/pass/fox/f35fed21fa194426.m3u8",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "beIN MAX FHD",
-                    "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/h6T7bZ0AvqgNG6XoTNV9P_0FrTqrIkgZZ6aPQlJ8jzfhahwudRXkMIi-3-cXU4LNhY4FWV_-W9u53fPFEqlWfw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "CAZE TV HD",
-                    "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "ZEE5 Bangla",
-                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-                    "type": "1",
-                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc"
                 },
                 {
                     "title": "CANAL SPORTS",
@@ -733,26 +709,8 @@
                     "api": ""
                 },
                 {
-                    "title": "Somoy TV",
-                    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "TSN SPORTS HD",
-                    "link": "https://storage.googleapis.com/buzhyertynghsd/mux_video_ts/index-1.m3u8",
-                    "type": "0",
-                    "api": ""
-                },
-                {
                     "title": "FAST SERVER 1",
                     "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSHZ37zq9DY.m3u8?txSecret=085a45c9d6551d87c61726a2eb83ec6e&txTime=6A2B2609",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "FAST SERVER 2",
-                    "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459820.m3u8?txSecret=668821e97544a999f1a9b31476006a51&txTime=6A2C502F",
                     "type": "0",
                     "api": ""
                 },
@@ -793,32 +751,26 @@
                     "api": ""
                 },
                 {
-                    "title": "Unite8 Sports 1",
-                    "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
-                    "type": "1",
-                    "api": "521f18ae33645cabdd064c1d3732556a:c67544333910f31f7e8c7ebfbc8b1876"
-                },
-                {
-                    "title": "UNiFy TV [IND]",
-                    "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
-                    "type": "1",
-                    "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f"
-                },
-                {
                     "title": "beIN MAX HD",
                     "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
                     "type": "0",
                     "api": ""
                 },
                 {
-                    "title": "ENGLISH SD SERVER",
-                    "link": "https://cdn.obstream.pro/live/yq97gcrutx.m3u8|referer=https://obstream.pro/",
+                    "title": "Match Football FHD",
+                    "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+                    "type": "1",
+                    "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
+                },
+                {
+                    "title": "RTB GOLIVE FHD",
+                    "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
                     "type": "0",
                     "api": ""
                 },
                 {
-                    "title": "GERMAN SD SERVER",
-                    "link": "https://cdn.obstream.pro/live/byunqmaemy.m3u8|referer=https://obstream.pro/",
+                    "title": "Somoy TV HD",
+                    "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
                     "type": "0",
                     "api": ""
                 },
@@ -2453,7 +2405,7 @@
                 },
                 {
                     "title": "FOX ONE 4K",
-                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+                    "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
                     "type": "1",
                     "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
                 },
@@ -2501,15 +2453,15 @@
                 },
                 {
                     "title": "SporTV BR FHD",
-                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
                     "type": "1",
                     "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733"
                 },
                 {
                     "title": "CAZE TV FHD",
-                    "link": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
                     "type": "1",
-                    "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
+                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
                 },
                 {
                     "title": "FUSSBALL TV FHD",
@@ -2564,12 +2516,6 @@
                     "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
                     "type": "1",
                     "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
-                },
-                {
-                    "title": "DAZN SPORTS FHD",
-                    "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-                    "type": "0",
-                    "api": ""
                 },
                 {
                     "title": "beIN MAX FHD",
