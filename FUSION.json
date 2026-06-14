@@ -5850,9 +5850,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "12:20:52 AM 15-06-2026",
+        "Last update time": "12:25:47 AM 15-06-2026",
         "Live": "00",
-        "Upcoming": "48",
+        "Upcoming": "49",
         "events": [
             {
                 "cat": "Cricket",
@@ -8402,6 +8402,48 @@
                 "id": 1346,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
                 "title": "ICC Women World Twenty20"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/14 21:30:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/06/14 19:00:00 +0000",
+                    "teamA": "Liberty",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+                    "teamB": "Mystics",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image"
+                },
+                "id": 1347,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/15 05:59:00 +0000",
+                    "eventName": "UFC Freedom 250",
+                    "isHot": "0",
+                    "startTime": "2026/06/15 00:00:00 +0000",
+                    "teamA": "IliaTopuria",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/photos/ufc/3605_3pzNLA_96x96.png",
+                    "teamB": "Justin Gaethje",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/photos/ufc/2896_Cbcimw_96x96.png"
+                },
+                "id": 215,
+                "league_logo": "data:image/png;base64,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",
+                "title": "UFC Freedom 250"
             }
         ]
     }
