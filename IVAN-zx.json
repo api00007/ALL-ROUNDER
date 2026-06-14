@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "10:52:28 AM 14-06-2026",
+    "Last update time": "11:03:29 AM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -467,45 +467,6 @@
                     "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
                     "type": "1",
                     "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
-                }
-            ]
-        },
-        {
-            "id": 50052,
-            "title": "Chicago Cubs",
-            "cat": "MLB",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Giants",
-                "teamB": "Cubs",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-                "eventName": "Giants vs Chicago Cubs",
-                "eventBanner": "",
-                "isHot": "0",
-                "startTime": "2026/06/14 02:05:00 +0000",
-                "endTime": "2026/06/14 05:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBC SPORTS FHD",
-                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(csnbay)/master.mpd",
-                    "type": "1",
-                    "api": "20b593e9bee43324a8b1d830eaa82d78:a87dba51bd2dd7f7879730ac2bd4005b"
-                },
-                {
-                    "title": "IVAN-z MLB",
-                    "link": "https://chatgpt.hereisman.net/playlist/52001/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "IVAN-z Live",
-                    "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
                 }
             ]
         },
