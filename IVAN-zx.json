@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "10:14:41 PM 14-06-2026",
+    "Last update time": "10:25:38 PM 14-06-2026",
     "events": [
         {
             "id": 50002,
@@ -2282,7 +2282,7 @@
                 },
                 {
                     "title": "CTV SPORTS FHD",
-                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+                    "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
                     "type": "1",
                     "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157"
                 },
@@ -2391,6 +2391,18 @@
                 {
                     "title": "Somoy TV HD",
                     "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD STREAM ES",
+                    "link": "http://193.47.62.56/hls/TATATAD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "type": "0",
+                    "api": ""
+                },
+                {
+                    "title": "SD STREAM FR",
+                    "link": "http://193.47.62.48/hls/TATATADD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "type": "0",
                     "api": ""
                 }
@@ -2545,7 +2557,7 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
                 "eventName": "India W vs Pakistan W",
                 "eventBanner": "",
-                "isHot": "1",
+                "isHot": "0",
                 "startTime": "2026/06/14 13:30:00 +0000",
                 "endTime": "2026/06/14 17:15:00 +0000"
             },
