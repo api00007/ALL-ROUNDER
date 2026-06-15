@@ -5826,9 +5826,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:40:54 PM 15-06-2026",
+        "Last update time": "08:31:29 PM 15-06-2026",
         "Live": "00",
-        "Upcoming": "39",
+        "Upcoming": "42",
         "events": [
             {
                 "cat": "Cricket",
@@ -6362,9 +6362,45 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd&k1=c620c93c60c04999eb9ddc28ecfb70a8&k2=e76a709c251313190e76cb3c3d3a5824\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Ivan-FluX",
+                        "title": "FOX ONE HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd&k1=1f68713028d439ec03be07f56c1d6213&k2=20093db6455160fffed4c394def3193d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FOX ONE 4K",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd&k1=549ab7cd35a64bb6bb479ecead04d69d&k2=829799ed534d11fcadeb4b192467e050\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "CIGNAL ENGLISH",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd&k1=d185684e2330de5bea436daa094a5e86&k2=014f0116154f5bf0050e03a6b0a23157\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "CTV SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&k1=ce7ab3022e753307997f58afe001bac4&k2=72d631a66e635c60829a0fe7705516c1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TELEMUNDO FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd&k1=a7d11d37a1f7611ee88d4db880171f32&k2=68f96d618b0b956b008c445896a25a79\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "D SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&k1=893bc63340876605f52886a42e0ccce5&k2=d6c46d2d691056fbd091bf1f01b21a91\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Sporza DUTCH FHD",
                         "tokenApi": ""
                     }
                 ],
@@ -7350,6 +7386,148 @@
                 "id": 1297,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
                 "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/stavpnwaob/out/v1/cf21f0ff7c1e4a9cb1ca45946fec6e91/cenc.mpd&k1=fe6bf8b837ec95625844583c9933c63d&k2=9dd28f6a34a092ba2ea958125a51daac\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SHAMSHAD TV",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/stavpnwaob/out/v1/cf21f0ff7c1e4a9cb1ca45946fec6e91/cenc.mpd&k1=fe6bf8b837ec95625844583c9933c63d&k2=9dd28f6a34a092ba2ea958125a51daac\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW [ALT]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [ENG]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi1506/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [HIN]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi1506/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [TAM]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1506/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [TEL]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1506/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV [KAN]",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/17 13:30:00 +0000",
+                    "eventName": "Talent TV Cup 2026",
+                    "isHot": "0",
+                    "startTime": "2026/06/17 04:30:00 +0000",
+                    "teamA": "AFG-A",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+                    "teamB": "IND-A",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image"
+                },
+                "id": 1140,
+                "league_logo": "https://i.ibb.co/pvt9ZqMj/f4ca1fcbae03889e77b831f672f47e02-cricket-wicket-semi-flat.png",
+                "title": "Talent TV Cup 2026"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/16 04:30:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/06/16 02:00:00 +0000",
+                    "teamA": "Valkyries",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+                    "teamB": "Sparks",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image"
+                },
+                "id": 1362,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/16 02:30:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/06/16 00:00:00 +0000",
+                    "teamA": "Lynx",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+                    "teamB": "Fire",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image"
+                },
+                "id": 1363,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/16 02:30:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/06/16 00:00:00 +0000",
+                    "teamA": "Wings",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                    "teamB": "Las Vegas",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image"
+                },
+                "id": 1364,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
             }
         ]
     }
