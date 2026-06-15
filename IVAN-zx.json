@@ -1,7 +1,7 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "10:52:26 AM 15-06-2026",
+    "Last update time": "11:03:29 AM 15-06-2026",
     "events": [
         {
             "id": 50002,
@@ -188,26 +188,6 @@
                     "api": ""
                 }
             ]
-        },
-        {
-            "id": 50004,
-            "title": "UFC",
-            "cat": "UFC",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "15",
-            "eventInfo": {
-                "teamA": "I. Topuria",
-                "teamB": "J. Gaethje",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/461872/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/466918/image",
-                "eventName": "UFC Freedom 250: Topuria vs Gaethje",
-                "eventBanner": "null",
-                "isHot": "1",
-                "startTime": "2026/06/15 00:00:00 +0000",
-                "endTime": "2026/06/15 05:30:00 +0000"
-            },
-            "channels_data": []
         },
         {
             "id": 50006,
@@ -1946,21 +1926,15 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bv9fvzbb0x/out/v1/2d48cdbaca0f4cc3a996c9dc7905c336/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etstumm4et/out/v1/d87bdeb28ab4455284dab1e6f5ec22f9/cenc.mpd",
                     "type": "1",
-                    "api": "fcbc6104335e2d7392733fb19c6496f0:2a24fe5795cb9ac1016c8e6cb187f3a1"
+                    "api": "fe6bf8b837ec95625844583c9933c63d:9dd28f6a34a092ba2ea958125a51daac"
                 },
                 {
                     "title": "SKY CRICKET FHD",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
                     "type": "0",
                     "api": ""
-                },
-                {
-                    "title": "WILLOW FHD [ALT]",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oqs1e78oje/out/v1/5fee0665212c492088570362037805bc/cenc.mpd",
-                    "type": "1",
-                    "api": "171c4539a8653c515e927b82ecabc2a0:4436fc9a03a14035bb6abccdb3020c94"
                 },
                 {
                     "title": "WILLOW HD",
