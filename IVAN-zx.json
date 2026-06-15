@@ -1,119 +1,8 @@
 {
     "AUTHOR": "iVan_FLUx",
     "TELEGRAM": "https://t.me/iVan_flux",
-    "Last update time": "03:14:33 PM 15-06-2026",
+    "Last update time": "03:41:42 PM 15-06-2026",
     "events": [
-        {
-            "id": 50002,
-            "title": "Formula 1",
-            "cat": "F1",
-            "image": "o",
-            "publish": "1",
-            "adsLimit": "0",
-            "eventInfo": {
-                "teamA": "Formula 1",
-                "teamB": "Formula 1",
-                "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-                "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-                "eventName": "Formula 1 - SPAIN GP",
-                "eventBanner": "https://iili.io/CBXHVta.png",
-                "isHot": "0",
-                "startTime": "2026/06/14 12:50:00 +0000",
-                "endTime": "2026/06/14 15:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "type": "1",
-                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
-                },
-                {
-                    "title": "beIN SPORTS FHD",
-                    "link": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd",
-                    "type": "1",
-                    "api": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48"
-                },
-                {
-                    "title": "SKY SPORTS DE",
-                    "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
-                    "type": "1",
-                    "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9"
-                },
-                {
-                    "title": "IVAN-z F1 HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SKY GERMAN FHD",
-                    "link": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
-                    "type": "1",
-                    "api": "ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b"
-                },
-                {
-                    "title": "Tipik FRANCE FHD",
-                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/23b52321.isml/.mpd",
-                    "type": "1",
-                    "api": "ed52a165d7e947a1b5d6358eb05fbceb:3569ad9af6dc5a12bb7d5f69cca95345"
-                },
-                {
-                    "title": "SKY SPORTS FHD",
-                    "link": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8|referer=https://pushembdz.store/",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "DAZN ESPANOL HD",
-                    "link": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8|referer=https://pushembdz.store/",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SKY ITALY FHD",
-                    "link": "https://oe1.ossfeed.store/out/v2/984e389e76455ff421cd4f2aa19ce2d1/tracks-v0a0/mono.m3u8||referer=https://pushembdz.store/",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SKY SPORTS HD",
-                    "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "SKY SPORTS F1 UHD",
-                    "link": "http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "ELEVEN SPORTS",
-                    "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-                    "type": "1",
-                    "api": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59"
-                },
-                {
-                    "title": "Sky F1 DE",
-                    "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "type": "0",
-                    "api": ""
-                },
-                {
-                    "title": "F1 TV FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-                    "type": "1",
-                    "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
-                },
-                {
-                    "title": "Fox Sports - AQ",
-                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-                    "type": "1",
-                    "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f"
-                }
-            ]
-        },
         {
             "id": 50003,
             "title": "MotoGP",
@@ -188,6 +77,26 @@
                     "api": ""
                 }
             ]
+        },
+        {
+            "id": 50004,
+            "title": "UFC",
+            "cat": "UFC",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "15",
+            "eventInfo": {
+                "teamA": "M. Kape",
+                "teamB": "K. Horiguchi",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/461847/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/469943/image",
+                "eventName": "UFC Fight Night: Kape vs Horiguchi",
+                "eventBanner": "null",
+                "isHot": "1",
+                "startTime": "2026/06/20 21:00:00 +0000",
+                "endTime": "2026/06/21 05:00:00 +0000"
+            },
+            "channels_data": []
         },
         {
             "id": 50006,
@@ -535,6 +444,87 @@
                 {
                     "title": "IVAN-z Live",
                     "link": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50055,
+            "title": "Dallas Wings vs Aces",
+            "cat": "WNBA",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Wings",
+                "teamB": "Las Vegas",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+                "eventName": "Dallas Wings vs Las Vegas Aces",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/16 00:00:00 +0000",
+                "endTime": "2026/06/16 02:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50056,
+            "title": "Minnesota Lynx vs Portland Fire",
+            "cat": "WNBA",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Lynx",
+                "teamB": "Fire",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+                "eventName": "Minnesota Lynx vs Portland Fire",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/16 00:00:00 +0000",
+                "endTime": "2026/06/16 02:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "type": "0",
+                    "api": ""
+                }
+            ]
+        },
+        {
+            "id": 50057,
+            "title": "Valkyries vs Sparks",
+            "cat": "WNBA",
+            "image": "o",
+            "publish": "1",
+            "adsLimit": "0",
+            "eventInfo": {
+                "teamA": "Valkyries",
+                "teamB": "Sparks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+                "eventName": "Valkyries vs Sparks",
+                "eventBanner": "",
+                "isHot": "0",
+                "startTime": "2026/06/16 02:00:00 +0000",
+                "endTime": "2026/06/16 04:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "IVAN-z Live",
+                    "link": "https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "type": "0",
                     "api": ""
                 }
