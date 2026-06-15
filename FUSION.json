@@ -5850,7 +5850,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "02:40:51 AM 16-06-2026",
+        "Last update time": "02:55:41 AM 16-06-2026",
         "Live": "00",
         "Upcoming": "42",
         "events": [
@@ -7529,9 +7529,123 @@
                         "tokenApi": ""
                     },
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&k1=ce7ab3022e753307997f58afe001bac4&k2=72d631a66e635c60829a0fe7705516c1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Ivan-FluX",
+                        "title": "TELEMUNDO FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd&k1=f6564ec2aee819046328a0e153be574d&k2=ff46a8a1031eb27ef22576a077c98ab7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FOX SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&k1=7b37e4614fcee2ec2ff6e5900c2f798f&k2=f349a9c28c55c20b9a2c50af99d1fc76\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TSN SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd&k1=549ab7cd35a64bb6bb479ecead04d69d&k2=829799ed534d11fcadeb4b192467e050\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "CIGNAL ENG FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://www.metateam.shop/bn_hdr/tracks-v1a1/mono.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "beiN SPORTS 4K",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd&k1=9752ef72590ef441ffa3731e0486fbc0&k2=db63ec7b9f11348b7cc6808a54c99457\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "CazéTV BR FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd&k1=1cb20afcd9d979c833cfd208c7d3eeb2&k2=fef0c15b4a523370892edd5e4133c269\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FUSSBALL GERMAN [USE VPN]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd&k1=433ffba670963e70857859a9dff4be04&k2=51ede3a821229fe81e71282c8eff80e3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "M6 FRANCE FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&k1=893bc63340876605f52886a42e0ccce5&k2=d6c46d2d691056fbd091bf1f01b21a91\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "VRT DUTCH FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&k1=4bbcff3289d457b4dd5dbdd21221de9a&k2=c4906b9a9f8dda3c0725bddb8c497733\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SporTV BR FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&k1=7d6bb9f86e133e4cb33440b493b6b672&k2=584ad285dcb9e7d42cf3e93f1cc3fe11\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Telemundo Español",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd&k1=9145a6e0f778e61866f573d4944dd533&k2=d02173d40515fea5c83944f21d0f3114\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "MATCH! FUTBOL FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&k1=11223344556677889900112233445566&k2=4b80724d0ef86bcb2c21f7999d67739d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "JOJ SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "RTB GOLIVE FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TRT SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52064/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TSN SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "MATCH! FUTBOL HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://iptv.jio.com/livetv/data/Star_Utsav.mpd|user-agent=Dalvik (Linux; U; Android 13; JHSC200 Build/11.2.94)\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "UNITE8 SPORTS HINDI 🇮🇳",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://iptv.jio.com/livetv/data/Sansad_TV_1_HD.mpd|user-agent=Dalvik (Linux; U; Android 13; JHSC200 Build/11.2.94)\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "UNITE8 SPORTS ENGLISH 🇮🇳",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://www.mdrstore.shop/s2_bn_max_1_fhd/tracks-v1a1/mono.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "beIN MAX FHD",
                         "tokenApi": ""
                     }
                 ],
