@@ -5887,7 +5887,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:31:21 AM 17-06-2026",
+        "Last update time": "03:41:01 AM 17-06-2026",
         "Live": "00",
         "Upcoming": "27",
         "events": [
@@ -11155,6 +11155,40 @@
                 "id": 1355,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
                 "title": "FIFA WORLD CUP"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/17 02:13:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/06/16 22:40:00 +0000",
+                    "teamA": "Marlins ",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/3ZzeHGeahHzcx1nnzkf_4w_96x96.png",
+                    "teamB": "Phillies",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/YrJLwz0NUoMLEC7MWhtfmw_96x96.png"
+                },
+                "id": 773,
+                "league_logo": "",
+                "title": "MLB"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/17 02:16:00 +0000",
+                    "eventName": "",
+                    "isHot": "0",
+                    "startTime": "2026/06/16 22:45:00 +0000",
+                    "teamA": "",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/7TiwS24jou41wScT8vDwAQ_96x96.png",
+                    "teamB": "",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/MUNnNZz6uRoHFVeC0EBnmA_96x96.png"
+                },
+                "id": 309,
+                "league_logo": "",
+                "title": ""
             }
         ]
     }
