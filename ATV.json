@@ -1069,17 +1069,17 @@
                                 "tokenApi": ""
                             },
                             {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pastebin.com/raw/ihNB2tKY?mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "xoo",
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://cdn-tt.pages.dev/ch4.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "ch4",
                                 "tokenApi": {
-                                    "api": "https://pastebin.com/raw/ihNB2tKY?mpd",
+                                    "api": "https://cdn-tt.pages.dev/ch4.m3u8",
                                     "default_string": "N8x7Y%m+6n",
                                     "ip_api": "https://api.ipify.org/",
-                                    "link_key": "playback_url",
+                                    "link_key": "playbakcs_url",
                                     "request_body_type": "text",
                                     "request_type": "get",
                                     "type": "sp",
-                                    "url": "https://pastebin.com/raw/ihNB2tKY?mpd"
+                                    "url": "https://cdn-tt.pages.dev/ch4.m3u8"
                                 }
                             }
                         ],
@@ -5159,6 +5159,19 @@
                             }
                         ],
                         "visible": true
+                    },
+                    {
+                        "is_playlist": false,
+                        "logo": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/66b8b6b9-12.18.22_FranceArgentinaMbappeMessi_16x9.jpg",
+                        "name": "Argentina Vs France Final| FIFA World Cup 2022  ",
+                        "stream_links": [
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://premiumtvs.space:80/movie/jen12345/Jen54321/133707.mkv\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Link 1",
+                                "tokenApi": ""
+                            }
+                        ],
+                        "visible": true
                     }
                 ],
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmdHIFmUuEbJ81PU_03vSeT_HgGAT7ZsFiGd0TYMkD9bBTZITn4b8bM0M&s=10",
@@ -5173,7 +5186,7 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "09:31:27 PM 16-06-2026",
+        "Last update time": "09:46:09 PM 16-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
         "Upcoming": "27",
