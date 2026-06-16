@@ -5887,7 +5887,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:55:48 AM 17-06-2026",
+        "Last update time": "04:10:53 AM 17-06-2026",
         "Live": "00",
         "Upcoming": "27",
         "events": [
@@ -11240,6 +11240,13 @@
             },
             {
                 "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52115/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/17 14:31:00 +0000",
@@ -11257,6 +11264,13 @@
             },
             {
                 "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52116/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/17 03:34:00 +0000",
@@ -11271,6 +11285,74 @@
                 "id": 335,
                 "league_logo": "",
                 "title": "MLB"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/17 03:37:00 +0000",
+                    "eventName": "MLB ",
+                    "isHot": "0",
+                    "startTime": "2026/06/16 23:15:00 +0000",
+                    "teamA": "Giants",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/aIZzEm7snhpCtwAFsjxPQw_96x96.png",
+                    "teamB": "Braves",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/RoHVukYBkVBWcdIoZZ9Dzw_96x96.png"
+                },
+                "id": 913,
+                "league_logo": "",
+                "title": "MLB "
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/17 04:38:00 +0000",
+                    "eventName": "MLB ",
+                    "isHot": "0",
+                    "startTime": "2026/06/16 23:40:00 +0000",
+                    "teamA": "Guardians",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/zGJ5ZWjK2s9nUNXy8CGf5A_96x96.png",
+                    "teamB": "Brewers",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/467Meu6PL9-FddkGftApJA_96x96.png"
+                },
+                "id": 754,
+                "league_logo": "",
+                "title": "MLB "
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/17 04:41:00 +0000",
+                    "eventName": "MLB ",
+                    "isHot": "0",
+                    "startTime": "2026/06/16 23:45:00 +0000",
+                    "teamA": "Padres",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/iM_hcWzccgEfD4bo-sp6Wg_48x48.png",
+                    "teamB": "Cardinals",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/oJf168LcE5pH3F6s9iI1Mg_48x48.png"
+                },
+                "id": 179,
+                "league_logo": "",
+                "title": "MLB "
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/17 06:42:00 +0000",
+                    "eventName": "MLB ",
+                    "isHot": "0",
+                    "startTime": "2026/06/17 00:05:00 +0000",
+                    "teamA": "Twins",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/lkoOdmocbGR_eNo8uDB5ew_48x48.png",
+                    "teamB": "Rangers",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/KPGArGHvtaS2UzTAhnvzsQ_96x96.png"
+                },
+                "id": 953,
+                "league_logo": "",
+                "title": "MLB "
             }
         ]
     }
