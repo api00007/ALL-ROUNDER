@@ -5877,9 +5877,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "11:05:41 AM 17-06-2026",
+        "Last update time": "11:15:59 AM 17-06-2026",
         "Live": "00",
-        "Upcoming": "26",
+        "Upcoming": "27",
         "events": [
             {
                 "cat": "Cricket",
@@ -12089,6 +12089,31 @@
                 "id": 1346,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
                 "title": "ICC Women World Twenty20"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/18 12:19:00 +0000",
+                    "eventName": "Veikkausliiga",
+                    "isHot": "0",
+                    "startTime": "2026/06/18 09:59:00 +0000",
+                    "teamA": "Oulu",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/5114/image",
+                    "teamB": "Mariehamn",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5058/image"
+                },
+                "id": 1356,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/41/image/dark",
+                "title": "Veikkausliiga"
             }
         ]
     }
