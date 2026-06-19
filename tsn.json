@@ -181,6 +181,99 @@
                 }
             },
             "visible": true
+        },
+        "-OvWhj0x5xnZItlargaM": {
+            "analysis": {
+                "bulletPoints": [
+                    "🇧🇷 Brazil are unbeaten in their last World Cup group matches.",
+                    "📊 Brazil dominated possession and chances against Morocco despite drawing.",
+                    "🛡️ Haiti scored 0 goals in their opening group match.",
+                    "⚽ Brazil possess stronger attacking talent and creativity.",
+                    "🔥 A win would put Brazil in a strong position to qualify from Group C."
+                ],
+                "description": "Short Description:\nBrazil have significantly more quality, depth, and international experience. Haiti are a hardworking side, but over 90 minutes Brazil should control possession and create far more chances.",
+                "metrics": [
+                    {
+                        "label": "Goalkeeper",
+                        "t1": {
+                            "status": "EXCELLENT",
+                            "value": 9
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "label": "Defence",
+                        "t1": {
+                            "status": "EXCELLENT",
+                            "value": 9
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "label": "Midfield",
+                        "t1": {
+                            "status": "GOOD",
+                            "value": 7
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "label": "Winger",
+                        "t1": {
+                            "status": "EXCELLENT",
+                            "value": 9
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "label": "Striker",
+                        "t1": {
+                            "status": "GOOD",
+                            "value": 7
+                        },
+                        "t2": {
+                            "status": "AVERAGE",
+                            "value": 5
+                        }
+                    }
+                ]
+            },
+            "category": "Football",
+            "matchTitle": "FIFA World Cup",
+            "predictionSettings": {
+                "enablePrediction": true,
+                "options": [
+                    {
+                        "outcome": "Draw",
+                        "title": "Match Winner"
+                    }
+                ],
+                "scorePredictionText": "Brazil 0-0 Haiti"
+            },
+            "subtitle": "Best prediction you see here",
+            "teams": {
+                "t1": {
+                    "logo": "https://img.sofascore.com/api/v1/team/4748/image",
+                    "name": "Brazil"
+                },
+                "t2": {
+                    "logo": "https://img.sofascore.com/api/v1/team/7229/image",
+                    "name": "Haiti"
+                }
+            },
+            "visible": false
         }
     },
     "SPORTS": {
