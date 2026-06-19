@@ -5533,7 +5533,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "07:20:53 AM 19-06-2026",
+        "Last update time": "07:40:55 AM 19-06-2026",
         "Live": "00",
         "Upcoming": "27",
         "events": [
@@ -5633,18 +5633,18 @@
                     }
                 ],
                 "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/06/14 14:00:00 +0000",
+                    "Status": "Finished",
+                    "endTime": "2026/06/14 08:00:00 +0000",
                     "eventName": "One Day International",
                     "isHot": "0",
-                    "startTime": "2026/06/14 05:00:00 +0000",
+                    "startTime": "2026/06/14 02:00:00 +0000",
                     "teamA": "BAN",
                     "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
                     "teamB": "AUS",
                     "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image"
                 },
                 "id": 1131,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+                "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
                 "title": "One Day International"
             },
             {
@@ -13877,6 +13877,23 @@
                 "id": 1355,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
                 "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/06/19 08:09:00 +0000",
+                    "eventName": "Bangladesh vs Australia 2nd T20 Match",
+                    "isHot": "0",
+                    "startTime": "2026/06/19 02:00:00 +0000",
+                    "teamA": "Bangladesh ",
+                    "teamAFlag": "",
+                    "teamB": "Australia ",
+                    "teamBFlag": ""
+                },
+                "id": 133,
+                "league_logo": "",
+                "title": "Bangladesh vs Australia 2nd T20 Match"
             }
         ]
     }
