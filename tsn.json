@@ -5652,11 +5652,10 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "11:15:51 AM 19-06-2026",
+        "Last update time": "11:25:45 AM 19-06-2026",
         "Live": "00",
         "Upcoming": "53",
         "events": [
-            null,
             {
                 "cat": "Cricket",
                 "channels_data": [
@@ -5913,7 +5912,6 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/33863/image/dark",
                 "title": "Sobers-Tissera Trophy"
             },
-            null,
             {
                 "cat": "Motorsport",
                 "channels_data": [
@@ -6244,19 +6242,6 @@
                 "league_logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
                 "title": "Friday Night SmackDown"
             },
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
             {
                 "cat": "Aussie rules",
                 "channels_data": [
@@ -6282,14 +6267,6 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
                 "title": "AFL"
             },
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
             {
                 "cat": "Football",
                 "channels_data": [
@@ -7164,6 +7141,125 @@
                 "id": 1427,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
                 "title": "AFL"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/19 18:50:00 +0000",
+                    "eventName": "Crowe-Thorpe Trophy",
+                    "isHot": "0",
+                    "startTime": "2026/06/19 10:00:00 +0000",
+                    "teamA": "ENG",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+                    "teamB": "NZ",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image"
+                },
+                "id": 984,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark",
+                "title": "Crowe-Thorpe Trophy"
+            },
+            {
+                "cat": "Motorsport",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "  +0000",
+                    "eventName": "WRC Rally",
+                    "isHot": "0",
+                    "startTime": "2026/05/28 10:00:00 +0000",
+                    "teamA": "WRC",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
+                    "teamB": "WRC",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image"
+                },
+                "id": 212,
+                "league_logo": "https://img.sofascore.com/api/v1/category/84/image",
+                "title": "WRC Rally"
+            },
+            {
+                "cat": "Boxing",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/10 04:00:00 +0000",
+                    "eventName": "WWE NXT",
+                    "isHot": "0",
+                    "startTime": "2026/06/10 00:00:00 +0000",
+                    "teamA": "WWE NXT",
+                    "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+                    "teamB": "WWE NXT",
+                    "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png"
+                },
+                "id": 72,
+                "league_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+                "title": "WWE NXT"
+            },
+            {
+                "cat": "Boxing",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/25 04:00:00 +0000",
+                    "eventName": "AEW Dynamite",
+                    "isHot": "0",
+                    "startTime": "2026/06/25 00:00:00 +0000",
+                    "teamA": "AEW",
+                    "teamAFlag": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+                    "teamB": "AEW",
+                    "teamBFlag": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
+                },
+                "id": 74,
+                "league_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
+                "title": "AEW Dynamite"
+            },
+            {
+                "cat": "Boxing",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/04/12 04:00:00 +0000",
+                    "eventName": "TNA iMPACT",
+                    "isHot": "0",
+                    "startTime": "2026/04/11 23:00:00 +0000",
+                    "teamA": "TNA iMPACT",
+                    "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+                    "teamB": "TNA iMPACT",
+                    "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png"
+                },
+                "id": 175,
+                "league_logo": "https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png",
+                "title": "TNA iMPACT"
+            },
+            {
+                "cat": "Baseball",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/20 04:40:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/06/20 01:40:00 +0000",
+                    "teamA": "Athletics",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                    "teamB": "Angels",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image"
+                },
+                "id": 1415,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/20 03:15:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/06/20 00:15:00 +0000",
+                    "teamA": "Royals",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                    "teamB": "Cardinals",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image"
+                },
+                "id": 1416,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
             }
         ]
     },
