@@ -5652,7 +5652,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "06:10:58 PM 19-06-2026",
+        "Last update time": "06:25:43 PM 19-06-2026",
         "Live": "00",
         "Upcoming": "53",
         "events": [
@@ -6069,37 +6069,6 @@
                 "id": 73,
                 "league_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
                 "title": "Monday Night RAW"
-            },
-            {
-                "cat": "Boxing",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0&k1=308006101c8fd0262c0f529319b9c127&k2=37683aadc75b1450efa82d62c647984d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "One Fight FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd&k1=60dc08aae52f4c0b806a8e43f24a12c8&k2=30d5b579966d822b215ec51a91d8a271\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SERVER 2",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "One Friday Fights",
-                    "isHot": "0",
-                    "startTime": "2026/06/19 12:30:00 +0000",
-                    "teamA": "One Friday Fights",
-                    "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-                    "teamB": "One Friday Fights",
-                    "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png"
-                },
-                "id": 176,
-                "league_logo": "https://iili.io/FDjaT1R.md.png",
-                "title": "One Friday Fights"
             },
             {
                 "cat": "Boxing",
@@ -7185,15 +7154,32 @@
                 "title": "TNA iMPACT"
             },
             {
-                "cat": "Aussie rules",
+                "cat": "Boxing",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd&k1=a6b967afcb974bb5a549377b4f09befd&k2=87d993257a099324ccd0215475fc61a0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "FOX SPORTS FHD",
+                        "title": "SERVER 3",
                         "tokenApi": ""
                     }
                 ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "  +0000",
+                    "eventName": "One Friday Fights",
+                    "isHot": "0",
+                    "startTime": "2026/06/19 12:30:00 +0000",
+                    "teamA": "One Friday Fights",
+                    "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+                    "teamB": "One Friday Fights",
+                    "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png"
+                },
+                "id": 176,
+                "league_logo": "https://iili.io/FDjaT1R.md.png",
+                "title": "One Friday Fights"
+            },
+            {
+                "cat": "Aussie rules",
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "  +0000",
@@ -7563,7 +7549,8 @@
             ],
             "OneFridayFights_OneFridayFights": [
                 "One Fight FHD",
-                "SERVER 2"
+                "SERVER 2",
+                "SERVER 3"
             ],
             "Phillies_Mets": [
                 "Ivan-FluX",
