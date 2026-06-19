@@ -5652,9 +5652,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "06:10:53 AM 19-06-2026",
+        "Last update time": "06:15:50 AM 19-06-2026",
         "Live": "00",
-        "Upcoming": "28",
+        "Upcoming": "27",
         "events": [
             {
                 "cat": "Cricket",
@@ -7312,6 +7312,18 @@
                         "source": "ivan",
                         "title": "Ivan-FluX",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52208/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "MLB HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
@@ -7336,6 +7348,24 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52206/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "MLB HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52207/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "MLB LIVE HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -7534,6 +7564,18 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52212/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "MLB HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -8294,7 +8336,10 @@
                 "SERVER 2"
             ],
             "Phillies_Mets": [
-                "Ivan-FluX"
+                "Ivan-FluX",
+                "MLB HD",
+                "MLB LIVE HD",
+                "HD SERVER"
             ],
             "Rangers_Twins": [
                 "Ivan-FluX",
@@ -8308,7 +8353,9 @@
                 "MLB LIVE HD"
             ],
             "Royals_Cardinals": [
-                "Ivan-FluX"
+                "Ivan-FluX",
+                "MLB HD",
+                "HD SERVER"
             ],
             "SmackDown_SmackDown": [
                 "WWE HD",
@@ -8437,7 +8484,9 @@
                 "BACKUP SD"
             ],
             "Yankees_WhiteSox": [
-                "Ivan-FluX"
+                "Ivan-FluX",
+                "MLB HD",
+                "HD SERVER"
             ],
             "ghana_panama": [
                 "FOX SPORTS FHD",
