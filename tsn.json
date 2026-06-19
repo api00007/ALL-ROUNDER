@@ -5652,7 +5652,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "02:15:52 PM 19-06-2026",
+        "Last update time": "02:31:15 PM 19-06-2026",
         "Live": "00",
         "Upcoming": "53",
         "events": [
@@ -6107,6 +6107,12 @@
                         "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|Referer=https://instream.click/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "CANAL+ HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.41/hls/eaeaeaZZ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -7618,7 +7624,8 @@
                 "ZIGGO SPORT AQ",
                 "TNT SPORTS SD",
                 "DAZN SPORTS",
-                "CANAL+ HD"
+                "CANAL+ HD",
+                "SD SERVER"
             ],
             "NZ-W_IRE-W": [
                 "Ivan-FluX"
