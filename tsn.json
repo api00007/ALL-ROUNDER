@@ -161,9 +161,15 @@
             "matchTitle": "Los Angeles Knight Riders vs San Francisco Unicorns, 2nd Match, Major League Cricket 2026",
             "predictionSettings": {
                 "enablePrediction": true,
-                "scorePredictionText": ""
+                "options": [
+                    {
+                        "outcome": "Los Angeles Knight Riders",
+                        "title": "Match Winner"
+                    }
+                ],
+                "scorePredictionText": "San Francisco Unicorns won by 5 wickets"
             },
-            "subtitle": "",
+            "subtitle": "Last 5 match",
             "teams": {
                 "t1": {
                     "logo": "https://i.ibb.co/fVmy75ds/Los-Angeles-Knight-Riders.png",
