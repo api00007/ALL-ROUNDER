@@ -5652,7 +5652,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "01:15:50 PM 19-06-2026",
+        "Last update time": "01:31:16 PM 19-06-2026",
         "Live": "00",
         "Upcoming": "53",
         "events": [
@@ -5660,7 +5660,7 @@
                 "cat": "Cricket",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iwadsxrgxx/out/v1/062b2d5295514517be083d85f771efa9/cenc.mpd&k1=083ee449dcf61d6d0cc1c447791706df&k2=be3fb9332ddba5bc1c9a0f6cc6c924bf\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/y4zizfzlo7/out/v1/cf00c1bacc0c4c8ba9da5218b8a6fe37/cenc.mpd&k1=1544c349ebb47984ba648348b5eb4664&k2=b5aa349bbd609812fe85c2cc4b732d27\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "WILLOW FHD",
                         "tokenApi": ""
@@ -5684,15 +5684,27 @@
                         "tokenApi": ""
                     },
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bd-mc-fblive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bd-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "FANCODE - BAN",
                         "tokenApi": ""
                     },
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://in-mc-fblive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "FANCODE - IND",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd&k1=709c812e1b4174002605df1d17d34a4c&k2=0bbee6c9c20a0f065bf8369d54cbf83e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FANCODE SD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "PTV SPORTS HD",
                         "tokenApi": ""
                     }
                 ],
@@ -7306,7 +7318,9 @@
                 "TNT SPORTS FHD",
                 "SD SERVER",
                 "FANCODE - BAN",
-                "FANCODE - IND"
+                "FANCODE - IND",
+                "FANCODE SD",
+                "PTV SPORTS HD"
             ],
             "Belgium_Iran": [
                 "Ivan-FluX"
