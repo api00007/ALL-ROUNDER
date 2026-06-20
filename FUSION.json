@@ -6034,7 +6034,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:40:59 AM 21-06-2026",
+        "Last update time": "03:50:55 AM 21-06-2026",
         "Live": "00",
         "Upcoming": "48",
         "events": [
@@ -6343,8 +6343,8 @@
                         "tokenApi": ""
                     },
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&k1=5466ebd70704bdeb657f0abf3c5ca4ef&k2=bdd79b72d8e48ed483aa623cc38a8a16 \" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "FS1 DIRECT",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&k1=5466ebd70704bdeb657f0abf3c5ca4ef&k2=bdd79b72d8e48ed483aa623cc38a8a16\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FS1 NEW DIRECT",
                         "tokenApi": ""
                     }
                 ],
@@ -8545,6 +8545,36 @@
                         "source": "ivan",
                         "title": "UFC+ FHD",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://mh-bks400-06.starhubgo.com/bpk-token/1aa@vrecibfasiafe5nikbjx0jeqc0nerakivpqzxuba/bpk-tv/HubSports2HD/output/manifest.mpd?bkm-query&k1=fd72f19fac0c441b808996ea993d06d2&k2=8f0be65b978ef60062b4c7dabb226a1d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HUB SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52297/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "PARAMOUNT+ HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TNT SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://instreams.pro/US/NFLHD30/tracks-v1a1/mono.m3u8|Referer=https://instream.click/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LIVE UFC+ HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/rmcsports.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "RMC SPORTS LIVE",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
@@ -8897,6 +8927,23 @@
                 "id": 1397,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
                 "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/21 02:30:00 +0000",
+                    "eventName": "Boxing",
+                    "isHot": "0",
+                    "startTime": "2026/06/20 23:30:00 +0000",
+                    "teamA": "Oscar Collazo",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnEB-SLoX8SE50WTbHdjS42iV2kOH4MfVuQ&s",
+                    "teamB": "Neider Valdez",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1D06Iat8iGxGetJXEL2rB7bl8SYvnT2Prtg&s"
+                },
+                "id": 513,
+                "league_logo": "",
+                "title": "Boxing"
             }
         ]
     }
