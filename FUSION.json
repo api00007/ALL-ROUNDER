@@ -6034,7 +6034,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "11:05:46 PM 20-06-2026",
+        "Last update time": "11:31:30 PM 20-06-2026",
         "Live": "00",
         "Upcoming": "48",
         "events": [
@@ -6961,8 +6961,8 @@
                 "cat": "Cricket",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://ayvspop.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1781989565~acl=*dash%2flive%2f2093750%2f219032-322461%2f*!*dash%2flive%2f2093750-b%2f219032-322461-b%2f*!%2fv1%2fdashsegment%2f*~id=5cfe9fbd-1c2e-48f7-a66e-c1e59f46edb2~data=hdntl,dWlkPXZNQ05zSHw1OWY1MDUwZi0zNGU2LTRlNTMtYWNjNi02MWRhNGRjOWY4NjUmaXA9ODUuMjguNTQuMjM1JmV4cD0xNzgyMDYxNTkzJmVpZD0yMTkwMzImY2lkPWRjZS5za3lueiZvaWQ9MzE4JnR5cGU9TElWRQ~hmac=83b26f4753fbc4dad179216eeb7e4dbe9e874d8ace3a82c528e5ca67598f9f44/dash/live/2093750/219032-322461/manifest-d.mpd&k1=fdd24dd2c6c14126ad7c1ad1066b03dd&k2=08289c6d57d54e8d8dca55e1862afb82 style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SKY NZ DIRECT",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1781992954~acl=*dash%2flive%2f2093750%2f219032-322461%2f*!*dash%2flive%2f2093750-b%2f219032-322461-b%2f*!%2fv1%2fdashsegment%2f*~id=301eef76-a4c6-4532-b263-a55181f1017a~data=hdntl,dWlkPXZNQ05zSHw1OWY1MDUwZi0zNGU2LTRlNTMtYWNjNi02MWRhNGRjOWY4NjUmaXA9ODUuMjguNTQuMjM1JmV4cD0xNzgyMDY0OTgxJmVpZD0yMTkwMzImY2lkPWRjZS5za3lueiZvaWQ9MzE4JnR5cGU9TElWRQ~hmac=2a00e0d62f660c55f6b8a4434a4d7fd7976dbd593150e9ae5c2a745403943513/dash/live/2093750/219032-322461/manifest-d.mpd&k1=fdd24dd2c6c14126ad7c1ad1066b03dd&k2=08289c6d57d54e8d8dca55e1862afb82\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SKY NZ DIRECT NEW",
                         "tokenApi": ""
                     },
                     {
@@ -8074,6 +8074,11 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52283/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
                         "tokenApi": ""
                     }
                 ],
