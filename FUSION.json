@@ -6034,7 +6034,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "06:50:51 AM 20-06-2026",
+        "Last update time": "07:01:03 AM 20-06-2026",
         "Live": "00",
         "Upcoming": "48",
         "events": [
@@ -8570,6 +8570,54 @@
                 "id": 1416,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
                 "title": "MLB"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52226/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/06/20 06:34:00 +0000",
+                    "eventName": "Boxing",
+                    "isHot": "0",
+                    "startTime": "2026/06/20 00:29:00 +0000",
+                    "teamA": "Ashton Sylve",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2Pcyf9qWeSgb4Rx-eOx16UXUgK703jUR2lqP7C_O4w&s=10",
+                    "teamB": "Joseph Diaz",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mUDfJxGGR9GpQteN236mcQNWBrNXh7vx63XEIPVeAA&s=10"
+                },
+                "id": 445,
+                "league_logo": "",
+                "title": "Boxing"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/52246/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/06/20 05:40:00 +0000",
+                    "eventName": "BKFC ",
+                    "isHot": "0",
+                    "startTime": "2026/06/20 00:34:00 +0000",
+                    "teamA": "Fight Night Nashville",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_lfjWGkI2K2YqvdAX6ZSivaAhJf2lb41HQssJ-RG6mQ&s",
+                    "teamB": "Fight Night Nashville",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_lfjWGkI2K2YqvdAX6ZSivaAhJf2lb41HQssJ-RG6mQ&s"
+                },
+                "id": 109,
+                "league_logo": "",
+                "title": "BKFC "
             }
         ]
     }
