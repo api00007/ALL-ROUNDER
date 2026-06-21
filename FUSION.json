@@ -6034,7 +6034,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:40:55 PM 21-06-2026",
+        "Last update time": "04:50:55 PM 21-06-2026",
         "Live": "00",
         "Upcoming": "53",
         "events": [
@@ -7776,6 +7776,65 @@
                 "id": 1481,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
                 "title": "MLB"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/23 22:20:00 +0000",
+                    "eventName": "FIFA World Cup",
+                    "isHot": "0",
+                    "startTime": "2026/06/23 20:00:00 +0000",
+                    "teamA": "England",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+                    "teamB": "Ghana",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image"
+                },
+                "id": 1459,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://601.sman1asjap.my.id/tnt2.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TNT (iOS)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://601.mercadodavoz.com.br/tnt2.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TNT (iOS) Backup",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamcenter.xyz\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TNT SD",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/21 15:23:00 +0000",
+                    "eventName": "MotoGP",
+                    "isHot": "0",
+                    "startTime": "2026/06/21 12:00:00 +0000",
+                    "teamA": "MotoGP Grand Prix",
+                    "teamAFlag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAChklEQVRo3u2VzUtUURjGX8IQTYJMJ6z8iDa5SGlhm6CMklKKZkwXNeUiIQQXboIWQbSpCFwEtQjCciGUTLWqIeiDgQo02hRJWWGLIJWYJLJGyeHXYu49vufeO/gPnN/ZzH2ec8/zzD13zog4HA6Hw+FwOBwOR1HYxRApzhRxDzPCHU6E9Dauco+UGqOMWtcpUgzTvVL8dXwWqAi5aeNOKHU/CwDk1fgHwF9LWwIgS3Xx+PNoxgPuiOUOeupZIMvR0FofyEQk9AP5YvE9BFmt3IsBb05EhHbgeeRqk7yM1BPApSijlTAbjHs6bIqIANNmzjpiZpTxhXHKlRIj5s2b5ls4vlGt/Nl88m/pUO7UcgE6gVYREeqZY2W6RUS4Xyiv46vUpGdU2AVoVu6V5TIi3PKXYoFFejlG0hsJppmk01wnSdJDiYgIb/lpx5eQMwGTItTpAmxS8Q9EOKkKZPgqIkITcDDwpT7yIvId2AIM2dJ3E5D1HqdPJaXkzdWYSKDAk8IbQB0wEAj6xKuI+AZyQKWW3pmAJcpCBX4s7703XxcYNFvwGsiQJk2GRl2AJp7yiDRpHvIegN06/rF6wBs9rV5V8vll7tAFmoF+T7/BDLPMMk+LVWAfsMhv5vnDFNes442bKn6HtUtB1kYVEGECKI/ca7/AXqAt+uA5pwLalb4mFF+rXLtAFZCjrvhBxB4gHhWfVAF9AW/Mit9peVYBEbYBkKKDrTSYUcUUb6hmM8eBI5SxnVL1+DmgAi6HypUyY9zgz+uUXUCEVdxe4QDqEmGAuwzrEzlBnDgJDhX5Z0hwgT79b+DptXQV7gzoLd6K4dFFjQg1rPdfc4fD4XA4HA6Hw+EQ+Q+ph/9P1r8pBgAAAABJRU5ErkJggg==",
+                    "teamB": "MotoGP Grand Prix",
+                    "teamBFlag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAChklEQVRo3u2VzUtUURjGX8IQTYJMJ6z8iDa5SGlhm6CMklKKZkwXNeUiIQQXboIWQbSpCFwEtQjCciGUTLWqIeiDgQo02hRJWWGLIJWYJLJGyeHXYu49vufeO/gPnN/ZzH2ec8/zzD13zog4HA6Hw+FwOBwOR1HYxRApzhRxDzPCHU6E9Dauco+UGqOMWtcpUgzTvVL8dXwWqAi5aeNOKHU/CwDk1fgHwF9LWwIgS3Xx+PNoxgPuiOUOeupZIMvR0FofyEQk9AP5YvE9BFmt3IsBb05EhHbgeeRqk7yM1BPApSijlTAbjHs6bIqIANNmzjpiZpTxhXHKlRIj5s2b5ls4vlGt/Nl88m/pUO7UcgE6gVYREeqZY2W6RUS4Xyiv46vUpGdU2AVoVu6V5TIi3PKXYoFFejlG0hsJppmk01wnSdJDiYgIb/lpx5eQMwGTItTpAmxS8Q9EOKkKZPgqIkITcDDwpT7yIvId2AIM2dJ3E5D1HqdPJaXkzdWYSKDAk8IbQB0wEAj6xKuI+AZyQKWW3pmAJcpCBX4s7703XxcYNFvwGsiQJk2GRl2AJp7yiDRpHvIegN06/rF6wBs9rV5V8vll7tAFmoF+T7/BDLPMMk+LVWAfsMhv5vnDFNes442bKn6HtUtB1kYVEGECKI/ca7/AXqAt+uA5pwLalb4mFF+rXLtAFZCjrvhBxB4gHhWfVAF9AW/Mit9peVYBEbYBkKKDrTSYUcUUb6hmM8eBI5SxnVL1+DmgAi6HypUyY9zgz+uUXUCEVdxe4QDqEmGAuwzrEzlBnDgJDhX5Z0hwgT79b+DptXQV7gzoLd6K4dFFjQg1rPdfc4fD4XA4HA6Hw+EQ+Q+ph/9P1r8pBgAAAABJRU5ErkJggg=="
+                },
+                "id": 841,
+                "league_logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAChklEQVRo3u2VzUtUURjGX8IQTYJMJ6z8iDa5SGlhm6CMklKKZkwXNeUiIQQXboIWQbSpCFwEtQjCciGUTLWqIeiDgQo02hRJWWGLIJWYJLJGyeHXYu49vufeO/gPnN/ZzH2ec8/zzD13zog4HA6Hw+FwOBwOR1HYxRApzhRxDzPCHU6E9Dauco+UGqOMWtcpUgzTvVL8dXwWqAi5aeNOKHU/CwDk1fgHwF9LWwIgS3Xx+PNoxgPuiOUOeupZIMvR0FofyEQk9AP5YvE9BFmt3IsBb05EhHbgeeRqk7yM1BPApSijlTAbjHs6bIqIANNmzjpiZpTxhXHKlRIj5s2b5ls4vlGt/Nl88m/pUO7UcgE6gVYREeqZY2W6RUS4Xyiv46vUpGdU2AVoVu6V5TIi3PKXYoFFejlG0hsJppmk01wnSdJDiYgIb/lpx5eQMwGTItTpAmxS8Q9EOKkKZPgqIkITcDDwpT7yIvId2AIM2dJ3E5D1HqdPJaXkzdWYSKDAk8IbQB0wEAj6xKuI+AZyQKWW3pmAJcpCBX4s7703XxcYNFvwGsiQJk2GRl2AJp7yiDRpHvIegN06/rF6wBs9rV5V8vll7tAFmoF+T7/BDLPMMk+LVWAfsMhv5vnDFNes442bKn6HtUtB1kYVEGECKI/ca7/AXqAt+uA5pwLalb4mFF+rXLtAFZCjrvhBxB4gHhWfVAF9AW/Mit9peVYBEbYBkKKDrTSYUcUUb6hmM8eBI5SxnVL1+DmgAi6HypUyY9zgz+uUXUCEVdxe4QDqEmGAuwzrEzlBnDgJDhX5Z0hwgT79b+DptXQV7gzoLd6K4dFFjQg1rPdfc4fD4XA4HA6Hw+EQ+Q+ph/9P1r8pBgAAAABJRU5ErkJggg==",
+                "title": "MotoGP"
             }
         ]
     }
