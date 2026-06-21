@@ -6034,7 +6034,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "02:05:46 AM 22-06-2026",
+        "Last update time": "02:31:23 AM 22-06-2026",
         "Live": "00",
         "Upcoming": "51",
         "events": [
@@ -7396,6 +7396,11 @@
                 "cat": "Cricket",
                 "channels_data": [
                     {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1782089900~acl=*dash%2flive%2f2093787%2f219027-323294%2f*!*dash%2flive%2f2093787-b%2f219027-323294-b%2f*!%2fv1%2fdashsegment%2f*~id=94613dae-e1b1-4af3-ba00-4931991fef5d~data=hdntl,dWlkPWdYSG9Ia3w1MzM0MzlhNy0yNTJlLTQ3MGQtOWFlMC1iMjM5ZmFmMGY0MmEmaXA9ODUuMjguNTQuMjM1JmV4cD0xNzgyMTYxOTI3JmVpZD0yMTkwMjcmY2lkPWRjZS5za3lueiZvaWQ9MzE4JnR5cGU9TElWRQ~hmac=bed3b305366574b66cb5ea127ed729aa1acded809dcb263fb2fd0d0cc2940a48/dash/live/2093787/219027-323294/manifest-d.mpd&k1=708a98b352bd4418a73a028edd84da8f&k2=b1fa5c2bca4c4b57b924b748564532cb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SKY NZ DIRECT",
+                        "tokenApi": ""
+                    },
+                    {
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/twug1hauhn/out/v1/f779b08445434874bd16d7be36666eb9/cenc.mpd&k1=55588334195c73f5ddf74f40216a2d89&k2=6de59c86a6afbfec96012045d009a135\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "WILLOW FHD",
@@ -7952,6 +7957,11 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamcenter.xyz\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
                         "tokenApi": ""
                     }
                 ],
