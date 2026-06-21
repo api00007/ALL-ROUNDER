@@ -10125,6 +10125,30 @@
                 "id": 1456,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
                 "title": "Major League Cricket"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://seriealeague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Tapmad ",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/06/21 14:10:00 +0000",
+                    "eventName": "Bangladesh vs Australia 3rd T20",
+                    "isHot": "0",
+                    "startTime": "2026/06/21 08:00:00 +0000",
+                    "teamA": "Bangladesh ",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjd-9XeGkMhNzzQ6GYSmWjn0tDFn3ApEDMYcEzc2BwKg&s=10",
+                    "teamB": "Australia ",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnwwdHkhq32GGhNPpdwiJ83kG-2w6TYm9lMvaXzYtxw&s=10"
+                },
+                "id": 374,
+                "league_logo": "",
+                "title": "Bangladesh vs Australia 3rd T20"
             }
         ]
     }
