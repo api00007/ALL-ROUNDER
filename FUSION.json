@@ -6034,7 +6034,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "05:20:57 PM 21-06-2026",
+        "Last update time": "05:31:25 PM 21-06-2026",
         "Live": "00",
         "Upcoming": "53",
         "events": [
@@ -6291,6 +6291,11 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://ataide0.mercadodavoz.com.br/tsn.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "TSN (iOS)",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN SD",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
@@ -6427,6 +6432,11 @@
             {
                 "cat": "Cricket",
                 "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1782057898~acl=*dash%2flive%2f2093757%2f219028-322691%2f*!*dash%2flive%2f2093757-b%2f219028-322691-b%2f*!%2fv1%2fdashsegment%2f*~id=058a75b8-bd73-423d-8dc1-0d848f22edb8~data=hdntl,dWlkPWhSdGkzd3xkMzc5MDU4OC1jMGFlLTRlMGUtOTE5Ny0xYWM0Yjg3OTJkOTAmaXA9ODUuMjguNTQuMjM1JmV4cD0xNzgyMTI5OTI2JmVpZD0yMTkwMjgmY2lkPWRjZS5za3lueiZvaWQ9MzE4JnR5cGU9TElWRQ~hmac=647da5be9304f9e6b50ea530951c3a6c1008c40e5172a449e699b4240ef37433/dash/live/2093757/219028-322691/manifest-d.mpd&k1=2e2636daa74141b68cc14882ea3ff82b&k2=0961f48287324adbb4b7ff3c9d82b3c9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SKY NZ DIRECT",
+                        "tokenApi": ""
+                    },
                     {
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wiemjzqo1r/out/v1/2c11c7a28b204c33ab8e7abe61139c42/cenc.mpd&k1=3c5748ca4057e0164af63c902f7179a9&k2=57226e66db80823fedc53e3aa7bc7c59\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
