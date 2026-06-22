@@ -5167,7 +5167,7 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "06:31:15 AM 22-06-2026",
+        "Last update time": "06:45:58 AM 22-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
         "Upcoming": "51",
@@ -8137,8 +8137,18 @@
                 "cat": "Cricket",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/twug1hauhn/out/v1/f779b08445434874bd16d7be36666eb9/cenc.mpd&k1=55588334195c73f5ddf74f40216a2d89&k2=6de59c86a6afbfec96012045d009a135\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "WILLOW FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/twug1hauhn/out/v1/f779b08445434874bd16d7be36666eb9/cenc.mpd&k1=55588334195c73f5ddf74f40216a2d89&k2=6de59c86a6afbfec96012045d009a135\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "WILLOW ALT",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/willoweng.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "WILLOW HD",
                         "tokenApi": ""
                     }
                 ],
@@ -8539,13 +8549,6 @@
             },
             {
                 "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/22 02:30:00 +0000",
