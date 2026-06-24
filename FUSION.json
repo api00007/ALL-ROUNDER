@@ -5710,9 +5710,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "01:35:30 PM 24-06-2026",
+        "Last update time": "01:45:41 PM 24-06-2026",
         "Live": "00",
-        "Upcoming": "29",
+        "Upcoming": "35",
         "events": [
             {
                 "cat": "Cricket",
@@ -6029,9 +6029,6 @@
                 "league_logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
                 "title": "Friday Night SmackDown"
             },
-            null,
-            null,
-            null,
             {
                 "cat": "Football",
                 "channels_data": [
@@ -6182,10 +6179,6 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
                 "title": "FIFA World Cup"
             },
-            null,
-            null,
-            null,
-            null,
             {
                 "cat": "Cricket",
                 "channels_data": [
@@ -6297,7 +6290,6 @@
                 "league_logo": "https://i.ibb.co/6chYXnTd/mgpp.png",
                 "title": "MotoGP"
             },
-            null,
             {
                 "cat": "Boxing",
                 "channels_data": [
@@ -6347,8 +6339,6 @@
                 "league_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
                 "title": "Monday Night RAW"
             },
-            null,
-            null,
             {
                 "cat": "Football",
                 "channels_data": [
@@ -6499,22 +6489,6 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
                 "title": "FIFA World Cup"
             },
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
             {
                 "cat": "American football",
                 "channels_data": [
@@ -6564,7 +6538,6 @@
                 "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2B-XjE_XmAMVHApLNLFkT5dMqHTEqiUnusyKlAVvHbg&s=10",
                 "title": "NBA"
             },
-            null,
             {
                 "cat": "Cricket",
                 "channels_data": [
@@ -6639,6 +6612,243 @@
                 "id": 1497,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
                 "title": "ICC Women World Twenty20"
+            },
+            {
+                "cat": "Motorsport",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "RALLY TV",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TNT SPORTS 3",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "  +0000",
+                    "eventName": "WRC Rally",
+                    "isHot": "0",
+                    "startTime": "2026/05/28 10:00:00 +0000",
+                    "teamA": "WRC",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
+                    "teamB": "WRC",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image"
+                },
+                "id": 212,
+                "league_logo": "https://img.sofascore.com/api/v1/category/84/image",
+                "title": "WRC Rally"
+            },
+            {
+                "cat": "Boxing",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/01 04:00:00 +0000",
+                    "eventName": "WWE NXT",
+                    "isHot": "0",
+                    "startTime": "2026/07/01 00:00:00 +0000",
+                    "teamA": "WWE NXT",
+                    "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+                    "teamB": "WWE NXT",
+                    "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png"
+                },
+                "id": 72,
+                "league_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+                "title": "WWE NXT"
+            },
+            {
+                "cat": "Boxing",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/04/12 04:00:00 +0000",
+                    "eventName": "TNA iMPACT",
+                    "isHot": "0",
+                    "startTime": "2026/04/11 23:00:00 +0000",
+                    "teamA": "TNA iMPACT",
+                    "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+                    "teamB": "TNA iMPACT",
+                    "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png"
+                },
+                "id": 175,
+                "league_logo": "https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png",
+                "title": "TNA iMPACT"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/27 05:20:00 +0000",
+                    "eventName": "FIFA World Cup",
+                    "isHot": "0",
+                    "startTime": "2026/06/27 03:00:00 +0000",
+                    "teamA": "New Zealand",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+                    "teamB": "Belgium",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image"
+                },
+                "id": 1498,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/26 21:20:00 +0000",
+                    "eventName": "FIFA World Cup",
+                    "isHot": "0",
+                    "startTime": "2026/06/26 19:00:00 +0000",
+                    "teamA": "Norway",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4475/image",
+                    "teamB": "France",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image"
+                },
+                "id": 1499,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/27 02:20:00 +0000",
+                    "eventName": "FIFA World Cup",
+                    "isHot": "0",
+                    "startTime": "2026/06/27 00:00:00 +0000",
+                    "teamA": "Cabo Verde",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4753/image",
+                    "teamB": "Saudi Arabia",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4834/image"
+                },
+                "id": 1500,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/27 02:20:00 +0000",
+                    "eventName": "FIFA World Cup",
+                    "isHot": "0",
+                    "startTime": "2026/06/27 00:00:00 +0000",
+                    "teamA": "Uruguay",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4725/image",
+                    "teamB": "Spain",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image"
+                },
+                "id": 1501,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/26 21:20:00 +0000",
+                    "eventName": "FIFA World Cup",
+                    "isHot": "0",
+                    "startTime": "2026/06/26 19:00:00 +0000",
+                    "teamA": "Senegal",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4739/image",
+                    "teamB": "Iraq",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4767/image"
+                },
+                "id": 1502,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "title": "FIFA World Cup"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/27 05:20:00 +0000",
+                    "eventName": "FIFA World Cup",
+                    "isHot": "0",
+                    "startTime": "2026/06/27 03:00:00 +0000",
+                    "teamA": "Egypt",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4758/image",
+                    "teamB": "Iran",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4766/image"
+                },
+                "id": 1503,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "title": "FIFA World Cup"
             }
         ]
     }
