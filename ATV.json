@@ -5213,7 +5213,7 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "09:35:28 PM 25-06-2026",
+        "Last update time": "09:45:41 PM 25-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
         "Upcoming": "35",
@@ -6925,6 +6925,20 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000292/criclive2506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782423779~acl=/*~id=13523470043820362457388310558584~hmac=3a73bef85e329bf9fa72dfa7a0ba3c9b2dcf63361726bd50e885ab163360982b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "SONYLIV [ASIA]",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://cricgo.cc/alpha/england-vs-new-zealand-test-match/902\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TEST",
+                        "tokenApi": {
+                            "api": "https://cricgo.cc/alpha/england-vs-new-zealand-test-match/902",
+                            "default_string": "N8x7Y%m+6n",
+                            "ip_api": "https://api.ipify.org/",
+                            "link_key": "playback_url",
+                            "request_body_type": "text",
+                            "request_type": "get",
+                            "type": "embed",
+                            "url": "https://cricgo.cc/alpha/england-vs-new-zealand-test-match/902"
+                        }
                     }
                 ],
                 "eventInfo": {
