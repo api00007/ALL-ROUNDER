@@ -5213,10 +5213,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "10:45:32 AM 26-06-2026",
+        "Last update time": "10:55:26 AM 26-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "35",
+        "Upcoming": "37",
         "events": [
             {
                 "cat": "Football",
@@ -11979,6 +11979,54 @@
                 "id": 1511,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
                 "title": "Major League Cricket"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=ok\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/26 17:30:00 +0000",
+                    "eventName": " India in Ireland, 2 T20I Series",
+                    "isHot": "0",
+                    "startTime": "2026/06/26 12:30:00 +0000",
+                    "teamA": "Ireland",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+                    "teamB": "India",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image"
+                },
+                "id": 1512,
+                "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
+                "title": " India in Ireland, 2 T20I Series"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=ok\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/26 21:30:00 +0000",
+                    "eventName": "ICC Women World Twenty20",
+                    "isHot": "0",
+                    "startTime": "2026/06/26 17:30:00 +0000",
+                    "teamA": "Sri lanka Woman",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+                    "teamB": "Scotland Woman",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4695/image"
+                },
+                "id": 1513,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+                "title": "ICC Women World Twenty20"
             }
         ]
     }
