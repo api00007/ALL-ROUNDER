@@ -5710,7 +5710,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "02:40:31 AM 27-06-2026",
+        "Last update time": "03:05:29 AM 27-06-2026",
         "Live": "00",
         "Upcoming": "46",
         "events": [
@@ -6332,6 +6332,11 @@
                         "source": "ivan",
                         "title": "Ivan-FluX",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://lb.xyzcloud3.xyz/FS1/index.m3u8?|Referer=https://xyzstreams.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FS1 (Backup)",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
@@ -6356,6 +6361,11 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://lb.xyzcloud3.xyz/FOX/index.m3u8?|Referer=https://xyzstreams.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FOX (Backup)",
                         "tokenApi": ""
                     }
                 ],
