@@ -5710,7 +5710,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "07:00:50 PM 27-06-2026",
+        "Last update time": "07:05:26 PM 27-06-2026",
         "Live": "00",
         "Upcoming": "48",
         "events": [
@@ -8579,14 +8579,19 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd&k1=b880980108c83068bb8f941995667135&k2=d8a4d58fc53eca1af235fe2b73372115\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "SN DIRECT",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://mainstreams.pro/hls/jkhazabcka36.m3u8?|Referer=https://streamcenter.xyz\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
                     "Status": "Upcoming",
-                    "endTime": "2026/06/27 03:56:00 +0000",
+                    "endTime": "2026/06/27 17:00:00 +0000",
                     "eventName": "NHL",
                     "isHot": "0",
-                    "startTime": "2026/06/26 23:00:00 +0000",
+                    "startTime": "2026/06/27 15:00:00 +0000",
                     "teamA": "NHL Draft",
                     "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpZN3oQLnhRHebmE5HNJKkoJV-MvmfeNWU0oo3rWlCQ&s=10",
                     "teamB": "NHL Draft",
@@ -8642,18 +8647,18 @@
                     }
                 ],
                 "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/06/27 16:00:00 +0000",
+                    "Status": "Live",
+                    "endTime": "2026/06/27 18:00:00 +0000",
                     "eventName": "UFC",
                     "isHot": "0",
-                    "startTime": "2026/06/27 15:00:00 +0000",
+                    "startTime": "2026/06/27 13:00:00 +0000",
                     "teamA": "R. Fiziev",
                     "teamAFlag": "https://img.sofascore.com/api/v1/team/466919/image",
                     "teamB": "M. Torres",
                     "teamBFlag": "https://img.sofascore.com/api/v1/team/467325/image"
                 },
                 "id": 1536,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+                "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
                 "title": "UFC"
             },
             {
