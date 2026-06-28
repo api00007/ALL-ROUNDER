@@ -2,74 +2,104 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "28/06/26 19:33:22 IST",
-    "Total_Matches": 11,
+    "Last update": "28/06/26 19:51:00 IST",
+    "Total_Matches": 16,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Sandviken vs Helsingborg",
+            "Title": "Sweden Superettan 16:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/VSSSSQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Banga vs Hegelmann",
+            "Title": "Lithuania Toplyga 16:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/VSSSSQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Dnepr Mogilev vs Neman",
+            "Title": "Belarus Vysshaya Liga 16:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/VSSSSQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
+            "Rivels": "Austria U19 W vs Iceland U19 W",
+            "Title": "Euro U19 16:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/VSSSSQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
+            "Rivels": "France vs Japan",
+            "Title": "Volleyball Nations League 16:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/VSSSSQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "6",
+            "Rivels": "Canada vs Brazil",
+            "Title": "Volleyball Nations League 15:30 (S-1)",
+            "Link": "http://193.47.62.42/hls/VSSSSQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
+            "Rivels": "Belgium vs Turkey",
+            "Title": "Volleyball Nations League 15:30 (S-1)",
+            "Link": "http://193.47.62.42/hls/VSSSS.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "8",
             "Rivels": "Wakefield vs Huddersfield",
             "Title": "English Rugby Super League 15:00 (S-1)",
             "Link": "http://193.47.62.42/hls/kdddqqqqqq.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "9",
             "Rivels": "Saracens W vs Trailfinders W",
             "Title": "English Premiership Rugby 15:00 (S-1)",
             "Link": "http://193.47.62.42/hls/RKKK.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "10",
             "Rivels": "Umea FC vs Jarfalla",
             "Title": "Sweden Division 1 15:00 (S-1)",
             "Link": "http://193.47.62.42/hls/kdddqqqqq.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
-            "Rivels": "Breidablik vs Vikingur Reykjavik",
-            "Title": "Iceland Cup 15:00 (S-1)",
-            "Link": "http://193.47.62.42/hls/kdddqqqq.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "5",
-            "Rivels": "Klaksvik vs 07 Vestur Sorvagur",
-            "Title": "Faroe Islands Premier League 15:00 (S-1)",
-            "Link": "http://193.47.62.42/hls/kdddqqq.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "6",
-            "Rivels": "Streymur vs B36 Torshavn",
-            "Title": "Faroe Islands Premier League 15:00 (S-1)",
-            "Link": "http://193.47.62.42/hls/kdddqq.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "7",
-            "Rivels": "Kalju vs Paide",
-            "Title": "Estonia Meistriliiga 15:00 (S-1)",
-            "Link": "http://193.47.62.42/hls/kdddq.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "8",
+            "Id": "11",
             "Rivels": "Zhenis vs FC Astana",
             "Title": "Kazakhstan Premier League 15:00 (S-1)",
             "Link": "http://193.47.62.42/hls/kddd.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "9",
-            "Rivels": "Molde vs Bodo Glimt",
-            "Title": "Friendly Match 14:45 (S-1)",
-            "Link": "http://193.47.62.42/hls/ikikik.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "12",
+            "Rivels": "Ireland vs India",
+            "Title": "Cricket T20 13:30 (S-1)",
+            "Link": "http://193.47.62.42/hls/FIIIQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "10",
-            "Rivels": "Australia W vs India W",
-            "Title": "Cricket T20 World Cup 14:30 (S-1)",
-            "Link": "http://193.47.62.42/hls/AAAAA.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "13",
+            "Rivels": "Switzerland U19 W vs Spain U19 W",
+            "Title": "Euro U19 13:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/FIIIQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "11",
-            "Rivels": "Norrkoping vs Norrby",
-            "Title": "Sweden Superettan 14:00 (S-1)",
-            "Link": "http://193.47.62.42/hls/YIIIZZZZ.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "14",
+            "Rivels": "Ertis Pavlodar vs Kaisar Kyzylorda",
+            "Title": "Kazakhstan Premier League 13:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/FIIIQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "15",
+            "Rivels": "Iran vs Cuba",
+            "Title": "Volleyball Nations League 12:30 (S-1)",
+            "Link": "http://193.47.62.42/hls/FIIIQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
+            "Rivels": "Golf Open d'Italia",
+            "Title": "Golf 11:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/bbbbZQQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
