@@ -5580,9 +5580,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:40:34 PM 29-06-2026",
+        "Last update time": "04:50:34 PM 29-06-2026",
         "Live": "00",
-        "Upcoming": "34",
+        "Upcoming": "35",
         "events": [
             {
                 "cat": "Cricket",
@@ -16339,6 +16339,31 @@
                 "id": 1580,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
                 "title": "MLB"
+            },
+            {
+                "cat": "Tennis",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/06/29 13:00:00 +0000",
+                    "eventName": "Wimbledon",
+                    "isHot": "0",
+                    "startTime": "2026/06/29 10:00:00 +0000",
+                    "teamA": "Wimbledon",
+                    "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2361/image/dark",
+                    "teamB": "Wimbledon",
+                    "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2361/image/dark"
+                },
+                "id": 1581,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2361/image/dark",
+                "title": "Wimbledon"
             }
         ]
     }
