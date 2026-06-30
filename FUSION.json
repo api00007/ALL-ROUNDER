@@ -5710,7 +5710,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:55:24 AM 01-07-2026",
+        "Last update time": "04:00:54 AM 01-07-2026",
         "Live": "00",
         "Upcoming": "44",
         "events": [
@@ -6125,6 +6125,11 @@
             {
                 "cat": "Football",
                 "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://stream.video.9c9media.com/MTc4MjY3ODM4MV9mOTE3ZWU2NjM3M2RjOGIwODkzMmFjNzY1Yzg4NTU5ZmUyOTQyMjgyMDFiNjVlNjcyNDAzMjk4YjdhNjg4ODM4/d/tsn/tsn1a/manifest.mpd?mcv=false&stt=true&mca=true&filter=fe&pnkh=MTc4MjY3ODM4MV9mOTE3ZWU2NjM3M2RjOGIwODkzMmFjNzY1Yzg4NTU5ZmUyOTQyMjgyMDFiNjVlNjcyNDAzMjk4YjdhNjg4ODM4&u=li&dolbyvision=false&hdr10=false&mta=false&ck=eyJkZDhmMGY4YThlNmY0Njc0OWJkYjg5YjIwYTMyZjA0MCI6ImM1ZjhhZTIzMGM2NzM4Yjk4MGNiNTI3NjRhNDEyNzhjIiwiYzRkZWM2ZDQ2NzBhNTgxODlhNDcxNjQzMjcwYzZhOWEiOiJjNWY4YWUyMzBjNjczOGI5ODBjYjUyNzY0YTQxMjc4YyIsIjllNmQ5NmY0NTA5NjVjNmJiODAwODEyOTBiYTA2NjA1IjoiYzVmOGFlMjMwYzY3MzhiOTgwY2I1Mjc2NGE0MTI3OGMifQ%3D%3D&k1=dd8f0f8a8e6f46749bdb89b20a32f040&k2=c5f8ae230c6738b980cb52764a41278c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN DIRECT",
+                        "tokenApi": ""
+                    },
                     {
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd&k1=adca25b8779e4168a0cd710f59f61ccf&k2=be5383ed3cd8079f4ffe78ad067f476a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
@@ -6969,6 +6974,16 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Link 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.42/hls/IEEEQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 2",
                         "tokenApi": ""
                     }
                 ],
