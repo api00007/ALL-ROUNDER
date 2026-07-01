@@ -2,8 +2,8 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "01/07/26 23:32:07 IST",
-    "Total_Matches": 32,
+    "Last update": "01/07/26 23:43:15 IST",
+    "Total_Matches": 57,
     "Live_Data": [
         {
             "Id": "1",
@@ -67,135 +67,285 @@
         },
         {
             "Id": "11",
+            "Rivels": "England vs DR Congo --- HD 1",
+            "Title": "FIFA World Cup 18:00 (S-1)",
+            "Link": "https://www.rtmpcdn.com/live/cctv5.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "12",
+            "Rivels": "England vs DR Congo --- SWAHILI",
+            "Title": "FIFA World Cup 18:00 (S-1)",
+            "Link": "http://193.47.62.47/hls/HXCZckkk.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "13",
+            "Rivels": "England vs DR Congo --- SWAHILI",
+            "Title": "FIFA World Cup 18:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/HXCZckkk.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "14",
+            "Rivels": "England vs DR Congo --- SWAHILI",
+            "Title": "FIFA World Cup 18:00 (S-3)",
+            "Link": "http://193.47.62.51/hls/HXCZckkk.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "15",
+            "Rivels": "England vs DR Congo --- SWAHILI",
+            "Title": "FIFA World Cup 18:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/HXCZckkk.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
+            "Rivels": "England vs DR Congo --- FR",
+            "Title": "FIFA World Cup 18:00 (S-1)",
+            "Link": "http://193.47.62.47/hls/HXCZckkkq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "17",
+            "Rivels": "England vs DR Congo --- FR",
+            "Title": "FIFA World Cup 18:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/HXCZckkkq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "18",
+            "Rivels": "England vs DR Congo --- FR",
+            "Title": "FIFA World Cup 18:00 (S-3)",
+            "Link": "http://193.47.62.51/hls/HXCZckkkq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "19",
+            "Rivels": "England vs DR Congo --- FR",
+            "Title": "FIFA World Cup 18:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/HXCZckkkq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "20",
+            "Rivels": "England vs DR Congo --- SWE",
+            "Title": "FIFA World Cup 18:00 (S-1)",
+            "Link": "http://193.47.62.47/hls/HXCZckkkqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "21",
+            "Rivels": "England vs DR Congo --- SWE",
+            "Title": "FIFA World Cup 18:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/HXCZckkkqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "22",
+            "Rivels": "England vs DR Congo --- SWE",
+            "Title": "FIFA World Cup 18:00 (S-3)",
+            "Link": "http://193.47.62.51/hls/HXCZckkkqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "23",
+            "Rivels": "England vs DR Congo --- SWE",
+            "Title": "FIFA World Cup 18:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/HXCZckkkqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "24",
+            "Rivels": "England vs DR Congo --- NL",
+            "Title": "FIFA World Cup 18:00 (S-1)",
+            "Link": "http://193.47.62.47/hls/HXCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "25",
+            "Rivels": "England vs DR Congo --- NL",
+            "Title": "FIFA World Cup 18:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/HXCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "26",
+            "Rivels": "England vs DR Congo --- NL",
+            "Title": "FIFA World Cup 18:00 (S-3)",
+            "Link": "http://193.47.62.51/hls/HXCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "27",
+            "Rivels": "England vs DR Congo --- NL",
+            "Title": "FIFA World Cup 18:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/HXCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "28",
+            "Rivels": "England vs DR Congo --- ES",
+            "Title": "FIFA World Cup 18:00 (S-1)",
+            "Link": "http://193.47.62.47/hls/HXCZckkkqqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "29",
+            "Rivels": "England vs DR Congo --- ES",
+            "Title": "FIFA World Cup 18:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/HXCZckkkqqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "30",
+            "Rivels": "England vs DR Congo --- ES",
+            "Title": "FIFA World Cup 18:00 (S-3)",
+            "Link": "http://193.47.62.51/hls/HXCZckkkqqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "31",
+            "Rivels": "England vs DR Congo --- ES",
+            "Title": "FIFA World Cup 18:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/HXCZckkkqqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "32",
+            "Rivels": "England vs DR Congo --- AR",
+            "Title": "FIFA World Cup 18:00 (S-1)",
+            "Link": "http://193.47.62.47/hls/HXCZckkkqr.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "33",
+            "Rivels": "England vs DR Congo --- AR",
+            "Title": "FIFA World Cup 18:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/HXCZckkkqr.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "34",
+            "Rivels": "England vs DR Congo --- AR",
+            "Title": "FIFA World Cup 18:00 (S-3)",
+            "Link": "http://193.47.62.51/hls/HXCZckkkqr.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "35",
+            "Rivels": "England vs DR Congo --- AR",
+            "Title": "FIFA World Cup 18:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/HXCZckkkqr.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "36",
+            "Rivels": "England vs DR Congo --- IR",
+            "Title": "FIFA World Cup 18:00 (S-1)",
+            "Link": "https://cp11.adabmedia.com/hls2/sport.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "37",
+            "Rivels": "England vs DR Congo --- CN HD",
+            "Title": "FIFA World Cup 18:00 (S-1)",
+            "Link": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "38",
+            "Rivels": "HFX Wanderers vs Atl Ottawa",
+            "Title": "Canada Premier League 21:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/HAAAQQqQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "39",
             "Rivels": "Toronto Blue Jays vs New York Mets",
             "Title": "MLB Baseball 20:07 (S-1)",
             "Link": "http://193.47.62.42/hls/HAAAQQqQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "12",
+            "Id": "40",
             "Rivels": "Wales U19 vs Germany U19",
             "Title": "Euro U19 20:00 (S-1)",
             "Link": "http://193.47.62.42/hls/HAAAQQqQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "13",
+            "Id": "41",
             "Rivels": "Limache vs Coquimbo",
             "Title": "Chile Copa 20:00 (S-1)",
             "Link": "http://193.47.62.42/hls/HAAAQQqQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "14",
+            "Id": "42",
             "Rivels": "Chicago Cubs vs San Diego Padres",
             "Title": "MLB Baseball 19:20 (S-1)",
             "Link": "http://193.47.62.42/hls/HAAAQQq.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "15",
+            "Id": "43",
             "Rivels": "New York Yankees vs Detroit Tigers",
             "Title": "MLB Baseball 18:35 (S-1)",
             "Link": "http://193.47.62.42/hls/RAAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "16",
+            "Id": "44",
             "Rivels": "Boston Red Sox vs Washington Nationals",
             "Title": "MLB Baseball 18:35 (S-1)",
             "Link": "http://193.47.62.42/hls/RAAAAQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "17",
+            "Id": "45",
             "Rivels": "Slavia Mozyr vs ML Vitebsk",
             "Title": "Belarus Vysshaya Liga 18:30 (S-1)",
             "Link": "http://193.47.62.42/hls/HAAAQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "18",
+            "Id": "46",
             "Rivels": "Cleveland Guardians vs Texas Rangers",
             "Title": "MLB Baseball 18:10 (S-1)",
             "Link": "http://193.47.62.42/hls/RAAAAQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "19",
+            "Id": "47",
             "Rivels": "Eskilsminne vs Kristianstad",
             "Title": "Sweden Division 1 18:00 (S-1)",
             "Link": "http://193.47.62.42/hls/RAAAAQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "20",
+            "Id": "48",
             "Rivels": "Forge vs Vancouver FC",
             "Title": "Canada Premier League 18:00 (S-1)",
             "Link": "http://193.47.62.42/hls/RAAAAQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "21",
+            "Id": "49",
             "Rivels": "Denmark U19 vs Spain U19",
             "Title": "Euro U19 18:00 (S-1)",
             "Link": "http://193.47.62.42/hls/RAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "22",
+            "Id": "50",
             "Rivels": "Baltimore Orioles vs Chicago White Sox",
             "Title": "MLB Baseball 17:35 (S-1)",
             "Link": "http://193.47.62.42/hls/lrrrQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "23",
+            "Id": "51",
             "Rivels": "England vs India",
             "Title": "Cricket T20 17:30 (S-1)",
             "Link": "http://193.47.62.42/hls/HAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "24",
+            "Id": "52",
             "Rivels": "Omonia vs Dinamo Bucuresti",
             "Title": "Friendly Match 17:30 (S-1)",
             "Link": "http://193.47.62.42/hls/HAAAQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "25",
-            "Rivels": "Celje vs Hajduk Split",
-            "Title": "Friendly Match 17:15 (S-1)",
-            "Link": "https://pul-tenm.gkykp.com/live/sd-1-4564490.m3u8?txSecret=a9dc4b9ec706f56c16408310bf46a42e&txTime=6A468B00|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "26",
-            "Rivels": "HJK vs Ilves",
-            "Title": "Finland Cup 17:00 (S-1)",
-            "Link": "http://193.47.62.42/hls/lrrrQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "27",
-            "Rivels": "Iberia 1999 vs Torpedo Kutaisi",
-            "Title": "Georgia Cup 17:00 (S-1)",
-            "Link": "http://193.47.62.42/hls/lrrrQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "28",
-            "Rivels": "Dinamo Tbilisi vs Dila Gori",
-            "Title": "Georgia Cup 17:00 (S-1)",
-            "Link": "http://193.47.62.42/hls/lrrrQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "29",
-            "Rivels": "Winterthur vs St Gallen",
-            "Title": "Friendly Match 17:00 (S-1)",
-            "Link": "https://pul-tenm.gkykp.com/live/sd-1-4565246.m3u8?txSecret=ed78a94b7cd3a95b09109ba85a55ca53&txTime=6A468B00|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "30",
-            "Rivels": "Ferencvaros vs Qarabag",
-            "Title": "Friendly Match 16:30 (S-1)",
-            "Link": "https://pul-tenm.gkykp.com/live/sd-1-4565290.m3u8?txSecret=c72cd66aee475ee046afe7c865ced833&txTime=6A468F38|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "31",
+            "Id": "53",
             "Rivels": "Tennis Wimbledon --- Center Court",
             "Title": "Tennis Masters 13:00 (S-1)",
             "Link": "http://193.47.62.42/hls/EGRGGG.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "32",
+            "Id": "54",
             "Rivels": "Tennis Wimbledon --- Court 1",
             "Title": "Tennis Masters 11:00 (S-1)",
             "Link": "http://193.47.62.42/hls/EGRGGGQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "55",
+            "Rivels": "Tennis Wimbledon --- Court 2",
+            "Title": "Tennis Masters 11:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/FQQQZZZZZZZZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "56",
+            "Rivels": "Tennis Wimbledon --- Court 12",
+            "Title": "Tennis Masters 11:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/FQQQZZZZZZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "57",
+            "Rivels": "Tennis Wimbledon --- Court 18",
+            "Title": "Tennis Masters 11:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/FQQQZZZZZZ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
