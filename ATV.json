@@ -5213,7 +5213,7 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "04:31:10 AM 03-07-2026",
+        "Last update time": "04:45:37 AM 03-07-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
         "Upcoming": "38",
@@ -8231,13 +8231,6 @@
             },
             {
                 "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/20 21:30:00 +0000",
@@ -15648,13 +15641,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/30 04:40:00 +0000",
@@ -16424,6 +16410,41 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "BTV BDIX HD",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "PTV SPORTS SD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd&k1=10e2114398744f3880cc96653568da55&k2=d6d40441f9fbebea03ec64c4aea7211f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "UNiFy TV (IND)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd&k1=1cb20afcd9d979c833cfd208c7d3eeb2&k2=fef0c15b4a523370892edd5e4133c269\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FUSSBALL TV (GER)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd&k1=c1a0ac1044a433d0856ccdc08f245084&k2=7f0e8800a6d63d7915ac181bb88ce813\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "ZDF (GERMAN IP)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd&k1=429bcf031bbf3146a67f3f583e4c4355&k2=d1b92aba5a38a518c8b8a1fd2bca4398\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "ORF (GERMAN IP)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&k1=7d6bb9f86e133e4cb33440b493b6b672&k2=584ad285dcb9e7d42cf3e93f1cc3fe11\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Telemundo ES (USA)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&k1=ce7ab3022e753307997f58afe001bac4&k2=72d631a66e635c60829a0fe7705516c1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TELEMUNDO (USA)",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
@@ -16563,13 +16584,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/01 02:15:00 +0000",
@@ -16587,13 +16601,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/01 02:40:00 +0000",
@@ -16757,8 +16764,8 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=ok\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "MLB HD",
                         "tokenApi": ""
                     }
                 ],
@@ -16779,13 +16786,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/03 05:10:00 +0000",
@@ -16820,13 +16820,6 @@
             },
             {
                 "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/03 02:00:00 +0000",
@@ -16844,13 +16837,6 @@
             },
             {
                 "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/03 02:30:00 +0000",
