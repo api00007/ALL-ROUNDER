@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "02/07/26 10:51:21 IST",
-    "Total_Matches": 9,
+    "Last update": "02/07/26 11:31:56 IST",
+    "Total_Matches": 11,
     "Live_Data": [
         {
             "Id": "1",
@@ -48,15 +48,27 @@
         },
         {
             "Id": "8",
+            "Rivels": "Seattle Mariners vs Los Angeles Angels",
+            "Title": "MLB (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/7603564416/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "9",
             "Rivels": "Washington Mystics vs Atlanta Dream",
             "Title": "WNBA (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/6858075336/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "9",
+            "Id": "10",
             "Rivels": "Connecticut Sun vs Dallas Wings",
             "Title": "WNBA (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/7604333632/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "11",
+            "Rivels": "Phoenix Mercury vs Seattle Storm",
+            "Title": "WNBA (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/6858080992/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         }
     ]
 }
