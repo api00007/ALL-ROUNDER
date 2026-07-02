@@ -5213,10 +5213,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "09:40:42 PM 02-07-2026",
+        "Last update time": "10:10:41 PM 02-07-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "38",
+        "Upcoming": "39",
         "events": [
             {
                 "cat": "Football",
@@ -15560,13 +15560,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/30 01:40:00 +0000",
@@ -16652,6 +16645,30 @@
                 "id": 1627,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
                 "title": "CFL"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/01 14:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/07/01 12:00:00 +0000",
+                    "teamA": "Lokomotiv Sofia",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3277/image",
+                    "teamB": "FC Botoșani",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/24798/image"
+                },
+                "id": 1628,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
             }
         ]
     }
