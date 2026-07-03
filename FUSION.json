@@ -6247,7 +6247,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:25:27 AM 04-07-2026",
+        "Last update time": "04:31:05 AM 04-07-2026",
         "Live": "00",
         "Upcoming": "41",
         "events": [
@@ -7784,9 +7784,27 @@
                 "cat": "Cricket",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "SKY CRICKET FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8uje9qedxo/out/v1/211d62684601493ca85da522b5022450/cenc.mpd&k1=a445b299311555ab106e6332d300c0de&k2=e50269ebb380c00186b07fcfed0adb00\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW ALT",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://starhub.pro/live/Anthony2/Anthony123/124284.ts\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "START SPORTS",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8uje9qedxo/out/v1/211d62684601493ca85da522b5022450/cenc.mpd&k1=a445b299311555ab106e6332d300c0de&k2=e50269ebb380c00186b07fcfed0adb00\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW FHD",
                         "tokenApi": ""
                     }
                 ],
@@ -8249,14 +8267,20 @@
                 "cat": "Basketball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1",
                         "tokenApi": ""
                     },
                     {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Stream 1",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|Referer=https://instream.click/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FAST SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -8602,6 +8626,23 @@
                 "id": 1640,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
                 "title": "MLB"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/07/04 05:05:00 +0000",
+                    "eventName": "Boxing",
+                    "isHot": "0",
+                    "startTime": "2026/07/03 23:00:00 +0000",
+                    "teamA": "BKFC Liberty Brawl",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9AdeOsy_9Vkw1v0d4X9DEbZqr020Jsla3iitPu7Wog&s=10",
+                    "teamB": "BKFC Liberty Brawl",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9AdeOsy_9Vkw1v0d4X9DEbZqr020Jsla3iitPu7Wog&s=10"
+                },
+                "id": 318,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphrEmi0xvZHQYN2jcQ2b3E79GuW-QD3sYK6vmFmBz8w&s=10",
+                "title": "Boxing"
             }
         ]
     }
