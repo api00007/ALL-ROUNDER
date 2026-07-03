@@ -5965,8 +5965,13 @@
                     {
                         "is_playlist": false,
                         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPL4uyD8gOzNTRp67HBkVBR8yQcObMALRnaqFRwwrwPA&s=10",
-                        "name": "USA Documentaries",
+                        "name": "USA Documentary",
                         "stream_links": [
+                            {
+                                "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a39_AandE_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "AandE",
+                                "tokenApi": ""
+                            },
                             {
                                 "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a74_ANIMAL_PLANET_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                                 "name": "Animal Planet",
@@ -6016,6 +6021,16 @@
                                 "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a88_Smithsonian_Channel_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                                 "name": "Smithsonian Channel",
                                 "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-1-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a102_Travel_Channel_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Travel Channel",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a90_ViceLand_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Vice TV",
+                                "tokenApi": ""
                             }
                         ],
                         "visible": true
@@ -6030,7 +6045,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:00:53 PM 03-07-2026",
+        "Last update time": "04:05:29 PM 03-07-2026",
         "Live": "00",
         "Upcoming": "41",
         "events": [
