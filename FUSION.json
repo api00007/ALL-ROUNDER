@@ -6311,6 +6311,24 @@
                                 "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a29_USA_Network_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                                 "name": "USA Network",
                                 "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a76_VH1_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "VH1",
+                                "tokenApi": ""
+                            }
+                        ],
+                        "visible": true
+                    },
+                    {
+                        "is_playlist": false,
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkB9KupUDyRnpbYuTGPVbJawfykz4XzpDWLRcHEMJbA&s=10",
+                        "name": "USA Kids",
+                        "stream_links": [
+                            {
+                                "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://inproviszon.st/disneychannel-usa.m3u8?|Referer=https://vileembeds.pages.dev/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Disney Channel",
+                                "tokenApi": ""
                             }
                         ],
                         "visible": true
@@ -6325,7 +6343,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:10:41 PM 04-07-2026",
+        "Last update time": "04:20:40 PM 04-07-2026",
         "Live": "00",
         "Upcoming": "44",
         "events": [
