@@ -5955,6 +5955,21 @@
                                 "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://23.237.104.106:8080/USA_BEIN/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                                 "name": "BeIN Sports",
                                 "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://23.237.104.106:8080/USA_BTN/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "BTN Network",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://23.237.104.106:8080/USA_NBA/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "NBA Channel",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "NFL Network",
+                                "tokenApi": ""
                             }
                         ],
                         "visible": true
@@ -6466,7 +6481,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "06:25:28 PM 06-07-2026",
+        "Last update time": "06:33:03 PM 06-07-2026",
         "Live": "00",
         "Upcoming": "38",
         "events": [
