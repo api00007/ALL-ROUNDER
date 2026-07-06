@@ -6496,7 +6496,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "07:22:18 PM 06-07-2026",
+        "Last update time": "07:26:16 PM 06-07-2026",
         "Live": "00",
         "Upcoming": "38",
         "events": [
@@ -7964,6 +7964,45 @@
                 "id": 1648,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
                 "title": "MLB"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://inproviszon.st/pdc-1.m3u8?|Referer=https://vileembeds.pages.dev/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Board 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://inproviszon.st/pdc-2.m3u8?|Referer=https://vileembeds.pages.dev/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Board 2",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://inproviszon.st/pdc-3.m3u8?|Referer=https://vileembeds.pages.dev/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Board 3",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://inproviszon.st/pdc-4.m3u8?|Referer=https://vileembeds.pages.dev/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Board 4",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/07/06 18:03:00 +0000",
+                    "eventName": "Darts",
+                    "isHot": "0",
+                    "startTime": "2026/07/06 14:03:00 +0000",
+                    "teamA": "PDC Players Championship 23",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJf-ZaydX1chtWOi-UCHcCN6fzFltGXT7JMLSaANJg4w&s=10",
+                    "teamB": "PDC Players Championship 23",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJf-ZaydX1chtWOi-UCHcCN6fzFltGXT7JMLSaANJg4w&s=10"
+                },
+                "id": 940,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkBOlfhrnSJZsTV99K7FDz6heUVKVhCGZi1xy8349HEA&s",
+                "title": "Darts"
             }
         ]
     }
