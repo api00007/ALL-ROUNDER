@@ -6496,9 +6496,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "09:05:29 PM 08-07-2026",
+        "Last update time": "09:10:57 PM 08-07-2026",
         "Live": "00",
-        "Upcoming": "39",
+        "Upcoming": "41",
         "events": [
             {
                 "cat": "Motorsport",
@@ -7957,7 +7957,7 @@
                     "endTime": "2026/07/08 17:20:00 +0000",
                     "eventName": " UEFA Champions League",
                     "isHot": "0",
-                    "startTime": "2026/07/08 15:15:00 +0000",
+                    "startTime": "2026/07/08 15:00:00 +0000",
                     "teamA": "Kairat",
                     "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/aodqsiCEdeLsuZJXjZNNxw_48x48.png",
                     "teamB": "Sutjeska",
@@ -8079,6 +8079,68 @@
                 "id": 685,
                 "league_logo": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
                 "title": "UEFA Conference League"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SportDigital FUSSBALL",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.42/hls/YUYUYUQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/08 17:50:00 +0000",
+                    "eventName": "U19 European Championship",
+                    "isHot": "0",
+                    "startTime": "2026/07/08 15:30:00 +0000",
+                    "teamA": "Spain U19",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+                    "teamB": "Croatia U19",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image"
+                },
+                "id": 1701,
+                "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/258/image",
+                "title": "U19 European Championship"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SportDigital FUSSBALL",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.42/hls/ZEZEZEQQQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/08 20:20:00 +0000",
+                    "eventName": "U19 European Championship",
+                    "isHot": "0",
+                    "startTime": "2026/07/08 18:00:00 +0000",
+                    "teamA": "Germany U19",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
+                    "teamB": "Ukraine U19",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/22568/image"
+                },
+                "id": 1702,
+                "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/258/image",
+                "title": "U19 European Championship"
             }
         ]
     }
