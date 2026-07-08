@@ -6491,7 +6491,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:01:17 AM 09-07-2026",
+        "Last update time": "04:05:28 AM 09-07-2026",
         "Live": "00",
         "Upcoming": "41",
         "events": [
@@ -8356,6 +8356,52 @@
                 "id": 823,
                 "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7N8JiK3cbjUPgHZGIMMsIC2UXHqJ5zto-A4zmqT5qQ&s",
                 "title": "Racing "
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/09 01:45:00 +0000",
+                    "eventName": "Racing",
+                    "isHot": "0",
+                    "startTime": "2026/07/08 22:45:00 +0000",
+                    "teamA": "Stateline Speedway ",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs4pv8280rRdXnnPhXqShXWaQaSCP01LlV_W-Yi2zIg&s",
+                    "teamB": "Stateline Speedway ",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs4pv8280rRdXnnPhXqShXWaQaSCP01LlV_W-Yi2zIg&s"
+                },
+                "id": 663,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs4pv8280rRdXnnPhXqShXWaQaSCP01LlV_W-Yi2zIg&s",
+                "title": "Racing"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a28_TBS_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://pacquiao.inproviszon.st/tbs-usa.m3u8?|Referer=https://ritzembeds.pages.dev/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 2",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/09 03:00:00 +0000",
+                    "eventName": "Wrrestling",
+                    "isHot": "0",
+                    "startTime": "2026/07/09 00:00:00 +0000",
+                    "teamA": "AEW Dynamite",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDFRONY6n32EMXRrQIFLILsxlZNZZd9P2_wzenVSShlA&s=10",
+                    "teamB": "AEW Dynamite",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDFRONY6n32EMXRrQIFLILsxlZNZZd9P2_wzenVSShlA&s=10"
+                },
+                "id": 792,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpogU62Rpw8DOJHVOc8l88hZBOell9O-E2JXVsRrxjlA&s=10",
+                "title": "Wrrestling"
             }
         ]
     }
