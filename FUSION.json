@@ -6491,7 +6491,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:05:28 AM 09-07-2026",
+        "Last update time": "04:15:36 AM 09-07-2026",
         "Live": "00",
         "Upcoming": "41",
         "events": [
@@ -7105,6 +7105,11 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Link 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1",
                         "tokenApi": ""
                     }
                 ],
@@ -8359,6 +8364,13 @@
             },
             {
                 "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://pacquiao.inproviszon.st/dirtvision-3.m3u8?|Referer=https://ritzembeds.pages.dev/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1",
+                        "tokenApi": ""
+                    }
+                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/09 01:45:00 +0000",
@@ -8402,6 +8414,30 @@
                 "id": 792,
                 "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpogU62Rpw8DOJHVOc8l88hZBOell9O-E2JXVsRrxjlA&s=10",
                 "title": "Wrrestling"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://pacquiao.inproviszon.st/dirtvision-4.m3u8?|Referer=https://ritzembeds.pages.dev/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/09 01:00:00 +0000",
+                    "eventName": "Racing",
+                    "isHot": "0",
+                    "startTime": "2026/07/08 23:00:00 +0000",
+                    "teamA": "I-96 Speedway",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1C00FNDh_0rUSDb0wnow7-30OVrEn50891BVwQG4T5A&s=10",
+                    "teamB": "I-96 Speedway",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1C00FNDh_0rUSDb0wnow7-30OVrEn50891BVwQG4T5A&s=10"
+                },
+                "id": 262,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1C00FNDh_0rUSDb0wnow7-30OVrEn50891BVwQG4T5A&s=10",
+                "title": "Racing"
             }
         ]
     }
