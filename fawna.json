@@ -2,8 +2,8 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "09/07/26 02:02:43 IST",
-    "Total_Matches": 2,
+    "Last update": "09/07/26 02:13:01 IST",
+    "Total_Matches": 4,
     "Live_Data": [
         {
             "Id": "1",
@@ -13,9 +13,21 @@
         },
         {
             "Id": "2",
+            "Rivels": "Flamengo RJ vs Lausanne",
+            "Title": "Friendly Match 20:30 (S-1)",
+            "Link": "http://193.47.62.42/hls/ZRRRq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
             "Rivels": "CS Saint-Laurent vs Forge",
             "Title": "Canada Championship 20:00 (S-1)",
             "Link": "http://193.47.62.42/hls/ZRZRZRQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
+            "Rivels": "FAR Rabat vs Stade Marocain",
+            "Title": "Morocco Botola Pro 20:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/ZRZRZR.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
