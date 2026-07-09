@@ -2,8 +2,8 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "10/07/26 03:50:35 IST",
-    "Total_Matches": 18,
+    "Last update": "10/07/26 04:08:14 IST",
+    "Total_Matches": 31,
     "Live_Data": [
         {
             "Id": "1",
@@ -37,81 +37,159 @@
         },
         {
             "Id": "6",
-            "Rivels": "France vs Morocco --- FR HD 2",
+            "Rivels": "France vs Morocco --- ENG ITV",
             "Title": "FIFA World Cup 21:00 (S-1)",
-            "Link": "https://live2.jxa76.com/live/hd-en-6MvYMRTH6adAYXEbNs.m3u8?txSecret=3721a979a7232f749a4cbb5e096f2a26&txTime=19F49B7B2F9|referer=http://www.fawanews.sc/"
+            "Link": "http://193.47.62.47/hls/VQJMMMCZzsssp.m3u8|referer=http://www.fawanews.sc/"
         },
         {
             "Id": "7",
+            "Rivels": "France vs Morocco --- ENG ITV",
+            "Title": "FIFA World Cup 21:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/VQJMMMCZzsssp.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "8",
+            "Rivels": "France vs Morocco --- ENG ITV",
+            "Title": "FIFA World Cup 21:00 (S-3)",
+            "Link": "http://193.47.62.51/hls/VQJMMMCZzsssp.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "9",
+            "Rivels": "France vs Morocco --- ENG ITV",
+            "Title": "FIFA World Cup 21:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/VQJMMMCZzsssp.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "10",
+            "Rivels": "France vs Morocco --- ENG ITV",
+            "Title": "FIFA World Cup 21:00 (S-5)",
+            "Link": "http://193.47.62.42/hls/VQJMMMCZzsssp.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "11",
+            "Rivels": "France vs Morocco --- ENG HD Adaptative",
+            "Title": "FIFA World Cup 21:00 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6MvYMRTH6adAYXEbNs.m3u8?txSecret=a245b174d99051232fcfacbacec041a6&txTime=19F49B7B2F8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "12",
+            "Rivels": "France vs Morocco --- ENG HD",
+            "Title": "FIFA World Cup 21:00 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6MvYMRTH6adAYXEbNs.m3u8?txSecret=a245b174d99051232fcfacbacec041a6&txTime=19F49B7B2F8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "13",
+            "Rivels": "France vs Morocco --- Sat Feed HD",
+            "Title": "FIFA World Cup 21:00 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6MvYMRTH6adAYXEbNs.m3u8?txSecret=a245b174d99051232fcfacbacec041a6&txTime=19F49B7B2F8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "14",
+            "Rivels": "France vs Morocco --- FR HD",
+            "Title": "FIFA World Cup 21:00 (S-1)",
+            "Link": "https://pul-tenm.gkykp.com/live/hd-en-1-4459808.m3u8?txSecret=43571d3e66004e95d1cf4bd9f980dc45&txTime=6A513488|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "15",
+            "Rivels": "France vs Morocco --- FR",
+            "Title": "FIFA World Cup 21:00 (S-1)",
+            "Link": "http://193.47.62.47/hls/VQJMMMCZckkkq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
+            "Rivels": "France vs Morocco --- FR",
+            "Title": "FIFA World Cup 21:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/VQJMMMCZckkkq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "17",
+            "Rivels": "France vs Morocco --- FR",
+            "Title": "FIFA World Cup 21:00 (S-3)",
+            "Link": "http://193.47.62.51/hls/VQJMMMCZckkkq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "18",
+            "Rivels": "France vs Morocco --- FR",
+            "Title": "FIFA World Cup 21:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/VQJMMMCZckkkq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "19",
             "Rivels": "France vs Morocco --- AR",
             "Title": "FIFA World Cup 21:00 (S-1)",
             "Link": "http://193.47.62.47/hls/VQJMMMCZckkkqr.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "8",
+            "Id": "20",
             "Rivels": "France vs Morocco --- AR",
             "Title": "FIFA World Cup 21:00 (S-2)",
             "Link": "http://193.47.62.59/hls/VQJMMMCZckkkqr.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "9",
+            "Id": "21",
             "Rivels": "France vs Morocco --- AR",
             "Title": "FIFA World Cup 21:00 (S-3)",
             "Link": "http://193.47.62.51/hls/VQJMMMCZckkkqr.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "10",
+            "Id": "22",
             "Rivels": "France vs Morocco --- AR",
             "Title": "FIFA World Cup 21:00 (S-4)",
             "Link": "http://193.47.62.55/hls/VQJMMMCZckkkqr.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "11",
-            "Rivels": "France vs Morocco --- NL",
+            "Id": "23",
+            "Rivels": "France vs Morocco --- SWAHILI",
             "Title": "FIFA World Cup 21:00 (S-1)",
-            "Link": "http://193.47.62.47/hls/VQJMMMCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/"
+            "Link": "http://193.47.62.47/hls/VFEREHTRH.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "12",
-            "Rivels": "France vs Morocco --- NL",
+            "Id": "24",
+            "Rivels": "France vs Morocco --- SWAHILI",
             "Title": "FIFA World Cup 21:00 (S-2)",
-            "Link": "http://193.47.62.59/hls/VQJMMMCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/"
+            "Link": "http://193.47.62.59/hls/VFEREHTRH.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "13",
-            "Rivels": "France vs Morocco --- NL",
+            "Id": "25",
+            "Rivels": "France vs Morocco --- SWAHILI",
             "Title": "FIFA World Cup 21:00 (S-3)",
-            "Link": "http://193.47.62.51/hls/VQJMMMCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/"
+            "Link": "http://193.47.62.51/hls/VFEREHTRH.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "14",
-            "Rivels": "France vs Morocco --- NL",
+            "Id": "26",
+            "Rivels": "France vs Morocco --- SWAHILI",
             "Title": "FIFA World Cup 21:00 (S-4)",
-            "Link": "http://193.47.62.55/hls/VQJMMMCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/"
+            "Link": "http://193.47.62.55/hls/VFEREHTRH.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "15",
-            "Rivels": "France vs Morocco --- CN HD",
+            "Id": "27",
+            "Rivels": "France vs Morocco --- SWE",
             "Title": "FIFA World Cup 21:00 (S-1)",
-            "Link": "https://pullsgp.yyzb456.top/live/stream-7988511_lhd.m3u8|referer=http://www.fawanews.sc/"
+            "Link": "http://193.47.62.47/hls/VQJMMMCZckkkqq.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "16",
+            "Id": "28",
+            "Rivels": "France vs Morocco --- SWE",
+            "Title": "FIFA World Cup 21:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/VQJMMMCZckkkqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "29",
+            "Rivels": "France vs Morocco --- SWE",
+            "Title": "FIFA World Cup 21:00 (S-3)",
+            "Link": "http://193.47.62.51/hls/VQJMMMCZckkkqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "30",
+            "Rivels": "France vs Morocco --- SWE",
+            "Title": "FIFA World Cup 21:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/VQJMMMCZckkkqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "31",
             "Rivels": "Miami Marlins vs Seattle Mariners",
             "Title": "MLB Baseball 23:40 (S-1)",
             "Link": "http://193.47.62.41/hls/OJJJQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "17",
-            "Rivels": "Atlanta Hawks vs San Antonio Spurs --- HD",
-            "Title": "NBA Basketball 21:30 (S-1)",
-            "Link": "https://pul-tenm.gkykp.com/live/sd-2-3923412.m3u8?txSecret=1954b67160611531245f30c4dd4edf83&txTime=6A5167A0|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "18",
-            "Rivels": "New Orleans Pelicans vs Minnesota Timberwolves",
-            "Title": "NBA Basketball 20:30 (S-1)",
-            "Link": "http://193.47.62.41/hls/OJJJQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
