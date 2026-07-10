@@ -5213,10 +5213,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "11:35:27 AM 10-07-2026",
+        "Last update time": "11:45:39 AM 10-07-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "51",
+        "Upcoming": "53",
         "events": [
             {
                 "cat": "Football",
@@ -21524,6 +21524,54 @@
                 "id": 1739,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
                 "title": "NRL"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/11 05:00:00 +0000",
+                    "eventName": "Major League Cricket",
+                    "isHot": "0",
+                    "startTime": "2026/07/11 00:30:00 +0000",
+                    "teamA": "SFU",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/485013/image",
+                    "teamB": "LAKR",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/485011/image"
+                },
+                "id": 1740,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
+                "title": "Major League Cricket"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/11 01:00:00 +0000",
+                    "eventName": "Major League Cricket",
+                    "isHot": "0",
+                    "startTime": "2026/07/10 20:30:00 +0000",
+                    "teamA": "MINY",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/485012/image",
+                    "teamB": "SO",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/485014/image"
+                },
+                "id": 1741,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
+                "title": "Major League Cricket"
             }
         ]
     }
