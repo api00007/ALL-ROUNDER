@@ -2,26 +2,62 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "10/07/26 13:13:29 IST",
-    "Total_Matches": 3,
+    "Last update": "10/07/26 13:36:44 IST",
+    "Total_Matches": 9,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Cycling Tour de France --- ENG",
+            "Title": "Cycling 12:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
             "Rivels": "Cycling Tour de France --- BE NL",
             "Title": "Cycling 12:00 (S-1)",
             "Link": "http://193.47.62.42/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "3",
+            "Rivels": "Darts European Tour 10",
+            "Title": "Darts 12:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/MMMMQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
+            "Rivels": "England W vs India W",
+            "Title": "Cricket 11:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/MMMMQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
             "Rivels": "Snooker Champions League --- Table 1",
             "Title": "Snooker 11:00 (S-1)",
             "Link": "http://193.47.62.42/hls/AUUUQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "6",
+            "Rivels": "Snooker Champions League --- Table 2",
+            "Title": "Snooker 11:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/AUUUQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
             "Rivels": "Wests Tigers vs New Zealand Warriors",
             "Title": "NRL 11:00 (S-1)",
             "Link": "http://193.47.62.41/hls/MMMMQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "8",
+            "Rivels": "Collingwood Magpies vs North Melbourne",
+            "Title": "AFL Aussie Rules 10:40 (S-1)",
+            "Link": "http://193.47.62.41/hls/MMMM.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "9",
+            "Rivels": "Golf Genesis Scottish Open",
+            "Title": "Golf 08:30 (S-1)",
+            "Link": "http://193.47.62.42/hls/TGGG.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
