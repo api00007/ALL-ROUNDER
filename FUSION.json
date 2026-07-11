@@ -6708,7 +6708,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "05:45:36 PM 11-07-2026",
+        "Last update time": "05:50:54 PM 11-07-2026",
         "Live": "00",
         "Upcoming": "20",
         "events": [
@@ -6963,11 +6963,6 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Link 1",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://embedindia.st/embed/mlb/2026-07-11/mil-pit\" scrolling=\"yes” allowfullscreen=\"yes\" allow=\"encrypted-media; picture-in-picture;\" width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"position:absolute;\"></iframe>",
-                        "title": "TEST",
                         "tokenApi": ""
                     }
                 ],
@@ -7318,6 +7313,11 @@
             {
                 "cat": "Cricket",
                 "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hoofoot.ru/proxy?id=38\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1",
+                        "tokenApi": ""
+                    },
                     {
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd&k1=1d63df11bb77a72701ae3233bdbfa1ab&k2=95598b0c96d8c75ec60041e9151c1b11\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
