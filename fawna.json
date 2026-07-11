@@ -2,56 +2,80 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "11/07/26 23:05:11 IST",
-    "Total_Matches": 8,
+    "Last update": "11/07/26 23:14:58 IST",
+    "Total_Matches": 12,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "South Africa vs Scotland",
+            "Title": "Rugby Nations Championship 16:40 (S-1)",
+            "Link": "http://193.47.62.59/hls/bbbbqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Stirling vs Dundee Utd --- SD",
+            "Title": "Scottish Cup 17:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/PPPPQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Stirling vs Dundee Utd --- HD",
+            "Title": "Scottish Cup 17:30 (S-1)",
+            "Link": "https://pul-tenm.gkykp.com/live/sd-1-4550535.m3u8?txSecret=70e613bd2bbfe298a56b1ca497da3497&txTime=6A53B460|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
+            "Rivels": "Minnesota Twins vs Los Angeles Angels",
+            "Title": "MLB Baseball 19:10 (S-1)",
+            "Link": "http://193.47.62.41/hls/tatataqQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
+            "Rivels": "Chicago White Sox vs Athletics",
+            "Title": "MLB Baseball 19:10 (S-1)",
+            "Link": "http://193.47.62.41/hls/tatataqQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "6",
+            "Rivels": "Danubio vs Nacional",
+            "Title": "Uruguay Liga AUF 19:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/tatataqQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
             "Rivels": "Spain U19 vs Germany U19",
             "Title": "Euro U19 19:00 (S-1)",
             "Link": "http://193.47.62.41/hls/tatataq.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "8",
             "Rivels": "Serbia W vs Germany W",
             "Title": "Volleyball Nations League 19:00 (S-1)",
             "Link": "http://193.47.62.41/hls/tatata.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
-            "Rivels": "Levante vs CD Leganes",
-            "Title": "Friendly Match 18:00 (S-1)",
-            "Link": "http://193.47.62.41/hls/fafafaQQQQq.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "9",
+            "Rivels": "Panathinaikos vs Grasshoppers",
+            "Title": "Friendly Match 19:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/GAGAGAQQQqqQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
-            "Rivels": "First Vienna vs QPR --- CH 1",
-            "Title": "Friendly Match 17:30 (S-1)",
-            "Link": "http://193.47.62.41/hls/PPPPQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "10",
+            "Rivels": "FC Gomel vs Neman",
+            "Title": "Belarus Vysshaya Liga 18:45 (S-1)",
+            "Link": "http://193.47.62.41/hls/fafafaQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "5",
-            "Rivels": "Galway vs Sligo Rovers --- CH 1",
-            "Title": "Ireland Premier Division 17:00 (S-1)",
-            "Link": "http://193.47.62.41/hls/PPPPQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "11",
+            "Rivels": "Netherlands vs Finland",
+            "Title": "Volleyball European League 18:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/fafafaQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "6",
-            "Rivels": "Orgryte vs Hacken --- SD",
-            "Title": "Sweden Allsvenskan 16:30 (S-1)",
-            "Link": "http://193.47.62.44/hls/ROOOQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "7",
-            "Rivels": "Orgryte vs Hacken --- HD",
-            "Title": "Sweden Allsvenskan 16:30 (S-1)",
-            "Link": "http://193.47.62.44/hls/ROOOQQQQQX.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "8",
-            "Rivels": "England vs India",
-            "Title": "Cricket T20 14:30 (S-1)",
-            "Link": "http://193.47.62.42/hls/FBBBQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "12",
+            "Rivels": "Darts European Tour 10",
+            "Title": "Darts 18:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/MMMMQQQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
