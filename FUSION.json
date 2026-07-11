@@ -6708,7 +6708,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "12:20:57 AM 12-07-2026",
+        "Last update time": "12:25:25 AM 12-07-2026",
         "Live": "00",
         "Upcoming": "50",
         "events": [
@@ -8817,6 +8817,23 @@
                 "id": 1772,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
                 "title": "UFC"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/07/12 02:00:00 +0000",
+                    "eventName": "Boxing",
+                    "isHot": "0",
+                    "startTime": "2026/07/11 19:00:00 +0000",
+                    "teamA": "Murat Gassiev ",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrIxaUw9OD-Aj52pEBzQ3mKxvXzbUAjDVRrufKktu1A&s=10",
+                    "teamB": "Peter Kadiru",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrIxaUw9OD-Aj52pEBzQ3mKxvXzbUAjDVRrufKktu1A&s=10"
+                },
+                "id": 449,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrIxaUw9OD-Aj52pEBzQ3mKxvXzbUAjDVRrufKktu1A&s=10",
+                "title": "Boxing"
             }
         ]
     }
