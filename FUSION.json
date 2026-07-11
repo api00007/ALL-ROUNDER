@@ -6708,7 +6708,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "08:25:27 AM 11-07-2026",
+        "Last update time": "08:31:11 AM 11-07-2026",
         "Live": "00",
         "Upcoming": "54",
         "events": [
@@ -9186,6 +9186,16 @@
                     {
                         "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a11_ESPN_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "Stream 2",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://cdnlivetv.is/api/v1/channels/player/?name=Sky%20Sports%20Action&code=gb&user=cdnlivetv&plan=free\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;border:0;\" allowfullscreen allow=\"autoplay;encrypted-media;picture-in-picture\"></iframe>",
+                        "title": "TEST 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://dlhd.st/stream/stream-303.php\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen></iframe>",
+                        "title": "TEST 2",
                         "tokenApi": ""
                     }
                 ],
