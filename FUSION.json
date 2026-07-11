@@ -6708,7 +6708,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "09:05:29 PM 11-07-2026",
+        "Last update time": "09:20:54 PM 11-07-2026",
         "Live": "00",
         "Upcoming": "48",
         "events": [
@@ -8432,6 +8432,23 @@
                 "id": 1770,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
                 "title": "CFL"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/11 20:52:00 +0000",
+                    "eventName": "MMA",
+                    "isHot": "0",
+                    "startTime": "2026/07/11 16:00:00 +0000",
+                    "teamA": "OKTAGON 91 Engizek vs Jotko 2",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRng9isP_Xe9WG6Y8woqg3_bg0i2q5OP7vTA6UjWyaCPw&s=10",
+                    "teamB": "OKTAGON 91 Engizek vs Jotko 2",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRng9isP_Xe9WG6Y8woqg3_bg0i2q5OP7vTA6UjWyaCPw&s=10"
+                },
+                "id": 442,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRng9isP_Xe9WG6Y8woqg3_bg0i2q5OP7vTA6UjWyaCPw&s=10",
+                "title": "MMA"
             }
         ]
     }
