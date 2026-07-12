@@ -6561,24 +6561,6 @@
                     },
                     {
                         "is_playlist": false,
-                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEGEBQli11qPI1Ol7UXmVtqXvoZVQTM8BKKlbnebC-Q&s=10",
-                        "name": "CTV Canada",
-                        "stream_links": [
-                            {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hoofoot.ru/stream?id=602\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "CTV",
-                                "tokenApi": ""
-                            },
-                            {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hoofoot.ru/stream?id=838\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "CTV 2",
-                                "tokenApi": ""
-                            }
-                        ],
-                        "visible": true
-                    },
-                    {
-                        "is_playlist": false,
                         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewF4oFPSibOPsqdfj_JIq8LJlbPgE_vwfoJgYOO-riA&s=10",
                         "name": "USA Kids",
                         "stream_links": [
@@ -6711,6 +6693,16 @@
                             {
                                 "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hoofoot.ru/stream?id=832\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                                 "name": "CBC",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hoofoot.ru/stream?id=602\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "CTV",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hoofoot.ru/stream?id=838\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "CTV 2",
                                 "tokenApi": ""
                             }
                         ],
