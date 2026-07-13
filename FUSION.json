@@ -6773,6 +6773,39 @@
                             }
                         ],
                         "visible": true
+                    },
+                    {
+                        "is_playlist": false,
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqyatMox9ZjSh1ximvoEnC9L-tKi9dqGbN1CTepfxHOg&s=10",
+                        "name": "Showtime USA",
+                        "stream_links": [
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=333\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Showtime",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=792\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Showtime 2",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=794\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Showtime Extreme",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=795\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Showtime Family Zone",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=793\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Showtime Showcase",
+                                "tokenApi": ""
+                            }
+                        ],
+                        "visible": true
                     }
                 ],
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmGkNEy5110mHYBcLLOAkDhfZscS_zZcQn3aA7gMiPA&s=10",
@@ -6784,7 +6817,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "10:10:58 PM 13-07-2026",
+        "Last update time": "10:15:40 PM 13-07-2026",
         "Live": "00",
         "Upcoming": "47",
         "events": [
