@@ -2,35 +2,71 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "13/07/26 19:12:55 IST",
-    "Total_Matches": 5,
+    "Last update": "13/07/26 19:31:53 IST",
+    "Total_Matches": 11,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Djurgarden vs Halmstad --- SD",
+            "Title": "Sweden Allsvenskan 18:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/AIII.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Djurgarden vs Halmstad --- HD",
+            "Title": "Sweden Allsvenskan 18:00 (S-1)",
+            "Link": "http://193.47.62.54/hls/AIII.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "South Africa U20 vs England U20",
+            "Title": "Rugby World Championship 17:30 (S-1)",
+            "Link": "http://193.47.62.44/hls/GAGAGA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
+            "Rivels": "Ireland U20 v Fiji U20",
+            "Title": "Rugby World Championship 17:30 (S-1)",
+            "Link": "http://193.47.62.44/hls/GAGAGAQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
+            "Rivels": "Georgia U20 vs Italy U20",
+            "Title": "Rugby World Championship 15:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/GAGAGAQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "6",
+            "Rivels": "France U20 vs New Zealand U20",
+            "Title": "Rugby World Championship 15:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/GAGAGA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
             "Rivels": "Snooker Champions League --- Table 1",
             "Title": "Snooker 11:00 (S-1)",
             "Link": "http://193.47.62.42/hls/AUUUQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "8",
             "Rivels": "Snooker Champions League --- Table 2",
             "Title": "Snooker 11:00 (S-1)",
             "Link": "http://193.47.62.42/hls/AUUUQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "9",
             "Rivels": "England W vs India W",
             "Title": "Cricket 10:30 (S-1)",
             "Link": "http://193.47.62.44/hls/MMMMQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
+            "Id": "10",
             "Rivels": "Tennis ATP Bastad",
             "Title": "Tennis ATP 12:30 (S-1)",
             "Link": "http://193.47.62.44/hls/YDDDQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "5",
+            "Id": "11",
             "Rivels": "Tennis ATP Gstaad",
             "Title": "Tennis ATP 09:30 (S-1)",
             "Link": "http://193.47.62.44/hls/YDDD.m3u8|referer=http://www.fawanews.sc/"
