@@ -6680,12 +6680,78 @@
                 "name": "USA Movies",
                 "type": "custom",
                 "visible": true
+            },
+            {
+                "channels_data": [
+                    {
+                        "is_playlist": false,
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYeg1lgJScJnGIZMOIyQUm1GRWNshMt1o1aw8T5bKGkg&s=10",
+                        "name": "SKY Cinema UK",
+                        "stream_links": [
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=677\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Cinema Action",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=675\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": " Sky Cinema Animation",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=678\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Cinema Comedy",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=680\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Cinema Drama",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=676\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Cinema Family",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=674\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Cinema Greats",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=671\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": " Sky Cinema Premiere",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=681\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Cinema Sci-Fi Horror",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=672\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Cinema Select",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=679\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Sky Cinema Thriller",
+                                "tokenApi": ""
+                            }
+                        ],
+                        "visible": true
+                    }
+                ],
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmGkNEy5110mHYBcLLOAkDhfZscS_zZcQn3aA7gMiPA&s=10",
+                "name": "MOVIES",
+                "type": "custom",
+                "visible": true
             }
         ]
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "09:55:29 PM 13-07-2026",
+        "Last update time": "10:05:29 PM 13-07-2026",
         "Live": "00",
         "Upcoming": "47",
         "events": [
