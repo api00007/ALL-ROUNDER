@@ -7212,6 +7212,39 @@
                                 "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=343\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                                 "name": "USA Network",
                                 "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=344\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "VH1",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=659\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "Vice TV",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=655\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "WE TV",
+                                "tokenApi": ""
+                            }
+                        ],
+                        "visible": true
+                    },
+                    {
+                        "is_playlist": false,
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Xmm6de3Z3wAGrchylx7jKw8nY7rg4nwaisItxbAjvg&s=10",
+                        "name": "USA Sports (Backup)",
+                        "stream_links": [
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=684\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "ACC Network",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=425\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "BeIN Sports",
+                                "tokenApi": ""
                             }
                         ],
                         "visible": true
@@ -7226,7 +7259,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "02:41:00 AM 14-07-2026",
+        "Last update time": "02:45:38 AM 14-07-2026",
         "Live": "00",
         "Upcoming": "47",
         "events": [
