@@ -6686,7 +6686,7 @@
                         "name": "Canada Entertainment",
                         "stream_links": [
                             {
-                                "link": "<iframe src=\"https://hoofoot.ru/stream?id=831\" scrolling=\"yes” allowfullscreen=\"yes\" allow=\"encrypted-media; picture-in-picture;\" width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"position:absolute;\"></iframe>",
+                                "link": "<iframe src=\"https://hoofoot.ru/stream?id=831\" scrolling=\"yes\" allowfullscreen=\"true\" allow=\"encrypted-media; picture-in-picture;\" width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"position:absolute; top:0; left:0;\"></iframe>",
                                 "name": "CityTV",
                                 "tokenApi": ""
                             },
@@ -6701,7 +6701,7 @@
                                 "tokenApi": ""
                             },
                             {
-                                "link": "<iframe src=\"https://hoofoot.ru/stream?id=838\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "link": "<iframe src=\"https://hoofoot.ru/stream?id=838\" scrolling=\"yes” allowfullscreen=\"yes\" allow=\"encrypted-media; picture-in-picture;\" width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"position:absolute;\"></iframe>",
                                 "name": "CTV 2",
                                 "tokenApi": ""
                             },
