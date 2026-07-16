@@ -5580,9 +5580,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "05:50:59 PM 16-07-2026",
+        "Last update time": "06:05:27 PM 16-07-2026",
         "Live": "00",
-        "Upcoming": "39",
+        "Upcoming": "48",
         "events": [
             {
                 "cat": "Cricket",
@@ -14766,6 +14766,12 @@
                         "source": "ivan",
                         "title": "SKY CRICKET FHD",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/10532/129469/master.m3u8?hdntl=exp=1784290095~acl=%2f*~id=qa.team%40cricbuzz.com~data=hdntl,flavour%3aCB,matchId%3a65907,country%3aSG~hmac=312b7f6133167621f2c546e3fce8e3ddc3d8c24995a5c8c08bf20d1737f43ac5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "CRICBUZZ",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
@@ -17380,27 +17386,9 @@
                 "cat": "Basketball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://193.47.62.42/hls/ZLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://mainstreams.pro/hls/ztyarueaghj71.m3u8|Referer=https://streamcenter.xyz/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "MAIN STREAM",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://edgestreams.pro/hls/ztyarueaghj71.m3u8|Referer=https://streams.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/52681/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "NBA LIVE",
+                        "title": "Link 1",
                         "tokenApi": ""
                     }
                 ],
@@ -32782,6 +32770,206 @@
                 "id": 1780,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
                 "title": "World Championship"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 03:30:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/07/17 01:00:00 +0000",
+                    "teamA": "Wings",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                    "teamB": "Liberty",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image"
+                },
+                "id": 1781,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 03:30:00 +0000",
+                    "eventName": "NBA Summer League",
+                    "isHot": "0",
+                    "startTime": "2026/07/17 01:00:00 +0000",
+                    "teamA": "Heat",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+                    "teamB": "Raptors",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3433/image"
+                },
+                "id": 1783,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+                "title": "NBA Summer League"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/16 23:00:00 +0000",
+                    "eventName": "NBA Summer League",
+                    "isHot": "0",
+                    "startTime": "2026/07/16 20:30:00 +0000",
+                    "teamA": "Rockets",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+                    "teamB": "Nets",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image"
+                },
+                "id": 1784,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+                "title": "NBA Summer League"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/16 22:30:00 +0000",
+                    "eventName": "NBA Summer League",
+                    "isHot": "0",
+                    "startTime": "2026/07/16 20:00:00 +0000",
+                    "teamA": "Thunder",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+                    "teamB": "Mavericks",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image"
+                },
+                "id": 1785,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+                "title": "NBA Summer League"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 01:30:00 +0000",
+                    "eventName": "NBA Summer League",
+                    "isHot": "0",
+                    "startTime": "2026/07/16 23:00:00 +0000",
+                    "teamA": "Knicks",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+                    "teamB": "Warriors",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image"
+                },
+                "id": 1786,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+                "title": "NBA Summer League"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 00:30:00 +0000",
+                    "eventName": "NBA Summer League",
+                    "isHot": "0",
+                    "startTime": "2026/07/16 22:00:00 +0000",
+                    "teamA": "Bulls",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+                    "teamB": "Lakers",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image"
+                },
+                "id": 1787,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+                "title": "NBA Summer League"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 04:30:00 +0000",
+                    "eventName": "NBA Summer League",
+                    "isHot": "0",
+                    "startTime": "2026/07/17 02:00:00 +0000",
+                    "teamA": "Nuggets",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+                    "teamB": "Trail Blazers",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image"
+                },
+                "id": 1788,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+                "title": "NBA Summer League"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 02:30:00 +0000",
+                    "eventName": "NBA Summer League",
+                    "isHot": "0",
+                    "startTime": "2026/07/17 00:00:00 +0000",
+                    "teamA": "Hawks",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+                    "teamB": "Grizzlies",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image"
+                },
+                "id": 1789,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+                "title": "NBA Summer League"
             }
         ]
     }
