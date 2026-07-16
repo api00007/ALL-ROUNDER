@@ -7433,7 +7433,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "01:20:36 AM 17-07-2026",
+        "Last update time": "01:35:32 AM 17-07-2026",
         "Live": "00",
         "Upcoming": "44",
         "events": [
@@ -9043,6 +9043,127 @@
                 "title": "MLS"
             },
             {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://embedindia.st/embed/mls/2026-07-16/sea-por\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1 with ADS",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 04:50:00 +0000",
+                    "eventName": "MLS",
+                    "isHot": "0",
+                    "startTime": "2026/07/17 02:30:00 +0000",
+                    "teamA": "Seattle Sounders FC",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/k6m3hoy4Rn3KRrMYSYDjog_48x48.png",
+                    "teamB": "Portland Timbers",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/2Fx-HnSGv-0rGERxn4YSRA_48x48.png"
+                },
+                "id": 629,
+                "league_logo": "data:image/png;base64,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",
+                "title": "MLS"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd&k1=007e2e674f82de21623b314b5908693d&k2=929841d213cb7c94e592037bac2fc67f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SKY CRICKET FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SKY MAIN EVENT",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169&k1=9dacc80134404c34ba184022c28d0000&k2=982183fb4d9449c995859b7cff512092\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HOTSTAR (IND)",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 06:00:00 +0000",
+                    "eventName": "Major League Cricket",
+                    "isHot": "0",
+                    "startTime": "2026/07/17 01:30:00 +0000",
+                    "teamA": "SFU",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/485013/image",
+                    "teamB": "WF",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/485015/image"
+                },
+                "id": 1790,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
+                "title": "Major League Cricket"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SportDigital Fussball",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ritzembeds.pages.dev/play/premiere2-br\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1 with ADS",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 00:50:00 +0000",
+                    "eventName": "Brasileirão Betano",
+                    "isHot": "0",
+                    "startTime": "2026/07/16 22:30:00 +0000",
+                    "teamA": "Botafogo",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+                    "teamB": "Santos",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image"
+                },
+                "id": 1791,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+                "title": "Brasileirão Betano"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ritzembeds.pages.dev/play/premiere-br\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1 with ADS",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 00:50:00 +0000",
+                    "eventName": "Brasileirão Betano",
+                    "isHot": "0",
+                    "startTime": "2026/07/16 22:30:00 +0000",
+                    "teamA": "Vitoria",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/LHSM6VchpkI4NIptoSTHOg_48x48.png",
+                    "teamB": "Vasco da Gama",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/hHwT8LwRmYCAGxQ-STLxYA_48x48.png"
+                },
+                "id": 177,
+                "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+                "title": "Brasileirão Betano"
+            },
+            {
                 "cat": "Motorsport",
                 "channels_data": [
                     {
@@ -9291,363 +9412,6 @@
                 "title": "Wimbledon Championships"
             },
             {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY CRICKET FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.44/hls/MMMMQQ.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY MAIN EVENT",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169&k1=9dacc80134404c34ba184022c28d0000&k2=982183fb4d9449c995859b7cff512092\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HOTSTAR (IND)",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/16 06:00:00 +0000",
-                    "eventName": "Major League Cricket",
-                    "isHot": "0",
-                    "startTime": "2026/07/16 01:30:00 +0000",
-                    "teamA": "WF",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/485015/image",
-                    "teamB": "MINY",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/485012/image"
-                },
-                "id": 1743,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
-                "title": "Major League Cricket"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY CRICKET FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.44/hls/MMMMQQ.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY SPORT NZ",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169&k1=9dacc80134404c34ba184022c28d0000&k2=982183fb4d9449c995859b7cff512092\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HOTSTAR (IND)",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/16 02:00:00 +0000",
-                    "eventName": "Major League Cricket",
-                    "isHot": "0",
-                    "startTime": "2026/07/15 21:30:00 +0000",
-                    "teamA": "SFU",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/485013/image",
-                    "teamB": "LAKR",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/485011/image"
-                },
-                "id": 1744,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
-                "title": "Major League Cricket"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/mamonigrouppathachakra_vs_unitedkolkatasportsclub/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/16 11:50:00 +0000",
-                    "eventName": "Calcutta Premier Division",
-                    "isHot": "0",
-                    "startTime": "2026/07/16 09:30:00 +0000",
-                    "teamA": "Patha Chakra",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/294069/image",
-                    "teamB": "United Kolkata SC",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1116647/image"
-                },
-                "id": 1771,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "title": "Calcutta Premier Division"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/luxurylivingkidderporesportingclub_vs_mohunbagansupergiant/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/16 11:50:00 +0000",
-                    "eventName": "Calcutta Premier Division",
-                    "isHot": "0",
-                    "startTime": "2026/07/16 09:30:00 +0000",
-                    "teamA": "Kidderpore SC",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/296265/image",
-                    "teamB": "Mohun Bagan SG Reserves",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1116646/image"
-                },
-                "id": 1772,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "title": "Calcutta Premier Division"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/behalasssportingclub_vs_tamlukkhelaghargeorgetelegraphsc/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/16 11:50:00 +0000",
-                    "eventName": "Calcutta Premier Division",
-                    "isHot": "0",
-                    "startTime": "2026/07/16 09:30:00 +0000",
-                    "teamA": "BSS Sporting Club",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/326588/image",
-                    "teamB": "George Telegraph FC",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/271460/image"
-                },
-                "id": 1773,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "title": "Calcutta Premier Division"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/railwayfc_vs_kalighatmilansangha/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/16 11:50:00 +0000",
-                    "eventName": "Calcutta Premier Division",
-                    "isHot": "0",
-                    "startTime": "2026/07/16 09:30:00 +0000",
-                    "teamA": "Railway FC",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1116516/image",
-                    "teamB": "Kalighat MS",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/294591/image"
-                },
-                "id": 1775,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "title": "Calcutta Premier Division"
-            },
-            {
-                "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.live123.fans/live/3923408.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE NBA",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/16 05:00:00 +0000",
-                    "eventName": "NBA Summer League",
-                    "isHot": "0",
-                    "startTime": "2026/07/16 02:30:00 +0000",
-                    "teamA": "Clippers",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-                    "teamB": "Wizards",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image"
-                },
-                "id": 1777,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
-                "title": "NBA Summer League"
-            },
-            {
-                "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/53388/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "NBA HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.live123.fans/live/3923411.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.41/hls/FUUUZZZ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/16 04:00:00 +0000",
-                    "eventName": "NBA Summer League",
-                    "isHot": "0",
-                    "startTime": "2026/07/16 01:30:00 +0000",
-                    "teamA": "Spurs",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-                    "teamB": "Jazz",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image"
-                },
-                "id": 1779,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
-                "title": "NBA Summer League"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://embedindia.st/embed/mls/2026-07-16/sea-por\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Stream 1 with ADS",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/17 04:50:00 +0000",
-                    "eventName": "MLS",
-                    "isHot": "0",
-                    "startTime": "2026/07/17 02:30:00 +0000",
-                    "teamA": "Seattle Sounders FC",
-                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/k6m3hoy4Rn3KRrMYSYDjog_48x48.png",
-                    "teamB": "Portland Timbers",
-                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/2Fx-HnSGv-0rGERxn4YSRA_48x48.png"
-                },
-                "id": 629,
-                "league_logo": "data:image/png;base64,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",
-                "title": "MLS"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd&k1=007e2e674f82de21623b314b5908693d&k2=929841d213cb7c94e592037bac2fc67f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY CRICKET FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY MAIN EVENT",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169&k1=9dacc80134404c34ba184022c28d0000&k2=982183fb4d9449c995859b7cff512092\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HOTSTAR (IND)",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/17 06:00:00 +0000",
-                    "eventName": "Major League Cricket",
-                    "isHot": "0",
-                    "startTime": "2026/07/17 01:30:00 +0000",
-                    "teamA": "SFU",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/485013/image",
-                    "teamB": "WF",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/485015/image"
-                },
-                "id": 1790,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
-                "title": "Major League Cricket"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SportDigital Fussball",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ritzembeds.pages.dev/play/premiere2-br\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Stream 1 with ADS",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/17 00:50:00 +0000",
-                    "eventName": "Brasileirão Betano",
-                    "isHot": "0",
-                    "startTime": "2026/07/16 22:30:00 +0000",
-                    "teamA": "Botafogo",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
-                    "teamB": "Santos",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image"
-                },
-                "id": 1791,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-                "title": "Brasileirão Betano"
-            },
-            {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -9702,54 +9466,6 @@
                 "id": 1793,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
                 "title": "MLS"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ritzembeds.pages.dev/play/uefa-1\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Stream 1 with ADS",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Finished",
-                    "endTime": "2026/07/12 21:09:00 +0000",
-                    "eventName": "Soccer",
-                    "isHot": "0",
-                    "startTime": "2026/07/12 18:30:00 +0000",
-                    "teamA": "MSK Zilina",
-                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0nJI_YLV6sbZoJoiRxuZ4wy8AFG_LD3zmVKdJTPc3jA&s=10",
-                    "teamB": " Hajduk",
-                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/97dbv9fYyHvHqjP13YzLkg_96x96.png"
-                },
-                "id": 123,
-                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_lXEEmOe9mjYTpeCtWsKU-ILsYtkCV4twrh5yD7guMQ&s=10",
-                "title": "Soccer"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ritzembeds.pages.dev/play/premiere-br\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Stream 1 with ADS",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/17 00:50:00 +0000",
-                    "eventName": "Brasileirão Betano",
-                    "isHot": "0",
-                    "startTime": "2026/07/16 22:30:00 +0000",
-                    "teamA": "Vitoria",
-                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/LHSM6VchpkI4NIptoSTHOg_48x48.png",
-                    "teamB": "Vasco da Gama",
-                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/hHwT8LwRmYCAGxQ-STLxYA_48x48.png"
-                },
-                "id": 177,
-                "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-                "title": "Brasileirão Betano"
             }
         ]
     }
