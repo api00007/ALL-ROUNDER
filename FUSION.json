@@ -6909,7 +6909,7 @@
                                 "tokenApi": ""
                             },
                             {
-                                "link": "<iframe src=\"https://hoofoot.ru/iptv/player.html?id=715\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "link": "<iframe src=\"https://xyzstreams.st//ftv.html?streamid=CLEOHD&proid=M1217\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                                 "name": "Cleo TV",
                                 "tokenApi": ""
                             },
@@ -7356,23 +7356,36 @@
                             }
                         ],
                         "visible": true
-                    },
+                    }
+                ],
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEYwXjMXjkzZzCwVrmMrnaqiu9oyr3NRxSPN4aVPL9g&s=10",
+                "name": "USA ET (Backup) (A-F)",
+                "type": "custom",
+                "visible": true
+            },
+            {
+                "channels_data": [
                     {
                         "is_playlist": false,
-                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGg7JwPhz8HLgxqlDvBA4pPbyS9AhXos6ssedUihziHw&s=10",
-                        "name": "Silo Season 3",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZWs_avo9VLpbFQTZEDr1xKaPWXGvnzYpHYRtXMsrIA&s=10",
+                        "name": "FOX Sports AU",
                         "stream_links": [
                             {
-                                "link": "<iframe frameborder=\"0\" width=\"100%\" height=\"100%\" src=\"https://zstream.mov/media/tmdb-tv-125988-silo/512220/7173957\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"NO\" allowfullscreen allowfullscreen=\"true\"></iframe>",
-                                "name": "Episode 1 TEST",
+                                "link": "<iframe src=\"https://ritzembeds.pages.dev/play/fox-sports-501\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "FOX Sports 501",
+                                "tokenApi": ""
+                            },
+                            {
+                                "link": "<iframe src=\"https://ritzembeds.pages.dev/play/fox-sports-502\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                                "name": "FOX Sports 502",
                                 "tokenApi": ""
                             }
                         ],
                         "visible": true
                     }
                 ],
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEYwXjMXjkzZzCwVrmMrnaqiu9oyr3NRxSPN4aVPL9g&s=10",
-                "name": "USA ET (Backup) (A-F)",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3c4mKSygRJIF6pge_G93ABu6100YQ3yiFI_BNJOA6A&s=10",
+                "name": "Backup Sports",
                 "type": "custom",
                 "visible": true
             }
@@ -7380,7 +7393,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "09:15:41 PM 16-07-2026",
+        "Last update time": "09:20:34 PM 16-07-2026",
         "Live": "00",
         "Upcoming": "48",
         "events": [
