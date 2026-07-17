@@ -7456,7 +7456,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "06:35:29 AM 17-07-2026",
+        "Last update time": "06:40:38 AM 17-07-2026",
         "Live": "00",
         "Upcoming": "44",
         "events": [
@@ -9516,16 +9516,23 @@
             },
             {
                 "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.41/hls/GRGRGRQQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SD LINK",
+                        "tokenApi": ""
+                    }
+                ],
                 "eventInfo": {
                     "Status": "Live",
                     "endTime": "2026/07/17 15:23:00 +0000",
                     "eventName": "Copa Argentina",
                     "isHot": "0",
                     "startTime": "2026/07/17 01:00:00 +0000",
-                    "teamA": "Sarmiento Junin vs Boca Juniors",
-                    "teamAFlag": "",
-                    "teamB": "",
-                    "teamBFlag": ""
+                    "teamA": "Sarmiento Junin",
+                    "teamAFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/tDd7ZfndQ-Z5PI3sOiBkNQ_48x48.png",
+                    "teamB": " Boca Juniors",
+                    "teamBFlag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/YO1impuFJT2hex6wvCd9Pw_48x48.png"
                 },
                 "id": 804,
                 "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEOHHj54HEdGJSp-4ZWMzhXy0WSMXyWZXCeUWewz0Vg&s",
