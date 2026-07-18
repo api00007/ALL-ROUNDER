@@ -5213,10 +5213,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "06:31:06 PM 18-07-2026",
+        "Last update time": "06:50:34 PM 18-07-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "81",
+        "Upcoming": "75",
         "events": [
             {
                 "cat": "Football",
@@ -25520,13 +25520,6 @@
             },
             {
                 "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/18 15:20:00 +0000",
@@ -25546,8 +25539,8 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pul-tenm.gkykp.com/live/sd-1-4584528.m3u8?txSecret=8224d57de268bac31c5d6382fc9f8647&txTime=6A5CC691\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -25786,8 +25779,8 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Link 1",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pul-tenm.gkykp.com/live/sd-1-4584475.m3u8?txSecret=7f1a784e2e61ff59d336876d7804394f&txTime=6A5CC9D9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -26597,6 +26590,23 @@
                 "id": 1871,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
                 "title": "Calcutta Premier Division"
+            },
+            {
+                "cat": "Football",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/18 15:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/07/18 13:00:00 +0000",
+                    "teamA": "Dundee",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
+                    "teamB": "Everton",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image"
+                },
+                "id": 1872,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
             }
         ]
     }
