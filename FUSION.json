@@ -7456,7 +7456,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "01:25:26 AM 19-07-2026",
+        "Last update time": "01:31:00 AM 19-07-2026",
         "Live": "00",
         "Upcoming": "70",
         "events": [
@@ -10594,9 +10594,19 @@
                 "cat": "Mixed Martial Arts",
                 "channels_data": [
                     {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd&k1=131b8ab23ed23db5839852f990219e83&k2=842f6541b79fc04a5513d35aa1b763c7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SN 360 DIRECT",
+                        "tokenApi": ""
+                    },
+                    {
                         "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/53239/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "PARAMOUNT+ HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://embedindia.st/embed/ufc-fight-night-du-plessis-vs-usman\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1 with ADS",
                         "tokenApi": ""
                     }
                 ],
