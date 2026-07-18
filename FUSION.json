@@ -7456,9 +7456,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:15:38 PM 18-07-2026",
+        "Last update time": "03:25:26 PM 18-07-2026",
         "Live": "00",
-        "Upcoming": "83",
+        "Upcoming": "84",
         "events": [
             {
                 "cat": "Cricket",
@@ -7473,6 +7473,24 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd&k1=75f854d2c277ce9e3735817f9c6c77ad&k2=9c4f93decc3c9a4065e8f4e09a3adecc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "WILLOW ATL",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://in-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FANCODE 🇮🇳",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bd-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FANCODE 🇧🇩",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://lk-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FANCODE 🇱🇰",
                         "tokenApi": ""
                     }
                 ],
@@ -10989,6 +11007,31 @@
                 "id": 1854,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
                 "title": "WNBA"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/eastbengalfc_vs_railwayfc/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/18 11:50:00 +0000",
+                    "eventName": "Calcutta Premier Division",
+                    "isHot": "0",
+                    "startTime": "2026/07/18 09:30:00 +0000",
+                    "teamA": "East Bengal FC Reserves",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/492818/image",
+                    "teamB": "Railway FC",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1116516/image"
+                },
+                "id": 1871,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                "title": "Calcutta Premier Division"
             }
         ]
     }
