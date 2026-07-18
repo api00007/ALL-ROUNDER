@@ -7456,7 +7456,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "08:40:31 AM 18-07-2026",
+        "Last update time": "08:55:27 AM 18-07-2026",
         "Live": "00",
         "Upcoming": "55",
         "events": [
@@ -9722,6 +9722,54 @@
                 "id": 1805,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1024/image/dark",
                 "title": "Copa Argentina"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://embedindia.st/embed/rizin-landmark-15\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1 with ADS",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/17 09:00:00 +0000",
+                    "eventName": "MMA",
+                    "isHot": "0",
+                    "startTime": "2026/07/18 05:00:00 +0000",
+                    "teamA": "RIZIN Landmark 15",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6pwClTDAHqLrFAm0WqVHy-vugduAz0bpOolRyBmFcQ&s=10",
+                    "teamB": "RIZIN Landmark 15",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6pwClTDAHqLrFAm0WqVHy-vugduAz0bpOolRyBmFcQ&s=10"
+                },
+                "id": 777,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6pwClTDAHqLrFAm0WqVHy-vugduAz0bpOolRyBmFcQ&s=10",
+                "title": "MMA"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://embed.st/embed/echo/ppv-event-05-one-fight-night-45-lessei-v-rabah-ppv-05/1\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1 with ADS",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/07/18 04:30:00 +0000",
+                    "eventName": "MMA",
+                    "isHot": "0",
+                    "startTime": "2026/07/18 00:00:00 +0000",
+                    "teamA": "ONE Fight Night 45 ",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5lG3tUJJN6p1xeJQ4i4BiFRjegWlkEXxkgz6LDsy2vA&s=10",
+                    "teamB": "ONE Fight Night 45 ",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5lG3tUJJN6p1xeJQ4i4BiFRjegWlkEXxkgz6LDsy2vA&s=10"
+                },
+                "id": 193,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5lG3tUJJN6p1xeJQ4i4BiFRjegWlkEXxkgz6LDsy2vA&s=10",
+                "title": "MMA"
             }
         ]
     }
