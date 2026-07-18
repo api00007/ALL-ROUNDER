@@ -7456,7 +7456,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:10:35 AM 19-07-2026",
+        "Last update time": "03:20:34 AM 19-07-2026",
         "Live": "00",
         "Upcoming": "70",
         "events": [
@@ -10847,8 +10847,8 @@
                     }
                 ],
                 "eventInfo": {
-                    "Status": "Live",
-                    "endTime": "2026/07/18 22:00:00 +0000",
+                    "Status": "Finished",
+                    "endTime": "2026/07/18 20:00:00 +0000",
                     "eventName": "BKFC 91 ",
                     "isHot": "0",
                     "startTime": "2026/07/18 17:00:00 +0000",
@@ -11033,6 +11033,23 @@
                 "id": 648,
                 "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RY5nKbPf2m966GxRFzbW7aETkXP81OeKQ1T8DdyMCA&s=10",
                 "title": "Boxing"
+            },
+            {
+                "cat": "Cricket",
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/07/19 01:15:00 +0000",
+                    "eventName": "PFL ",
+                    "isHot": "0",
+                    "startTime": "2026/07/18 21:30:00 +0000",
+                    "teamA": "Eblen ",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMLyOUuVBpanJ9ezzHY2L3DSq-LROASqiTHJtl6uWN5w&s=10",
+                    "teamB": "Kasanganay",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVfOv9pHOl9gugZn-uaR08PYaD-PROYnWTcwFjukwkQ&s=10"
+                },
+                "id": 543,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmnWePVgYOKnsU8cLxO9GI6vOPh4vA6JIudJToflNfPQ&s=10",
+                "title": "PFL "
             }
         ]
     }
