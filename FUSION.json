@@ -7456,9 +7456,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "10:20:33 AM 19-07-2026",
+        "Last update time": "10:35:28 AM 19-07-2026",
         "Live": "00",
-        "Upcoming": "73",
+        "Upcoming": "77",
         "events": [
             {
                 "cat": "Cricket",
@@ -11362,6 +11362,106 @@
                 "id": 1876,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
                 "title": "Liga MX, Apertura"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/19 11:50:00 +0000",
+                    "eventName": "Calcutta Premier Division",
+                    "isHot": "0",
+                    "startTime": "2026/07/19 09:30:00 +0000",
+                    "teamA": "Calcutta Customs",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/264307/image",
+                    "teamB": "Sangbad Pratidin Bhawanipore",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/296264/image"
+                },
+                "id": 1877,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                "title": "Calcutta Premier Division"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/19 11:50:00 +0000",
+                    "eventName": "Calcutta Premier Division",
+                    "isHot": "0",
+                    "startTime": "2026/07/19 09:30:00 +0000",
+                    "teamA": "Patha Chakra",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/294069/image",
+                    "teamB": "Bidhannagar Msa",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1247322/image"
+                },
+                "id": 1878,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                "title": "Calcutta Premier Division"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/19 11:50:00 +0000",
+                    "eventName": "Calcutta Premier Division",
+                    "isHot": "0",
+                    "startTime": "2026/07/19 09:30:00 +0000",
+                    "teamA": "George Telegraph FC",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/271460/image",
+                    "teamB": "Kidderpore SC",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/296265/image"
+                },
+                "id": 1879,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                "title": "Calcutta Premier Division"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/19 11:50:00 +0000",
+                    "eventName": "Calcutta Premier Division",
+                    "isHot": "0",
+                    "startTime": "2026/07/19 09:30:00 +0000",
+                    "teamA": "Mohun Bagan SG Reserves",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1116646/image",
+                    "teamB": "Kalighat MS",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/294591/image"
+                },
+                "id": 1880,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                "title": "Calcutta Premier Division"
             }
         ]
     }
