@@ -5213,10 +5213,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "12:59:29 PM 19-07-2026",
+        "Last update time": "01:15:36 PM 19-07-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "77",
+        "Upcoming": "21",
         "events": [
             {
                 "cat": "Football",
@@ -26779,6 +26779,45 @@
                 "id": 1880,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
                 "title": "Calcutta Premier Division"
+            },
+            {
+                "cat": "Tennis",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd&k1=11223344556677889900112233445566&k2=4b80724d0ef86bcb2c21f7999d67739d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "EUROSPORT1 FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd&k1=11223344556677889900112233445566&k2=4b80724d0ef86bcb2c21f7999d67739d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "EUROSPORT2 FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd&k1=0f4751abc997473d9138d17b5944be04&k2=a0aefedd2376a54b8b50f9b7c2d50ac7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "EUROSPORT1 FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd&k1=e369d9ab101d4b60ba13c0384f503528&k2=041e35e31381521b3398af5c6dd99414\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "EUROSPORT2 FHD",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "  +0000",
+                    "eventName": "Tour de France",
+                    "isHot": "0",
+                    "startTime": "2026/07/19 11:20:00 +0000",
+                    "teamA": "Tour de France",
+                    "teamAFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
+                    "teamB": "Tour de France",
+                    "teamBFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png"
+                },
+                "id": 1881,
+                "league_logo": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
+                "title": "Tour de France"
             }
         ]
     }
