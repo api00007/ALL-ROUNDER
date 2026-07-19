@@ -7456,7 +7456,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "05:40:33 AM 19-07-2026",
+        "Last update time": "06:05:28 AM 19-07-2026",
         "Live": "00",
         "Upcoming": "70",
         "events": [
@@ -10962,8 +10962,8 @@
                     }
                 ],
                 "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/07/19 00:00:00 +0000",
+                    "Status": "Live",
+                    "endTime": "2026/07/19 05:00:00 +0000",
                     "eventName": "UFC",
                     "isHot": "0",
                     "startTime": "2026/07/18 21:00:00 +0000",
@@ -10973,7 +10973,7 @@
                     "teamBFlag": "https://img.sofascore.com/api/v1/team/1243923/image"
                 },
                 "id": 1873,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+                "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
                 "title": "UFC"
             },
             {
@@ -11090,6 +11090,11 @@
                         "link": "<iframe src=\"https://embedindia.st/embed/raf-11-tsarukyan-vs-covington\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "Stream 1 with ADS",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/53520/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD LINK",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
@@ -11119,22 +11124,56 @@
                         "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog//zz85_SD_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "Stream 1 HD",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD (iOS)",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
-                    "Status": "Upcoming",
+                    "Status": "Live",
                     "endTime": "2026/07/19 05:14:00 +0000",
                     "eventName": "WWE",
                     "isHot": "0",
                     "startTime": "2026/07/19 00:00:00 +0000",
                     "teamA": "Saturday Nights Main Event",
                     "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGLxU9uanepHhrj4rgg5rmWh5JZXayITii9aPfGLgNQ&s=10",
-                    "teamB": "Saturday Night's Main Event",
+                    "teamB": "Saturday Nights Main Event",
                     "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGLxU9uanepHhrj4rgg5rmWh5JZXayITii9aPfGLgNQ&s=10"
                 },
                 "id": 961,
                 "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTid7jC51NuaAn-8mpnLBIlul1ebxM7Uji_OD7aMfTw&s=10",
                 "title": "WWE"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/53521/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD LINK",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://embed.st/embed/delta/live-event_diego-pacheco-vs-immanuwel-aleem-live-stream/1\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Stream 1 with ADS",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Live",
+                    "endTime": "2026/07/19 04:22:00 +0000",
+                    "eventName": "Boxing",
+                    "isHot": "0",
+                    "startTime": "2026/07/19 00:00:00 +0000",
+                    "teamA": "Diego Pacheco",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiXSk3iQgvcjiVRTfsWSvX4KMcvxE6NfT7xU_aj1KnBA&s=10",
+                    "teamB": "Immanuwel Aleem",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JH6KM1dC_-l3P4DJzjHvSLcn_7ecL51c9AaXn6xTVA&s=10"
+                },
+                "id": 115,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RY5nKbPf2m966GxRFzbW7aETkXP81OeKQ1T8DdyMCA&s=10",
+                "title": "Boxing"
             }
         ]
     }
