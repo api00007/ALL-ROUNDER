@@ -5213,10 +5213,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "09:10:40 PM 22-07-2026",
+        "Last update time": "09:20:42 PM 22-07-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "41",
+        "Upcoming": "43",
         "events": [
             {
                 "cat": "Football",
@@ -28427,6 +28427,47 @@
                     "teamBFlag": "https://img.sofascore.com/api/v1/team/2890/image"
                 },
                 "id": 1958,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.streamhub.media/hls/thesport-api-cf89962de572ba5ddac3/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/22 17:50:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/07/22 15:30:00 +0000",
+                    "teamA": "Torino",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+                    "teamB": "Alcione",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/380181/image"
+                },
+                "id": 1959,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/22 17:50:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/07/22 15:30:00 +0000",
+                    "teamA": "Nantes",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
+                    "teamB": "La Roche VF",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1714/image"
+                },
+                "id": 1960,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
             }
