@@ -7428,9 +7428,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "12:20:35 AM 24-07-2026",
+        "Last update time": "12:35:28 AM 24-07-2026",
         "Live": "00",
-        "Upcoming": "46",
+        "Upcoming": "49",
         "events": [
             {
                 "cat": "Cricket",
@@ -8256,14 +8256,20 @@
                 "cat": "American football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a15_TSN1_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN",
                         "tokenApi": ""
                     },
                     {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/AccessLog/a15_TSN1_Orig/index.m3u8?|Referer=https://server-5-qgsi7u0z2pkfhfnl9htsisehuzdsx1nhoa.sunroyal.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "TSN",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0&k1=14eeabf30c14b7fbf3008c03099ce011&k2=17d2ac8dbc5429bd70af3433aa12158d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TSN SPORTS",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0&k1=abc5b2883121012850ebda05b528c5ec&k2=e5250924f4b738905f7163a0134587a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TSN4 SPORTS",
                         "tokenApi": ""
                     }
                 ],
@@ -9604,9 +9610,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://live.vivo200.com/live/sd-1-4591127.m3u8?txSecret=caa8c54a54e66f9108cb050ca86b8370&txTime=6A6274A9|Referer=https://player.online909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Ivan-FluX",
+                        "title": "Link 1",
                         "tokenApi": ""
                     }
                 ],
@@ -9673,6 +9679,81 @@
                 "id": 1971,
                 "league_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg",
                 "title": "commonwealth games 2026 "
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|user-agent=Mozilla/5.0&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "beIN SPORTS",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/24 02:50:00 +0000",
+                    "eventName": "CONMEBOL Sudamericana",
+                    "isHot": "0",
+                    "startTime": "2026/07/24 00:30:00 +0000",
+                    "teamA": "Boca Juniors",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+                    "teamB": "O'Higgins",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3163/image"
+                },
+                "id": 1972,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+                "title": "CONMEBOL Sudamericana"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "beIN SPORTS",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/24 02:50:00 +0000",
+                    "eventName": "CONMEBOL Sudamericana",
+                    "isHot": "0",
+                    "startTime": "2026/07/24 00:30:00 +0000",
+                    "teamA": "Santa Fe",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/6116/image",
+                    "teamB": "Caracas",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/6230/image"
+                },
+                "id": 1973,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+                "title": "CONMEBOL Sudamericana"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "beIN SPORTS",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/24 00:20:00 +0000",
+                    "eventName": "CONMEBOL Sudamericana",
+                    "isHot": "0",
+                    "startTime": "2026/07/23 22:00:00 +0000",
+                    "teamA": "Bolívar",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/7059/image",
+                    "teamB": "Grêmio",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image"
+                },
+                "id": 1974,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+                "title": "CONMEBOL Sudamericana"
             }
         ]
     }
