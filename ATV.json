@@ -5213,10 +5213,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "11:12:10 PM 24-07-2026",
+        "Last update time": "11:31:05 PM 24-07-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "58",
+        "Upcoming": "60",
         "events": [
             {
                 "cat": "Football",
@@ -31451,8 +31451,8 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd&k1=a88617e904504ee291f49f0e60a51d49&k2=17f92d59fde3b6d2bf4ffb48e8ca720a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "LaLiga TV FHD",
                         "tokenApi": ""
                     }
                 ],
@@ -31473,13 +31473,6 @@
             },
             {
                 "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/24 20:20:00 +0000",
@@ -31499,8 +31492,8 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.live123.fans/live/4589375.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Link 1",
                         "tokenApi": ""
                     }
                 ],
@@ -31516,6 +31509,40 @@
                     "teamBFlag": "https://img.sofascore.com/api/v1/team/3327/image"
                 },
                 "id": 2023,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/24 19:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/07/24 17:00:00 +0000",
+                    "teamA": "Royal Antwerp",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2889/image",
+                    "teamB": "Olympiacos",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3245/image"
+                },
+                "id": 2024,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/24 20:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/07/24 18:00:00 +0000",
+                    "teamA": "Braunschweig",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2557/image",
+                    "teamB": "Southampton",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image"
+                },
+                "id": 2025,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
             }
