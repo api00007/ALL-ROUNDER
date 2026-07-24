@@ -5213,10 +5213,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "10:10:39 PM 24-07-2026",
+        "Last update time": "10:15:41 PM 24-07-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "56",
+        "Upcoming": "57",
         "events": [
             {
                 "cat": "Football",
@@ -31455,6 +31455,30 @@
                     "teamBFlag": "https://img.sofascore.com/api/v1/team/135672/image"
                 },
                 "id": 2021,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/24 20:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/07/24 18:00:00 +0000",
+                    "teamA": "Galatasaray",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+                    "teamB": "Monza",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image"
+                },
+                "id": 2022,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
             }
