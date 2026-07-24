@@ -7428,9 +7428,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:20:36 PM 24-07-2026",
+        "Last update time": "03:35:28 PM 24-07-2026",
         "Live": "00",
-        "Upcoming": "59",
+        "Upcoming": "63",
         "events": [
             {
                 "cat": "Cricket",
@@ -7796,9 +7796,15 @@
                 "cat": "Aussie rules",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "TNT SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.41/hls/ZLLLQQ.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -7821,9 +7827,9 @@
                 "cat": "Aussie rules",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.41/hls/ZLLLQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "SD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -9034,9 +9040,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.50/hls/RRRRAa.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Ivan-FluX",
+                        "title": "SD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -9254,6 +9260,112 @@
                 "id": 2016,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Rugby",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/25 09:10:00 +0000",
+                    "eventName": "NRL",
+                    "isHot": "0",
+                    "startTime": "2026/07/25 07:30:00 +0000",
+                    "teamA": "Canterbury",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4253/image",
+                    "teamB": "New Zealand",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4267/image"
+                },
+                "id": 2017,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+                "title": "NRL"
+            },
+            {
+                "cat": "Rugby",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/25 06:40:00 +0000",
+                    "eventName": "NRL",
+                    "isHot": "0",
+                    "startTime": "2026/07/25 05:00:00 +0000",
+                    "teamA": "Canberra",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4256/image",
+                    "teamB": "Wests",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4254/image"
+                },
+                "id": 2018,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+                "title": "NRL"
+            },
+            {
+                "cat": "Rugby",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/25 11:15:00 +0000",
+                    "eventName": "NRL",
+                    "isHot": "0",
+                    "startTime": "2026/07/25 09:35:00 +0000",
+                    "teamA": "Cowboys",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4257/image",
+                    "teamB": "Broncos",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image"
+                },
+                "id": 2019,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+                "title": "NRL"
+            },
+            {
+                "cat": "Rugby",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FOX SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SKY SPORT NZ",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/24 11:40:00 +0000",
+                    "eventName": "NRL",
+                    "isHot": "0",
+                    "startTime": "2026/07/24 10:00:00 +0000",
+                    "teamA": "South Sydney",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4263/image",
+                    "teamB": "Melbourne",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4255/image"
+                },
+                "id": 2020,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+                "title": "NRL"
             }
         ]
     }
