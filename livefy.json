@@ -5580,7 +5580,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "01:10:37 AM 26-07-2026",
+        "Last update time": "01:25:29 AM 26-07-2026",
         "Live": "00",
         "Upcoming": "81",
         "events": [
@@ -43693,6 +43693,21 @@
                         "source": "ivan",
                         "title": "PREMIER SPORTS SD",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hamis.romponalis.st/premiumtv/gomstream2.php?id=550|Referer=gomstream.xyz\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": {
+                            "api": "https://hamis.romponalis.st/premiumtv/gomstream2.php?id=550|Referer=gomstream.xyz",
+                            "default_string": "N8x7Y%m+6n",
+                            "ip_api": "https://api.ipify.org/",
+                            "link_key": "playback_url",
+                            "request_body_type": "text",
+                            "request_type": "get",
+                            "type": "embed",
+                            "url": "https://hamis.romponalis.st/premiumtv/gomstream2.php?id=550|Referer=gomstream.xyz"
+                        }
                     }
                 ],
                 "eventInfo": {
