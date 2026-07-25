@@ -5580,7 +5580,7 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:40:32 PM 25-07-2026",
+        "Last update time": "05:00:48 PM 25-07-2026",
         "Live": "00",
         "Upcoming": "48",
         "events": [
@@ -37116,12 +37116,6 @@
                 "cat": "Cricket",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://bd-mc-flive.fancode.com/mumbai/143352_english_dash_92407_1drmta-di_h264/index.mpd&k1=7148e4d133694c9e9720a1bac7159093&k2=18d187fd131b82a360917f56da3e98d4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FANCODE - BD",
-                        "tokenApi": ""
-                    },
-                    {
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://in-mc-flive.fancode.com/mumbai/143352_hindi_dash_45689_1drmta-di_h264/index.mpd&k1=87e80af08df44d1184a37a449b814978&k2=85633aaa416821e65278dcc980066447\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "FANCODE [HIN] - IN",
@@ -37137,6 +37131,30 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "TAPMAD FHD - PK",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://dai-fancode.pages.dev/mumbai/143352_english_hls_cd4f806e1b92407_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FANCODE [ENG] 🇮🇳",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://dai-fancode.pages.dev/mumbai/143352_hindi_hls_ac18250e3545689_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FANCODE HIN 🇮🇳",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://bd-mc-flive.fancode.com/mumbai/143352_hindi_dash_45689_1drmta-di_h264/index.mpd&k1=87e80af08df44d1184a37a449b814978&k2=85633aaa416821e65278dcc980066447\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FANCODE [HIN]- BD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-147/rb62-cgui/chunklist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "KAYO ENGLISH",
                         "tokenApi": ""
                     }
                 ],
@@ -42516,9 +42534,15 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000295/Football2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785020575~acl=/*~id=43687610650033521374727079804651~hmac=5ff82635e55cb5410031ab21faaffae07008e22fa83930bd831c008b904d1de6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Ivan-FluX",
+                        "title": "SONYLIV [ENG] - ASIA",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Six_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1784975996~exp=1784997596~acl=/bpk-tv/Six_HD_BTS/WDVLive/*~hmac=0aff68647123e05c1300733d746d782ee03c1607f3414e9d4bfcc0c034774d3d&k1=233d5f64b5b1547dae38f5a8b0b85efa&k2=3b000618435f702db7d9910d8265584a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SONYLIV FHD 🇮🇳",
                         "tokenApi": ""
                     }
                 ],
@@ -42703,9 +42727,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://193.47.62.41/hls/EEGRGRQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Ivan-FluX",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
