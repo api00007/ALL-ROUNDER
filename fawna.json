@@ -2,56 +2,104 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "25/07/26 15:07:30 IST",
-    "Total_Matches": 8,
+    "Last update": "25/07/26 15:12:57 IST",
+    "Total_Matches": 16,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Pohang vs Jeonbuk",
+            "Title": "South Korea K League 11:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/ZKKKAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Gimcheon Sangmu vs Daejeon",
+            "Title": "South Korea K League 11:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/ZKKKAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Sunrisers Leeds W vs Southern Brave W",
+            "Title": "Cricket The Hundred 11:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/ZKKKA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
+            "Rivels": "Myanmar vs Malaysia",
+            "Title": "ASEAN Championship 11:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/ZKKK.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
             "Rivels": "Western Bulldogs vs Richmond Tigers",
             "Title": "AFL Aussie Rules 10:40 (S-1)",
             "Link": "http://193.47.62.41/hls/beeeAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "6",
+            "Rivels": "NQ Cowboys vs Brisbane Broncos",
+            "Title": "NRL 10:35 (S-1)",
+            "Link": "http://193.47.62.41/hls/beeeAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
             "Rivels": "Qingdao Hainiu vs Tianjin Jinmen Tiger",
             "Title": "China Super League 10:30 (S-1)",
             "Link": "http://193.47.62.41/hls/TTTT.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "8",
+            "Rivels": "Luton vs Al Kholood",
+            "Title": "Friendly Match 10:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/TTTTt.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "9",
             "Rivels": "Cycling Tour de France",
             "Title": "Cycling 10:00 (S-1)",
             "Link": "http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
+            "Id": "10",
             "Rivels": "Girona FC vs Deportivo Alaves",
             "Title": "Friendly Match 09:30 (S-1)",
             "Link": "http://193.47.62.41/hls/EGGGQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "5",
+            "Id": "11",
             "Rivels": "Brazil W vs Italy W",
             "Title": "Volleyball Nations League 09:00 (S-1)",
             "Link": "http://193.47.62.41/hls/EGGG.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "6",
+            "Id": "12",
+            "Rivels": "Glasgow Commonwealth Games",
+            "Title": "Friendly Match 08:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/ZLLL.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "13",
             "Rivels": "Canterbury Bulldogs vs New Zealand Warriors",
             "Title": "NRL 08:30 (S-1)",
             "Link": "http://193.47.62.41/hls/beeeAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "7",
+            "Id": "14",
             "Rivels": "NQ Cowboys W vs Gold Coast Titans W",
             "Title": "NRL Women 08:15 (S-1)",
             "Link": "http://193.47.62.41/hls/beeeAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "8",
+            "Id": "15",
             "Rivels": "GWS Giants vs Sydney Swans",
             "Title": "AFL Aussie Rules 07:35 (S-1)",
             "Link": "http://193.47.62.41/hls/beeeA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
+            "Rivels": "Hawthorn Hawks vs Essendon Bombers",
+            "Title": "AFL Aussie Rules 07:15 (S-1)",
+            "Link": "http://193.47.62.41/hls/beeeAAA.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
