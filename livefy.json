@@ -5580,9 +5580,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "09:31:08 PM 25-07-2026",
+        "Last update time": "09:40:34 PM 25-07-2026",
         "Live": "00",
-        "Upcoming": "62",
+        "Upcoming": "63",
         "events": [
             {
                 "cat": "Cricket",
@@ -43465,9 +43465,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://193.47.62.190/hls/CPPPQQQQ.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Ivan-FluX",
+                        "title": "LOW QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -43533,6 +43533,37 @@
                     "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image"
                 },
                 "id": 2086,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pul-tenm.gkykp.com/live/sd-1-4595950.m3u8?txSecret=f72b7bfbfce4bd2d9e5f4b98a68e96b0&txTime=6A662708\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://193.47.62.190/hls/HMMMQQQq.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LOW QUALITY",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/25 17:50:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/07/25 15:30:00 +0000",
+                    "teamA": "Konyaspor",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+                    "teamB": "Hull",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image"
+                },
+                "id": 2087,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
             }
