@@ -5580,9 +5580,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:00:49 AM 26-07-2026",
+        "Last update time": "03:20:32 AM 26-07-2026",
         "Live": "00",
-        "Upcoming": "81",
+        "Upcoming": "84",
         "events": [
             {
                 "cat": "Cricket",
@@ -44223,6 +44223,81 @@
                 "id": 2105,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/25 23:50:00 +0000",
+                    "eventName": "Brasileirão Betano",
+                    "isHot": "0",
+                    "startTime": "2026/07/25 21:30:00 +0000",
+                    "teamA": "Athletico",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+                    "teamB": "Internacional",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image"
+                },
+                "id": 2106,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+                "title": "Brasileirão Betano"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/25 23:50:00 +0000",
+                    "eventName": "Brasileirão Betano",
+                    "isHot": "0",
+                    "startTime": "2026/07/25 21:30:00 +0000",
+                    "teamA": "Santos",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+                    "teamB": "Chapecoense",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image"
+                },
+                "id": 2107,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+                "title": "Brasileirão Betano"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/26 01:50:00 +0000",
+                    "eventName": "Brasileirão Betano",
+                    "isHot": "0",
+                    "startTime": "2026/07/25 23:30:00 +0000",
+                    "teamA": "Vasco",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                    "teamB": "Mirassol",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image"
+                },
+                "id": 2108,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+                "title": "Brasileirão Betano"
             }
         ]
     }
