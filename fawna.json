@@ -2,128 +2,38 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "26/07/26 10:48:45 IST",
-    "Total_Matches": 20,
+    "Last update": "26/07/26 11:01:31 IST",
+    "Total_Matches": 5,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Manly Sea Eagles vs Cronulla Sharks",
+            "Title": "NRL 07:05 (S-1)",
+            "Link": "http://193.47.62.194/hls/AGGG.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "North Melbourne vs St Kilda Saints",
+            "Title": "AFL Aussie Rules 06:15 (S-1)",
+            "Link": "http://193.47.62.194/hls/ZRRRA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Brisbane Lions vs Port Adelaide Power",
+            "Title": "AFL Aussie Rules 05:15 (S-1)",
+            "Link": "http://193.47.62.194/hls/ZRRR.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
             "Rivels": "St George Illawarra Dragons vs Gold Coast Titans",
             "Title": "NRL 05:00 (S-1)",
             "Link": "http://193.47.62.194/hls/AGGG.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
-            "Rivels": "Deportes Tolima vs Junior",
-            "Title": "Colombia Primera A 02:15 (S-1)",
-            "Link": "http://193.47.62.194/hls/DGGGGQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "3",
-            "Rivels": "St Louis City vs Colorado Rapids",
-            "Title": "MLS League 01:30 (S-1)",
-            "Link": "http://193.47.62.194/hls/DGGGGQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "4",
-            "Rivels": "Houston Dynamo vs Austin FC",
-            "Title": "MLS League 01:30 (S-1)",
-            "Link": "http://193.47.62.194/hls/TQQQAQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
             "Id": "5",
-            "Rivels": "Lanus vs San Lorenzo",
-            "Title": "Argentina Liga Profesional 01:30 (S-1)",
-            "Link": "http://193.47.62.194/hls/TQQQAQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "6",
-            "Rivels": "Team Cooper W vs Team Weatherspoon W",
-            "Title": "WNBA Basketball 01:30 (S-1)",
-            "Link": "http://193.47.62.194/hls/TQQQAQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "7",
-            "Rivels": "U Catolica vs La Serena",
-            "Title": "Chile Liga de Primera 01:00 (S-1)",
-            "Link": "http://193.47.62.194/hls/TQQQA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "8",
-            "Rivels": "Tecnico U vs Manta",
-            "Title": "Ecuador Liga Pro 01:00 (S-1)",
-            "Link": "http://193.47.62.194/hls/TQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "9",
-            "Rivels": "Vasco vs Mirassol",
-            "Title": "Brazil Serie A 00:30 (S-1)",
-            "Link": "http://193.47.62.191/hls/LOOOQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "10",
-            "Rivels": "Independiente vs Oriente Petrolero",
-            "Title": "Bolivia Division Profesional 00:30 (S-1)",
-            "Link": "http://193.47.62.191/hls/LOOO.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "11",
-            "Rivels": "Philadelphia Union vs Seattle Sounders",
-            "Title": "MLS League 00:30 (S-1)",
-            "Link": "http://193.47.62.191/hls/VTTTAQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "12",
-            "Rivels": "New York City vs Chicago Fire",
-            "Title": "MLS League 00:30 (S-1)",
-            "Link": "http://193.47.62.191/hls/VTTTAQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "13",
-            "Rivels": "New England Revolution vs Atlanta Utd",
-            "Title": "MLS League 00:30 (S-1)",
-            "Link": "http://193.47.62.191/hls/VTTTAQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "14",
-            "Rivels": "Columbus Crew vs FC Cincinnati",
-            "Title": "MLS League 00:15 (S-1)",
-            "Link": "http://193.47.62.191/hls/VTTTA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "15",
-            "Rivels": "Texas Rangers vs Seattle Mariners",
-            "Title": "MLB Baseball 00:15 (S-1)",
-            "Link": "http://193.47.62.41/hls/ZEZEZEQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "16",
-            "Rivels": "St Louis Cardinals vs Cincinnati Reds",
-            "Title": "MLB Baseball 00:15 (S-1)",
-            "Link": "http://193.47.62.41/hls/ZEZEZEQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "17",
-            "Rivels": "New York Mets vs Los Angeles Dodgers",
-            "Title": "MLB Baseball 00:15 (S-1)",
-            "Link": "http://193.47.62.41/hls/ZEZEZEQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "18",
-            "Rivels": "Millonarios vs Bucaramanga",
-            "Title": "Colombia Primera A 00:10 (S-1)",
-            "Link": "http://193.47.62.191/hls/VTTT.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "19",
-            "Rivels": "Minnesota Twins vs Athletics",
-            "Title": "MLB Baseball 00:10 (S-1)",
-            "Link": "http://193.47.62.41/hls/ZEZEZEQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "20",
-            "Rivels": "Milwaukee Brewers vs Colorado Rockies",
-            "Title": "MLB Baseball 00:10 (S-1)",
-            "Link": "http://193.47.62.41/hls/ZEZEZEQQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Boxing : Errol Spence vs Tim Tszyu",
+            "Title": "Boxing 01:30 (S-1)",
+            "Link": "http://193.47.62.193/hls/JFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
