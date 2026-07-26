@@ -5213,10 +5213,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "07:15:37 AM 26-07-2026",
+        "Last update time": "07:31:02 AM 26-07-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "86",
+        "Upcoming": "88",
         "events": [
             {
                 "cat": "Football",
@@ -32723,13 +32723,6 @@
             },
             {
                 "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/26 02:50:00 +0000",
@@ -32858,13 +32851,6 @@
             },
             {
                 "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/26 02:50:00 +0000",
@@ -32899,13 +32885,6 @@
             },
             {
                 "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/07/26 02:50:00 +0000",
@@ -33201,6 +33180,54 @@
                 "id": 2110,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/26 05:20:00 +0000",
+                    "eventName": "Liga MX, Apertura",
+                    "isHot": "0",
+                    "startTime": "2026/07/26 03:00:00 +0000",
+                    "teamA": "Santos",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1948/image",
+                    "teamB": "Atlas",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1949/image"
+                },
+                "id": 2111,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+                "title": "Liga MX, Apertura"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "Ivan-FluX",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/26 05:20:00 +0000",
+                    "eventName": "Liga MX, Apertura",
+                    "isHot": "0",
+                    "startTime": "2026/07/26 03:00:00 +0000",
+                    "teamA": "Tigres",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
+                    "teamB": "San Luis",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image"
+                },
+                "id": 2112,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+                "title": "Liga MX, Apertura"
             }
         ]
     }
