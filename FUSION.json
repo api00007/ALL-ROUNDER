@@ -7363,9 +7363,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "08:10:41 AM 27-07-2026",
+        "Last update time": "08:15:38 AM 27-07-2026",
         "Live": "00",
-        "Upcoming": "14",
+        "Upcoming": "18",
         "events": [
             {
                 "cat": "Motorsport",
@@ -9915,6 +9915,106 @@
                 "id": 687,
                 "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJ7XWXBK6RhdM4XIqzSQcDykp-_i5aZa2tcj-QiS33g&s=10",
                 "title": "Boxing"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/28 18:30:00 +0000",
+                    "eventName": "Lanka Premier League",
+                    "isHot": "0",
+                    "startTime": "2026/07/28 14:00:00 +0000",
+                    "teamA": "CK",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/453390/image",
+                    "teamB": "JK",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/453388/image"
+                },
+                "id": 2024,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
+                "title": "Lanka Premier League"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/29 14:00:00 +0000",
+                    "eventName": "Lanka Premier League",
+                    "isHot": "0",
+                    "startTime": "2026/07/29 09:30:00 +0000",
+                    "teamA": "GG",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+                    "teamB": "KRL",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/369187/image"
+                },
+                "id": 2025,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
+                "title": "Lanka Premier League"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/27 18:30:00 +0000",
+                    "eventName": "The Hundred Women",
+                    "isHot": "0",
+                    "startTime": "2026/07/27 14:00:00 +0000",
+                    "teamA": "SOB-W",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377205/image",
+                    "teamB": "MIL-W",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377200/image"
+                },
+                "id": 2026,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
+                "title": "The Hundred Women"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/27 22:00:00 +0000",
+                    "eventName": "The Hundred",
+                    "isHot": "0",
+                    "startTime": "2026/07/27 17:30:00 +0000",
+                    "teamA": "SOB",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377177/image",
+                    "teamB": "MIL",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377172/image"
+                },
+                "id": 2027,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark",
+                "title": "The Hundred"
             }
         ]
     }
