@@ -7363,9 +7363,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:35:37 PM 28-07-2026",
+        "Last update time": "03:40:34 PM 28-07-2026",
         "Live": "00",
-        "Upcoming": "72",
+        "Upcoming": "73",
         "events": [
             {
                 "cat": "Motorsport",
@@ -9716,9 +9716,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/unitedkolkatasportsclub_vs_mohanbagansupergiant/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -9786,6 +9786,31 @@
                 "id": 2101,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2133/image/dark",
                 "title": "Calcutta 1st Division"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/mamonigrouppathachakra_vs_eastbengalfc/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/28 11:50:00 +0000",
+                    "eventName": "Calcutta Premier Division",
+                    "isHot": "0",
+                    "startTime": "2026/07/28 09:30:00 +0000",
+                    "teamA": "Patha Chakra",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/294069/image",
+                    "teamB": "East Bengal FC Reserves",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/492818/image"
+                },
+                "id": 2102,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                "title": "Calcutta Premier Division"
             }
         ]
     }
