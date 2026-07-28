@@ -7363,9 +7363,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "08:10:43 PM 28-07-2026",
+        "Last update time": "08:15:46 PM 28-07-2026",
         "Live": "00",
-        "Upcoming": "75",
+        "Upcoming": "77",
         "events": [
             {
                 "cat": "Motorsport",
@@ -9553,6 +9553,68 @@
                 "id": 2106,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark",
                 "title": "ASEAN Championship"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pul-tenm.gkykp.com/live/sd-1-4586113.m3u8?txSecret=feaf867300eea52d0661c916655e7f10&txTime=6A6A0DF1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.42/hls/HFFFAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LOW SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/28 17:20:00 +0000",
+                    "eventName": "UEFA Champions League",
+                    "isHot": "0",
+                    "startTime": "2026/07/28 15:00:00 +0000",
+                    "teamA": "KuPS",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2244/image",
+                    "teamB": "Sabah",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/267828/image"
+                },
+                "id": 2107,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+                "title": "UEFA Champions League"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pul-tenm.gkykp.com/live/sd-1-4586111.m3u8?txSecret=61ff1598ed862d3313c80e61b296708d&txTime=6A6A0E68\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.42/hls/dbbbq.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LOW SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/28 18:20:00 +0000",
+                    "eventName": "UEFA Champions League",
+                    "isHot": "0",
+                    "startTime": "2026/07/28 16:00:00 +0000",
+                    "teamA": "Lincoln RI",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/126304/image",
+                    "teamB": "Mjällby",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1783/image"
+                },
+                "id": 2108,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+                "title": "UEFA Champions League"
             }
         ]
     }
