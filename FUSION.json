@@ -7363,9 +7363,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "12:20:33 AM 29-07-2026",
+        "Last update time": "12:31:07 AM 29-07-2026",
         "Live": "00",
-        "Upcoming": "87",
+        "Upcoming": "88",
         "events": [
             {
                 "cat": "Motorsport",
@@ -10042,7 +10042,7 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pul-tenm.gkykp.com/live/sd-1-4556531.m3u8?txSecret=f88bf26d3c2e24f9124e69389ac1ea7d&txTime=6A6A34D8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=https://live.vivo200.com/live/sd-1-4556531.m3u8?txSecret=3fc68c6fc0d7ff9d86e2f12fa827fd5e&txTime=6A690694|Referer=https://player.online909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "HD SERVER",
                         "tokenApi": ""
@@ -10051,6 +10051,18 @@
                         "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.58/hls/IMMMAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "LOW SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.live123.fans/live/4556531.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LIVE SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pul-tenm.gkykp.com/live/sd-1-4556531.m3u8?txSecret=f88bf26d3c2e24f9124e69389ac1ea7d&txTime=6A6A34D8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER+",
                         "tokenApi": ""
                     }
                 ],
@@ -10105,6 +10117,31 @@
                 "id": 2118,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
                 "title": "CONMEBOL Sudamericana"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/07/29 18:00:00 +0000",
+                    "eventName": "ICC CWC League 2",
+                    "isHot": "0",
+                    "startTime": "2026/07/29 09:00:00 +0000",
+                    "teamA": "NEP",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+                    "teamB": "NED",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187840/image"
+                },
+                "id": 2119,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+                "title": "ICC CWC League 2"
             }
         ]
     }
