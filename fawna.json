@@ -2,14 +2,32 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "30/07/26 12:54:46 IST",
-    "Total_Matches": 1,
+    "Last update": "30/07/26 13:01:19 IST",
+    "Total_Matches": 4,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Italy vs USA",
+            "Title": "Volleyball Nations League 08:10 (S-1)",
+            "Link": "http://193.47.62.190/hls/zzzza.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
             "Rivels": "Waikato vs Bay of Plenty",
             "Title": "Rugby NZ NPC 08:10 (S-1)",
             "Link": "http://193.47.62.190/hls/zzzz.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Snooker Champions League --- Table 1",
+            "Title": "Snooker 11:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/AUUUQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
+            "Rivels": "Snooker Champions League --- Table 2",
+            "Title": "Snooker 11:00 (S-1)",
+            "Link": "http://193.47.62.42/hls/AUUUQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
