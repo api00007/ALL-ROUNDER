@@ -2,8 +2,8 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "31/07/26 00:46:46 IST",
-    "Total_Matches": 27,
+    "Last update": "31/07/26 00:49:47 IST",
+    "Total_Matches": 59,
     "Live_Data": [
         {
             "Id": "1",
@@ -19,150 +19,342 @@
         },
         {
             "Id": "3",
+            "Rivels": "RSC Anderlecht vs Hammarby",
+            "Title": "UEFA Europa League 19:30 (S-1)",
+            "Link": "http://193.47.62.190/hls/YPPPAAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
             "Rivels": "RSC Anderlecht vs Hammarby --- HD",
             "Title": "UEFA Europa League 19:30 (S-1)",
             "Link": "https://live2.jxa76.com/live/sd-6Mwdq58pgnAF73DAnF.m3u8?txSecret=19bbb4a6623e5eb9077d64a276462069&txTime=19FB5921B70|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
+            "Id": "5",
             "Rivels": "Ferencvaros vs FC Twente",
             "Title": "UEFA Europa League 19:30 (S-1)",
             "Link": "http://193.47.62.190/hls/YPPPAAAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "5",
+            "Id": "6",
+            "Rivels": "Ferencvaros vs FC Twente --- HD",
+            "Title": "UEFA Europa League 19:30 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6Mwb79N977tB2JvWdH.m3u8?txSecret=4206261e8aaa233fa956d172ff7f500e&txTime=19FB598B08E|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
+            "Rivels": "CSKA Sofia vs Qarabag",
+            "Title": "UEFA Europa League 19:00 (S-1)",
+            "Link": "http://193.47.62.194/hls/IRRRAAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "8",
+            "Rivels": "CSKA Sofia vs Qarabag --- HD",
+            "Title": "UEFA Europa League 19:00 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6Mwb79N96vtmfunvro.m3u8?txSecret=1ae8ffaad2d95b7143be62d4b28e5ca8&txTime=19FB5775EFB|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "9",
             "Rivels": "PAOK vs Dynamo Kyiv",
             "Title": "UEFA Europa League 18:45 (S-1)",
             "Link": "http://193.47.62.193/hls/llllAAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "6",
+            "Id": "10",
             "Rivels": "PAOK vs Dynamo Kyiv --- HD",
             "Title": "UEFA Europa League 18:45 (S-1)",
             "Link": "https://live2.jxa76.com/live/sd-6Mwb79N973VDHMGgKV.m3u8?txSecret=02f1d05beb42b1980dc59e5adfff934f&txTime=19FB56954B9|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "7",
+            "Id": "11",
             "Rivels": "Pafos vs Hajduk Split",
             "Title": "UEFA Europa League 18:00 (S-1)",
             "Link": "http://193.47.62.192/hls/ugggqqaaa.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "8",
+            "Id": "12",
+            "Rivels": "Pafos vs Hajduk Split --- HD",
+            "Title": "UEFA Europa League 18:00 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6Mwb79N975gh9q6bUP.m3u8?txSecret=be958afb21a38a8de4ce1a7e22dc5898&txTime=19FB5476713|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "13",
+            "Rivels": "Hibernian vs Malisheva",
+            "Title": "UEFA Conference League 20:00 (S-1)",
+            "Link": "http://193.47.62.191/hls/IBBBBAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "14",
+            "Rivels": "Hibernian vs Malisheva --- HD",
+            "Title": "UEFA Conference League 20:00 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6MwarNRytS8yrfgnQb.m3u8?txSecret=aa0e0adf0c24d39eabf2aca487c33c80&txTime=19FB5B2E7F1|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "15",
+            "Rivels": "Braga vs Zeleznicar Pancevo",
+            "Title": "UEFA Conference League 20:00 (S-1)",
+            "Link": "http://193.47.62.191/hls/IBBBBAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
             "Rivels": "Braga vs Zeleznicar Pancevo --- HD",
             "Title": "UEFA Conference League 20:00 (S-1)",
             "Link": "https://live2.jxa76.com/live/sd-6Mwdq5AKVh4zBYNqUo.m3u8?txSecret=4461e3c4a4e5c459268d5a3969b723f9&txTime=19FB5B58007|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "9",
+            "Id": "17",
+            "Rivels": "Dinamo Tirana vs Aluminij",
+            "Title": "UEFA Conference League 20:00 (S-1)",
+            "Link": "http://193.47.62.191/hls/IBBBBAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "18",
             "Rivels": "Sutjeska vs ML Vitebsk",
             "Title": "UEFA Conference League 20:00 (S-1)",
             "Link": "http://193.47.62.191/hls/IBBBBAAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "10",
+            "Id": "19",
+            "Rivels": "Koper vs NSI Runavik",
+            "Title": "UEFA Conference League 19:45 (S-1)",
+            "Link": "http://193.47.62.191/hls/IBBBBA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "20",
+            "Rivels": "Coleraine vs HJK",
+            "Title": "UEFA Conference League 19:45 (S-1)",
+            "Link": "http://193.47.62.191/hls/IBBBB.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "21",
             "Rivels": "Panathinaikos vs Paks",
             "Title": "UEFA Conference League 19:30 (S-1)",
             "Link": "http://193.47.62.190/hls/YPPPAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "11",
+            "Id": "22",
+            "Rivels": "Panathinaikos vs Paks --- HD",
+            "Title": "UEFA Conference League 19:30 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6Mwdq5AKfKM3FQDcSX.m3u8?txSecret=457a523de411dae9e5e27782f0f65edb&txTime=19FB592177F|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "23",
             "Rivels": "Gent vs LNZ Cherkasy",
             "Title": "UEFA Conference League 19:30 (S-1)",
             "Link": "http://193.47.62.190/hls/YPPPA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "12",
+            "Id": "24",
             "Rivels": "Gent vs LNZ Cherkasy --- HD",
             "Title": "UEFA Conference League 19:30 (S-1)",
             "Link": "https://live2.jxa76.com/live/sd-6Mwdq59ZL2iatebUhh.m3u8?txSecret=088d481f308c4a444c0d4eaa0fe0019c&txTime=19FB592122E|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "13",
+            "Id": "25",
+            "Rivels": "GKS Katowice vs Zilina",
+            "Title": "UEFA Conference League 19:30 (S-1)",
+            "Link": "http://193.47.62.190/hls/YPPPAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "26",
+            "Rivels": "Zrinjski vs Valur",
+            "Title": "UEFA Conference League 19:30 (S-1)",
+            "Link": "http://193.47.62.190/hls/YPPPAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "27",
+            "Rivels": "CFR Cluj vs Alashkert",
+            "Title": "UEFA Conference League 19:30 (S-1)",
+            "Link": "http://193.47.62.190/hls/YPPP.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "28",
+            "Rivels": "Austria Vienna vs FK Liepaja",
+            "Title": "UEFA Conference League 19:30 (S-1)",
+            "Link": "http://193.47.62.194/hls/AUUUUAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "29",
+            "Rivels": "UNA Strassen vs Partizan",
+            "Title": "UEFA Conference League 19:15 (S-1)",
+            "Link": "http://193.47.62.194/hls/AUUUUAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "30",
             "Rivels": "Sion vs BATE",
             "Title": "UEFA Conference League 19:15 (S-1)",
             "Link": "http://193.47.62.194/hls/AUUUUAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "14",
+            "Id": "31",
+            "Rivels": "Ajax vs Vojvodina",
+            "Title": "UEFA Conference League 19:00 (S-1)",
+            "Link": "http://193.47.62.194/hls/IRRR.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "32",
             "Rivels": "Ajax vs Vojvodina --- HD",
             "Title": "UEFA Conference League 19:00 (S-1)",
             "Link": "https://live2.jxa76.com/live/sd-6MwarNRyif51JtYLqH.m3u8?txSecret=6561e1f59a437e09985d88ff03a35864&txTime=19FB576F587|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "15",
+            "Id": "33",
             "Rivels": "FC Ballkani vs Bohemians",
             "Title": "UEFA Conference League 19:00 (S-1)",
             "Link": "http://193.47.62.194/hls/IRRRA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "16",
+            "Id": "34",
+            "Rivels": "FC Ballkani vs Bohemians --- HD",
+            "Title": "UEFA Conference League 19:00 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6MwarNRyPDXVpmjD9M.m3u8?txSecret=4b9606a0e34069b00ff1555dda185cb9&txTime=19FB58B8299|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "35",
             "Rivels": "Ludogorets vs Hapoel Tel Aviv",
             "Title": "UEFA Conference League 19:00 (S-1)",
             "Link": "http://193.47.62.194/hls/IRRRAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "17",
+            "Id": "36",
+            "Rivels": "Vestri vs RFS",
+            "Title": "UEFA Conference League 19:00 (S-1)",
+            "Link": "http://193.47.62.194/hls/IRRRAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "37",
             "Rivels": "Shkendija vs Bravo",
             "Title": "UEFA Conference League 19:00 (S-1)",
             "Link": "http://193.47.62.194/hls/IRRRAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "18",
+            "Id": "38",
+            "Rivels": "Beitar Jerusalem vs AEK Larnaca",
+            "Title": "UEFA Conference League 18:30 (S-1)",
+            "Link": "http://193.47.62.193/hls/llll.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "39",
             "Rivels": "Beitar Jerusalem vs AEK Larnaca --- HD",
             "Title": "UEFA Conference League 18:30 (S-1)",
             "Link": "https://live2.jxa76.com/live/sd-6Mwdq59ZWGAKtBev7m.m3u8?txSecret=c3dbbfe6b8efbee43cc534e0570d79d3&txTime=19FB55EA610|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "19",
+            "Id": "40",
             "Rivels": "Valletta vs Rakow",
             "Title": "UEFA Conference League 18:30 (S-1)",
             "Link": "http://193.47.62.193/hls/llllAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "20",
+            "Id": "41",
+            "Rivels": "Valletta vs Rakow --- HD",
+            "Title": "UEFA Conference League 18:30 (S-1)",
+            "Link": "https://live2.jxa76.com/live/sd-6Mwdq5AKeryGoeJcbm.m3u8?txSecret=c5614422ec8882b229697cd5ac5b5ad8&txTime=19FB55F4375|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "42",
+            "Rivels": "TNS vs Flora",
+            "Title": "UEFA Conference League 18:30 (S-1)",
+            "Link": "http://193.47.62.193/hls/llllAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "43",
             "Rivels": "TNS vs Flora --- HD",
             "Title": "UEFA Conference League 18:30 (S-1)",
             "Link": "https://live2.jxa76.com/live/sd-6MwarNRyNoMDFVe8TV.m3u8?txSecret=a3b5483d2b66dc4407b4be8319f13af3&txTime=19FB55F8E7E|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "21",
+            "Id": "44",
             "Rivels": "Derry City vs Rijeka",
             "Title": "UEFA Conference League 18:30 (S-1)",
             "Link": "http://193.47.62.193/hls/llllA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "22",
+            "Id": "45",
             "Rivels": "Derry City vs Rijeka --- HD",
             "Title": "UEFA Conference League 18:30 (S-1)",
             "Link": "https://live2.jxa76.com/live/sd-6MwarNRysuNFfx7xG3.m3u8?txSecret=1d8650edc2fba325f70d738f08fbfd77&txTime=19FB55EF1B7|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "23",
+            "Id": "46",
             "Rivels": "Huddersfield vs Hull FC",
             "Title": "English Rugby Super League 20:00 (S-1)",
             "Link": "http://193.47.62.192/hls/TUUUA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "24",
+            "Id": "47",
+            "Rivels": "San Lorenzo vs Guarani",
+            "Title": "Paraguay Primera Division 20:00 (S-1)",
+            "Link": "http://193.47.62.192/hls/TUUU.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "48",
+            "Rivels": "St Louis Cardinals vs Chicago Cubs",
+            "Title": "MLB Baseball 19:15 (S-1)",
+            "Link": "http://193.47.62.194/hls/AUUUUA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "49",
+            "Rivels": "Chicago White Sox vs New York Yankees",
+            "Title": "MLB Baseball 19:10 (S-1)",
+            "Link": "http://193.47.62.194/hls/AUUUU.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "50",
+            "Rivels": "Minnesota Twins vs Kansas City Royals",
+            "Title": "MLB Baseball 18:40 (S-1)",
+            "Link": "http://193.47.62.193/hls/llllAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "51",
+            "Rivels": "Senegal W vs Kenya W",
+            "Title": "Africa Cup of Nations Women 18:00 (S-1)",
+            "Link": "http://193.47.62.192/hls/ugggqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "52",
             "Rivels": "Gor Mahia vs Garde Republicaine",
             "Title": "CECAFA Kagame Cup 18:00 (S-1)",
             "Link": "http://193.47.62.192/hls/ugggq.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "25",
+            "Id": "53",
+            "Rivels": "APR vs Vipers",
+            "Title": "CECAFA Kagame Cup 18:00 (S-1)",
+            "Link": "http://193.47.62.192/hls/uggg.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "54",
+            "Rivels": "Malaga vs Al Ittihad",
+            "Title": "Friendly Match 18:00 (S-1)",
+            "Link": "http://193.47.62.192/hls/ZTTT.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "55",
+            "Rivels": "Southern Brave vs Birmingham Phoenix",
+            "Title": "Cricket The Hundred 18:00 (S-1)",
+            "Link": "http://193.47.62.190/hls/BBBB.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "56",
             "Rivels": "Tennis WTA Washington",
             "Title": "Tennis WTA 18:00 (S-1)",
             "Link": "http://193.47.62.190/hls/HYYYQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "26",
+            "Id": "57",
             "Rivels": "Tampa Bay Rays vs Texas Rangers",
             "Title": "MLB Baseball 17:10 (S-1)",
             "Link": "http://193.47.62.191/hls/BVVVAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "27",
+            "Id": "58",
+            "Rivels": "Tennis ATP Washington",
+            "Title": "Tennis ATP 16:00 (S-1)",
+            "Link": "http://193.47.62.190/hls/HYYYQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "59",
             "Rivels": "Golf PGA Rocket Classic",
             "Title": "Golf PGA 12:00 (S-1)",
             "Link": "http://193.47.62.190/hls/AAAA.m3u8|referer=http://www.fawanews.sc/"
