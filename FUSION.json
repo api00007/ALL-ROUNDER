@@ -7382,9 +7382,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:25:26 PM 01-08-2026",
+        "Last update time": "04:31:03 PM 01-08-2026",
         "Live": "00",
-        "Upcoming": "64",
+        "Upcoming": "67",
         "events": [
             {
                 "cat": "Motorsport",
@@ -8406,9 +8406,19 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tedesco.formaturamaxi.com.br/cbssn.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD LINK",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://ivan-flux.fusion-sports.site/proxy/php?url=http://193.47.62.193/hls/jaaaF.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SD LINK",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.194/hls/jaaaF.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "LOW SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -8509,6 +8519,11 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Link 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tedesco.formaturamaxi.com.br/mutv.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD LINK",
                         "tokenApi": ""
                     }
                 ],
@@ -9230,6 +9245,106 @@
                 "id": 2258,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
                 "title": "MLB"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/02 18:00:00 +0000",
+                    "eventName": "The Hundred Women",
+                    "isHot": "0",
+                    "startTime": "2026/08/02 13:30:00 +0000",
+                    "teamA": "MIL-W",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377200/image",
+                    "teamB": "MSG-W",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377201/image"
+                },
+                "id": 2263,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
+                "title": "The Hundred Women"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/02 18:00:00 +0000",
+                    "eventName": "The Hundred",
+                    "isHot": "0",
+                    "startTime": "2026/08/02 13:30:00 +0000",
+                    "teamA": "TRT",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+                    "teamB": "SL",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377178/image"
+                },
+                "id": 2264,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark",
+                "title": "The Hundred"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/02 14:30:00 +0000",
+                    "eventName": "The Hundred Women",
+                    "isHot": "0",
+                    "startTime": "2026/08/02 10:00:00 +0000",
+                    "teamA": "TRT-W",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377204/image",
+                    "teamB": "SL-W",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377206/image"
+                },
+                "id": 2265,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
+                "title": "The Hundred Women"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/01 21:30:00 +0000",
+                    "eventName": "The Hundred",
+                    "isHot": "0",
+                    "startTime": "2026/08/01 17:00:00 +0000",
+                    "teamA": "LNS",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+                    "teamB": "SOB",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377177/image"
+                },
+                "id": 2266,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark",
+                "title": "The Hundred"
             }
         ]
     }
