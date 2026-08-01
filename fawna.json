@@ -2,47 +2,65 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "01/08/26 13:48:48 IST",
-    "Total_Matches": 7,
+    "Last update": "01/08/26 13:54:48 IST",
+    "Total_Matches": 10,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Limavady vs Linfield",
+            "Title": "Friendly Match 10:45 (S-1)",
+            "Link": "http://193.47.62.194/hls/jaaa.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Carlton Blues vs Brisbane Lions",
+            "Title": "AFL Aussie Rules 10:40 (S-1)",
+            "Link": "http://193.47.62.190/hls/jaaaAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Brisbane Broncos vs Newcastle Knights",
+            "Title": "NRL 10:35 (S-1)",
+            "Link": "http://193.47.62.190/hls/jaaaA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
             "Rivels": "Port Adelaide Power vs GWS Giants",
             "Title": "AFL Aussie Rules 09:35 (S-1)",
             "Link": "http://193.47.62.41/hls/zrrrA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "5",
             "Rivels": "Levante vs Albacete Balompie",
             "Title": "Friendly Match 09:00 (S-1)",
             "Link": "http://193.47.62.41/hls/zrrrAAa.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "6",
             "Rivels": "Lazio vs Avellino",
             "Title": "Friendly Match 08:30 (S-1)",
             "Link": "http://193.47.62.41/hls/zrrrAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
+            "Id": "7",
             "Rivels": "Penrith Panthers vs Canberra Raiders",
             "Title": "NRL 08:30 (S-1)",
             "Link": "http://193.47.62.41/hls/YIIIA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "5",
+            "Id": "8",
             "Rivels": "Canterbury vs Auckland",
             "Title": "Rugby NZ Bunnings NPC 08:10 (S-1)",
             "Link": "http://193.47.62.41/hls/YIIIAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "6",
+            "Id": "9",
             "Rivels": "Slovenia vs Poland",
             "Title": "Volleyball Nations League 08:00 (S-1)",
             "Link": "http://193.47.62.41/hls/zrrr.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "7",
+            "Id": "10",
             "Rivels": "Snooker Champions League",
             "Title": "Snooker 07:00 (S-1)",
             "Link": "http://193.47.62.41/hls/tpppq.m3u8|referer=http://www.fawanews.sc/"
