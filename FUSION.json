@@ -7382,9 +7382,9 @@
     },
     "sports_live": {
         "Finish": "00",
-        "Last update time": "01:10:35 AM 02-08-2026",
+        "Last update time": "01:15:37 AM 02-08-2026",
         "Live": "00",
-        "Upcoming": "83",
+        "Upcoming": "84",
         "events": [
             {
                 "cat": "Motorsport",
@@ -10306,6 +10306,11 @@
                 "cat": "Boxing",
                 "channels_data": [
                     {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/11.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "iOS Link",
+                        "tokenApi": ""
+                    },
+                    {
                         "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/hbfhzbfzak46.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "HD SERVER",
@@ -10470,6 +10475,31 @@
                 "id": 2287,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
                 "title": "Liga MX, Apertura"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=ok\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/01 22:50:00 +0000",
+                    "eventName": "Copa Betano do Brasil",
+                    "isHot": "0",
+                    "startTime": "2026/08/01 20:30:00 +0000",
+                    "teamA": "Vasco",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                    "teamB": "Fluminense",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image"
+                },
+                "id": 2288,
+                "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/373/image",
+                "title": "Copa Betano do Brasil"
             }
         ]
     }
