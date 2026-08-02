@@ -1,7 +1,7 @@
 {
     "Ads_control": {
         "Ads_link": "https://whatdidheseehe.com?f6fZU=1402340",
-        "Status": "yes"
+        "Status": "no"
     },
     "Banners": [
         "https://i.ibb.co/cKvJHYbp/1000390744.png",
@@ -7315,9 +7315,9 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "08:40:34 PM 02-08-2026",
+        "Last update time": "09:10:36 PM 02-08-2026",
         "Live": "00",
-        "Upcoming": "64",
+        "Upcoming": "65",
         "events": [
             {
                 "cat": "Motorsport",
@@ -8507,9 +8507,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.193/hls/GLLLAAAAa.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "LOW SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -8630,9 +8630,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.193/hls/WOOOA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "LOW SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -9274,6 +9274,37 @@
                 "id": 2295,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
                 "title": "MLB"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "beiN ENGLISH FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.192/hls/IGGGAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LOW SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/02 17:50:00 +0000",
+                    "eventName": "Scottish Premiership",
+                    "isHot": "0",
+                    "startTime": "2026/08/02 15:30:00 +0000",
+                    "teamA": "Hibernian",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+                    "teamB": "Motherwell",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2346/image"
+                },
+                "id": 2300,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+                "title": "Scottish Premiership"
             }
         ]
     }
