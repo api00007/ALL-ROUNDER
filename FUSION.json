@@ -7533,9 +7533,9 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "08:15:45 PM 04-08-2026",
+        "Last update time": "08:20:39 PM 04-08-2026",
         "Live": "00",
-        "Upcoming": "60",
+        "Upcoming": "61",
         "events": [
             {
                 "cat": "Motorsport",
@@ -9345,6 +9345,55 @@
                 "id": 2222,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
                 "title": "Women's Africa Cup of Nations"
+            },
+            {
+                "cat": "Tennis",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd&k1=335dad778109954503dcbb21dc92015f&k2=24bfd75d436cbf73168a2a2dccd40281\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "beIN ENGLISH (ATP)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "beIN ENGLISH (WTA)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd&k1=59f50679c9e60963bd0cb6640992aaaa&k2=8685817c4d31f322e08940feeae2855a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TENNIS 2 FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://cast.zlive.st/p/auto-tennis-channel-0/index.m3u8?|Referer=https://zlive.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Montreal (ATP)",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://cast.zlive.st/p/auto-sky-sports-tennis-0/index.m3u8?|Referer=https://zlive.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Toronto (WTA)",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "  +0000",
+                    "eventName": "ATP & WTA TENNIS",
+                    "isHot": "0",
+                    "startTime": "2026/08/04 15:00:00 +0000",
+                    "teamA": "ATP",
+                    "teamAFlag": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+                    "teamB": "WTA",
+                    "teamBFlag": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg"
+                },
+                "id": 2223,
+                "league_logo": "https://sportzfy.io/wp-content/uploads/2025/09/tennis-1.png",
+                "title": "ATP & WTA TENNIS"
             }
         ]
     }
