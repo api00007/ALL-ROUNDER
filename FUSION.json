@@ -7533,9 +7533,9 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "08:31:20 PM 04-08-2026",
+        "Last update time": "08:35:35 PM 04-08-2026",
         "Live": "00",
-        "Upcoming": "61",
+        "Upcoming": "62",
         "events": [
             {
                 "cat": "Motorsport",
@@ -9394,6 +9394,31 @@
                 "id": 2223,
                 "league_logo": "https://sportzfy.io/wp-content/uploads/2025/09/tennis-1.png",
                 "title": "ATP & WTA TENNIS"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/05 19:00:00 +0000",
+                    "eventName": "One Day International",
+                    "isHot": "0",
+                    "startTime": "2026/08/05 09:45:00 +0000",
+                    "teamA": "IRE",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+                    "teamB": "AFG",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image"
+                },
+                "id": 2224,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+                "title": "One Day International"
             }
         ]
     }
