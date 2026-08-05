@@ -6307,11 +6307,34 @@
                     "tokenApi": ""
                 }
             ]
+        },
+        {
+            "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOuInN80lCapNG7wHCsj9hIqJGWLr0ebRZfa9Cym09A&s=10",
+            "Name": "GMA TV",
+            "Position": 7,
+            "Stream_url": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://absp-live.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd&k1=7b5d15a7385546768aca9fd505ad5e16&k2=f534393c84c1a9c17fa36bc3a4380981\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+            "stream_links": [
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://absp-live.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd&k1=7b5d15a7385546768aca9fd505ad5e16&k2=f534393c84c1a9c17fa36bc3a4380981\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "GMA Pinoy TV",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://absp-live.akamaized.net/dash/live/2099522/glife3/manifest.mpd&k1=5d308ef487f54107b7da758e195ecbd3&k2=9d4004d4c065dd4b85ad5bd12c35386f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "GMA Life TV",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://absp-live.akamaized.net/dash/live/2099522/gnews3/manifest.mpd&k1=d5d848730e4a4f9b962290039dd2b96b&k2=c959dc12f1bff5a66d030117fb7e9855\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "GMA News TV",
+                    "tokenApi": ""
+                }
+            ]
         }
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:15:46 AM 06-08-2026",
+        "Last update time": "03:20:41 AM 06-08-2026",
         "Live": "00",
         "Upcoming": "95",
         "events": [
