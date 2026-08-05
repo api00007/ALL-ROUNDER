@@ -6221,13 +6221,46 @@
                     "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live.corusdigitaldev.com/groupa/live/382d5187-0149-47e1-be61-70a399af2cc9/corus-globaltv.isml/.mpd&k1=eebe83a24758fe2699d61d7947199150&k2=1237147a8fbda3910eea43f78c48a46c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                     "name": "Global Maritimes",
                     "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live.corusdigitaldev.com/groupa/live/cf7b1a0a-5c2c-4512-8c0d-07ee434048dc/corus-globaltv.isml/.mpd&k1=0e100f3be6c0e9d58e5706d1c76d4523&k2=e6308eb95789e8dd46fe0a85a89469ab\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "Global Toronto",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQogLP-snziAZCCQX_91Ur4cZ8hMucUnraGS_IIxmummw&s=10",
+            "Name": "CityTV (CANADA IP OR USE VPN)",
+            "Position": 4,
+            "Stream_url": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://ubb-lott4-web-opus.cdn.avp.telus.net/232006004235/vxfmt=dp/manifest.mpd?device_profile=dashvmx&k1=11111111111111118111000000000000&k2=acfa6946a0db1bc9117c239a4e46ce20\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+            "stream_links": [
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://ubb-lott4-web-opus.cdn.avp.telus.net/232006004235/vxfmt=dp/manifest.mpd?device_profile=dashvmx&k1=11111111111111118111000000000000&k2=acfa6946a0db1bc9117c239a4e46ce20\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "CityTV Toronto",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://ubb-lott-web-opus.cdn.avp.telus.net/232006003198/vxfmt=dp/manifest.mpd?device_profile=dashvmx&k1=11111111111111118111000000000000&k2=ff86380313078be949e4dcb6199adce3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "CityTV Edmonton",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://ubb-lott-web-opus.cdn.avp.telus.net/232006003196/vxfmt=dp/manifest.mpd?device_profile=dashvmx&k1=11111111111111118111000000000000&k2=5ef2662855c29a824880ba1ed5084bbc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "CityTV Calagry",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://ubb-lott3-web-opus.cdn.avp.telus.net/232006134230/vxfmt=dp/manifest.mpd?device_profile=dashvmx&k1=11111111111111118111000000000000&k2=aa40ae64381108a45d53feb40e078f7a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "CityTV Montreal",
+                    "tokenApi": ""
                 }
             ]
         }
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "12:35:36 AM 06-08-2026",
+        "Last update time": "01:05:31 AM 06-08-2026",
         "Live": "00",
         "Upcoming": "95",
         "events": [
@@ -7870,6 +7903,42 @@
                         "source": "ivan",
                         "title": "FHD SERVER",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd&k1=f836853d8eac19446ed9535f5fc568b1&k2=b3bc5ef00602b29abac7e482d3d9fbf3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "D SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.live123.fans/live/4594021.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "VG LIVE",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54217/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LIVE SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://stream.sports3.win/iptv/live/signal-4594021-29370.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.191/hls/IIIIAAA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=fb1adc6515d9a73a54053ac0f6213232&txTime=6a73dbdb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LOW QUALITY",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
@@ -7916,9 +7985,9 @@
                 "cat": "Basketball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -7941,9 +8010,9 @@
                 "cat": "Basketball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/ztyarueaghj71.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -7966,9 +8035,9 @@
                 "cat": "Basketball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -8392,9 +8461,9 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/dzjhkfazbka26.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -8442,10 +8511,25 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/bzagLHzach19.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://streame.center/embed/ch17.php\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TEST",
+                        "tokenApi": {
+                            "api": "https://streame.center/embed/ch17.php",
+                            "default_string": "N8x7Y%m+6n",
+                            "ip_api": "https://api.ipify.org/",
+                            "link_key": "playback_url",
+                            "request_body_type": "text",
+                            "request_type": "get",
+                            "type": "embed",
+                            "url": "https://streame.center/embed/ch17.php"
+                        }
                     }
                 ],
                 "eventInfo": {
@@ -8492,9 +8576,9 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/kjhfzua25.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -8517,9 +8601,21 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/Czajafjihafch18.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54225/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54226/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/Czajafjihafch18.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LIVE SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -8542,9 +8638,9 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/jkzahzadach20.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -8598,9 +8694,9 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ojzkajnach21.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -8654,9 +8750,9 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -8679,7 +8775,7 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54224/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54224/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "MLB HD",
                         "tokenApi": ""
@@ -8710,9 +8806,9 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/ijfnakfidch22.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -8735,9 +8831,9 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/jzabfazkbf27.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -8760,9 +8856,9 @@
                 "cat": "Baseball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/fskjanach24.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD QUALITY",
                         "tokenApi": ""
                     }
                 ],
@@ -8971,9 +9067,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=gx\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.live123.fans/live/4546339.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -9042,6 +9138,12 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd&k1=9dc40460c93087aea84d6315f08ecb64&k2=f69c8d4624fddff4ca89bd0b31bdc4a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "PREMIERER BR",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd&k1=9009b7189e3e68cc09d17811f2beb55a&k2=dd3f96a94c909da48ff40c92aabf8cf3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SporTV BR FHD",
                         "tokenApi": ""
                     }
                 ],
@@ -9118,6 +9220,27 @@
                         "source": "ivan",
                         "title": "FHD SERVER",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://rdcstream.life/live/inter-miami-x-atletico-san-luis/index.m3u8?|Referer=https://bolodechocolate.fit/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD QUALITY",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://embedindia.st/embed/leagues-cup/2026-08-05/mia-asl\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": {
+                            "api": "https://embedindia.st/embed/leagues-cup/2026-08-05/mia-asl",
+                            "default_string": "N8x7Y%m+6n",
+                            "ip_api": "https://api.ipify.org/",
+                            "link_key": "playback_url",
+                            "request_body_type": "text",
+                            "request_type": "get",
+                            "type": "embed",
+                            "url": "https://embedindia.st/embed/leagues-cup/2026-08-05/mia-asl"
+                        }
                     }
                 ],
                 "eventInfo": {
