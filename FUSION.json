@@ -6349,7 +6349,12 @@
             "stream_links": [
                 {
                     "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://tr.vl-tve-linear-red.cdnsrv.videotron.ca/CANDHD_HD_VL_VLTVE_56161_0_5927923575099822163.mpd&k1=4a1d29bff238b6cdbbe25ae423381113&k2=cb10d4e0ed0c2a61b9a0015e55d76b51\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                    "name": "Server 1",
+                    "name": "D HD",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://tr.vl-tve-linear-red.cdnsrv.videotron.ca/CBFTD_HD_VL_VLTVE_45867_0_7508328084069085163.mpd&k1=801fb0838837e1865ad381bff8a5127d&k2=baa913f38895dde9737e9d092cba4aec\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "CBFTD",
                     "tokenApi": ""
                 }
             ]
@@ -6357,7 +6362,7 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "06:55:29 AM 06-08-2026",
+        "Last update time": "07:05:28 AM 06-08-2026",
         "Live": "00",
         "Upcoming": "95",
         "events": [
