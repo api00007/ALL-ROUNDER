@@ -6625,9 +6625,9 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:35:28 PM 07-08-2026",
+        "Last update time": "03:55:28 PM 07-08-2026",
         "Live": "00",
-        "Upcoming": "43",
+        "Upcoming": "69",
         "events": [
             {
                 "cat": "Motorsport",
@@ -7371,9 +7371,9 @@
                 "cat": "Cricket",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786125484~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=4850f9d1-05d5-4a91-8443-7e5a216546e7~data=hdntl~hmac=2e23608c1ba32d0b25ecb7caa96db2c1b7a5a791d8b2b9c0d74f94262ee9b96d/manifest.mpd&k1=39bd302cdeed3710a89fb004d232ab67&k2=9869f804ba18d7e508cbff781829221c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "ICC TV FHD",
                         "tokenApi": ""
                     }
                 ],
@@ -7969,6 +7969,656 @@
                 "id": 2336,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
                 "title": "AFL"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 01:40:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 22:40:00 +0000",
+                    "teamA": "Phillies",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                    "teamB": "Blue Jays",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image"
+                },
+                "id": 2345,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 03:10:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 00:10:00 +0000",
+                    "teamA": "Royals",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                    "teamB": "Cubs",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image"
+                },
+                "id": 2346,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 02:40:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 23:40:00 +0000",
+                    "teamA": "White Sox",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                    "teamB": "Guardians",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image"
+                },
+                "id": 2347,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 02:05:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 23:05:00 +0000",
+                    "teamA": "Yankees",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                    "teamB": "Braves",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image"
+                },
+                "id": 2348,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 05:15:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 02:15:00 +0000",
+                    "teamA": "Giants",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                    "teamB": "Tigers",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
+                },
+                "id": 2349,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 04:40:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 01:40:00 +0000",
+                    "teamA": "Diamondbacks",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                    "teamB": "Dodgers",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
+                },
+                "id": 2350,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 03:15:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 00:15:00 +0000",
+                    "teamA": "Rangers",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                    "teamB": "Orioles",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
+                },
+                "id": 2351,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 04:40:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 01:40:00 +0000",
+                    "teamA": "Padres",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                    "teamB": "Astros",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image"
+                },
+                "id": 2352,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 02:10:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 23:10:00 +0000",
+                    "teamA": "Red Sox",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                    "teamB": "Athletics",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image"
+                },
+                "id": 2353,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 01:45:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 22:45:00 +0000",
+                    "teamA": "Nationals",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                    "teamB": "Reds",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image"
+                },
+                "id": 2354,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 01:40:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 22:40:00 +0000",
+                    "teamA": "Pirates",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                    "teamB": "Mets",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
+                },
+                "id": 2355,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 02:10:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 23:10:00 +0000",
+                    "teamA": "Marlins",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                    "teamB": "Angels",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image"
+                },
+                "id": 2356,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 04:45:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 01:45:00 +0000",
+                    "teamA": "Mariners",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+                    "teamB": "Rays",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image"
+                },
+                "id": 2357,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 02:40:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 23:40:00 +0000",
+                    "teamA": "Brewers",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                    "teamB": "Twins",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
+                },
+                "id": 2358,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 03:15:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 00:15:00 +0000",
+                    "teamA": "Cardinals",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                    "teamB": "Rockies",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
+                },
+                "id": 2359,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 02:00:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 23:30:00 +0000",
+                    "teamA": "Mystics",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+                    "teamB": "Dream",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image"
+                },
+                "id": 2360,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 02:00:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 23:30:00 +0000",
+                    "teamA": "Sun",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+                    "teamB": "Mercury",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image"
+                },
+                "id": 2361,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
+            },
+            {
+                "cat": "Basketball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 04:00:00 +0000",
+                    "eventName": "WNBA",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 01:30:00 +0000",
+                    "teamA": "Wings",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                    "teamB": "Valkyries",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image"
+                },
+                "id": 2362,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+                "title": "WNBA"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/07 16:50:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 14:30:00 +0000",
+                    "teamA": "Verona",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
+                    "teamB": "Cremonese",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image"
+                },
+                "id": 2363,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 14:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 12:00:00 +0000",
+                    "teamA": "Chelsea",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+                    "teamB": "Milan",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image"
+                },
+                "id": 2364,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/07 19:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 17:00:00 +0000",
+                    "teamA": "Fulham",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
+                    "teamB": "Crystal Palace",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image"
+                },
+                "id": 2365,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 13:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 11:00:00 +0000",
+                    "teamA": "Juventus",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+                    "teamB": "Inter",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image"
+                },
+                "id": 2366,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 11:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 09:00:00 +0000",
+                    "teamA": "Rennes",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+                    "teamB": "Brentford",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
+                },
+                "id": 2367,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/07 16:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/08/07 14:00:00 +0000",
+                    "teamA": "Hoffenheim",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+                    "teamB": "M'gladbach",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image"
+                },
+                "id": 2368,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 10:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 08:00:00 +0000",
+                    "teamA": "Elche",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+                    "teamB": "Toulouse",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
+                },
+                "id": 2369,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 12:20:00 +0000",
+                    "eventName": "Club Friendly Games",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 10:00:00 +0000",
+                    "teamA": "Lens",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+                    "teamB": "Sunderland",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image"
+                },
+                "id": 2370,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+                "title": "Club Friendly Games"
             }
         ]
     }
