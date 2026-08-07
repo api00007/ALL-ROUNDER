@@ -6590,42 +6590,9 @@
             ]
         },
         {
-            "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hcN57xnpeIOP4sbyWGu6HLKZTkY1BsrV0dIKdGgaKQ&s=10",
-            "Name": "Starz Movies (HD PLAYER)",
-            "Position": 14,
-            "Stream_url": "<iframe src=\"https://hoofoot.ru/iptv/player?id=8678113\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-            "stream_links": [
-                {
-                    "link": "<iframe src=\"https://hoofoot.ru/iptv/player?id=8678113\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                    "name": "Starz",
-                    "tokenApi": ""
-                },
-                {
-                    "link": "<iframe src=\"https://hoofoot.ru/iptv/player?id=2875860\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                    "name": "Starz Cinema",
-                    "tokenApi": ""
-                },
-                {
-                    "link": "<iframe src=\"https://hoofoot.ru/iptv/player?id=1959589\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                    "name": "Starz Comedy",
-                    "tokenApi": ""
-                },
-                {
-                    "link": "<iframe src=\"https://hoofoot.ru/iptv/player?id=1477902\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                    "name": "Starz Edge",
-                    "tokenApi": ""
-                },
-                {
-                    "link": "<iframe src=\"https://hoofoot.ru/iptv/player?id=7427424\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                    "name": "Starz Encore",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrfj1dMcuzQHY2nTvlRjAKk_dLrPmwjQNKR4ZWo47CAQ&s=10",
             "Name": "MGM Movies",
-            "Position": 15,
+            "Position": 14,
             "Stream_url": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
             "stream_links": [
                 {
@@ -6647,13 +6614,28 @@
                     "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd&k1=34bbe1d5cad94e81a2f2eb3275611f85&k2=7e6a42fbe78e7ff8c20cb4eeb475ed17\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                     "name": "MGM Plus",
                     "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd&k1=2aa5443eab3841fca0804ed7df621e21&k2=f6337da72d318e72e77742c7f8d2e698\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "MGM Drive In",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd&k1=2e177abdd25b476dbb474fa7c2ee76b3&k2=dc43cb2d4bd48774ef9620fda1158060\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "MGM Hits",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd&k1=2f2032b4cae944a0adf5ce111a2ff693&k2=2b4a2855b0abde035714985be6db4bd0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "MGM Marquee",
+                    "tokenApi": ""
                 }
             ]
         }
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:35:39 PM 07-08-2026",
+        "Last update time": "04:50:35 PM 07-08-2026",
         "Live": "00",
         "Upcoming": "69",
         "events": [
