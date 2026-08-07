@@ -2,17 +2,29 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "07/08/26 13:13:01 IST",
-    "Total_Matches": 2,
+    "Last update": "07/08/26 13:19:02 IST",
+    "Total_Matches": 4,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Sydney Roosters vs Canterbury Bulldogs",
+            "Title": "NRL 11:00 (S-1)",
+            "Link": "http://193.47.62.190/hls/gnnn.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Brisbane Lions vs Hawthorn Hawks",
+            "Title": "AFL Aussie Rules 10:40 (S-1)",
+            "Link": "http://193.47.62.190/hls/gnnnA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
             "Rivels": "New Zealand Warriors vs Penrith Panthers",
             "Title": "NRL 09:00 (S-1)",
             "Link": "http://193.47.62.190/hls/bsss.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "4",
             "Rivels": "Taranaki vs Waikato",
             "Title": "Rugby New Zealand NPC 08:10 (S-1)",
             "Link": "http://193.47.62.190/hls/gnnn.m3u8|referer=http://www.fawanews.sc/"
