@@ -6625,7 +6625,7 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "11:15:40 AM 07-08-2026",
+        "Last update time": "11:20:38 AM 07-08-2026",
         "Live": "00",
         "Upcoming": "83",
         "events": [
@@ -8558,9 +8558,21 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/mohammedansportingclub_vs_policeathleticclub/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=#\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Mohammedan SC VS Police ac",
+                        "title": "Mohun Bagan SG vs Sangbad Pratidin Bhawanipore",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=s\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Calcutta Customs vs Railway FC",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=s\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "United Kolkata SC vs Kidderpore SC",
                         "tokenApi": ""
                     }
                 ],
