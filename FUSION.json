@@ -6625,11 +6625,11 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:20:34 PM 07-08-2026",
+        "Last update time": "03:31:10 PM 07-08-2026",
         "Live": "00",
         "Upcoming": "43",
-        "events": [
-            {
+        "events": {
+            "0": {
                 "cat": "Motorsport",
                 "channels_data": [
                     {
@@ -6678,7 +6678,7 @@
                 "league_logo": "https://cdn-icons-png.flaticon.com/512/2418/2418779.png",
                 "title": "Formula 1"
             },
-            {
+            "1": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6703,7 +6703,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
                 "title": "Premier League"
             },
-            {
+            "2": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6728,7 +6728,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
                 "title": "Premier League"
             },
-            {
+            "3": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6753,7 +6753,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
                 "title": "Premier League"
             },
-            {
+            "4": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6778,7 +6778,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
                 "title": "Premier League"
             },
-            {
+            "5": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6803,7 +6803,7 @@
                 "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
                 "title": "Premier League"
             },
-            {
+            "6": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6828,7 +6828,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
                 "title": "Premier League"
             },
-            {
+            "7": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6871,7 +6871,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
                 "title": "Premier League"
             },
-            {
+            "8": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6896,7 +6896,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
                 "title": "Premier League"
             },
-            {
+            "9": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6921,7 +6921,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
                 "title": "LaLiga"
             },
-            {
+            "10": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6946,7 +6946,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
                 "title": "LaLiga"
             },
-            {
+            "11": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6971,7 +6971,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
                 "title": "LaLiga"
             },
-            {
+            "12": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -6996,7 +6996,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
                 "title": "LaLiga"
             },
-            {
+            "13": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -7021,7 +7021,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
                 "title": "LaLiga"
             },
-            {
+            "14": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -7046,7 +7046,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
                 "title": "Saudi Pro League"
             },
-            {
+            "15": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -7071,7 +7071,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
                 "title": "Saudi Pro League"
             },
-            {
+            "16": {
                 "cat": "Boxing",
                 "channels_data": [
                     {
@@ -7108,7 +7108,7 @@
                 "league_logo": "https://iili.io/FDjaT1R.md.png",
                 "title": "One Friday Fights"
             },
-            {
+            "17": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -7133,7 +7133,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
                 "title": "Saudi Pro League"
             },
-            {
+            "18": {
                 "cat": "Boxing",
                 "channels_data": [
                     {
@@ -7170,7 +7170,7 @@
                 "league_logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
                 "title": "Friday Night SmackDown"
             },
-            {
+            "19": {
                 "cat": "Motorsport",
                 "channels_data": [
                     {
@@ -7237,7 +7237,7 @@
                 "league_logo": "https://i.ibb.co/6chYXnTd/mgpp.png",
                 "title": "MotoGP"
             },
-            {
+            "20": {
                 "cat": "Boxing",
                 "channels_data": [
                     {
@@ -7280,51 +7280,7 @@
                 "league_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
                 "title": "Monday Night RAW"
             },
-            {
-                "cat": "American Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://stream.video.9c9media.com/MTc4NjAyNDM0NV9iZDVlODBjMGI4YTNhYjFhMDUyMjgxNDljOWNhMzU3ZDk4YzM3MWI2NTNiZmRhM2UzY2QxYTg2ODFhYjk3YTU5/d/tsn/tsn2a/manifest.mpd?dolbyvision=false&pnkh=MTc4NjAyNDM0NV9iZDVlODBjMGI4YTNhYjFhMDUyMjgxNDljOWNhMzU3ZDk4YzM3MWI2NTNiZmRhM2UzY2QxYTg2ODFhYjk3YTU5&filter=fe&stt=true&u=li&mta=false&mca=true&rpw=false&mcv=false&hdr10=false&k1=3d4de9a331dc46f08a516b44046b4a52&k2=e7c5359ff4f72d19ab7079d67fa56a0e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "TSN DIRECT",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/uyopzarf50.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "NBC HQ",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.192/hls/AAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Backup Link",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.191/hls/YFFFAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54281/load-playlist.m3u8|Referer=https://gooz.aapmains.net/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "HD Link",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 04:20:00 +0000",
-                    "eventName": "NFL",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 00:00:00 +0000",
-                    "teamA": "Carolina Panthers",
-                    "teamAFlag": "data:image/png;base64,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",
-                    "teamB": "Arizona Cardinals",
-                    "teamBFlag": "data:image/png;base64,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"
-                },
-                "id": 649,
-                "league_logo": "data:image/png;base64,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",
-                "title": "NFL"
-            },
-            {
+            "22": {
                 "cat": "Boxing",
                 "channels_data": [
                     {
@@ -7355,211 +7311,7 @@
                 "league_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
                 "title": "WWE NXT"
             },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/RFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-06/atx-tij/playlist.m3u8?tk=Pwt16s9re-9DFdk4mq-oDg&e=1786085486|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-austin-fc-vs-tijuana/2/playlist.m3u8?tk=Pwt16s9re-9DFdk4mq-oDg&e=1786085486|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 03:20:00 +0000",
-                    "eventName": "Leagues Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 01:00:00 +0000",
-                    "teamA": "Austin",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377973/image",
-                    "teamB": "Tijuana",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/36525/image"
-                },
-                "id": 2275,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
-                "title": "Leagues Cup"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/RFFFAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-06/chi-ncx/playlist.m3u8?tk=Pwt16s9re-9DFdk4mq-oDg&e=1786085486|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-fire-fc-vs-necaxa/2/playlist.m3u8?tk=Pwt16s9re-9DFdk4mq-oDg&e=1786085486|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 02:50:00 +0000",
-                    "eventName": "Leagues Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 00:30:00 +0000",
-                    "teamA": "Chicago",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2505/image",
-                    "teamB": "Necaxa",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image"
-                },
-                "id": 2276,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
-                "title": "Leagues Cup"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/YFFFAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 04:20:00 +0000",
-                    "eventName": "Leagues Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 02:00:00 +0000",
-                    "teamA": "América",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-                    "teamB": "San Diego FC",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1043961/image"
-                },
-                "id": 2278,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
-                "title": "Leagues Cup"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/RFFFAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&k1=5466ebd70704bdeb657f0abf3c5ca4ef&k2=bdd79b72d8e48ed483aa623cc38a8a16\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-06/caz-phi/playlist.m3u8?tk=YEIVvVNjwXLEug3iaqq-gA&e=1786085485|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-cruz-azul-vs-philadelphia-union/2/playlist.m3u8?tk=YEIVvVNjwXLEug3iaqq-gA&e=1786085485|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 02:30:00 +0000",
-                    "eventName": "Leagues Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 00:10:00 +0000",
-                    "teamA": "Cruz Azul",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-                    "teamB": "Philadelphia",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/39833/image"
-                },
-                "id": 2284,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
-                "title": "Leagues Cup"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/RFFF.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-06/nyc-san/playlist.m3u8?tk=YEIVvVNjwXLEug3iaqq-gA&e=1786085485|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 01:50:00 +0000",
-                    "eventName": "Leagues Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 23:30:00 +0000",
-                    "teamA": "NY City",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187643/image",
-                    "teamB": "Santos",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1948/image"
-                },
-                "id": 2285,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
-                "title": "Leagues Cup"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/YFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 04:50:00 +0000",
-                    "eventName": "Leagues Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 02:30:00 +0000",
-                    "teamA": "Portland",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-                    "teamB": "Puebla",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image"
-                },
-                "id": 2286,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
-                "title": "Leagues Cup"
-            },
-            {
+            "29": {
                 "cat": "Cricket",
                 "channels_data": [
                     {
@@ -7590,129 +7342,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
                 "title": "One Day International"
             },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmyciwvirh/out/v1/5e04c4a3116b4e848f99a37fefb996d0/cenc.mpd&k1=56f46d806961b2b8b30d208b713c5061&k2=dc474a96d57b2d143f477b4d5ade9ef0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "CRICKET FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmyciwvirh/out/v1/5e04c4a3116b4e848f99a37fefb996d0/cenc.mpd&k1=56f46d806961b2b8b30d208b713c5061&k2=dc474a96d57b2d143f477b4d5ade9ef0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW ALT",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|Referer=https://tapmad.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TAPMAD FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY SPORT NZ",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX CRICKET HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/BBBB.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 22:00:00 +0000",
-                    "eventName": "The Hundred",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 17:30:00 +0000",
-                    "teamA": "LNS",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377175/image",
-                    "teamB": "MIL",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377172/image"
-                },
-                "id": 2287,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark",
-                "title": "The Hundred"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd&k1=6818868b06409ee7869850f878c30665&k2=4766f05f2c1de3cd0896ccd99f662fd1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "CRICKET FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd&k1=6818868b06409ee7869850f878c30665&k2=4766f05f2c1de3cd0896ccd99f662fd1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW ALT",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|Referer=https://tapmad.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TAPMAD FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY SPORT NZ",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX CRICKET HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/BBBB.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 18:30:00 +0000",
-                    "eventName": "The Hundred Women",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 14:00:00 +0000",
-                    "teamA": "LNS-W",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377203/image",
-                    "teamB": "MIL-W",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377200/image"
-                },
-                "id": 2288,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
-                "title": "The Hundred Women"
-            },
-            {
+            "32": {
                 "cat": "Cricket",
                 "channels_data": [
                     {
@@ -7737,7 +7367,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
                 "title": "Lanka Premier League"
             },
-            {
+            "33": {
                 "cat": "Cricket",
                 "channels_data": [
                     {
@@ -7762,159 +7392,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
                 "title": "ICC CWC League 2"
             },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/UJJJ.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "beiN ENGLISH FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/carabao-cup/2026-08-06/brc-wal/playlist.m3u8?tk=hkwP-bRfEHaY0ywNh2ZfBg&e=1786084500|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/UJJJ.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 21:05:00 +0000",
-                    "eventName": "EFL Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:45:00 +0000",
-                    "teamA": "Bristol City",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
-                    "teamB": "Walsall",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/26/image"
-                },
-                "id": 2291,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
-                "title": "EFL Cup"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 20:20:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:00:00 +0000",
-                    "teamA": "Málaga",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-                    "teamB": "Al-Arabi",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/44444/image"
-                },
-                "id": 2292,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/ssss.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/ssss.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 20:20:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:00:00 +0000",
-                    "teamA": "Fiorentina",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-                    "teamB": "Deportivo",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image"
-                },
-                "id": 2293,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/sssSs.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/sssSs.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 20:20:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:00:00 +0000",
-                    "teamA": "AS Monaco",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-                    "teamB": "Getafe",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image"
-                },
-                "id": 2294,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 16:20:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 14:00:00 +0000",
-                    "teamA": "Cremonese",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-                    "teamB": "Iraklis",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/81751/image"
-                },
-                "id": 2295,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
+            "39": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -7939,7 +7417,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
             },
-            {
+            "40": {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -7964,523 +7442,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
             },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/ACCCCAAA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 20:05:00 +0000",
-                    "eventName": "UEFA Europa League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 17:45:00 +0000",
-                    "teamA": "PAOK",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
-                    "teamB": "Anderlecht",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2900/image"
-                },
-                "id": 2298,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-                "title": "UEFA Europa League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://162.251.160.53:8089/THUFOT2/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.192/hls/AUUUA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live2.jxa76.com/live/sd-6MxiZdaSgKhN48oNM9_540p.m3u8?txSecret=9fb9f39b48a61e5d6470437c36f53409&txTime=19FD917197E\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 18:20:00 +0000",
-                    "eventName": "UEFA Europa League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 16:00:00 +0000",
-                    "teamA": "Jagiellonia",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/7691/image",
-                    "teamB": "Rangers",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image"
-                },
-                "id": 2299,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-                "title": "UEFA Europa League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.194/hls/ACCCCA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live2.jxa76.com/live/sd-6MxiZdaSrBAJLsbeEF_540p.m3u8?txSecret=fefb5e58f460cb6cffa9f63faa0a3bb1&txTime=19FD94EFDF4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 19:20:00 +0000",
-                    "eventName": "UEFA Europa League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 17:00:00 +0000",
-                    "teamA": "RB Salzburg",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2046/image",
-                    "teamB": "Pafos",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/171626/image"
-                },
-                "id": 2300,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-                "title": "UEFA Europa League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.194/hls/ACCCCAA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://162.251.160.53:8089/THUFOT1/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live2.jxa76.com/live/sd-6MxiZdaTg9keCFVrRH_540p.m3u8?txSecret=67828d740f3f88258b0f03a7d467c8d0&txTime=19FD8F92053\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 17:20:00 +0000",
-                    "eventName": "UEFA Europa League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 15:00:00 +0000",
-                    "teamA": "KuPS",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2244/image",
-                    "teamB": "U. Craiova",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/116223/image"
-                },
-                "id": 2301,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-                "title": "UEFA Europa League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.193/hls/GLLLAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd&k1=1a5df53609ebc9857898c490f4724918&k2=77f62980d582ec541280796acf8b2d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "PREMIER SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/uefa-europa-league-qualfiying/2026-08-06/slb-hom/playlist.m3u8?tk=h7ORLTac19BD5zhCvYl73A&e=1786084501|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.193/hls/GLLLAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://162.251.160.53:8089/THUFOT3/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 21:20:00 +0000",
-                    "eventName": "UEFA Europa League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 19:00:00 +0000",
-                    "teamA": "Benfica",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-                    "teamB": "Hearts",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image"
-                },
-                "id": 2302,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-                "title": "UEFA Europa League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.193/hls/ANNNAAAA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live2.jxa76.com/live/sd-6MxiZdaTgeKtWVEmQw_540p.m3u8?txSecret=20a57ec35c82f3e3f2dd77e71bd07d78&txTime=19FD94D4F93\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 19:20:00 +0000",
-                    "eventName": "UEFA Europa League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 17:00:00 +0000",
-                    "teamA": "Hradec Králové",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2217/image",
-                    "teamB": "Beşiktaş",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image"
-                },
-                "id": 2303,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-                "title": "UEFA Europa League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.193/hls/ALLLA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live2.jxa76.com/live/sd-6MxiZdaT1gquoHxfjH_540p.m3u8?txSecret=dbef343313b51ced7dc5ae9a8d88f7d4&txTime=19FD9517510\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 19:20:00 +0000",
-                    "eventName": "UEFA Conference League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 17:00:00 +0000",
-                    "teamA": "Dynamo Kyiv",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3305/image",
-                    "teamB": "Qarabağ",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5962/image"
-                },
-                "id": 2304,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-                "title": "UEFA Conference League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 21:20:00 +0000",
-                    "eventName": "UEFA Conference League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 19:00:00 +0000",
-                    "teamA": "Hibernian",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
-                    "teamB": "Shkëndija",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5413/image"
-                },
-                "id": 2305,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-                "title": "UEFA Conference League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.191/hls/AQQQTAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 20:50:00 +0000",
-                    "eventName": "UEFA Conference League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:30:00 +0000",
-                    "teamA": "Braga",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-                    "teamB": "Dinamo Minsk",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3361/image"
-                },
-                "id": 2307,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-                "title": "UEFA Conference League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.193/hls/ALLLAA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live2.jxa76.com/live/sd-6MxiZdaT1M4axyXRMD_540p.m3u8?txSecret=de53858d50cce8390443448e6f49bfbe&txTime=19FD951D61A\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 19:20:00 +0000",
-                    "eventName": "UEFA Conference League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 17:00:00 +0000",
-                    "teamA": "Göteborg",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1761/image",
-                    "teamB": "Gent",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2903/image"
-                },
-                "id": 2308,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-                "title": "UEFA Conference League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.191/hls/AQQQ.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/uefa-conference-league-qualifying/2026-08-06/aja-she/playlist.m3u8?tk=brJ09FwFN_HcGILJvjlcYw&e=1786083135|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "PREMIER SPORTS HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.191/hls/AQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54257/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live2.jxa76.com/live/sd-6MxiZdaSfuX5UriHfH_540p.m3u8?txSecret=e9e3d3de00b04f96e404bf1fb73f9d5a&txTime=19FD985C1E3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-ajax-amsterdam-vs-shelbourne/2/playlist.m3u8?tk=brJ09FwFN_HcGILJvjlcYw&e=1786083135|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD+ SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 20:20:00 +0000",
-                    "eventName": "UEFA Conference League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:00:00 +0000",
-                    "teamA": "Ajax",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-                    "teamB": "Shelbourne",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3174/image"
-                },
-                "id": 2309,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-                "title": "UEFA Conference League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.191/hls/AQQQTA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.191/hls/AQQQTA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 20:20:00 +0000",
-                    "eventName": "UEFA Conference League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:00:00 +0000",
-                    "teamA": "Twente",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-                    "teamB": "DAC 1904",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/23833/image"
-                },
-                "id": 2310,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-                "title": "UEFA Conference League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 19:20:00 +0000",
-                    "eventName": "UEFA Conference League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 17:00:00 +0000",
-                    "teamA": "DVSC",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1921/image",
-                    "teamB": "København",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1284/image"
-                },
-                "id": 2311,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-                "title": "UEFA Conference League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/UJJJDDd.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 22:20:00 +0000",
-                    "eventName": "Women's Africa Cup of Nations",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 20:00:00 +0000",
-                    "teamA": "Cabo Verde",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/419432/image",
-                    "teamB": "Cameroon",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/69218/image"
-                },
-                "id": 2312,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
-                "title": "Women's Africa Cup of Nations"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/UJJJDDdd.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 22:20:00 +0000",
-                    "eventName": "Women's Africa Cup of Nations",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 20:00:00 +0000",
-                    "teamA": "Mali",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/132944/image",
-                    "teamB": "Ghana",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/7417/image"
-                },
-                "id": 2313,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
-                "title": "Women's Africa Cup of Nations"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|Referer=https://tapmad.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TAPMAD FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8|Referer=https://fancode.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FANCODE (IND)",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/04 12:00:00 +0000",
-                    "eventName": "Asian Legends League, T20",
-                    "isHot": "0",
-                    "startTime": "2026/08/04 07:30:00 +0000",
-                    "teamA": "Legends League",
-                    "teamAFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
-                    "teamB": "Legends League",
-                    "teamBFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png"
-                },
-                "id": 2168,
-                "league_logo": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
-                "title": "Asian Legends League, T20"
-            },
-            {
+            "57": {
                 "cat": "Boxing",
                 "channels_data": [
                     {
@@ -8523,689 +7485,7 @@
                 "league_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
                 "title": "AEW Dynamite"
             },
-            {
-                "cat": "Boxing",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/04/12 04:00:00 +0000",
-                    "eventName": "TNA iMPACT",
-                    "isHot": "0",
-                    "startTime": "2026/04/11 23:00:00 +0000",
-                    "teamA": "TNA iMPACT",
-                    "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-                    "teamB": "TNA iMPACT",
-                    "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png"
-                },
-                "id": 175,
-                "league_logo": "https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png",
-                "title": "TNA iMPACT"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=#\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Mohun Bagan SG vs Sangbad Pratidin Bhawanipore",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=s\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Calcutta Customs vs Railway FC",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=s\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "United Kolkata SC vs Kidderpore SC",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "Calcutta Premier Division",
-                    "isHot": "0",
-                    "startTime": "2026/08/05 09:30:00 +0000",
-                    "teamA": "Calcutta Premier Division",
-                    "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                    "teamB": "Calcutta Premier Division",
-                    "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark"
-                },
-                "id": 2189,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "title": "Calcutta Premier Division"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785982465~acl=/*~id=90831226283164501167456220510065~hmac=8295f6fa0391b66bf9e7426b107cf608a32922ba5b4235d68ec894fba201c9dc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "Durand cup 2026",
-                    "isHot": "0",
-                    "startTime": "2026/08/05 10:30:00 +0000",
-                    "teamA": "Durand Cup",
-                    "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-                    "teamB": "Durand Cup",
-                    "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark"
-                },
-                "id": 2190,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-                "title": "Durand cup 2026"
-            },
-            {
-                "cat": "Tennis",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd&k1=335dad778109954503dcbb21dc92015f&k2=24bfd75d436cbf73168a2a2dccd40281\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "beIN ENGLISH (ATP)",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "beIN ENGLISH (WTA)",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd&k1=59f50679c9e60963bd0cb6640992aaaa&k2=8685817c4d31f322e08940feeae2855a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TENNIS 2 FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://cast.zlive.st/p/auto-tennis-channel-0/index.m3u8?|Referer=https://zlive.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Montreal (ATP)",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://cast.zlive.st/p/auto-sky-sports-tennis-0/index.m3u8?|Referer=https://zlive.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Toronto (WTA)",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "ATP & WTA TENNIS",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 15:00:00 +0000",
-                    "teamA": "ATP",
-                    "teamAFlag": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-                    "teamB": "WTA",
-                    "teamBFlag": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg"
-                },
-                "id": 2223,
-                "league_logo": "https://sportzfy.io/wp-content/uploads/2025/09/tennis-1.png",
-                "title": "ATP & WTA TENNIS"
-            },
-            {
-                "cat": "Cycling",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd&k1=0f4751abc997473d9138d17b5944be04&k2=a0aefedd2376a54b8b50f9b7c2d50ac7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "EUROSPORT 1 FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd&k1=e369d9ab101d4b60ba13c0384f503528&k2=041e35e31381521b3398af5c6dd99414\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "EUROSPORT 2 FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/e53fc0b3.isml/.mpd?dvr_window_length=7200&k1=a6aa6578a2114b3ab2646b61aa03b375&k2=b58e3068a9e5e1845170696839208741\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "AUVIO SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd&k1=e78769d87a41e15036a4fb8bfdf1371e&k2=37be0375dc9fe544c3c6de6a105f7c0a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "ABU DHABI SPORTS",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 01:00:00 +0000",
-                    "eventName": "Tour de France",
-                    "isHot": "0",
-                    "startTime": "2026/08/05 15:00:00 +0000",
-                    "teamA": "Tour de France",
-                    "teamAFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
-                    "teamB": "Tour de France",
-                    "teamBFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png"
-                },
-                "id": 2266,
-                "league_logo": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
-                "title": "Tour de France"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/zmmmDDDDZZZZ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7743708784/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 21:20:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:20:00 +0000",
-                    "teamA": "Cubs",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-                    "teamB": "Blue Jays",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image"
-                },
-                "id": 2314,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54265/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "MLB HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 20:10:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 17:10:00 +0000",
-                    "teamA": "Guardians",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-                    "teamB": "Mets",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
-                },
-                "id": 2315,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/fskjanach24.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/mlb/2026-08-06/min-kc/playlist.m3u8?tk=TfrcRRFZ7KAfWJQY7wEQzQ&e=1786083723|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-twins-vs-kansas-city-royals/2/playlist.m3u8?tk=TfrcRRFZ7KAfWJQY7wEQzQ&e=1786083723|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 02:40:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 23:40:00 +0000",
-                    "teamA": "Royals",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-                    "teamB": "Twins",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
-                },
-                "id": 2316,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ijfnakfidch22.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/mlb/2026-08-06/chw-bos/playlist.m3u8?tk=Q8-4DLwI3Kf1i-4AfK3jNA&e=1786083722|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-white-sox-vs-boston-red-sox/2/playlist.m3u8?tk=Q8-4DLwI3Kf1i-4AfK3jNA&e=1786083722|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 02:10:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 23:10:00 +0000",
-                    "teamA": "Red Sox",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-                    "teamB": "White Sox",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image"
-                },
-                "id": 2317,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/ojzkajnach21.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/mlb/2026-08-06/wsh-phi/playlist.m3u8?tk=wlVBviUIcQgxmCftxnzdLQ&e=1786083721|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-nationals-vs-philadelphia-phillies/2/playlist.m3u8?tk=wlVBviUIcQgxmCftxnzdLQ&e=1786083721|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 01:05:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 22:05:00 +0000",
-                    "teamA": "Phillies",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-                    "teamB": "Nationals",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image"
-                },
-                "id": 2318,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/jkzahzadach20.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/mlb/2026-08-06/det-sea/playlist.m3u8?tk=wlVBviUIcQgxmCftxnzdLQ&e=1786083721|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-detroit-tigers-vs-seattle-mariners/2/playlist.m3u8?tk=wlVBviUIcQgxmCftxnzdLQ&e=1786083721|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 23:10:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 20:10:00 +0000",
-                    "teamA": "Mariners",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-                    "teamB": "Tigers",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
-                },
-                "id": 2319,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/mlb/2026-08-06/mia-atl/playlist.m3u8?tk=TfrcRRFZ7KAfWJQY7wEQzQ&e=1786083723|Referer=https://ondemand.s\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-miami-marlins-vs-atlanta-braves/2/playlist.m3u8?tk=TfrcRRFZ7KAfWJQY7wEQzQ&e=1786083723|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 02:15:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 23:15:00 +0000",
-                    "teamA": "Braves",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-                    "teamB": "Marlins",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image"
-                },
-                "id": 2320,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/zmmmDDDDZZZ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7743714440/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/Czajafjihafch18.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 21:10:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:10:00 +0000",
-                    "teamA": "Brewers",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-                    "teamB": "Pirates",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image"
-                },
-                "id": 2321,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54262/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "MLB HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 19:40:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 16:40:00 +0000",
-                    "teamA": "Reds",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-                    "teamB": "Athletics",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image"
-                },
-                "id": 2322,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54260/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "MLB HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/dazhfiach15.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/zmmmDDDD.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 19:35:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 16:35:00 +0000",
-                    "teamA": "Orioles",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-                    "teamB": "Angels",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image"
-                },
-                "id": 2323,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/kjhfzua25.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/mlb/2026-08-06/sd-ari/playlist.m3u8?tk=5PcdXodntCU3o6WWhJvvcg&e=1786083724|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-sd/streamed/admin/ppv-san-diego-padres-vs-arizona-diamondbacks/2/playlist.m3u8?tk=5PcdXodntCU3o6WWhJvvcg&e=1786083724|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 04:40:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 01:40:00 +0000",
-                    "teamA": "Diamondbacks",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                    "teamB": "Padres",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image"
-                },
-                "id": 2324,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/ztyarueaghj71.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "HQ Stream",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ztyarueaghj71.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/wnba/2026-08-06/la-min/playlist.m3u8?tk=31CoBOr-a7Rpo4MfScWBRw&e=1786085222|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 03:30:00 +0000",
-                    "eventName": "WNBA",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 01:00:00 +0000",
-                    "teamA": "Lynx",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
-                    "teamB": "Sparks",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image"
-                },
-                "id": 2325,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-                "title": "WNBA"
-            },
-            {
-                "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "HQ Stream",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/wnba/2026-08-06/tor-por/playlist.m3u8?tk=iZ5K7DRYGL0tTosd89p-ZQ&e=1786085223|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 04:30:00 +0000",
-                    "eventName": "WNBA",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 02:00:00 +0000",
-                    "teamA": "Fire",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-                    "teamB": "Tempo",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image"
-                },
-                "id": 2326,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-                "title": "WNBA"
-            },
-            {
-                "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "HQ Stream",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/wnba/2026-08-06/lv-ind/playlist.m3u8?tk=c2krjEKJklTc1VzuoM2igQ&e=1786085221|Referer=https://ondemand.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 01:30:00 +0000",
-                    "eventName": "WNBA",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 23:00:00 +0000",
-                    "teamA": "Fever",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-                    "teamB": "Aces",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image"
-                },
-                "id": 2327,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-                "title": "WNBA"
-            },
-            {
+            "77": {
                 "cat": "Cricket",
                 "channels_data": [
                     {
@@ -9230,7 +7510,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
                 "title": "ICC World Test Championship"
             },
-            {
+            "78": {
                 "cat": "Cricket",
                 "channels_data": [
                     {
@@ -9255,197 +7535,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
                 "title": "ICC World Test Championship Warm up Test"
             },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/PUUUAaAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd&k1=51c0ef23b17297e5c01cd7f36dd0a6ce&k2=8823f713ba6fdb9bbe0a2ad82d309a4b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SporTV BR FHD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 01:20:00 +0000",
-                    "eventName": "Copa Betano do Brasil",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 23:00:00 +0000",
-                    "teamA": "Vitória",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-                    "teamB": "Athletico",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image"
-                },
-                "id": 2329,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark",
-                "title": "Copa Betano do Brasil"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/PUUUAaA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd&k1=d1a163914db8ffad2c3e94f979896a0d&k2=9728800a3959aafdd5b0bcfbf3768811\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX DEPORTES FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd&k1=1a5df53609ebc9857898c490f4724918&k2=77f62980d582ec541280796acf8b2d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "PREMIERE BR FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd&k1=f836853d8eac19446ed9535f5fc568b1&k2=b3bc5ef00602b29abac7e482d3d9fbf3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "D SPORTS FHD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 01:20:00 +0000",
-                    "eventName": "Copa Betano do Brasil",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 23:00:00 +0000",
-                    "teamA": "Corinthians",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
-                    "teamB": "Internacional",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image"
-                },
-                "id": 2330,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark",
-                "title": "Copa Betano do Brasil"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live2.jxa76.com/live/sd-6MxiZdaSBBUqmCVdPh_540p.m3u8?txSecret=51928d330fdcec2c348e58c10a76a13d&txTime=19FD9189728\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.191/hls/FRRRA.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 18:20:00 +0000",
-                    "eventName": "UEFA Conference League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 16:00:00 +0000",
-                    "teamA": "HJK",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2242/image",
-                    "teamB": "Motherwell",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2346/image"
-                },
-                "id": 2331,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-                "title": "UEFA Conference League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 20:20:00 +0000",
-                    "eventName": "UEFA Conference League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 18:00:00 +0000",
-                    "teamA": "H. Tel Aviv",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/5396/image",
-                    "teamB": "GKS Katowice",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3112/image"
-                },
-                "id": 2332,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-                "title": "UEFA Conference League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live2.jxa76.com/live/sd-6MxiZdaSr4ZrjS7tmZ_540p.m3u8?txSecret=b3bfd2b005f4c8ba65189dee910f87a9&txTime=19FD9171BDC\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.192/hls/AUUU.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/06 18:20:00 +0000",
-                    "eventName": "UEFA Europa League",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 16:00:00 +0000",
-                    "teamA": "M. Tel-Aviv",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/5198/image",
-                    "teamB": "CSKA Sofia",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3275/image"
-                },
-                "id": 2333,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-                "title": "UEFA Europa League"
-            },
-            {
-                "cat": "American football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&k1=14eeabf30c14b7fbf3008c03099ce011&k2=17d2ac8dbc5429bd70af3433aa12158d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TSN SPORTS 1 FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd&k1=d3250252765347a0c2603c6cb4869f8c&k2=0c19319460da7e9ed816db46ce839b37\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TSN SPORTS 3 FHD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 02:30:00 +0000",
-                    "eventName": "CFL",
-                    "isHot": "0",
-                    "startTime": "2026/08/06 23:30:00 +0000",
-                    "teamA": "Toronto",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4436/image",
-                    "teamB": "Calgary",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4433/image"
-                },
-                "id": 2334,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
-                "title": "CFL"
-            },
-            {
+            "85": {
                 "cat": "American football",
                 "channels_data": [
                     {
@@ -9470,87 +7560,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
                 "title": "CFL"
             },
-            {
-                "cat": "American football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd&k1=85b277daf5aae05833fe43a68f587968&k2=d52d7e9bc0bcd98787efd547ac91eca0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TSN SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/uyopzarf50.m3u8??|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "NFL HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54270/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "NFL NETWORK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd&k1=9009b7189e3e68cc09d17811f2beb55a&k2=dd3f96a94c909da48ff40c92aabf8cf3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SporTV BR FHD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 03:00:00 +0000",
-                    "eventName": "NFL Preseason",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 00:00:00 +0000",
-                    "teamA": "Cardinals",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
-                    "teamB": "Panthers",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image"
-                },
-                "id": 2336,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
-                "title": "NFL Preseason"
-            },
-            {
-                "cat": "Aussie rules",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd&k1=69a5aa835a061ce64a630d1046727e40&k2=d02feac8a999bd06bf4059bf33411749\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TNT SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/gnnnA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "AFL",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 09:40:00 +0000",
-                    "teamA": "Brisbane",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4444/image",
-                    "teamB": "Hawthorn",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4445/image"
-                },
-                "id": 2336,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-                "title": "AFL"
-            },
-            {
+            "88": {
                 "cat": "Aussie rules",
                 "channels_data": [
                     {
@@ -9575,7 +7585,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
                 "title": "AFL"
             },
-            {
+            "89": {
                 "cat": "Aussie rules",
                 "channels_data": [
                     {
@@ -9600,7 +7610,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
                 "title": "AFL"
             },
-            {
+            "90": {
                 "cat": "Aussie rules",
                 "channels_data": [
                     {
@@ -9625,7 +7635,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
                 "title": "AFL"
             },
-            {
+            "91": {
                 "cat": "Aussie rules",
                 "channels_data": [
                     {
@@ -9650,7 +7660,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
                 "title": "AFL"
             },
-            {
+            "92": {
                 "cat": "Rugby",
                 "channels_data": [
                     {
@@ -9675,7 +7685,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
                 "title": "NRL"
             },
-            {
+            "93": {
                 "cat": "Rugby",
                 "channels_data": [
                     {
@@ -9700,7 +7710,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
                 "title": "NRL"
             },
-            {
+            "94": {
                 "cat": "Rugby",
                 "channels_data": [
                     {
@@ -9725,7 +7735,7 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
                 "title": "NRL"
             },
-            {
+            "95": {
                 "cat": "Rugby",
                 "channels_data": [
                     {
@@ -9750,6 +7760,6 @@
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
                 "title": "NRL"
             }
-        ]
+        }
     }
 }
