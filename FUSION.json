@@ -6214,7 +6214,17 @@
                 },
                 {
                     "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                    "name": "Global TV News",
+                    "name": "Global TV National",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "Global BC News",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "Global Toronto News",
                     "tokenApi": ""
                 }
             ]
@@ -6428,6 +6438,11 @@
                 {
                     "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abi5rqoaaaaaaaamjiy6luudy5ykt.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WKmnAWpwcmltZXZpZGVvBBpqiYjBBhpqdcJBA2pjbG91ZGZyb250Ang-cHJzaWQ6WFpfTUozRTNDamdRd0xUQUQ5bXRaMHMwSTdhRS11MjRzYUZENTlBc3V3MVBrRGk0SUgwZ3RRPT0ZATihBaECeDMvZHZpMjBkbGRlay9vdXQvdjEvZmVkYzA2N2I0NTE3NGY0MTlkMDhlMDNlZDcwZWJmYzMZATyBYkNBWCD4ii-BBW9TLTqKnW8VkjOjqMlkbhD29V3jDXKb6koDQQ/iad-nitro/live/clients/dash/enc/dvi20dldek/out/v1/fedc067b45174f419d08e03ed70ebfc3/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.240931.0&encoding=segmentBase&k1=230ef7c88f9593b724d480ad69f4364e&k2=53abde9522ef55d393b80bcb6c3a8899\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                     "name": "CTV 2",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abi5rqoaaaaaaaamj6rdzg5dokuax.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WKmnAWpwcmltZXZpZGVvBBpqiY6RBhpqdcgRA2pjbG91ZGZyb250Ang-cHJzaWQ6aUNlWWdua0U1VDROdVo2eGtDSjZMS3pmTXYxV1ByMUFNN2VqdG1yaVBlenljTG51LW9WVFVRPT0ZATihBaECeDMvNm54dHdjZnczZC9vdXQvdjEvN2RmMDkxZGE5YzFlNGVlZTk3NjQ1NmE3YTYwYzA4MTkZATyBYkNBWCD_v0djBaKkXNx57YQTmq_C0dsvxF2HeuTdauHl16vn1Q/iad-nitro/live/clients/dash/enc/6nxtwcfw3d/out/v1/7df091da9c1e4eee976456a7a60c0819/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.240931.0&encoding=segmentBase&k1=51522a78eef5611d4f8e49a9ee9c2d44&k2=c206f4277feddb6f62f75a291433f443\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "CTV Speed",
                     "tokenApi": ""
                 }
             ]
@@ -6650,7 +6665,7 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "05:15:36 PM 07-08-2026",
+        "Last update time": "05:31:11 PM 07-08-2026",
         "Live": "00",
         "Upcoming": "69",
         "events": [
