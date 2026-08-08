@@ -5502,42 +5502,12 @@
                 "visible": true
             },
             {
-                "channels_data": [
-                    {
-                        "is_playlist": false,
-                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/250px-CBC_News_Logo.svg.png",
-                        "name": "CBC NEWS",
-                        "stream_links": [
-                            {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "Link 1",
-                                "tokenApi": ""
-                            }
-                        ],
-                        "visible": true
-                    }
-                ],
                 "logo": "",
                 "name": "TEST",
                 "type": "custom",
                 "visible": true
             },
             {
-                "channels_data": [
-                    {
-                        "is_playlist": false,
-                        "logo": "https://image.roku.com/developer_channels/prod/5ac6f4b42701d1b82f74368e9e636ac160c815de2479ec6b0ba08f20319cb281.png",
-                        "name": "CityNews ",
-                        "stream_links": [
-                            {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-3MBPS.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "Stream 1",
-                                "tokenApi": ""
-                            }
-                        ],
-                        "visible": true
-                    }
-                ],
                 "logo": "data:image/png;base64,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",
                 "name": "CityNews",
                 "type": "custom",
@@ -5633,58 +5603,6 @@
                     },
                     {
                         "is_playlist": false,
-                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWAvdmIyNBfhkSrDfdgC1HHhaCaMPq19qwHA46CeCLA&s=10",
-                        "name": "FOX News",
-                        "stream_links": [
-                            {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-livenowbyfox-lgus/cb543d1a796c648792d43a6ecef344a2f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2095adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e21441c3294de2d75fced115be9dd55ac8429b7ff5479f8ff0da85148387c767ac06e3643b61480cf13fd20eab27d4f9bb2b5fbf7026471a5494dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935e47aea39ec612f863f14e6bea6c0f11c84bd5fcd1a8b4d17b95b7f5c9c6bfeb0e0de7233adf9067749dd62e2f34a5285d0c40e8dcf1997f976cbe4295515c1924c9589bd90e7ebcd639231cfcbb4b53c410e4c3742be1df3ca528a7ce22fe18e32314c41419a9f57ef8fcd11653118c8d308945b3091efa6af934e37c36b1e1acf65da500a258c17646eea20fcd56d38d0685acb6573ab18068144fdaa25baf288b24868e3aca8289b40dcf532a09153f9526d0c3de4886b35236b72dfe96a08421ce255f4dfcf9b1a2a08fef8c0fb801e78280a576a4eecc6e263909acf3917759004778015a0e460b6b03552445f81d701c6fa5155bdc2b3de38/171/1280x720_2886400/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "Stream AQ",
-                                "tokenApi": ""
-                            }
-                        ],
-                        "visible": true
-                    },
-                    {
-                        "is_playlist": false,
-                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUhhqz3ivyM_tCxOTxH5rxW04Hfiv7s2glTXC2pOJbQ&s=10",
-                        "name": "BBC News",
-                        "stream_links": [
-                            {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "Stream AQ",
-                                "tokenApi": ""
-                            }
-                        ],
-                        "visible": true
-                    },
-                    {
-                        "is_playlist": false,
-                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfp5DK2BZ_2o6E-Sci4mvqc7f35jdCprfdlbodHTIuDA&s=10",
-                        "name": "Bloomberg",
-                        "stream_links": [
-                            {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "Stream AQ",
-                                "tokenApi": ""
-                            }
-                        ],
-                        "visible": true
-                    },
-                    {
-                        "is_playlist": false,
-                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiXPr4Jz2UKc7y0NVcFLJocjFpptzhEfjvdNynUIZA0g&s=10",
-                        "name": "CBS News",
-                        "stream_links": [
-                            {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/e04679f2-fff4-4d79-b195-30adc88114a1:TUL/variant/fd3bc9281fe3be69ef75fdb9b60d78a4/bandwidth/5980000.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "Stream AQ",
-                                "tokenApi": ""
-                            }
-                        ],
-                        "visible": true
-                    },
-                    {
-                        "is_playlist": false,
                         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIUK3cW7CcpyivmDLR5fzSAMNvpoF5xqvMSpLJwknKg&s=10",
                         "name": "Movie Sphere",
                         "stream_links": [
@@ -5703,19 +5621,6 @@
                         "stream_links": [
                             {
                                 "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                                "name": "Stream AQ",
-                                "tokenApi": ""
-                            }
-                        ],
-                        "visible": true
-                    },
-                    {
-                        "is_playlist": false,
-                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjJN5FZrAiFVSS6L1tmAIv5EEYQDitvLH8KQOT4gLWJA&s=10",
-                        "name": "Newsmax",
-                        "stream_links": [
-                            {
-                                "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                                 "name": "Stream AQ",
                                 "tokenApi": ""
                             }
@@ -6419,13 +6324,38 @@
                     "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                     "name": "CNN",
                     "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-livenowbyfox-lgus/cb543d1a796c648792d43a6ecef344a2f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2095adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e21441c3294de2d75fced115be9dd55ac8429b7ff5479f8ff0da85148387c767ac06e3643b61480cf13fd20eab27d4f9bb2b5fbf7026471a5494dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935e47aea39ec612f863f14e6bea6c0f11c84bd5fcd1a8b4d17b95b7f5c9c6bfeb0e0de7233adf9067749dd62e2f34a5285d0c40e8dcf1997f976cbe4295515c1924c9589bd90e7ebcd639231cfcbb4b53c410e4c3742be1df3ca528a7ce22fe18e32314c41419a9f57ef8fcd11653118c8d308945b3091efa6af934e37c36b1e1acf65da500a258c17646eea20fcd56d38d0685acb6573ab18068144fdaa25baf288b24868e3aca8289b40dcf532a09153f9526d0c3de4886b35236b72dfe96a08421ce255f4dfcf9b1a2a08fef8c0fb801e78280a576a4eecc6e263909acf3917759004778015a0e460b6b03552445f81d701c6fa5155bdc2b3de38/171/1280x720_2886400/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "Fox News",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "BBC News",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "Bloomberg",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/e04679f2-fff4-4d79-b195-30adc88114a1:TUL/variant/fd3bc9281fe3be69ef75fdb9b60d78a4/bandwidth/5980000.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "CBS News",
+                    "tokenApi": ""
+                },
+                {
+                    "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                    "name": "Newsmax",
+                    "tokenApi": ""
                 }
             ]
         }
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "07:21:10 PM 08-08-2026",
+        "Last update time": "07:35:29 PM 08-08-2026",
         "Live": "00",
         "Upcoming": "144",
         "events": [
@@ -8103,14 +8033,14 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.193/hls/SIIIA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SD LINK",
                         "tokenApi": ""
                     },
                     {
                         "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.193/hls/SIIIA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
+                        "source": "ivan",
+                        "title": "LOW SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -8899,6 +8829,11 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Link 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://admin2.formaturamaxi.com.br/mutv.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD Link",
                         "tokenApi": ""
                     }
                 ],
