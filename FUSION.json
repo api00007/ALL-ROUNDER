@@ -6425,9 +6425,9 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "07:15:46 PM 08-08-2026",
+        "Last update time": "07:21:10 PM 08-08-2026",
         "Live": "00",
-        "Upcoming": "141",
+        "Upcoming": "144",
         "events": [
             {
                 "cat": "Motorsport",
@@ -10663,6 +10663,99 @@
                 "id": 2476,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
+            },
+            {
+                "cat": "Mixed Martial Arts",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 00:00:00 +0000",
+                    "eventName": "UFC",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 23:00:00 +0000",
+                    "teamA": "M. Gamrot",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/461390/image",
+                    "teamB": "Q. Salkilld",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/801164/image"
+                },
+                "id": 2477,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+                "title": "UFC"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cftovojmaj/out/v1/33c94907d87b48538400edd92503d6d8/cenc.mpd&k1=68ed4e1c2ffeb7f9133a7624d126c0b1&k2=9772b4fed3a42a93ffb622a8e4367e1b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cftovojmaj/out/v1/33c94907d87b48538400edd92503d6d8/cenc.mpd&k1=68ed4e1c2ffeb7f9133a7624d126c0b1&k2=9772b4fed3a42a93ffb622a8e4367e1b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW ALT",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "T SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4246732_english_hls_f760b877e754174_1ta-di_h264/index.m3u8|Referer=https://fancode.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FANCODE (IND)",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 19:00:00 +0000",
+                    "eventName": "Lanka Premier League",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 14:00:00 +0000",
+                    "teamA": "JK",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+                    "teamB": "GG",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image"
+                },
+                "id": 2478,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
+                "title": "Lanka Premier League"
+            },
+            {
+                "cat": "Mixed Martial Arts",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 02:30:00 +0000",
+                    "eventName": "Most Valuable Promotions",
+                    "isHot": "0",
+                    "startTime": "2026/08/09 01:30:00 +0000",
+                    "teamA": "C. Johnson",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1143450/image",
+                    "teamB": "D. Thorslund",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1257382/image"
+                },
+                "id": 2479,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/24170/image/dark",
+                "title": "Most Valuable Promotions"
             }
         ]
     }
