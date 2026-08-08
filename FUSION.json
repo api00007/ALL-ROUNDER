@@ -6425,7 +6425,7 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "04:40:37 PM 08-08-2026",
+        "Last update time": "04:55:27 PM 08-08-2026",
         "Live": "00",
         "Upcoming": "141",
         "events": [
@@ -7039,36 +7039,6 @@
                 "title": "ICC World Test Championship"
             },
             {
-                "cat": "Rugby",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/HLLLAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD LINK",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 11:15:00 +0000",
-                    "eventName": "NRL",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 09:35:00 +0000",
-                    "teamA": "South Sydney",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4263/image",
-                    "teamB": "Parramatta",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4261/image"
-                },
-                "id": 2344,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-                "title": "NRL"
-            },
-            {
                 "cat": "Football",
                 "channels_data": [
                     {
@@ -7092,6 +7062,11 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd&k1=d1a163914db8ffad2c3e94f979896a0d&k2=9728800a3959aafdd5b0bcfbf3768811\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "FOX DEPORTES",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.192/hls/ijjjaaa.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SD LINK",
                         "tokenApi": ""
                     }
                 ],
@@ -7173,56 +7148,6 @@
                     "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image"
                 },
                 "id": 2366,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 11:20:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 09:00:00 +0000",
-                    "teamA": "Rennes",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-                    "teamB": "Brentford",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
-                },
-                "id": 2367,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 10:20:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 08:00:00 +0000",
-                    "teamA": "Elche",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
-                    "teamB": "Toulouse",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
-                },
-                "id": 2369,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
                 "title": "Club Friendly Games"
             },
@@ -7361,1636 +7286,6 @@
                 "id": 2223,
                 "league_logo": "https://sportzfy.io/wp-content/uploads/2025/09/tennis-1.png",
                 "title": "ATP & WTA TENNIS"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|Referer=https://tapmad.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TAPMAD FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8|Referer=https://fancode.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FANCODE (IND)",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/04 12:00:00 +0000",
-                    "eventName": "Asian Legends League, T20",
-                    "isHot": "0",
-                    "startTime": "2026/08/04 07:30:00 +0000",
-                    "teamA": "Legends League",
-                    "teamAFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
-                    "teamB": "Legends League",
-                    "teamBFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png"
-                },
-                "id": 2168,
-                "league_logo": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
-                "title": "Asian Legends League, T20"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd&k1=37c94f022a37999c54b64e0fc6f7dded&k2=59c64dc640c75dd33d5126055a0c58ec\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd&k1=37c94f022a37999c54b64e0fc6f7dded&k2=59c64dc640c75dd33d5126055a0c58ec\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW ALT",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 19:00:00 +0000",
-                    "eventName": "One Day International",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 09:45:00 +0000",
-                    "teamA": "IRE",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
-                    "teamB": "AFG",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image"
-                },
-                "id": 2224,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-                "title": "One Day International"
-            },
-            {
-                "cat": "Motorsport",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd&k1=7eea72d6075245a99ee3255603d58853&k2=6848ef60575579bf4d415db1032153ed\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SPO TV FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd&k1=e03f302ec4dabcccca82cc9f76731ec9&k2=53ea1027d2bf2893a552cf15bc0366de\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "MotoGP FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd&k1=f3df7843080ae743bf865dc5fdf64c68&k2=567c863bc12eb74788ea74888c042e1b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TNT SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TNT SPORTS HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://t7.ultrastream.vip/sporttv4/index.m3u8?|Referer=https://foottime.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SPORT TV HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.194/hls/AVVVV.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "MotoGP",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 10:45:00 +0000",
-                    "teamA": "MotoGP",
-                    "teamAFlag": "https://i.ibb.co/6chYXnTd/mgpp.png",
-                    "teamB": "MotoGP",
-                    "teamBFlag": "https://i.ibb.co/6chYXnTd/mgpp.png"
-                },
-                "id": 171,
-                "league_logo": "https://i.ibb.co/6chYXnTd/mgpp.png",
-                "title": "MotoGP"
-            },
-            {
-                "cat": "Boxing",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/04/12 04:00:00 +0000",
-                    "eventName": "TNA iMPACT",
-                    "isHot": "0",
-                    "startTime": "2026/04/11 23:00:00 +0000",
-                    "teamA": "TNA iMPACT",
-                    "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-                    "teamB": "TNA iMPACT",
-                    "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png"
-                },
-                "id": 175,
-                "league_logo": "https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png",
-                "title": "TNA iMPACT"
-            },
-            {
-                "cat": "Boxing",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/53741/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WWE HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WWE LIVE HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/AWAWAW.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://cast.zlive.st/p/auto-usa-network-0/index.m3u8?|Referer=https://zlive.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "USA NETWORK",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 04:00:00 +0000",
-                    "eventName": "Friday Night SmackDown",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 00:00:00 +0000",
-                    "teamA": "SmackDown",
-                    "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
-                    "teamB": "SmackDown",
-                    "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
-                },
-                "id": 213,
-                "league_logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
-                "title": "Friday Night SmackDown"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/mohammedansportingclub_vs_calcuttapoliceclub/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Mohammedan SC Reserves vs Calcutta Police",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/coalindiaspa_vs_measurersclub/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Coal India Spa vs Measures Club",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/wariathleticclub_vs_aryanclub/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Wari Athletic Club vs Techno Aryan",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 12:30:00 +0000",
-                    "eventName": "Calcutta Premier Division",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 09:30:00 +0000",
-                    "teamA": "Calcutta Premier Division",
-                    "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                    "teamB": "Calcutta Premier Division",
-                    "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark"
-                },
-                "id": 2189,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "title": "Calcutta Premier Division"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786229886~acl=/*~id=14719823539692838376837758475488~hmac=e34d1dffff0dddbdd008d1075eea66320e3d75e437f5df2ab83def81ce5c1a13\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Shillong Lajong FC vs Mumbay FC",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "Durand cup 2026",
-                    "isHot": "0",
-                    "startTime": "2026/08/05 10:30:00 +0000",
-                    "teamA": "Durand Cup",
-                    "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-                    "teamB": "Durand Cup",
-                    "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark"
-                },
-                "id": 2190,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-                "title": "Durand cup 2026"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/faytpc7cfl/out/v1/0ebd7ee78eb54076a7f1450458ba98a3/cenc.mpd&k1=c50d7c2fe1b774066ff219b377fe7573&k2=b9062e22eb7e3b6f393d7c558b5ade3f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/faytpc7cfl/out/v1/0ebd7ee78eb54076a7f1450458ba98a3/cenc.mpd&k1=c50d7c2fe1b774066ff219b377fe7573&k2=b9062e22eb7e3b6f393d7c558b5ade3f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW ALT",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "T SPORTS HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&stream=809397&extension=m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "A SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8|Referer=https://fancode.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FANCODE (IND)",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 18:30:00 +0000",
-                    "eventName": "Lanka Premier League",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 14:00:00 +0000",
-                    "teamA": "GG",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/453389/image",
-                    "teamB": "CK",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/453390/image"
-                },
-                "id": 2289,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
-                "title": "Lanka Premier League"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786125484~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=4850f9d1-05d5-4a91-8443-7e5a216546e7~data=hdntl~hmac=2e23608c1ba32d0b25ecb7caa96db2c1b7a5a791d8b2b9c0d74f94262ee9b96d/manifest.mpd&k1=39bd302cdeed3710a89fb004d232ab67&k2=9869f804ba18d7e508cbff781829221c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "ICC TV FHD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 14:30:00 +0000",
-                    "eventName": "ICC CWC League 2",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 10:00:00 +0000",
-                    "teamA": "SCO",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187576/image",
-                    "teamB": "CAN",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image"
-                },
-                "id": 2290,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
-                "title": "ICC CWC League 2"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "beiN ENGLISH FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd&k1=d1a163914db8ffad2c3e94f979896a0d&k2=9728800a3959aafdd5b0bcfbf3768811\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX DEPORTES FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&k1=d9623774ac5c8c351aafe97c5fe70267&k2=5164e6d05164a2d65fa8fcc962aa4861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "CBS SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54258/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/AVVVVAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 14:20:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 12:00:00 +0000",
-                    "teamA": "Aston Villa",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
-                    "teamB": "Bayern",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image"
-                },
-                "id": 2297,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "American football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&k1=14eeabf30c14b7fbf3008c03099ce011&k2=17d2ac8dbc5429bd70af3433aa12158d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TSN SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54285/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 04:00:00 +0000",
-                    "eventName": "CFL",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 01:00:00 +0000",
-                    "teamA": "Saskatchewan",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
-                    "teamB": "Ottawa",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4437/image"
-                },
-                "id": 2335,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
-                "title": "CFL"
-            },
-            {
-                "cat": "Aussie rules",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd&k1=69a5aa835a061ce64a630d1046727e40&k2=d02feac8a999bd06bf4059bf33411749\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TNT SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/gnnnA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "AFL",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 09:40:00 +0000",
-                    "teamA": "Brisbane",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4444/image",
-                    "teamB": "Hawthorn",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4445/image"
-                },
-                "id": 2336,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-                "title": "AFL"
-            },
-            {
-                "cat": "Aussie rules",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&k1=5466ebd70704bdeb657f0abf3c5ca4ef&k2=bdd79b72d8e48ed483aa623cc38a8a16\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX SPORTS FHD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "AFL",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 06:35:00 +0000",
-                    "teamA": "Geelong",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4443/image",
-                    "teamB": "Essendon",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4450/image"
-                },
-                "id": 2337,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-                "title": "AFL"
-            },
-            {
-                "cat": "Aussie rules",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "AFL",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 09:35:00 +0000",
-                    "teamA": "Adelaide",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4442/image",
-                    "teamB": "Richmond",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4451/image"
-                },
-                "id": 2338,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-                "title": "AFL"
-            },
-            {
-                "cat": "Aussie rules",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX SPORTS FHD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "  +0000",
-                    "eventName": "AFL",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 06:15:00 +0000",
-                    "teamA": "Sydney",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4447/image",
-                    "teamB": "Port Adelaide",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4457/image"
-                },
-                "id": 2340,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-                "title": "AFL"
-            },
-            {
-                "cat": "Rugby",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/papi/tv/dlhd/820/playlist.m3u8?|Referer=https://ondemand.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX LEAGUE HD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 11:40:00 +0000",
-                    "eventName": "NRL",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 10:00:00 +0000",
-                    "teamA": "Sydney",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4264/image",
-                    "teamB": "Canterbury",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4253/image"
-                },
-                "id": 2341,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-                "title": "NRL"
-            },
-            {
-                "cat": "Rugby",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY SPORT NZ",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/papi/tv/dlhd/590/playlist.m3u8?|Referer=https://ondemand.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/DFFFaAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 06:40:00 +0000",
-                    "eventName": "NRL",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 05:00:00 +0000",
-                    "teamA": "Melbourne",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4255/image",
-                    "teamB": "Manly",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4259/image"
-                },
-                "id": 2342,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-                "title": "NRL"
-            },
-            {
-                "cat": "Rugby",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY SPORT NZ",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/papi/tv/dlhd/590/playlist.m3u8?|Referer=https://ondemand.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/DFFFaAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 09:10:00 +0000",
-                    "eventName": "NRL",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 07:30:00 +0000",
-                    "teamA": "Dolphins",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/465010/image",
-                    "teamB": "Broncos",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image"
-                },
-                "id": 2343,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-                "title": "NRL"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 01:40:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 22:40:00 +0000",
-                    "teamA": "Phillies",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-                    "teamB": "Blue Jays",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image"
-                },
-                "id": 2345,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 03:10:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 00:10:00 +0000",
-                    "teamA": "Royals",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-                    "teamB": "Cubs",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image"
-                },
-                "id": 2346,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 02:40:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 23:40:00 +0000",
-                    "teamA": "White Sox",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-                    "teamB": "Guardians",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image"
-                },
-                "id": 2347,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 02:05:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 23:05:00 +0000",
-                    "teamA": "Yankees",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-                    "teamB": "Braves",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image"
-                },
-                "id": 2348,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 05:15:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 02:15:00 +0000",
-                    "teamA": "Giants",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-                    "teamB": "Tigers",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
-                },
-                "id": 2349,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 04:40:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 01:40:00 +0000",
-                    "teamA": "Diamondbacks",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                    "teamB": "Dodgers",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
-                },
-                "id": 2350,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 03:15:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 00:15:00 +0000",
-                    "teamA": "Rangers",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-                    "teamB": "Orioles",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
-                },
-                "id": 2351,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 04:40:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 01:40:00 +0000",
-                    "teamA": "Padres",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-                    "teamB": "Astros",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image"
-                },
-                "id": 2352,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 02:10:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 23:10:00 +0000",
-                    "teamA": "Red Sox",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-                    "teamB": "Athletics",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image"
-                },
-                "id": 2353,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 01:45:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 22:45:00 +0000",
-                    "teamA": "Nationals",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-                    "teamB": "Reds",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image"
-                },
-                "id": 2354,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 01:40:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 22:40:00 +0000",
-                    "teamA": "Pirates",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-                    "teamB": "Mets",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
-                },
-                "id": 2355,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 02:10:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 23:10:00 +0000",
-                    "teamA": "Marlins",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-                    "teamB": "Angels",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image"
-                },
-                "id": 2356,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 04:45:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 01:45:00 +0000",
-                    "teamA": "Mariners",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-                    "teamB": "Rays",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image"
-                },
-                "id": 2357,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 02:40:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 23:40:00 +0000",
-                    "teamA": "Brewers",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-                    "teamB": "Twins",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
-                },
-                "id": 2358,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 03:15:00 +0000",
-                    "eventName": "MLB",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 00:15:00 +0000",
-                    "teamA": "Cardinals",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-                    "teamB": "Rockies",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
-                },
-                "id": 2359,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "title": "MLB"
-            },
-            {
-                "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/ztyarueaghj71.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 02:00:00 +0000",
-                    "eventName": "WNBA",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 23:30:00 +0000",
-                    "teamA": "Mystics",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
-                    "teamB": "Dream",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image"
-                },
-                "id": 2360,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-                "title": "WNBA"
-            },
-            {
-                "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 02:00:00 +0000",
-                    "eventName": "WNBA",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 23:30:00 +0000",
-                    "teamA": "Sun",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-                    "teamB": "Mercury",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image"
-                },
-                "id": 2361,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-                "title": "WNBA"
-            },
-            {
-                "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 04:00:00 +0000",
-                    "eventName": "WNBA",
-                    "isHot": "0",
-                    "startTime": "2026/08/08 01:30:00 +0000",
-                    "teamA": "Wings",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-                    "teamB": "Valkyries",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image"
-                },
-                "id": 2362,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-                "title": "WNBA"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 16:50:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 14:30:00 +0000",
-                    "teamA": "Verona",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
-                    "teamB": "Cremonese",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image"
-                },
-                "id": 2363,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54297/load-playlist.m3u8|Referer=https://gooz.aapmains.net \" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.191/hls/ABBB.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 19:20:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 17:00:00 +0000",
-                    "teamA": "Fulham",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
-                    "teamB": "Crystal Palace",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image"
-                },
-                "id": 2365,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 16:20:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 14:00:00 +0000",
-                    "teamA": "Hoffenheim",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-                    "teamB": "M'gladbach",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image"
-                },
-                "id": 2368,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/AVVVVAAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 15:20:00 +0000",
-                    "eventName": "ASEAN Championship",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 13:00:00 +0000",
-                    "teamA": "Vietnam",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-                    "teamB": "Cambodia",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image"
-                },
-                "id": 2371,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark",
-                "title": "ASEAN Championship"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/AVVVVAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 15:20:00 +0000",
-                    "eventName": "ASEAN Championship",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 13:00:00 +0000",
-                    "teamA": "Singapore",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-                    "teamB": "Indonesia",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4829/image"
-                },
-                "id": 2372,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark",
-                "title": "ASEAN Championship"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/saq13g3n8i/out/v1/eca8b3190aab4da7ad62d849f3729eae/cenc.mpd&k1=5d528100f5052c5bbe18503ccf5dc845&k2=ee73d720083412797646f90c64f10060\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY CRICKET FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/saq13g3n8i/out/v1/eca8b3190aab4da7ad62d849f3729eae/cenc.mpd&k1=5d528100f5052c5bbe18503ccf5dc845&k2=ee73d720083412797646f90c64f10060\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW ALT",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX CRICKET HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/EPPP.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 22:00:00 +0000",
-                    "eventName": "The Hundred",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 17:30:00 +0000",
-                    "teamA": "BPH",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377174/image",
-                    "teamB": "SL",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377178/image"
-                },
-                "id": 2373,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark",
-                "title": "The Hundred"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fxeuwfd7eg/out/v1/a9bd41c81f2e4c0ab86108bb235c3066/cenc.mpd&k1=a6d89c6e573fcb5c140e55e9f3427576&k2=b480320ca9fdf92dd7fef64853fe2b77\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "CRICKET FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fxeuwfd7eg/out/v1/a9bd41c81f2e4c0ab86108bb235c3066/cenc.mpd&k1=a6d89c6e573fcb5c140e55e9f3427576&k2=b480320ca9fdf92dd7fef64853fe2b77\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "WILLOW ALT",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|Referer=https://tapmad.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "TAPMAD FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SKY SPORT NZ",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "FOX CRICKET HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.190/hls/EPPP.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 18:30:00 +0000",
-                    "eventName": "The Hundred Women",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 14:00:00 +0000",
-                    "teamA": "BPH-W",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/377202/image",
-                    "teamB": "SL-W",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/377206/image"
-                },
-                "id": 2374,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
-                "title": "The Hundred Women"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 20:50:00 +0000",
-                    "eventName": "2. Bundesliga",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 18:30:00 +0000",
-                    "teamA": "Bochum",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-                    "teamB": "Hertha",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2528/image"
-                },
-                "id": 2375,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-                "title": "2. Bundesliga"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "beiN ENGLISH FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://rdcstream.life/live/espn4/index.m3u8?|Referer=https://bolodechocolate.fit/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "ESPN SPORTS HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://rdcstream.life/live/sport-tv-4-pt/index.m3u8?|Referer=https://bolodechocolate.fit/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SPORT TV HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.live123.fans/live/4567199.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.194/hls/OGGGAAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 21:20:00 +0000",
-                    "eventName": "EFL Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 19:00:00 +0000",
-                    "teamA": "Middlesbrough",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
-                    "teamB": "Wrexham",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image"
-                },
-                "id": 2376,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
-                "title": "EFL Cup"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.194/hls/OGGGAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 21:05:00 +0000",
-                    "eventName": "Pro League",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 18:45:00 +0000",
-                    "teamA": "Club Brugge",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2888/image",
-                    "teamB": "Kortrijk",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/4858/image"
-                },
-                "id": 2377,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
-                "title": "Pro League"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SportDigital Fussball",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|Referer=https://zlive.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SPORT TV HD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 21:35:00 +0000",
-                    "eventName": "Liga Portugal Betclic",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 19:15:00 +0000",
-                    "teamA": "Estoril",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-                    "teamB": "Famalicão",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/49531/image"
-                },
-                "id": 2378,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-                "title": "Liga Portugal Betclic"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "beiN ENGLISH FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&k1=d9623774ac5c8c351aafe97c5fe70267&k2=5164e6d05164a2d65fa8fcc962aa4861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "CBS SPORTS FHD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54298/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://rdcstream.life/live/sport-tv-3-pt/index.m3u8?|Referer=https://bolodechocolate.fit/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SPORT TV HD",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://stream.sports3.win/iptv/live/signal-4567211-30687.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LIVE SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.live123.fans/live/4567211.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER+",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.194/hls/OGGGAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 21:05:00 +0000",
-                    "eventName": "EFL Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 18:45:00 +0000",
-                    "teamA": "Wolves",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-                    "teamB": "Port Vale",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/55/image"
-                },
-                "id": 2379,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
-                "title": "EFL Cup"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://stream.sports3.win/iptv/live/signal-4567212-30688.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.live123.fans/live/4567212.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER+",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.194/hls/OGGGAAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "LOW QUALITY",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 21:05:00 +0000",
-                    "eventName": "EFL Cup",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 18:45:00 +0000",
-                    "teamA": "Wycombe",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/62/image",
-                    "teamB": "Stevenage",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/133/image"
-                },
-                "id": 2380,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
-                "title": "EFL Cup"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://flv.lauthaitv.cc/live/cambuur-excelsior-ned.flv\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "HD SERVER",
-                        "tokenApi": ""
-                    },
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://hls.lauthaitv.cc/live/cambuur-excelsior-ned/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 20:20:00 +0000",
-                    "eventName": "VriendenLoterij Eredivisie",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 18:00:00 +0000",
-                    "teamA": "Cambuur",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2970/image",
-                    "teamB": "Excelsior",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image"
-                },
-                "id": 2381,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-                "title": "VriendenLoterij Eredivisie"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/07 19:50:00 +0000",
-                    "eventName": "Club Friendly Games",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 17:30:00 +0000",
-                    "teamA": "R. Racing Club",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-                    "teamB": "Alavés",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image"
-                },
-                "id": 2382,
-                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-                "title": "Club Friendly Games"
-            },
-            {
-                "cat": "Cricket",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=ok\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "source": "ivan",
-                        "title": "Link 1",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/08/08 03:30:00 +0000",
-                    "eventName": "Caribbean Premier League T20",
-                    "isHot": "0",
-                    "startTime": "2026/08/07 23:00:00 +0000",
-                    "teamA": "CPL T20",
-                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10",
-                    "teamB": "CPL T20",
-                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10"
-                },
-                "id": 2383,
-                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10",
-                "title": "Caribbean Premier League T20"
             },
             {
                 "cat": "Cricket",
@@ -9735,6 +8030,11 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
                         "title": "Link 1",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.192/hls/ijjjaaaA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SD LINK",
                         "tokenApi": ""
                     }
                 ],
@@ -11364,6 +9664,671 @@
                 "id": 2474,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
                 "title": "WNBA"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|Referer=https://tapmad.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TAPMAD FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8|Referer=https://fancode.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FANCODE (IND)",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/04 12:00:00 +0000",
+                    "eventName": "Asian Legends League, T20",
+                    "isHot": "0",
+                    "startTime": "2026/08/04 07:30:00 +0000",
+                    "teamA": "Legends League",
+                    "teamAFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
+                    "teamB": "Legends League",
+                    "teamBFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png"
+                },
+                "id": 2168,
+                "league_logo": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
+                "title": "Asian Legends League, T20"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=ok\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 03:30:00 +0000",
+                    "eventName": "Caribbean Premier League T20",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 23:00:00 +0000",
+                    "teamA": "CPL T20",
+                    "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10",
+                    "teamB": "CPL T20",
+                    "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10"
+                },
+                "id": 2475,
+                "league_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10",
+                "title": "Caribbean Premier League T20"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd&k1=37c94f022a37999c54b64e0fc6f7dded&k2=59c64dc640c75dd33d5126055a0c58ec\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd&k1=37c94f022a37999c54b64e0fc6f7dded&k2=59c64dc640c75dd33d5126055a0c58ec\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW ALT",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/10 19:00:00 +0000",
+                    "eventName": "One Day International",
+                    "isHot": "0",
+                    "startTime": "2026/08/10 09:45:00 +0000",
+                    "teamA": "IRE",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+                    "teamB": "AFG",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image"
+                },
+                "id": 2224,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+                "title": "One Day International"
+            },
+            {
+                "cat": "Motorsport",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd&k1=f3df7843080ae743bf865dc5fdf64c68&k2=567c863bc12eb74788ea74888c042e1b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TNT SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd&k1=7eea72d6075245a99ee3255603d58853&k2=6848ef60575579bf4d415db1032153ed\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SPO TV FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd&k1=e03f302ec4dabcccca82cc9f76731ec9&k2=53ea1027d2bf2893a552cf15bc0366de\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "MotoGP FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TNT SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://t7.ultrastream.vip/sporttv4/index.m3u8?|Referer=https://foottime.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SPORT TV HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.194/hls/AVVVV.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LOW SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "  +0000",
+                    "eventName": "MotoGP",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 10:00:00 +0000",
+                    "teamA": "MotoGP",
+                    "teamAFlag": "https://i.ibb.co/6chYXnTd/mgpp.png",
+                    "teamB": "MotoGP",
+                    "teamBFlag": "https://i.ibb.co/6chYXnTd/mgpp.png"
+                },
+                "id": 171,
+                "league_logo": "https://i.ibb.co/6chYXnTd/mgpp.png",
+                "title": "MotoGP"
+            },
+            {
+                "cat": "Boxing",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/04/12 04:00:00 +0000",
+                    "eventName": "TNA iMPACT",
+                    "isHot": "0",
+                    "startTime": "2026/04/11 23:00:00 +0000",
+                    "teamA": "TNA iMPACT",
+                    "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+                    "teamB": "TNA iMPACT",
+                    "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png"
+                },
+                "id": 175,
+                "league_logo": "https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png",
+                "title": "TNA iMPACT"
+            },
+            {
+                "cat": "Boxing",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/53741/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WWE HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WWE LIVE HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/AWAWAW.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://cast.zlive.st/p/auto-usa-network-0/index.m3u8?|Referer=https://zlive.st/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "USA NETWORK",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/15 04:00:00 +0000",
+                    "eventName": "Friday Night SmackDown",
+                    "isHot": "0",
+                    "startTime": "2026/08/15 00:00:00 +0000",
+                    "teamA": "SmackDown",
+                    "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+                    "teamB": "SmackDown",
+                    "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
+                },
+                "id": 213,
+                "league_logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
+                "title": "Friday Night SmackDown"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/mohammedansportingclub_vs_calcuttapoliceclub/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Mohammedan SC Reserves vs Calcutta Police",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/coalindiaspa_vs_measurersclub/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Coal India Spa vs Measures Club",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://live-n10.videostech.cloud/match/wariathleticclub_vs_aryanclub/HLS/master.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Wari Athletic Club vs Techno Aryan",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 11:59:00 +0000",
+                    "eventName": "Calcutta Premier Division",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 10:00:00 +0000",
+                    "teamA": "Calcutta Premier Division",
+                    "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                    "teamB": "Calcutta Premier Division",
+                    "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark"
+                },
+                "id": 2189,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                "title": "Calcutta Premier Division"
+            },
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786229886~acl=/*~id=14719823539692838376837758475488~hmac=e34d1dffff0dddbdd008d1075eea66320e3d75e437f5df2ab83def81ce5c1a13\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Shillong Lajong FC vs Mumbay FC",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 16:30:00 +0000",
+                    "eventName": "Durand cup 2026",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 10:30:00 +0000",
+                    "teamA": "Durand Cup",
+                    "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
+                    "teamB": "Durand Cup",
+                    "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark"
+                },
+                "id": 2190,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
+                "title": "Durand cup 2026"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 02:15:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 23:15:00 +0000",
+                    "teamA": "Padres",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                    "teamB": "Astros",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image"
+                },
+                "id": 2457,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 02:10:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 23:10:00 +0000",
+                    "teamA": "Brewers",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                    "teamB": "Twins",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
+                },
+                "id": 2458,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 02:15:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 23:15:00 +0000",
+                    "teamA": "Cardinals",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                    "teamB": "Rockies",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
+                },
+                "id": 2459,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 01:40:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 22:40:00 +0000",
+                    "teamA": "Pirates",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                    "teamB": "Mets",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
+                },
+                "id": 2460,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 23:10:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 20:10:00 +0000",
+                    "teamA": "Marlins",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                    "teamB": "Angels",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image"
+                },
+                "id": 2461,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 01:05:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 22:05:00 +0000",
+                    "teamA": "Phillies",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                    "teamB": "Blue Jays",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image"
+                },
+                "id": 2462,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 04:50:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/09 01:50:00 +0000",
+                    "teamA": "Mariners",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+                    "teamB": "Rays",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image"
+                },
+                "id": 2463,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 03:10:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/09 00:10:00 +0000",
+                    "teamA": "Diamondbacks",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                    "teamB": "Dodgers",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
+                },
+                "id": 2464,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 02:10:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 23:10:00 +0000",
+                    "teamA": "Royals",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                    "teamB": "Cubs",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image"
+                },
+                "id": 2465,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 22:05:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 19:05:00 +0000",
+                    "teamA": "Yankees",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                    "teamB": "Braves",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image"
+                },
+                "id": 2466,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 01:45:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 22:45:00 +0000",
+                    "teamA": "Nationals",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                    "teamB": "Reds",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image"
+                },
+                "id": 2467,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/08 23:10:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 20:10:00 +0000",
+                    "teamA": "Red Sox",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                    "teamB": "Athletics",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image"
+                },
+                "id": 2468,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 02:15:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 23:15:00 +0000",
+                    "teamA": "Giants",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                    "teamB": "Tigers",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
+                },
+                "id": 2469,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 02:15:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 23:15:00 +0000",
+                    "teamA": "White Sox",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                    "teamB": "Guardians",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image"
+                },
+                "id": 2470,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
+            },
+            {
+                "cat": "Baseball",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "Link 1",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 02:15:00 +0000",
+                    "eventName": "MLB",
+                    "isHot": "0",
+                    "startTime": "2026/08/08 23:15:00 +0000",
+                    "teamA": "Rangers",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                    "teamB": "Orioles",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
+                },
+                "id": 2471,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+                "title": "MLB"
             }
         ]
     }
