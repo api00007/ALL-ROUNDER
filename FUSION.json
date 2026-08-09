@@ -6453,9 +6453,9 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "03:20:35 PM 09-08-2026",
+        "Last update time": "03:25:25 PM 09-08-2026",
         "Live": "00",
-        "Upcoming": "54",
+        "Upcoming": "53",
         "events": [
             {
                 "cat": "Motorsport",
@@ -11691,6 +11691,67 @@
                 "id": 2499,
                 "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
                 "title": "WNBA"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eocxevccof/out/v1/d508e88d5b47494a9f280daa21fc612d/cenc.mpd&k1=fa4e1c6e21271c8c2e137768223a996d&k2=696e0a088a59b611f5e1423072b84a53\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "CRICKET FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eocxevccof/out/v1/d508e88d5b47494a9f280daa21fc612d/cenc.mpd&k1=fa4e1c6e21271c8c2e137768223a996d&k2=696e0a088a59b611f5e1423072b84a53\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "WILLOW ALT",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|Referer=https://tapmad.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "TAPMAD FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "FOX CRICKET HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "SKY SPORT NZ",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=ok\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LOW SERVER",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/08/09 18:00:00 +0000",
+                    "eventName": "The Hundred Women",
+                    "isHot": "0",
+                    "startTime": "2026/08/09 10:00:00 +0000",
+                    "teamA": "The Hundred W",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
+                    "teamB": "The Hundred W",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image"
+                },
+                "id": 2477,
+                "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
+                "title": "The Hundred Women"
             }
         ]
     }
