@@ -6412,7 +6412,7 @@
     ],
     "sports_live": {
         "Finish": "00",
-        "Last update time": "07:25:27 PM 09-08-2026",
+        "Last update time": "07:31:03 PM 09-08-2026",
         "Live": "00",
         "Upcoming": "78",
         "events": [
@@ -7863,9 +7863,15 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://31.148.48.15/Match_Futbol_3_HD/index.m3u8?token=test\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/GPPPAAA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "source": "ivan",
+                        "title": "LOW SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -7888,9 +7894,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.46/hls/ZBBBA.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "LOW SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -7913,9 +7919,9 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://no.link\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.46/hls/ZBBB.m3u8?|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "source": "ivan",
-                        "title": "Link 1",
+                        "title": "LOW SERVER",
                         "tokenApi": ""
                     }
                 ],
