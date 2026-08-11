@@ -2,152 +2,20 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "11/08/26 22:19:07 IST",
-    "Total_Matches": 24,
+    "Last update": "11/08/26 22:27:04 IST",
+    "Total_Matches": 2,
     "Live_Data": [
         {
             "Id": "1",
-            "Rivels": "NEC Nijmegen vs Olympiacos",
-            "Title": "UEFA Champions League 18:30 (S-1)",
-            "Link": "http://193.47.62.44/hls/DAAAA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "2",
-            "Rivels": "Kauno Zalgiris vs Dinamo Zagreb",
-            "Title": "UEFA Champions League 18:00 (S-1)",
-            "Link": "http://193.47.62.40/hls/DAAA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "3",
-            "Rivels": "Bodo Glimt vs Royale Union SG",
-            "Title": "UEFA Champions League 17:00 (S-1)",
-            "Link": "http://193.47.62.40/hls/ESSSAA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "4",
-            "Rivels": "Bodo Glimt vs Royale Union SG --- HD",
-            "Title": "UEFA Champions League 17:00 (S-1)",
-            "Link": "https://live2.jxa76.com/live/sd-6MxiZdYDiosZAipDgw_540p.m3u8?txSecret=a5005b467574c4acc492c4f071a46b7f&txTime=19FF2D6FBCE|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "5",
-            "Rivels": "Sabah Baku vs Aarhus",
-            "Title": "UEFA Champions League 17:00 (S-1)",
-            "Link": "http://193.47.62.40/hls/ESSSAAA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "6",
-            "Rivels": "Sabah Baku vs Aarhus --- HD",
-            "Title": "UEFA Champions League 17:00 (S-1)",
-            "Link": "https://live2.jxa76.com/live/sd-6MxiZdYDiagfwqrimZ_540p.m3u8?txSecret=f9a36435e4f6df04d1071b23106e14ee&txTime=19FF2D61D5D|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "7",
-            "Rivels": "Kairat Almaty vs Levski Sofia",
-            "Title": "UEFA Champions League 16:00 (S-1)",
-            "Link": "http://193.47.62.40/hls/ESSSA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "8",
-            "Rivels": "Kairat Almaty vs Levski Sofia --- HD",
-            "Title": "UEFA Champions League 16:00 (S-1)",
-            "Link": "https://live2.jxa76.com/live/sd-6MxiZdYDijUbRmAPP9_540p.m3u8?txSecret=fbcd5d09858e6ff654719037abc016e5&txTime=19FF2A2BDE8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "9",
-            "Rivels": "CSKA 1948 Sofia vs Panathinaikos",
-            "Title": "UEFA Conference League 18:30 (S-1)",
-            "Link": "http://193.47.62.57/hls/DFFFFR.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "10",
-            "Rivels": "Apollon vs Brann",
-            "Title": "UEFA Conference League 18:00 (S-1)",
-            "Link": "http://193.47.62.57/hls/DFFFF.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "11",
-            "Rivels": "Iberia 1999 vs Larne",
-            "Title": "UEFA Europa League 17:00 (S-1)",
-            "Link": "http://193.47.62.40/hls/ESSS.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "12",
-            "Rivels": "Iberia 1999 vs Larne --- HD",
-            "Title": "UEFA Europa League 17:00 (S-1)",
-            "Link": "https://live2.jxa76.com/live/sd-6MxiZdaSgQ6Ko6TCew_540p.m3u8?txSecret=d0e32a460e58704ab6ff884c01454ef9&txTime=19FF2D62468|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "13",
-            "Rivels": "TS Galaxy vs Mamelodi Sundowns",
-            "Title": "South Africa Betway Premiership 18:30 (S-1)",
-            "Link": "http://193.47.62.51/hls/DFFFFRRAAA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "14",
-            "Rivels": "TS Galaxy vs Mamelodi Sundowns",
-            "Title": "South Africa Betway Premiership 18:30 (S-2)",
-            "Link": "http://193.47.62.52/hls/DFFFFRRAAA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "15",
-            "Rivels": "Polokwane vs Stellenbosch",
-            "Title": "South Africa Betway Premiership 18:30 (S-1)",
-            "Link": "http://193.47.62.49/hls/DFFFFRRAA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "16",
-            "Rivels": "Marumo Gallants vs Kruger United",
-            "Title": "South Africa Betway Premiership 18:30 (S-1)",
-            "Link": "http://193.47.62.49/hls/DFFFFRRA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "17",
-            "Rivels": "Chippa Utd vs Richards Bay",
-            "Title": "South Africa Betway Premiership 18:30 (S-1)",
-            "Link": "http://193.47.62.49/hls/DFFFFRR.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "18",
-            "Rivels": "Manchester Super Giants vs Sunrisers Leeds",
-            "Title": "Cricket The Hundred 18:30 (S-1)",
-            "Link": "http://193.47.62.40/hls/UZZZA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "19",
-            "Rivels": "Sharks vs New Zealand",
-            "Title": "Rugby Friendly 18:00 (S-1)",
-            "Link": "http://193.47.62.40/hls/GGGGFFFF.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "20",
-            "Rivels": "Helsingborg vs Varnamo",
-            "Title": "Sweden Superettan 18:00 (S-1)",
-            "Link": "http://193.47.62.40/hls/GGGGFFF.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "21",
-            "Rivels": "Al-Ittihad Aleppo vs Bangladesh Police",
-            "Title": "AFC Challenge League 18:00 (S-1)",
-            "Link": "http://193.47.62.40/hls/GGGGFF.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "22",
             "Rivels": "Al Jazira vs Al Ittihad",
             "Title": "AFC Champions League 17:00 (S-1)",
             "Link": "http://193.47.62.40/hls/GGGGF.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "23",
+            "Id": "2",
             "Rivels": "Pakhtakor vs Al Hussein",
             "Title": "AFC Champions League 16:00 (S-1)",
             "Link": "http://193.47.62.40/hls/GGGG.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "24",
-            "Rivels": "Manchester Super Giants W vs Sunrisers Leeds W",
-            "Title": "Cricket The Hundred 14:45 (S-1)",
-            "Link": "http://193.47.62.40/hls/UZZZA.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
