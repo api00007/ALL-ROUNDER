@@ -2,14 +2,32 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "12/08/26 12:06:53 IST",
-    "Total_Matches": 1,
+    "Last update": "12/08/26 12:12:50 IST",
+    "Total_Matches": 4,
     "Live_Data": [
         {
             "Id": "1",
-            "Rivels": "Los Angeles Dodgers vs Kansas City Royals",
-            "Title": "MLB Baseball 03:10 (S-1)",
-            "Link": "http://193.47.62.190/hls/DBBBAAAA.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Tigres UANL vs Vancouver Whitecaps",
+            "Title": "CONCACAF Leagues Cup 03:00 (S-1)",
+            "Link": "http://193.47.62.190/hls/DBBBAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "San Francisco Giants vs Houston Astros",
+            "Title": "MLB Baseball 02:45 (S-1)",
+            "Link": "http://193.47.62.193/hls/LRRRZZZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "San Diego Padres vs Milwaukee Brewers",
+            "Title": "MLB Baseball 02:40 (S-1)",
+            "Link": "http://193.47.62.193/hls/LRRRZZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
+            "Rivels": "Athletics vs Tampa Bay Rays",
+            "Title": "MLB Baseball 02:40 (S-1)",
+            "Link": "http://193.47.62.193/hls/LRRRZZ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
