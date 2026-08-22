@@ -2,14 +2,20 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "22/08/26 10:46:51 IST",
-    "Total_Matches": 1,
+    "Last update": "22/08/26 10:49:04 IST",
+    "Total_Matches": 2,
     "Live_Data": [
         {
             "Id": "1",
-            "Rivels": "Boxing : Erik Miloc vs Sanchez Torres",
-            "Title": "Boxing 02:00 (S-1)",
-            "Link": "http://193.47.62.44/hls/afff.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Saint Lucia Kings vs Jamaica Kingsmen",
+            "Title": "Cricket CPL T20 00:00 (S-1)",
+            "Link": "http://193.47.62.192/hls/DIII.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Philadelphia Phillies vs St Louis Cardinals",
+            "Title": "MLB Baseball 23:40 (S-1)",
+            "Link": "http://193.47.62.41/hls/FIIIQQQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
