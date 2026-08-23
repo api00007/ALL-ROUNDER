@@ -2,8 +2,8 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "24/08/26 01:07:43 IST",
-    "Total_Matches": 58,
+    "Last update": "24/08/26 01:13:19 IST",
+    "Total_Matches": 81,
     "Live_Data": [
         {
             "Id": "1",
@@ -37,318 +37,456 @@
         },
         {
             "Id": "6",
+            "Rivels": "FC Porto vs Arouca --- CH 1",
+            "Title": "Portugal Primeira Liga 20:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/JJJAAAqQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
+            "Rivels": "FC Porto vs Arouca --- CH 2",
+            "Title": "Portugal Primeira Liga 20:30 (S-1)",
+            "Link": "https://live1.kinxie.com/live/72530866_f672ab9eeafd78c387aabf7a428a4f01.m3u8?auth_key=1787527724-0-0-a6625679a045d139264dea018b03ba2e|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "8",
             "Rivels": "Rennes vs PSG --- CH 1",
             "Title": "Ligue 1 France 19:45 (S-1)",
             "Link": "http://193.47.62.51/hls/KVVVAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "7",
+            "Id": "9",
             "Rivels": "Rennes vs PSG --- CH 1",
             "Title": "Ligue 1 France 19:45 (S-2)",
             "Link": "http://193.47.62.59/hls/KVVVAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "8",
+            "Id": "10",
             "Rivels": "Rennes vs PSG --- CH 1",
             "Title": "Ligue 1 France 19:45 (S-3)",
             "Link": "http://193.47.62.55/hls/KVVVAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "9",
+            "Id": "11",
             "Rivels": "Rennes vs PSG --- CH 2 HD",
             "Title": "Ligue 1 France 19:45 (S-1)",
             "Link": "https://live2.kinxie.com/live/g6763i5oed1ao7r_0c7560989543d1c5ff183b73e9f77361.m3u8?auth_key=1787525904-0-0-310122cb7b95a448ba94cab1e00df8a4|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "10",
+            "Id": "12",
             "Rivels": "Torino vs AC Milan --- CH 1",
             "Title": "Italy Serie A 19:45 (S-1)",
             "Link": "http://193.47.62.51/hls/KVVVA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "11",
+            "Id": "13",
             "Rivels": "Torino vs AC Milan --- CH 2 HD",
             "Title": "Italy Serie A 19:45 (S-1)",
             "Link": "https://live1.kinxie.com/live/71944904_071c699c45c8916feff7afe205542791.m3u8?auth_key=1787525904-0-0-1b6941d428289f3e11e6aeaddc1a12b9|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "12",
+            "Id": "14",
             "Rivels": "Atalanta vs Sassuolo --- CH 1",
             "Title": "Italy Serie A 19:45 (S-1)",
             "Link": "http://193.47.62.51/hls/KVVV.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "13",
+            "Id": "15",
             "Rivels": "Atalanta vs Sassuolo --- CH 2 HD",
             "Title": "Italy Serie A 19:45 (S-1)",
             "Link": "https://live.kinxie.com/live/71944890_e70ea11e876a1e83f01b77a7de6a88f3.m3u8?auth_key=1787525904-0-0-31ad7946fd305c3c2dab6cac100135ca|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "14",
+            "Id": "16",
             "Rivels": "PAOK vs Levadiakos",
             "Title": "Greece Super League 19:00 (S-1)",
             "Link": "http://193.47.62.44/hls/NN666DDD.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "15",
+            "Id": "17",
             "Rivels": "Panetolikos vs Asteras Tripolis",
             "Title": "Greece Super League 19:30 (S-1)",
             "Link": "http://193.47.62.59/hls/R999AAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "16",
+            "Id": "18",
+            "Rivels": "Coritiba vs Corinthians",
+            "Title": "Brazil Serie A 23:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrrDDDDDDAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "19",
+            "Rivels": "River Plate vs Velez Sarsfield",
+            "Title": "Argentina Liga Profesional 23:15 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrrDDDDDDAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "20",
+            "Rivels": "Bay FC W vs Houston Dash W",
+            "Title": "USA NWSL Women 23:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrrDDDDDDA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "21",
+            "Rivels": "Nacional vs Progreso",
+            "Title": "Uruguay Liga AUF 22:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrrDDDDDD.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "22",
+            "Rivels": "Santos vs Mirassol",
+            "Title": "Brazil Serie A 22:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrrDDDDD.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "23",
+            "Rivels": "Chapecoense-SC vs Sao Paulo",
+            "Title": "Brazil Serie A 22:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrrDDDD.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "24",
+            "Rivels": "Criciuma vs Fortaleza",
+            "Title": "Brazil Serie B 22:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrrDDD.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "25",
+            "Rivels": "Guabira vs Blooming",
+            "Title": "Bolivia Division Profesional 22:15 (S-1)",
+            "Link": "http://193.47.62.41/hls/V888.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "26",
+            "Rivels": "Dep Pasto vs Llaneros",
+            "Title": "Colombia Primera A 22:05 (S-1)",
+            "Link": "http://193.47.62.41/hls/VV666AAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "27",
+            "Rivels": "Operario-PR vs Vila Nova FC",
+            "Title": "Brazil Serie B 22:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrrDD.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "28",
+            "Rivels": "Tennis ATP Cincinati",
+            "Title": "Tennis Masters 21:30 (S-1)",
+            "Link": "http://193.47.62.190/hls/zazaza.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "29",
+            "Rivels": "New England Revolution vs New York City",
+            "Title": "MLS League 21:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrrD.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "30",
+            "Rivels": "FBC Melgar vs Alianza Lima",
+            "Title": "Peru Liga 1 Apertura 21:30 (S-1)",
+            "Link": "http://193.47.62.44/hls/NN666.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "31",
+            "Rivels": "Delfin vs Aucas",
+            "Title": "Ecuador Liga Pro 21:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/lrrr.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "32",
+            "Rivels": "Arizona Diamondbacks vs Cincinnati Reds",
+            "Title": "MLB Baseball 21:15 (S-1)",
+            "Link": "http://193.47.62.41/hls/seeeeqqqQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "33",
+            "Rivels": "Seattle Mariners vs Chicago Cubs",
+            "Title": "MLB Baseball 21:10 (S-1)",
+            "Link": "http://193.47.62.41/hls/seeeeqqqQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "34",
+            "Rivels": "San Diego Padres vs Minnesota Twins",
+            "Title": "MLB Baseball 21:10 (S-1)",
+            "Link": "http://193.47.62.41/hls/seeeeqqqQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "35",
+            "Rivels": "Los Angeles Dodgers vs Pittsburgh Pirates",
+            "Title": "MLB Baseball 21:10 (S-1)",
+            "Link": "http://193.47.62.41/hls/seeeeqqqQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "36",
+            "Rivels": "Dallas Wings W vs Seattle Storm W",
+            "Title": "WNBA Basketball 21:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/seeeeqqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "37",
+            "Rivels": "Inter Toronto vs Supra du Quebec",
+            "Title": "Canada Premier League 21:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/seeeeqq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "38",
+            "Rivels": "Belgrano vs Defensa y Justicia",
+            "Title": "Argentina Liga Profesional 21:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/seeeeq.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "39",
+            "Rivels": "Washington Spirit W vs Orlando Pride W",
+            "Title": "USA NWSL Women 21:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/seeee.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "40",
             "Rivels": "Tenerife vs Almeria",
             "Title": "Spanish Segunda Liga 20:30 (S-1)",
             "Link": "http://193.47.62.41/hls/JJJAAAqQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "17",
-            "Rivels": "FC Porto vs Arouca",
-            "Title": "Portugal Primeira Liga 20:30 (S-1)",
-            "Link": "http://193.47.62.41/hls/JJJAAAqQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "18",
+            "Id": "41",
             "Rivels": "Vikingur Reykjavik vs Valur",
             "Title": "Iceland League 20:15 (S-1)",
             "Link": "http://193.47.62.41/hls/JJJAAAqQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "19",
+            "Id": "42",
             "Rivels": "Boston Red Sox vs San Francisco Giants",
             "Title": "MLB Baseball 20:15 (S-1)",
             "Link": "http://193.47.62.41/hls/JJJAAAqQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "20",
+            "Id": "43",
             "Rivels": "Colorado Rockies vs Cleveland Guardians",
             "Title": "MLB Baseball 20:10 (S-1)",
             "Link": "http://193.47.62.41/hls/JJJAAAq.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "21",
+            "Id": "44",
             "Rivels": "Vojvodina vs Zeleznicar Pancevo",
             "Title": "Serbia Super Liga 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/JJJAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "22",
+            "Id": "45",
             "Rivels": "Mladost vs Partizan",
             "Title": "Serbia Super Liga 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/JJJAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "23",
+            "Id": "46",
             "Rivels": "Olimpia Asuncion vs Cerro Porteno",
             "Title": "Paraguay Primera Division 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/JJJA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "24",
+            "Id": "47",
             "Rivels": "Palermo vs Juve Stabia",
             "Title": "Italy Serie B 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/VV666AAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "25",
+            "Id": "48",
             "Rivels": "Cesena vs Sampdoria",
             "Title": "Italy Serie B 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/VV666AAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "26",
+            "Id": "49",
             "Rivels": "Fortaleza vs Atl Nacional",
             "Title": "Colombia Primera A 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/VV666AAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "27",
+            "Id": "50",
             "Rivels": "Vitoria vs Bahia",
             "Title": "Brazil Serie A 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/VV666AA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "28",
+            "Id": "51",
             "Rivels": "Palmeiras vs Vasco",
             "Title": "Brazil Serie A 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/VV666A.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "29",
+            "Id": "52",
             "Rivels": "Bragantino vs Gremio",
             "Title": "Brazil Serie A 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/VV666.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "30",
+            "Id": "53",
             "Rivels": "Sao Bernardo vs Nautico",
             "Title": "Brazil Serie B 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/V888AAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "31",
+            "Id": "54",
             "Rivels": "Ponte Preta vs Avai",
             "Title": "Brazil Serie B 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/V888AAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "32",
+            "Id": "55",
             "Rivels": "U De Chile vs Colo Colo",
             "Title": "Chile Liga de Primera 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/V888AAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "33",
+            "Id": "56",
             "Rivels": "Zrinjski vs Zeljeznicar",
             "Title": "Bosnia and Herzegovina Premier League 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/V888AA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "34",
+            "Id": "57",
             "Rivels": "Hajduk Split vs Osijek",
             "Title": "Croatia 1 HNL 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/V888A.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "35",
+            "Id": "58",
             "Rivels": "Real Oruro vs Bolivar",
             "Title": "Bolivia Division Profesional 20:00 (S-1)",
             "Link": "http://193.47.62.41/hls/V888.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "36",
+            "Id": "59",
             "Rivels": "Texas Rangers vs Los Angeles Angels",
             "Title": "MLB Baseball 19:35 (S-1)",
             "Link": "http://193.47.62.59/hls/R999AAAAQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "37",
+            "Id": "60",
             "Rivels": "Alanyaspor vs Besiktas",
             "Title": "Turkey Super Lig 19:30 (S-1)",
             "Link": "http://193.47.62.59/hls/R999AAAAQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "38",
+            "Id": "61",
             "Rivels": "Goztepe vs Genclerbirligi",
             "Title": "Turkey Super Lig 19:30 (S-1)",
             "Link": "http://193.47.62.59/hls/R999AAAAQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "39",
+            "Id": "62",
             "Rivels": "Vanspor FK vs Istanbulspor AS",
             "Title": "Turkey Lig 1 19:30 (S-1)",
             "Link": "http://193.47.62.59/hls/R999AAAAQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "40",
+            "Id": "63",
             "Rivels": "Sariyer vs Batman Petrolspor",
             "Title": "Turkey Lig 1 19:30 (S-1)",
             "Link": "http://193.47.62.59/hls/R999AAAAQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "41",
+            "Id": "64",
             "Rivels": "CFR Cluj vs FCSB",
             "Title": "Romania Superliga 19:30 (S-1)",
             "Link": "http://193.47.62.59/hls/R999AAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "42",
+            "Id": "65",
             "Rivels": "Maribor vs Bravo",
             "Title": "Slovenia Prva Liga 19:15 (S-1)",
             "Link": "http://193.47.62.59/hls/R999AAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "43",
+            "Id": "66",
             "Rivels": "Pogon Szczecin vs Wisla",
             "Title": "Poland Ekstraklasa 19:15 (S-1)",
             "Link": "http://193.47.62.59/hls/R999AA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "44",
+            "Id": "67",
             "Rivels": "Kansas City Royals vs Detroit Tigers",
             "Title": "MLB Baseball 19:10 (S-1)",
             "Link": "http://193.47.62.59/hls/R999A.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "45",
+            "Id": "68",
             "Rivels": "Houston Astros vs Athletics",
             "Title": "MLB Baseball 19:10 (S-1)",
             "Link": "http://193.47.62.59/hls/R999.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "46",
+            "Id": "69",
             "Rivels": "Chicago White Sox vs New York Mets",
             "Title": "MLB Baseball 19:10 (S-1)",
             "Link": "http://193.47.62.59/hls/NN666DDDD.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "47",
+            "Id": "70",
             "Rivels": "Nascar Cup Series Dollar Tree 301",
             "Title": "Nascar Cup Series 19:00 (S-1)",
             "Link": "http://193.47.62.55/hls/TTTTH.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "48",
+            "Id": "71",
             "Rivels": "Montevideo City vs Wanderers",
             "Title": "Uruguay Liga AUF 19:00 (S-1)",
             "Link": "http://193.47.62.44/hls/NN666DD.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "49",
+            "Id": "72",
             "Rivels": "Sigma Olomouc vs FK Pardubice",
             "Title": "Czech Chance Liga 19:00 (S-1)",
             "Link": "http://193.47.62.44/hls/NN666D.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "50",
+            "Id": "73",
             "Rivels": "Sport Boys vs Cienciano",
             "Title": "Peru Liga 1 Apertura 19:00 (S-1)",
             "Link": "http://193.47.62.44/hls/NN666.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "51",
+            "Id": "74",
             "Rivels": "Chicago W vs Racing Louisville W",
             "Title": "USA NWSL Women 19:00 (S-1)",
             "Link": "http://193.47.62.44/hls/N511AAAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "52",
+            "Id": "75",
             "Rivels": "Sarmiento Junin vs Estudiantes LP",
             "Title": "Argentina Liga Profesional 18:45 (S-1)",
             "Link": "http://193.47.62.44/hls/N511AAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "53",
+            "Id": "76",
             "Rivels": "Barracas Central vs Platense",
             "Title": "Argentina Liga Profesional 18:45 (S-1)",
             "Link": "http://193.47.62.44/hls/N511AAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "54",
+            "Id": "77",
             "Rivels": "Miami Marlins vs Washington Nationals",
             "Title": "MLB Baseball 18:40 (S-1)",
             "Link": "http://193.47.62.44/hls/N511AAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "55",
+            "Id": "78",
             "Rivels": "Philadelphia Phillies vs St Louis Cardinals",
             "Title": "MLB Baseball 18:35 (S-1)",
             "Link": "http://193.47.62.44/hls/N511AA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "56",
+            "Id": "79",
             "Rivels": "New York Yankees vs Toronto Blue Jays",
             "Title": "MLB Baseball 18:35 (S-1)",
             "Link": "http://193.47.62.44/hls/N511A.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "57",
+            "Id": "80",
             "Rivels": "Baltimore Orioles vs Tampa Bay Rays",
             "Title": "MLB Baseball 18:35 (S-1)",
             "Link": "http://193.47.62.44/hls/N511.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "58",
+            "Id": "81",
             "Rivels": "Golf PGA Fedex Playoffs BMW Championship",
             "Title": "Golf PGA 15:00 (S-1)",
             "Link": "http://193.47.62.41/hls/DEDEDEAAAX.m3u8|referer=http://www.fawanews.sc/"
