@@ -2,8 +2,8 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "28/08/26 02:43:36 IST",
-    "Total_Matches": 16,
+    "Last update": "28/08/26 02:48:52 IST",
+    "Total_Matches": 31,
     "Live_Data": [
         {
             "Id": "1",
@@ -25,78 +25,168 @@
         },
         {
             "Id": "4",
+            "Rivels": "FC Barcelona vs Athletic Bilbao --- CH 1",
+            "Title": "Spanish La Liga 20:00 (S-1)",
+            "Link": "http://193.47.62.48/hls/SAAAQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
+            "Rivels": "FC Barcelona vs Athletic Bilbao --- CH 1",
+            "Title": "Spanish La Liga 20:00 (S-2)",
+            "Link": "http://193.47.62.52/hls/SAAAQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "6",
+            "Rivels": "FC Barcelona vs Athletic Bilbao --- CH 1",
+            "Title": "Spanish La Liga 20:00 (S-3)",
+            "Link": "http://193.47.62.56/hls/SAAAQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
+            "Rivels": "FC Barcelona vs Athletic Bilbao --- CH 2",
+            "Title": "Spanish La Liga 20:00 (S-1)",
+            "Link": "https://live.ftlcbx.com/live/72478456_e72b36205d5ea72610ec3d78ea220259_540p.m3u8?auth_key=1787871308-0-0-b3e4d6556a42dd0daf143ae8b6cc6b2e|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "8",
+            "Rivels": "FC Barcelona vs Athletic Bilbao --- HD",
+            "Title": "Spanish La Liga 20:00 (S-1)",
+            "Link": "https://live.ftlcbx.com/live/72478456_e72b36205d5ea72610ec3d78ea220259_1080p.m3u8?auth_key=1787871308-0-0-b3e4d6556a42dd0daf143ae8b6cc6b2e|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "9",
+            "Rivels": "Fulham vs AFC Wimbledon --- CH 1",
+            "Title": "English EFL Cup 20:00 (S-1)",
+            "Link": "http://193.47.62.48/hls/SAAAQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "10",
+            "Rivels": "Fulham vs AFC Wimbledon --- CH 1",
+            "Title": "English EFL Cup 20:00 (S-2)",
+            "Link": "http://193.47.62.52/hls/SAAAQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "11",
+            "Rivels": "Fulham vs AFC Wimbledon --- CH 1",
+            "Title": "English EFL Cup 20:00 (S-3)",
+            "Link": "http://193.47.62.56/hls/SAAAQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "12",
+            "Rivels": "Fulham vs AFC Wimbledon --- CH 2",
+            "Title": "English EFL Cup 20:00 (S-1)",
+            "Link": "https://live1.ftlcbx.com/live/73667692_e0ac8e2ffa69c515961e3bf7bd3b537a_540p.m3u8?auth_key=1787871308-0-0-97b6da967021ba0ec51ebbc9ce2ccba5|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "13",
+            "Rivels": "Fulham vs AFC Wimbledon --- RU HD",
+            "Title": "English EFL Cup 20:00 (S-1)",
+            "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3a67fb4b-eba1-4a16-be73-fb78d3b6f7df/master.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "14",
+            "Rivels": "Hibernian vs Gent --- CH 1",
+            "Title": "UEFA Conference League 20:00 (S-1)",
+            "Link": "http://193.47.62.58/hls/TTTT.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "15",
+            "Rivels": "Hibernian vs Gent --- CH 1",
+            "Title": "UEFA Conference League 20:00 (S-2)",
+            "Link": "http://193.47.62.194/hls/TTTT.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
+            "Rivels": "Hibernian vs Gent --- CH 2",
+            "Title": "UEFA Conference League 20:00 (S-1)",
+            "Link": "https://live5.ftlcbx.com/live/9gklzi18p1ehm7x_3e9621f222483f983da008c5b86785a0_540p.m3u8?auth_key=1787871616-0-0-b630f5ef305298542a8337dc92abc199|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "17",
+            "Rivels": "Partizan vs Getafe --- CH 1",
+            "Title": "UEFA Conference League 20:00 (S-1)",
+            "Link": "http://193.47.62.58/hls/TTTTAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "18",
             "Rivels": "Partizan vs Getafe --- CH 2",
             "Title": "UEFA Conference League 20:00 (S-1)",
             "Link": "https://live5.ftlcbx.com/live/73399244_befb1ef067920d92ebe5f7e7d667d64c_540p.m3u8?auth_key=1787871875-0-0-c1daab35c9f8ecac77a9250a1dd4a9e0|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "5",
+            "Id": "19",
             "Rivels": "Larne vs Lincoln Red Imps",
             "Title": "UEFA Conference League 20:00 (S-1)",
             "Link": "http://193.47.62.58/hls/TTTTA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "6",
+            "Id": "20",
             "Rivels": "Rijeka vs Midtjylland --- CH 1",
             "Title": "UEFA Conference League 19:45 (S-1)",
             "Link": "http://193.47.62.43/hls/RARARAAAaaaaa.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "7",
+            "Id": "21",
             "Rivels": "Rijeka vs Midtjylland --- CH 2",
             "Title": "UEFA Conference League 19:45 (S-1)",
             "Link": "https://live.ftlcbx.com/live/73399216_6e38862f2fed0929beb1cc3c34b1e46b_540p.m3u8?auth_key=1787870660-0-0-03f598b92da10afdff2698d10bb61f39|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "8",
+            "Id": "22",
             "Rivels": "Wigan Warriors vs Hull KR",
             "Title": "English Rugby Super League 20:00 (S-1)",
             "Link": "http://193.47.62.58/hls/ZRRR.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "9",
+            "Id": "23",
             "Rivels": "Provence Rugby vs Agen",
             "Title": "France Rugby Pro D2 20:00 (S-1)",
             "Link": "http://193.47.62.59/hls/mmmm.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "10",
+            "Id": "24",
             "Rivels": "Guairena vs 12 de Octubre",
             "Title": "Paraguay Primera Division 20:00 (S-1)",
             "Link": "http://193.47.62.58/hls/ZRRRQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "11",
+            "Id": "25",
             "Rivels": "Always Ready vs Aurora",
             "Title": "Bolivia Division Profesional 20:00 (S-1)",
             "Link": "http://193.47.62.58/hls/TTTTAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "12",
+            "Id": "26",
             "Rivels": "Egypt vs Senegal",
             "Title": "Basketball World Cup Qualification 19:30 (S-1)",
             "Link": "http://193.47.62.59/hls/FGTGTGT.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "13",
+            "Id": "27",
             "Rivels": "France vs Slovenia",
             "Title": "Basketball World Cup Qualification 19:30 (S-1)",
             "Link": "http://193.47.62.59/hls/HOOOFFFFF.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "14",
+            "Id": "28",
+            "Rivels": "Belgium vs Czech Republic",
+            "Title": "Basketball EuroBasket Qualification 19:30 (S-1)",
+            "Link": "http://193.47.62.59/hls/HOOOFFFF.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "29",
             "Rivels": "St Louis Cardinals vs Baltimore Orioles",
             "Title": "MLB Baseball 19:15 (S-1)",
             "Link": "http://193.47.62.47/hls/YYYYAAAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "15",
+            "Id": "30",
             "Rivels": "Tennis US Open",
             "Title": "Tennis 16:00 (S-1)",
             "Link": "http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "16",
+            "Id": "31",
             "Rivels": "Golf PGA Fedex Playoffs Tour Championship",
             "Title": "Golf PGA 15:00 (S-1)",
             "Link": "http://193.47.62.42/hls/FTTTACAAA.m3u8|referer=http://www.fawanews.sc/"
