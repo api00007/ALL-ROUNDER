@@ -2,50 +2,56 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "01/09/26 10:37:23 IST",
-    "Total_Matches": 7,
+    "Last update": "01/09/26 10:50:44 IST",
+    "Total_Matches": 8,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Mexico vs Brazil",
+            "Title": "Basketball World Cup Qualification 03:10 (S-1)",
+            "Link": "http://193.47.62.41/hls/EEEEQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Arizona Diamondbacks vs Philadelphia Phillies",
+            "Title": "MLB Baseball 02:40 (S-1)",
+            "Link": "http://193.47.62.41/hls/EEEEQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
             "Rivels": "Los Angeles Angels vs New York Yankees",
             "Title": "MLB Baseball 02:38 (S-1)",
             "Link": "http://193.47.62.41/hls/EEEE.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
-            "Rivels": "Canada vs Argentina",
-            "Title": "Basketball World Cup Qualification 00:10 (S-1)",
-            "Link": "http://193.47.62.41/hls/OLLLA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "3",
-            "Rivels": "Dep Pasto vs Pereira",
-            "Title": "Colombia Primera A 00:00 (S-1)",
+            "Id": "4",
+            "Rivels": "Deportes Tolima vs Cucuta",
+            "Title": "Colombia Primera A 02:05 (S-1)",
             "Link": "http://193.47.62.41/hls/ULLLQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
-            "Rivels": "Defensa y Justicia vs Platense",
-            "Title": "Argentina Liga Profesional 23:00 (S-1)",
-            "Link": "http://193.47.62.47/hls/PPPP.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
             "Id": "5",
-            "Rivels": "Tennis US Open --- CH 1",
-            "Title": "Tennis --:-- (S-1)",
-            "Link": "http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "U Catolica vs OHiggins",
+            "Title": "Chile Liga de Primera 01:45 (S-1)",
+            "Link": "http://193.47.62.47/hls/PPPPAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
             "Id": "6",
-            "Rivels": "Tennis US Open --- CH 6",
-            "Title": "Tennis --:-- (S-1)",
-            "Link": "http://193.47.62.41/hls/FHHHQQQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Colorado Rockies vs Baltimore Orioles",
+            "Title": "MLB Baseball 01:40 (S-1)",
+            "Link": "http://193.47.62.41/hls/ELLLQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
             "Id": "7",
-            "Rivels": "Tennis US Open --- CH 10",
-            "Title": "Tennis --:-- (S-1)",
-            "Link": "http://193.47.62.41/hls/FHHH.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Tigre vs Barracas Central",
+            "Title": "Argentina Liga Profesional 01:15 (S-1)",
+            "Link": "http://193.47.62.41/hls/ELLLQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "8",
+            "Rivels": "Instituto vs San Lorenzo",
+            "Title": "Argentina Liga Profesional 01:15 (S-1)",
+            "Link": "http://193.47.62.41/hls/ELLLQQQQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
