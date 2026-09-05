@@ -2,50 +2,74 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "05/09/26 08:49:23 IST",
-    "Total_Matches": 7,
+    "Last update": "05/09/26 08:55:06 IST",
+    "Total_Matches": 11,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Boxing : Andy Ruiz vs Damian Knyba",
+            "Title": "Boxing 01:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/KSSSTQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
             "Rivels": "NQ Cowboys vs Canberra Raiders",
             "Title": "NRL 08:30 (S-1)",
             "Link": "http://193.47.62.41/hls/KSSST.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "3",
             "Rivels": "Newcastle Knights W vs Canterbury-Bankstown Bulldogs W",
             "Title": "NRL 08:15 (S-1)",
             "Link": "http://193.47.62.41/hls/KSSSTQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "4",
+            "Rivels": "Waikato vs Canterbury",
+            "Title": "Rugby NZ NPC 08:10 (S-1)",
+            "Link": "http://193.47.62.41/hls/KSSS.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
+            "Rivels": "Sydney Swans vs Brisbane Lions",
+            "Title": "AFL Aussie Rules 06:15 (S-1)",
+            "Link": "http://193.47.62.41/hls/KSSSTQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "6",
+            "Rivels": "Tasman vs Wellington",
+            "Title": "Rugby NZ NPC 06:05 (S-1)",
+            "Link": "http://193.47.62.41/hls/KSSS.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
             "Rivels": "New Zealand Warriors vs Manly Sea Eagles",
             "Title": "NRL 06:00 (S-1)",
             "Link": "http://193.47.62.41/hls/KSSST.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
-            "Rivels": "Bay of Plenty vs Manawatu",
-            "Title": "Rugby NZ NPC 03:05 (S-1)",
-            "Link": "http://193.47.62.41/hls/KSSS.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "8",
+            "Rivels": "Juarez vs Pachuca",
+            "Title": "Mexico Liga MX 04:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/TFFFQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "5",
-            "Rivels": "Utah Royals W vs Boston Legacy W",
-            "Title": "USA NWSL Women 02:30 (S-1)",
-            "Link": "http://193.47.62.59/hls/TFFF.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "9",
+            "Rivels": "New Zealand Warriors W vs Cronulla Sharks W",
+            "Title": "NRL 03:30 (S-1)",
+            "Link": "http://193.47.62.41/hls/KSSST.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "6",
-            "Rivels": "Kansas vs LIU Sharks",
-            "Title": "NCAA American Football 01:00 (S-1)",
-            "Link": "http://193.47.62.44/hls/HIIIF.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "10",
+            "Rivels": "Cleveland Guardians vs Detroit Tigers",
+            "Title": "MLB Baseball 03:15 (S-1)",
+            "Link": "http://193.47.62.41/hls/TFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "7",
-            "Rivels": "Guyana Amazon Warriors vs Jamaica Kingsmen",
-            "Title": "Cricket CPL T20 00:00 (S-1)",
-            "Link": "http://193.47.62.41/hls/VIII.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "11",
+            "Rivels": "Seattle Mariners vs Athletics",
+            "Title": "MLB Baseball 03:10 (S-1)",
+            "Link": "http://193.47.62.41/hls/TFFFQQQQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
