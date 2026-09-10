@@ -2,26 +2,38 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "10/09/26 14:20:14 IST",
-    "Total_Matches": 3,
+    "Last update": "10/09/26 14:25:49 IST",
+    "Total_Matches": 5,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Manawatu vs Taranaki",
+            "Title": "Rugby NZ NPC 08:10 (S-1)",
+            "Link": "http://193.47.62.41/hls/zccc.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Tennis US Open --- CH 2",
+            "Title": "Tennis --:-- (S-1)",
+            "Link": "http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Motagua vs Alianza FC",
+            "Title": "CONCACAF Central American Cup 04:06 (S-1)",
+            "Link": "http://193.47.62.44/hls/BQQQAQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
             "Rivels": "Vancouver Whitecaps vs Los Angeles Galaxy",
             "Title": "MLS League 03:30 (S-1)",
             "Link": "http://193.47.62.44/hls/BQQQAQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
-            "Rivels": "Los Angeles Dodgers vs Cincinnati Reds",
-            "Title": "MLB Baseball 03:10 (S-1)",
-            "Link": "http://193.47.62.44/hls/BQQQA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "3",
-            "Rivels": "Guyana Amazon Warriors vs Saint Lucia Kings",
-            "Title": "Cricket CPL T20 00:00 (S-1)",
-            "Link": "http://193.47.62.41/hls/thhh.m3u8|referer=http://www.fawanews.sc/"
+            "Id": "5",
+            "Rivels": "San Diego FC vs San Jose Earthquakes",
+            "Title": "MLS League 03:30 (S-1)",
+            "Link": "http://193.47.62.44/hls/BQQQAQQQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
