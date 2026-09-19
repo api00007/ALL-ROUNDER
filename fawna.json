@@ -2,26 +2,38 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "19/09/26 12:19:22 IST",
-    "Total_Matches": 3,
+    "Last update": "19/09/26 12:32:06 IST",
+    "Total_Matches": 5,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Hawthorn Hawks vs Brisbane Lions",
+            "Title": "AFL Aussie Rules 08:15 (S-1)",
+            "Link": "http://193.47.62.44/hls/fsss.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
             "Rivels": "Wellington vs Northland",
             "Title": "Rugby NZ NPC 08:05 (S-1)",
             "Link": "http://193.47.62.44/hls/frfrfrAa.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "3",
             "Rivels": "MotoGP Grand Prix of Austria",
             "Title": "MotoGP 07:30 (S-1)",
             "Link": "http://193.47.62.44/hls/ssssAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "4",
             "Rivels": "Brisbane Broncos W vs Newcastle Knights W",
             "Title": "NRL 07:05 (S-1)",
             "Link": "http://193.47.62.44/hls/frfrfrA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
+            "Rivels": "Waikato vs Manawatu",
+            "Title": "Rugby NZ NPC 06:05 (S-1)",
+            "Link": "http://193.47.62.44/hls/frfrfrAa.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
