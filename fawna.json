@@ -2,98 +2,230 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "19/09/26 21:21:44 IST",
-    "Total_Matches": 15,
+    "Last update": "19/09/26 21:32:30 IST",
+    "Total_Matches": 37,
     "Live_Data": [
         {
             "Id": "1",
-            "Rivels": "Brighton vs Arsenal --- CH 1",
-            "Title": "English Premier League 15:00 (S-1)",
-            "Link": "http://193.47.62.41/hls/TOTOTOQQXX.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "2",
-            "Rivels": "Brighton vs Arsenal --- CH 1",
-            "Title": "English Premier League 15:00 (S-2)",
-            "Link": "http://193.47.62.59/hls/TOTOTOQQXX.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "3",
-            "Rivels": "Brighton vs Arsenal --- CH 1",
-            "Title": "English Premier League 15:00 (S-3)",
-            "Link": "http://193.47.62.50/hls/TOTOTOQQXX.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "4",
-            "Rivels": "Brighton vs Arsenal --- CH 1",
-            "Title": "English Premier League 15:00 (S-4)",
-            "Link": "http://193.47.62.55/hls/TOTOTOQQXX.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "5",
-            "Rivels": "Wrexham vs Southampton --- CH 2",
-            "Title": "English Championship 15:00 (S-1)",
-            "Link": "https://www.rtmpcdn.com/live/5f7538ff-a64e-4a3e-b2f2-f217cd02fb67.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "6",
-            "Rivels": "Lincoln vs Swansea City --- CH 1",
-            "Title": "English Championship 15:00 (S-1)",
-            "Link": "http://193.47.62.50/hls/WWWWQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "7",
-            "Rivels": "Colchester vs Cheltenham",
-            "Title": "English League Two 15:00 (S-1)",
-            "Link": "http://193.47.62.41/hls/GLLLQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "8",
-            "Rivels": "AS Roma vs Inter Milan",
+            "Rivels": "AS Roma vs Inter Milan --- CH 1",
             "Title": "Italy Serie A 17:00 (S-1)",
             "Link": "http://193.47.62.50/hls/HHHIIIQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "9",
+            "Id": "2",
+            "Rivels": "AS Roma vs Inter Milan --- CH 2",
+            "Title": "Italy Serie A 17:00 (S-1)",
+            "Link": "https://www.rtmpcdn.com/live/18623c1b-c3d6-40b5-a2d0-76385a86b75d.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Nea Salamis vs Anorthosis",
+            "Title": "Cyprus League 17:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/HHHIIIQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
             "Rivels": "Apollon vs APOEL",
             "Title": "Cyprus League 17:00 (S-1)",
             "Link": "http://193.47.62.50/hls/HHHIII.m3u8|referer=http://www.fawanews.sc/"
         },
         {
+            "Id": "5",
+            "Rivels": "Atromitos vs Kifisia",
+            "Title": "Greece Super League 17:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/SOOOOAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "6",
+            "Rivels": "Brighton vs Arsenal --- CH 1",
+            "Title": "English Premier League 15:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/TOTOTOQQXX.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
+            "Rivels": "Brighton vs Arsenal --- CH 1",
+            "Title": "English Premier League 15:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/TOTOTOQQXX.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "8",
+            "Rivels": "Brighton vs Arsenal --- CH 1",
+            "Title": "English Premier League 15:00 (S-3)",
+            "Link": "http://193.47.62.50/hls/TOTOTOQQXX.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "9",
+            "Rivels": "Brighton vs Arsenal --- CH 1",
+            "Title": "English Premier League 15:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/TOTOTOQQXX.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
             "Id": "10",
-            "Rivels": "Slovacko vs Ostrava",
-            "Title": "Czech Chance Liga 17:00 (S-1)",
-            "Link": "http://193.47.62.50/hls/DDDDQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Brighton vs Arsenal --- CH 2",
+            "Title": "English Premier League 15:00 (S-1)",
+            "Link": "https://www.rtmpcdn.com/live/6989cffb-42d9-4998-af07-8e569a934ada.m3u8|referer=http://www.fawanews.sc/"
         },
         {
             "Id": "11",
-            "Rivels": "Molde vs Aalesund",
-            "Title": "Norway Eliteserien 17:00 (S-1)",
-            "Link": "http://193.47.62.50/hls/DDDDQQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Brighton vs Arsenal --- CH 3",
+            "Title": "English Premier League 15:00 (S-1)",
+            "Link": "https://live1.dyrur1.com/live/72221276_6c1f122c25d9ae25aa7685b5ada75f01_720p.m3u8?auth_key=1789844475-0-0-aed2ddfdf158baf4caa51bf45b75fdad|referer=http://www.fawanews.sc/"
         },
         {
             "Id": "12",
-            "Rivels": "BIK Karlskoga vs Vasteras",
-            "Title": "Sweden HockeyAllsvenskan 17:00 (S-1)",
-            "Link": "http://193.47.62.50/hls/RFRFRFQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Newcastle United vs Hull City --- CH 1",
+            "Title": "English Premier League 15:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/TOTOTOQX.m3u8|referer=http://www.fawanews.sc/"
         },
         {
             "Id": "13",
-            "Rivels": "Austria Lustenau vs Altach",
-            "Title": "Austria Bundesliga 16:00 (S-1)",
-            "Link": "http://193.47.62.44/hls/DQQQAA.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Newcastle United vs Hull City --- CH 1",
+            "Title": "English Premier League 15:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/TOTOTOQX.m3u8|referer=http://www.fawanews.sc/"
         },
         {
             "Id": "14",
-            "Rivels": "Athletic Bilbao vs Alaves --- CH 1",
-            "Title": "Spanish La Liga 15:15 (S-1)",
-            "Link": "http://193.47.62.44/hls/HHHHA.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Newcastle United vs Hull City --- CH 1",
+            "Title": "English Premier League 15:00 (S-3)",
+            "Link": "http://193.47.62.50/hls/TOTOTOQX.m3u8|referer=http://www.fawanews.sc/"
         },
         {
             "Id": "15",
+            "Rivels": "Newcastle United vs Hull City --- CH 1",
+            "Title": "English Premier League 15:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/TOTOTOQX.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
+            "Rivels": "Newcastle United vs Hull City --- CH 2",
+            "Title": "English Premier League 15:00 (S-1)",
+            "Link": "https://www.rtmpcdn.com/live/c6d05ddb-6f00-4684-b6ec-0bae4af27730.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "17",
+            "Rivels": "Newcastle United vs Hull City --- CH 3",
+            "Title": "English Premier League 15:00 (S-1)",
+            "Link": "https://live4.dyrur1.com/live/l6kegi8n5p4tv75_8732fc45d7fc4a55c1f419bb43908a8b_720p.m3u8?auth_key=1789844611-0-0-3f3fc8ce30c58af6982e67024300e0ef|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "18",
+            "Rivels": "Everton vs Ipswich Town --- CH 1",
+            "Title": "English Premier League 15:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/TOTOTOX.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "19",
+            "Rivels": "Everton vs Ipswich Town --- CH 1",
+            "Title": "English Premier League 15:00 (S-2)",
+            "Link": "http://193.47.62.59/hls/TOTOTOX.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "20",
+            "Rivels": "Everton vs Ipswich Town --- CH 1",
+            "Title": "English Premier League 15:00 (S-3)",
+            "Link": "http://193.47.62.50/hls/TOTOTOX.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "21",
+            "Rivels": "Everton vs Ipswich Town --- CH 1",
+            "Title": "English Premier League 15:00 (S-4)",
+            "Link": "http://193.47.62.55/hls/TOTOTOX.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "22",
+            "Rivels": "Everton vs Ipswich Town --- CH 2",
+            "Title": "English Premier League 15:00 (S-1)",
+            "Link": "https://www.rtmpcdn.com/live/66c68b6f-8e2b-4322-a631-eca9897a7c05.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "23",
+            "Rivels": "Everton vs Ipswich Town --- CH 3",
+            "Title": "English Premier League 15:00 (S-1)",
+            "Link": "https://live5.dyrur1.com/live/wv78xivzr6dsokr_984e0ff6b67e794d0739220bd366e617_720p.m3u8?auth_key=1789844611-0-0-33ae3495487c0480991cd3d358a0f7df|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "24",
+            "Rivels": "Luton vs Bradford City",
+            "Title": "English League One 15:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/WWWWQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "25",
+            "Rivels": "Leyton Orient vs Stevenage",
+            "Title": "English League One 15:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/PPPPAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "26",
+            "Rivels": "Bromley vs Huddersfield",
+            "Title": "English League One 15:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/GLLLQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "27",
+            "Rivels": "Blackpool vs Plymouth",
+            "Title": "English League One 15:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/FHHHQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "28",
+            "Rivels": "Salford vs Swindon",
+            "Title": "English League Two 15:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/WWWWQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "29",
+            "Rivels": "Northampton vs Rotherham",
+            "Title": "English League Two 15:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/PPPPAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "30",
+            "Rivels": "Grimsby vs Crawley",
+            "Title": "English League Two 15:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/GLLLQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "31",
+            "Rivels": "Gillingham vs Bristol Rovers",
+            "Title": "English League Two 15:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/FHHHQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "32",
+            "Rivels": "Exeter vs Tranmere",
+            "Title": "English League Two 15:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/WWWWQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "33",
             "Rivels": "Richards Bay vs Sekhukhune",
             "Title": "South Africa Betway Premiership 14:00 (S-1)",
             "Link": "http://193.47.62.44/hls/DYYYAAAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "34",
+            "Rivels": "England vs Sri Lanka",
+            "Title": "Cricket T20 14:30 (S-1)",
+            "Link": "http://193.47.62.44/hls/JYYYAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "35",
+            "Rivels": "Linkoping vs Timra",
+            "Title": "Sweden Hockey SHL 14:15 (S-1)",
+            "Link": "http://193.47.62.44/hls/ZYYYQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "36",
+            "Rivels": "Frolunda vs Vaxjo",
+            "Title": "Sweden Hockey SHL 14:15 (S-1)",
+            "Link": "http://193.47.62.44/hls/ZYYYQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "37",
+            "Rivels": "Golf BMW PGA Championship",
+            "Title": "Golf 09:00 (S-1)",
+            "Link": "http://193.47.62.52/hls/iiiia.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
