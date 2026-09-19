@@ -2,8 +2,8 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "19/09/26 14:48:53 IST",
-    "Total_Matches": 13,
+    "Last update": "19/09/26 14:54:12 IST",
+    "Total_Matches": 17,
     "Live_Data": [
         {
             "Id": "1",
@@ -73,15 +73,39 @@
         },
         {
             "Id": "12",
+            "Rivels": "Shimizu S-Pulse vs Chiba",
+            "Title": "Japan J League 10:30 (S-1)",
+            "Link": "http://193.47.62.44/hls/NNNN.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "13",
+            "Rivels": "Kawasaki Frontale vs Kashima Antlers",
+            "Title": "Japan J League 10:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/OFFFAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "14",
             "Rivels": "Avispa Fukuoka vs Sanfrecce Hiroshima",
             "Title": "Japan J League 10:00 (S-1)",
             "Link": "http://193.47.62.44/hls/OFFFAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "13",
+            "Id": "15",
+            "Rivels": "Steaua Bucuresti vs Gloria Bistrita",
+            "Title": "Romania Liga 2 09:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/OFFFA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
             "Rivels": "Bucheon FC 1995 vs Gimcheon Sangmu",
             "Title": "South Korea K League 08:30 (S-1)",
             "Link": "http://193.47.62.44/hls/OFFF.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "17",
+            "Rivels": "Hawthorn Hawks vs Brisbane Lions",
+            "Title": "AFL Aussie Rules 08:15 (S-1)",
+            "Link": "http://193.47.62.44/hls/fsss.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
