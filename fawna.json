@@ -2,62 +2,38 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "23/09/26 18:19:05 IST",
-    "Total_Matches": 9,
+    "Last update": "23/09/26 18:25:09 IST",
+    "Total_Matches": 5,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "SK Kladno vs Ostrava",
+            "Title": "Czech MOL Cup 15:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/ssssaAAaa.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
             "Rivels": "PAOK W vs Myjava W",
             "Title": "UEFA Europa Cup Women 14:00 (S-1)",
             "Link": "http://193.47.62.50/hls/ssssaAAa.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "3",
             "Rivels": "Italy U20 W vs Spain U20 W",
             "Title": "World Cup Women U20 14:00 (S-1)",
             "Link": "http://193.47.62.50/hls/ssssaAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "4",
             "Rivels": "Zambia U20 vs Botswana U20",
             "Title": "COSAFA Championship U20 14:00 (S-1)",
             "Link": "http://193.47.62.50/hls/ssssaA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
+            "Id": "5",
             "Rivels": "Malawi U20 vs Comoros U20",
             "Title": "COSAFA Championship U20 14:00 (S-1)",
             "Link": "http://193.47.62.50/hls/ssssa.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "5",
-            "Rivels": "Kyrgyzstan U23 vs Hong Kong U23",
-            "Title": "Asian Games 11:30 (S-1)",
-            "Link": "http://193.47.62.59/hls/FOOOQ.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "6",
-            "Rivels": "Japan U23 vs Thailand U23",
-            "Title": "Asian Games 11:30 (S-1)",
-            "Link": "http://193.47.62.59/hls/FOOO.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "7",
-            "Rivels": "Lesotho U20 vs Angola U20",
-            "Title": "COSAFA Championship U20 11:00 (S-1)",
-            "Link": "http://193.47.62.59/hls/FOOOQAA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "8",
-            "Rivels": "South Africa U20 vs Eswatini U20",
-            "Title": "COSAFA Championship U20 11:00 (S-1)",
-            "Link": "http://193.47.62.59/hls/FOOOQA.m3u8|referer=http://www.fawanews.sc/"
-        },
-        {
-            "Id": "9",
-            "Rivels": "Cairns Taipans vs Tasmania JackJumpers",
-            "Title": "Australia NBL Basketball 10:30 (S-1)",
-            "Link": "http://193.47.62.59/hls/FOOOQAAa.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
