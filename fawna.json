@@ -2,26 +2,158 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "23/09/26 23:15:24 IST",
-    "Total_Matches": 3,
+    "Last update": "23/09/26 23:19:10 IST",
+    "Total_Matches": 25,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Saudi Arabia vs Kuwait --- CH 1",
+            "Title": "Arabian Gulf Cup 19:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/EEEE.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Saudi Arabia vs Kuwait --- CH 2",
+            "Title": "Arabian Gulf Cup 19:00 (S-1)",
+            "Link": "https://www.rtmpcdn.com/live/88651221-8f4f-4c9e-8890-7469b91a42c8.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Boreham Wood vs Everton U21",
+            "Title": "English National League Cup 19:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/IQQQEE.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
+            "Rivels": "Hearts W vs Real Sociedad W",
+            "Title": "UEFA Europa Cup Women 19:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/IQQQE.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
+            "Rivels": "Ajax W vs Aktobe W",
+            "Title": "UEFA Europa Cup Women 18:30 (S-1)",
+            "Link": "http://193.47.62.59/hls/IQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "6",
+            "Rivels": "Baltimore Orioles vs Toronto Blue Jays",
+            "Title": "MLB Baseball 18:35 (S-1)",
+            "Link": "http://193.47.62.44/hls/EMMMAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
+            "Rivels": "Detroit Tigers vs Washington Nationals",
+            "Title": "MLB Baseball 18:10 (S-1)",
+            "Link": "http://193.47.62.55/hls/UTTTAAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "8",
+            "Rivels": "Wolfsburg W vs Sturm Graz W",
+            "Title": "UEFA Europa Cup Women 18:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/UTTTAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "9",
+            "Rivels": "Hammarby W vs Rangers W",
+            "Title": "UEFA Europa Cup Women 18:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/UTTTAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "10",
+            "Rivels": "Feyenoord W vs Valerenga W",
+            "Title": "UEFA Europa Cup Women 18:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/UTTTA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "11",
+            "Rivels": "Visby Roma vs Kalmar",
+            "Title": "Sweden HockeyAllsvenskan 18:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/UTTT.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "12",
+            "Rivels": "Vimmerby vs AIK",
+            "Title": "Sweden HockeyAllsvenskan 18:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/HBBBAAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "13",
+            "Rivels": "Vasteras vs Sodertalje",
+            "Title": "Sweden HockeyAllsvenskan 18:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/HBBBAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "14",
+            "Rivels": "Ostersund vs Almtuna",
+            "Title": "Sweden HockeyAllsvenskan 18:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/HBBBAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "15",
+            "Rivels": "Nybro vs BIK Karlskoga",
+            "Title": "Sweden HockeyAllsvenskan 18:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/HBBBAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
+            "Rivels": "Modo vs Mora",
+            "Title": "Sweden HockeyAllsvenskan 18:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/HBBBA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "17",
+            "Rivels": "Leksand vs Oskarshamn",
+            "Title": "Sweden HockeyAllsvenskan 18:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/HBBB.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "18",
             "Rivels": "Servette Geneve FC W vs OL Lyonnes W",
             "Title": "UEFA Women Champions League 17:45 (S-1)",
             "Link": "http://193.47.62.50/hls/JFFFAAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "19",
+            "Rivels": "Leuven W vs AS Roma W",
+            "Title": "UEFA Women Champions League 17:45 (S-1)",
+            "Link": "http://193.47.62.50/hls/JFFFAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "20",
             "Rivels": "St Polten W vs Malmo FF W",
             "Title": "UEFA Europa Cup Women 17:45 (S-1)",
             "Link": "http://193.47.62.50/hls/JFFFAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "21",
             "Rivels": "North Korea U20 W vs Colombia U20 W",
             "Title": "World Cup Women U20 17:30 (S-1)",
             "Link": "http://193.47.62.50/hls/JFFFAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "22",
+            "Rivels": "Gibraltar vs Sao Tome and Principe",
+            "Title": "Friendly Match 17:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/JFFFA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "23",
+            "Rivels": "Azerbaijan vs Tajikistan",
+            "Title": "Friendly Match 17:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/JFFF.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "24",
+            "Rivels": "Brondby W vs Sporting Lisbon W",
+            "Title": "UEFA Europa Cup Women 17:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/EEEEFAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "25",
+            "Rivels": "Breidablik W vs Czarni Sosnowiec W",
+            "Title": "UEFA Europa Cup Women 17:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/EEEEFAAA.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
