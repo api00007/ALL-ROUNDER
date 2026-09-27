@@ -2,152 +2,344 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "27/09/26 21:34:54 IST",
-    "Total_Matches": 24,
+    "Last update": "27/09/26 21:37:16 IST",
+    "Total_Matches": 56,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Serbia vs Netherlands --- CH 1",
+            "Title": "UEFA Nations League 17:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/E111Q.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Serbia vs Netherlands --- CH 1",
+            "Title": "UEFA Nations League 17:00 (S-2)",
+            "Link": "http://193.47.62.44/hls/E111Q.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
             "Rivels": "Serbia vs Netherlands --- CH 2",
             "Title": "UEFA Nations League 17:00 (S-1)",
             "Link": "https://www.rtmpcdn.com/live/32d9a490-2e57-402f-bd1b-195816d800b1.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "2",
+            "Id": "4",
             "Rivels": "Denmark vs Wales --- CH 1",
             "Title": "UEFA Nations League 17:00 (S-1)",
             "Link": "http://193.47.62.41/hls/E111.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "3",
+            "Id": "5",
             "Rivels": "Denmark vs Wales --- CH 1",
             "Title": "UEFA Nations League 17:00 (S-2)",
             "Link": "http://193.47.62.44/hls/E111.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "4",
+            "Id": "6",
+            "Rivels": "Denmark vs Wales --- CH 2",
+            "Title": "UEFA Nations League 17:00 (S-1)",
+            "Link": "https://www.rtmpcdn.com/live/a3d0a53d-099f-4317-84e7-7a9f66e4faad.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "7",
             "Rivels": "Austria vs Kosovo --- CH 1",
             "Title": "UEFA Nations League 17:00 (S-1)",
             "Link": "http://193.47.62.50/hls/K999AAAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "5",
+            "Id": "8",
             "Rivels": "Austria vs Kosovo --- CH 2",
             "Title": "UEFA Nations League 17:00 (S-1)",
             "Link": "https://www.rtmpcdn.com/live/8d861804-b118-472e-bd62-69ec11da7d5e.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "6",
+            "Id": "9",
             "Rivels": "Gibraltar vs Andorra --- CH 1",
             "Title": "UEFA Nations League 17:00 (S-1)",
             "Link": "http://193.47.62.50/hls/K999AAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "7",
+            "Id": "10",
+            "Rivels": "Gibraltar vs Andorra --- CH 2",
+            "Title": "UEFA Nations League 17:00 (S-1)",
+            "Link": "https://www.rtmpcdn.com/live/3f98008b-7fdc-4228-91be-3948a48e3468.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "11",
             "Rivels": "NFL Red Zone",
             "Title": "NFL American Football 18:00 (S-1)",
             "Link": "http://193.47.62.59/hls/KZZZVVVV.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "8",
+            "Id": "12",
             "Rivels": "NFL Red Zone",
             "Title": "NFL American Football 18:00 (S-2)",
             "Link": "http://193.47.62.55/hls/KZZZVVVV.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "9",
+            "Id": "13",
             "Rivels": "Washington Commanders vs Seattle Seahawks",
             "Title": "NFL American Football 18:00 (S-1)",
             "Link": "http://193.47.62.41/hls/PPPPZZZZ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "10",
+            "Id": "14",
             "Rivels": "Washington Commanders vs Seattle Seahawks",
             "Title": "NFL American Football 18:00 (S-2)",
             "Link": "http://193.47.62.44/hls/PPPPZZZZ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "11",
+            "Id": "15",
+            "Rivels": "Pittsburgh Steelers vs Cincinnati Bengals",
+            "Title": "NFL American Football 18:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/KZZZVVV.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "16",
+            "Rivels": "Pittsburgh Steelers vs Cincinnati Bengals",
+            "Title": "NFL American Football 18:00 (S-2)",
+            "Link": "http://193.47.62.55/hls/KZZZVVV.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "17",
+            "Rivels": "New York Giants vs Tennessee Titans",
+            "Title": "NFL American Football 18:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/PPPPZZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "18",
+            "Rivels": "New York Giants vs Tennessee Titans",
+            "Title": "NFL American Football 18:00 (S-2)",
+            "Link": "http://193.47.62.44/hls/PPPPZZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "19",
+            "Rivels": "Jacksonville Jaguars vs New England Patriots",
+            "Title": "NFL American Football 18:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/PPPPZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "20",
+            "Rivels": "Jacksonville Jaguars vs New England Patriots",
+            "Title": "NFL American Football 18:00 (S-2)",
+            "Link": "http://193.47.62.44/hls/PPPPZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "21",
+            "Rivels": "Indianapolis Colts vs Houston Texans",
+            "Title": "NFL American Football 18:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/KZZZV.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "22",
+            "Rivels": "Indianapolis Colts vs Houston Texans",
+            "Title": "NFL American Football 18:00 (S-2)",
+            "Link": "http://193.47.62.55/hls/KZZZV.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "23",
+            "Rivels": "Detroit Lions vs New York Jets",
+            "Title": "NFL American Football 18:00 (S-1)",
+            "Link": "http://193.47.62.41/hls/PPPPZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "24",
+            "Rivels": "Detroit Lions vs New York Jets",
+            "Title": "NFL American Football 18:00 (S-2)",
+            "Link": "http://193.47.62.44/hls/PPPPZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "25",
+            "Rivels": "Cleveland Browns vs Carolina Panthers",
+            "Title": "NFL American Football 18:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/KZZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "26",
+            "Rivels": "Cleveland Browns vs Carolina Panthers",
+            "Title": "NFL American Football 18:00 (S-2)",
+            "Link": "http://193.47.62.55/hls/KZZZ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "27",
             "Rivels": "Buffalo Bills vs Los Angeles Chargers",
             "Title": "NFL American Football 18:00 (S-1)",
             "Link": "http://193.47.62.41/hls/PPPP.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "12",
+            "Id": "28",
             "Rivels": "Buffalo Bills vs Los Angeles Chargers",
             "Title": "NFL American Football 18:00 (S-2)",
             "Link": "http://193.47.62.44/hls/PPPP.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "13",
+            "Id": "29",
+            "Rivels": "Olympiacos vs PAOK",
+            "Title": "Basketball Greece Super Cup 18:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/K999AAAAAAAAAQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "30",
             "Rivels": "Real Madrid vs Unicaja",
             "Title": "Basketball Liga ACB 18:00 (S-1)",
             "Link": "http://193.47.62.50/hls/K999AAAAAAAAAQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "14",
+            "Id": "31",
             "Rivels": "Jordan vs Syria",
             "Title": "Friendly Match 18:00 (S-1)",
             "Link": "http://193.47.62.50/hls/K999AAAAAAAAAQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "15",
+            "Id": "32",
+            "Rivels": "Malta vs Liechtenstein",
+            "Title": "Friendly Match 17:30 (S-1)",
+            "Link": "http://193.47.62.50/hls/K999AAAAAAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "33",
+            "Rivels": "Eibar vs Las Palmas",
+            "Title": "Spanish Segunda Liga 17:30 (S-1)",
+            "Link": "http://193.47.62.50/hls/K999AAAAAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "34",
+            "Rivels": "Burgos CF vs Eldense",
+            "Title": "Spanish Segunda Liga 17:30 (S-1)",
+            "Link": "http://193.47.62.50/hls/K999AAAAAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "35",
+            "Rivels": "Golf PGA Presidents Cup",
+            "Title": "Golf PGA 17:00 (S-1)",
+            "Link": "http://193.47.62.50/hls/J777AAAAa.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "36",
             "Rivels": "Spain U20 W vs North Korea U20 W",
             "Title": "World Cup Women U20 17:00 (S-1)",
             "Link": "http://193.47.62.50/hls/K999AAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "16",
+            "Id": "37",
+            "Rivels": "Yemen vs Qatar --- CH 1",
+            "Title": "Arabian Gulf Cup 16:55 (S-1)",
+            "Link": "http://193.47.62.50/hls/K999AA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "38",
             "Rivels": "Yemen vs Qatar --- CH 2",
             "Title": "Arabian Gulf Cup 16:55 (S-1)",
             "Link": "https://www.rtmpcdn.com/live/604975a9-0bbd-4e77-a55c-5b182473e98f.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "17",
+            "Id": "39",
+            "Rivels": "Chelsea W vs Arsenal W --- CH 1",
+            "Title": "English Women Super League 16:30 (S-1)",
+            "Link": "http://193.47.62.50/hls/K999A.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "40",
+            "Rivels": "Chelsea W vs Arsenal W --- CH 2",
+            "Title": "English Women Super League 16:30 (S-1)",
+            "Link": "https://live1.dyrur1.com/live/73346038_2c4220f8dad8e1f02141afb41b38b8fa_540p.m3u8?auth_key=1790537297-0-0-24aeee7ceed2268dce82090a80076d61|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "41",
             "Rivels": "Antofagasta vs Deportes Iquique",
             "Title": "Chile Copa 16:30 (S-1)",
             "Link": "http://193.47.62.50/hls/K999.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "18",
+            "Id": "42",
+            "Rivels": "Leksand vs Almtuna",
+            "Title": "Sweden HockeyAllsvenskan 15:30 (S-1)",
+            "Link": "http://193.47.62.59/hls/J777AAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "43",
+            "Rivels": "AIK vs Mora",
+            "Title": "Sweden HockeyAllsvenskan 15:30 (S-1)",
+            "Link": "http://193.47.62.59/hls/J777AAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "44",
+            "Rivels": "Mallorca vs Almeria",
+            "Title": "Spanish Segunda Liga 15:15 (S-1)",
+            "Link": "http://193.47.62.44/hls/ZFFFAAAQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "45",
             "Rivels": "Leicester Tigers vs Saracens",
             "Title": "English Premiership Rugby 15:00 (S-1)",
             "Link": "http://193.47.62.59/hls/J777AA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "19",
+            "Id": "46",
             "Rivels": "Central Esp vs Liverpool M",
             "Title": "Uruguay Liga AUF 15:00 (S-1)",
             "Link": "http://193.47.62.59/hls/J777A.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "20",
+            "Id": "47",
             "Rivels": "Criciuma vs Avai",
             "Title": "Brazil Serie B 15:00 (S-1)",
             "Link": "http://193.47.62.59/hls/J777.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "21",
+            "Id": "48",
             "Rivels": "Sevilla FC W vs Eibar W",
             "Title": "Spanish Liga F Women 15:00 (S-1)",
             "Link": "http://193.47.62.59/hls/E666QQQQAAAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "22",
+            "Id": "49",
+            "Rivels": "Karlstad vs Karlbergs",
+            "Title": "Sweden Division 1 15:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/E666QQQQAAA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "50",
             "Rivels": "Gefle vs Vasalund",
             "Title": "Sweden Division 1 15:00 (S-1)",
             "Link": "http://193.47.62.59/hls/E666QQQQAA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "23",
+            "Id": "51",
+            "Rivels": "Assyriska FF vs Pitea",
+            "Title": "Sweden Division 1 15:00 (S-1)",
+            "Link": "http://193.47.62.59/hls/E666QQQQA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "52",
+            "Rivels": "Tennis Laver Cup",
+            "Title": "Tennis 12:00 (S-1)",
+            "Link": "http://193.47.62.44/hls/BHHHAAAAAQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "53",
             "Rivels": "Golf FedEx Open de France",
             "Title": "Golf 11:30 (S-1)",
             "Link": "http://193.47.62.50/hls/FPPPVVA.m3u8|referer=http://www.fawanews.sc/"
         },
         {
-            "Id": "24",
+            "Id": "54",
+            "Rivels": "England vs Sri Lanka",
+            "Title": "Cricket 10:30 (S-1)",
+            "Link": "http://193.47.62.55/hls/bbbbbAAAx.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "55",
             "Rivels": "India vs West Indies",
             "Title": "Cricket 09:30 (S-1)",
             "Link": "http://193.47.62.55/hls/bbbbbAAx.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "56",
+            "Rivels": "South Africa vs Australia",
+            "Title": "Cricket 09:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/bbbbbAx.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
