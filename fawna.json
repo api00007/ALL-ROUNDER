@@ -2,20 +2,44 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "28/09/26 14:43:37 IST",
-    "Total_Matches": 2,
+    "Last update": "28/09/26 14:49:56 IST",
+    "Total_Matches": 6,
     "Live_Data": [
         {
             "Id": "1",
-            "Rivels": "South Korea vs Uruguay --- CH 1",
-            "Title": "Friendly Match 12:00 (S-1)",
-            "Link": "http://193.47.62.55/hls/NUUUQQQQ.m3u8|referer=http://www.fawanews.sc/"
+            "Rivels": "Malaysia vs Indonesia",
+            "Title": "ASEAN Championship 12:30 (S-1)",
+            "Link": "http://193.47.62.55/hls/NUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/"
         },
         {
             "Id": "2",
+            "Rivels": "South Korea vs Uruguay --- CH 2",
+            "Title": "Friendly Match 12:00 (S-1)",
+            "Link": "https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Japan vs Venezuela --- CH 1",
+            "Title": "Friendly Match 11:25 (S-1)",
+            "Link": "http://193.47.62.55/hls/NUUUQQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "4",
             "Rivels": "Japan vs Venezuela --- CH 2",
             "Title": "Friendly Match 11:25 (S-1)",
             "Link": "https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "5",
+            "Rivels": "Tennis ATP Hangzhou",
+            "Title": "Tennis ATP 10:30 (S-1)",
+            "Link": "http://193.47.62.55/hls/NUUUQQ.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "6",
+            "Rivels": "Tennis ATP Chengdu",
+            "Title": "Tennis ATP 10:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/NUUUQ.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
