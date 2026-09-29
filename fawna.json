@@ -2,14 +2,26 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "29/09/26 15:07:38 IST",
-    "Total_Matches": 1,
+    "Last update": "29/09/26 15:12:40 IST",
+    "Total_Matches": 3,
     "Live_Data": [
         {
             "Id": "1",
-            "Rivels": "Australia vs Brazil --- CH 1",
+            "Rivels": "Australia vs Brazil --- CH 2",
             "Title": "Friendly Match 11:00 (S-1)",
-            "Link": "http://193.47.62.55/hls/veeeAA.m3u8|referer=http://www.fawanews.sc/"
+            "Link": "https://www.rtmpcdn.com/live/2306a6cf-768f-47fc-9883-ccc8f9856224.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "2",
+            "Rivels": "Japan W vs South Korea W",
+            "Title": "Asian Games 11:30 (S-1)",
+            "Link": "http://193.47.62.55/hls/veeeA.m3u8|referer=http://www.fawanews.sc/"
+        },
+        {
+            "Id": "3",
+            "Rivels": "Philippines vs Pakistan",
+            "Title": "ASEAN Cup 10:00 (S-1)",
+            "Link": "http://193.47.62.55/hls/veee.m3u8|referer=http://www.fawanews.sc/"
         }
     ]
 }
