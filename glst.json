@@ -1,11 +1,28 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "03/10/26 09:51:23 IST",
-    "Total_Matches": 46,
+    "Last update": "03/10/26 10:01:44 IST",
+    "Total_Matches": 51,
     "Live_Data": [
         {
             "Id": "1",
+            "Category": "Mma",
+            "Event_Name": "UFC 332: Silva vs. Wang",
+            "League_Name": "UFC",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11187/image",
+            "Stream_Name": "UFC SERVER",
+            "Team_A": "UFC",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Team_B": "UFC",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Start_Time": "04/10/2026; 01:30:00 IST",
+            "End_Time": "04/10/2026; 04:30:00 IST",
+            "UTC_Start": "2026/10/03 20:00:00 +0000",
+            "UTC_End": "2026/10/03 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/zeuryuegn48.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "2",
             "Category": "American Football",
             "Event_Name": "Montana State Bobcats vs Idaho Vandals",
             "League_Name": "American Football",
@@ -22,7 +39,41 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/oipozuezeji33.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "2",
+            "Id": "3",
+            "Category": "American Football",
+            "Event_Name": "ESPN News",
+            "League_Name": "American Football",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Stream_Name": "AMERICAN FOOTBALL SERVER",
+            "Team_A": "American Football",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Team_B": "American Football",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Start_Time": "03/10/2026; 21:29:00 IST",
+            "End_Time": "04/10/2026; 00:29:00 IST",
+            "UTC_Start": "2026/10/03 15:59:00 +0000",
+            "UTC_End": "2026/10/03 18:59:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/wxqsdafzaengfgu97.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "4",
+            "Category": "American Football",
+            "Event_Name": "ESPN2",
+            "League_Name": "American Football",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Stream_Name": "AMERICAN FOOTBALL SERVER",
+            "Team_A": "American Football",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Team_B": "American Football",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Start_Time": "03/10/2026; 21:29:00 IST",
+            "End_Time": "04/10/2026; 00:29:00 IST",
+            "UTC_Start": "2026/10/03 15:59:00 +0000",
+            "UTC_End": "2026/10/03 18:59:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/zazezagdgfc98.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "5",
             "Category": "American Football",
             "Event_Name": "Alabama Crimson Tide at Mississippi State Bulldogs",
             "League_Name": "NCAA Football",
@@ -39,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "6",
             "Category": "American Football",
             "Event_Name": "Middle Tennessee Blue Raiders at Kansas Jayhawks",
             "League_Name": "NCAA Football",
@@ -56,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sfjnzabacah31.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "7",
             "Category": "American Football",
             "Event_Name": "UCF Knights at Houston Cougars",
             "League_Name": "NCAA Football",
@@ -73,7 +124,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/qsdnajbq32.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "8",
             "Category": "American Football",
             "Event_Name": "West Virginia Mountaineers at Iowa State Cyclones",
             "League_Name": "NCAA Football",
@@ -90,7 +141,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/oipozuezeji33.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "9",
             "Category": "American Football",
             "Event_Name": "Boston College Eagles at SMU Mustangs",
             "League_Name": "NCAA Football",
@@ -107,7 +158,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/uheyztezgj34.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "10",
             "Category": "American Football",
             "Event_Name": "Notre Dame Fighting Irish at North Carolina Tar Heels",
             "League_Name": "NCAA Football",
@@ -124,7 +175,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/jnknjfzbk35.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "11",
             "Category": "American Football",
             "Event_Name": "Stanford Cardinal at Wake Forest Demon Deacons",
             "League_Name": "NCAA Football",
@@ -141,7 +192,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/jkhazabcka36.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "12",
             "Category": "American Football",
             "Event_Name": "Syracuse Orange at UConn Huskies",
             "League_Name": "NCAA Football",
@@ -158,7 +209,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/yetehznecs37.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "10",
+            "Id": "13",
             "Category": "American Football",
             "Event_Name": "Michigan Wolverines at Minnesota Golden Gophers",
             "League_Name": "NCAA Football",
@@ -175,7 +226,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ysvbxwnbc38.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "11",
+            "Id": "14",
             "Category": "American Football",
             "Event_Name": "Navy Midshipmen at Air Force Falcons",
             "League_Name": "NCAA Football",
@@ -192,7 +243,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "12",
+            "Id": "15",
             "Category": "American Football",
             "Event_Name": "Michigan State Spartans at Wisconsin Badgers",
             "League_Name": "NCAA Football",
@@ -209,7 +260,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/poertjnvnev40.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "13",
+            "Id": "16",
             "Category": "American Football",
             "Event_Name": "Vanderbilt Commodores at Georgia Bulldogs",
             "League_Name": "NCAA Football",
@@ -226,7 +277,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ijzriafaq41.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "14",
+            "Id": "17",
             "Category": "American Football",
             "Event_Name": "Florida Gators at Missouri Tigers",
             "League_Name": "NCAA Football",
@@ -243,7 +294,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/wnbcnxbcs42.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "15",
+            "Id": "18",
             "Category": "American Football",
             "Event_Name": "Auburn Tigers at Tennessee Volunteers",
             "League_Name": "NCAA Football",
@@ -260,7 +311,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/jnfezkbfz43.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "16",
+            "Id": "19",
             "Category": "American Football",
             "Event_Name": "California Golden Bears at UNLV Rebels",
             "League_Name": "NCAA Football",
@@ -277,7 +328,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/eyrennte44.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "17",
+            "Id": "20",
             "Category": "American Football",
             "Event_Name": "Louisville Cardinals at NC State Wolfpack",
             "League_Name": "NCAA Football",
@@ -294,7 +345,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hezfnezkfzk45.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "18",
+            "Id": "21",
             "Category": "American Football",
             "Event_Name": "Virginia Cavaliers at Florida State Seminoles",
             "League_Name": "NCAA Football",
@@ -311,7 +362,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "19",
+            "Id": "22",
             "Category": "American Football",
             "Event_Name": "Ohio State Buckeyes at Iowa Hawkeyes",
             "League_Name": "NCAA Football",
@@ -328,7 +379,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "20",
+            "Id": "23",
             "Category": "American Football",
             "Event_Name": "Wyoming Cowboys at North Dakota State Bison",
             "League_Name": "NCAA Football",
@@ -345,7 +396,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/iozauyezaioyur82.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "21",
+            "Id": "24",
             "Category": "American Football",
             "Event_Name": "Marshall Thundering Herd at James Madison Dukes",
             "League_Name": "NCAA Football",
@@ -362,7 +413,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/nbekiurtghjhfza83.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "22",
+            "Id": "25",
             "Category": "American Football",
             "Event_Name": "Maryland Terrapins at Nebraska Cornhuskers",
             "League_Name": "NCAA Football",
@@ -379,7 +430,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ioazuryeahrfvzed84.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "23",
+            "Id": "26",
             "Category": "American Football",
             "Event_Name": "UTEP Miners at New Mexico Lobos",
             "League_Name": "NCAA Football",
@@ -396,7 +447,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/jkhfsgqghjqsd85.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "24",
+            "Id": "27",
             "Category": "American Football",
             "Event_Name": "Kentucky Wildcats at South Carolina Gamecocks",
             "League_Name": "NCAA Football",
@@ -413,7 +464,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/xcxvvghzsadau86.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "25",
+            "Id": "28",
             "Category": "American Football",
             "Event_Name": "Purdue Boilermakers at Illinois Fighting Illini",
             "League_Name": "NCAA Football",
@@ -430,7 +481,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/nbvevzaheafgu87.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "26",
+            "Id": "29",
             "Category": "American Football",
             "Event_Name": "Oregon State Beavers at Colorado State Rams",
             "League_Name": "NCAA Football",
@@ -447,7 +498,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/fghsqdgauduyagz88.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "27",
+            "Id": "30",
             "Category": "American Football",
             "Event_Name": "Arkansas Razorbacks at Texas A&M Aggies",
             "League_Name": "NCAA Football",
@@ -464,7 +515,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/dzaugyvdgazc90.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "28",
+            "Id": "31",
             "Category": "American Football",
             "Event_Name": "BYU Cougars at TCU Horned Frogs",
             "League_Name": "NCAA Football",
@@ -481,7 +532,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ozeiruzhurfxcwas89.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "29",
+            "Id": "32",
             "Category": "American Football",
             "Event_Name": "Texas Tech Red Raiders at Colorado Buffaloes",
             "League_Name": "NCAA Football",
@@ -498,7 +549,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/fbnjzebjhcazhjg91.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "30",
+            "Id": "33",
             "Category": "American Football",
             "Event_Name": "Miami Hurricanes at Clemson Tigers",
             "League_Name": "NCAA Football",
@@ -515,7 +566,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hgfdshkjsqkda95.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "31",
+            "Id": "34",
             "Category": "American Football",
             "Event_Name": "Washington Huskies at USC Trojans",
             "League_Name": "NCAA Football",
@@ -532,7 +583,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/xwcbnfghqscxfghaz92.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "32",
+            "Id": "35",
             "Category": "American Football",
             "Event_Name": "Utah State Aggies at Boise State Broncos",
             "League_Name": "NCAA Football",
@@ -549,7 +600,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/etzrezbfezjhverf93.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "33",
+            "Id": "36",
             "Category": "American Football",
             "Event_Name": "Temple Owls at South Florida Bulls",
             "League_Name": "NCAA Football",
@@ -566,7 +617,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/fgjhvebazfhgazf94.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "34",
+            "Id": "37",
             "Category": "American Football",
             "Event_Name": "McNeese Cowboys at LSU Tigers",
             "League_Name": "NCAA Football",
@@ -583,7 +634,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hpouezruioazd96.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "35",
+            "Id": "38",
             "Category": "American Football",
             "Event_Name": "Indiana Hoosiers at Rutgers Scarlet Knights",
             "League_Name": "NCAA Football",
@@ -600,7 +651,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "36",
+            "Id": "39",
             "Category": "American Football",
             "Event_Name": "Fresno State Bulldogs at Washington State Cougars",
             "League_Name": "NCAA Football",
@@ -617,7 +668,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sfjnzabacah31.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "37",
+            "Id": "40",
             "Category": "American Football",
             "Event_Name": "Baylor Bears at Arizona State Sun Devils",
             "League_Name": "NCAA Football",
@@ -634,7 +685,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/qsdnajbq32.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "38",
+            "Id": "41",
             "Category": "American Football",
             "Event_Name": "Texas State Bobcats at San Diego State Aztecs",
             "League_Name": "NCAA Football",
@@ -651,7 +702,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/oipozuezeji33.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "39",
+            "Id": "42",
             "Category": "American Football",
             "Event_Name": "Cincinnati Bearcats at Arizona Wildcats",
             "League_Name": "NCAA Football",
@@ -668,7 +719,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/uheyztezgj34.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "40",
+            "Id": "43",
             "Category": "American Football",
             "Event_Name": "San José State Spartans at Hawai'i Rainbow Warriors",
             "League_Name": "NCAA Football",
@@ -685,24 +736,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/jnknjfzbk35.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "41",
-            "Category": "Basketball",
-            "Event_Name": "WNBA Dallas Wings at Golden State Valkyries",
-            "League_Name": "Basketball",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
-            "Stream_Name": "BASKETBALL SERVER",
-            "Team_A": "Basketball",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
-            "Team_B": "Basketball",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
-            "Start_Time": "03/10/2026; 06:30:00 IST",
-            "End_Time": "03/10/2026; 09:30:00 IST",
-            "UTC_Start": "2026/10/03 01:00:00 +0000",
-            "UTC_End": "2026/10/03 04:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/cwxvbnfghq60.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "42",
+            "Id": "44",
             "Category": "Racing",
             "Event_Name": "Gulf Air Bahrain Grand Prix in Malaysia — FP3",
             "League_Name": "Formula 1",
@@ -719,7 +753,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "43",
+            "Id": "45",
             "Category": "Racing",
             "Event_Name": "Gulf Air Bahrain Grand Prix in Malaysia — Qual",
             "League_Name": "Formula 1",
@@ -736,24 +770,75 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "44",
-            "Category": "Hockey",
-            "Event_Name": "St. Louis Blues at Dallas Stars",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "St. Louis Blues",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/5132e046-2483-4cc1-bf41-6f7eb254766a.webp",
-            "Team_B": "Dallas Stars",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/19aca6fb-bba6-4593-83f1-b4cda6999749.webp",
-            "Start_Time": "03/10/2026; 06:30:00 IST",
-            "End_Time": "03/10/2026; 09:30:00 IST",
-            "UTC_Start": "2026/10/03 01:00:00 +0000",
-            "UTC_End": "2026/10/03 04:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rtzaeyvhb53.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Id": "46",
+            "Category": "Baseball",
+            "Event_Name": "Chicago White Sox at Cleveland Guardians",
+            "League_Name": "MLB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11205/image",
+            "Stream_Name": "MLB SERVER",
+            "Team_A": "Chicago White Sox",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/77ea50f7-bbab-4827-8b8e-73d0d46928de.webp",
+            "Team_B": "Cleveland Guardians",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/a466156f-aaa5-41d3-8d2f-5cb8bece67c5.webp",
+            "Start_Time": "03/10/2026; 22:30:00 IST",
+            "End_Time": "04/10/2026; 01:30:00 IST",
+            "UTC_Start": "2026/10/03 17:00:00 +0000",
+            "UTC_End": "2026/10/03 20:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/dazhfiach15.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "45",
+            "Id": "47",
+            "Category": "Baseball",
+            "Event_Name": "Atlanta Braves at Los Angeles Dodgers",
+            "League_Name": "MLB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11205/image",
+            "Stream_Name": "MLB SERVER",
+            "Team_A": "Atlanta Braves",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/5ceb1b60-c6c4-4a41-847a-9d8e5df5b330.webp",
+            "Team_B": "Los Angeles Dodgers",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/83518ce0-d24d-48e2-88f2-80a115913765.webp",
+            "Start_Time": "04/10/2026; 01:30:00 IST",
+            "End_Time": "04/10/2026; 04:30:00 IST",
+            "UTC_Start": "2026/10/03 20:00:00 +0000",
+            "UTC_End": "2026/10/03 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "48",
+            "Category": "Baseball",
+            "Event_Name": "New York Yankees at Tampa Bay Rays",
+            "League_Name": "MLB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11205/image",
+            "Stream_Name": "MLB SERVER",
+            "Team_A": "New York Yankees",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/fa3b591c-ee19-491b-897a-28e64bd22661.webp",
+            "Team_B": "Tampa Bay Rays",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/8803b03e-ded9-4854-b197-38c192d0ed1c.webp",
+            "Start_Time": "04/10/2026; 04:00:00 IST",
+            "End_Time": "04/10/2026; 07:00:00 IST",
+            "UTC_Start": "2026/10/03 22:30:00 +0000",
+            "UTC_End": "2026/10/04 01:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "49",
+            "Category": "Baseball",
+            "Event_Name": "San Diego Padres at Milwaukee Brewers",
+            "League_Name": "MLB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11205/image",
+            "Stream_Name": "MLB SERVER",
+            "Team_A": "San Diego Padres",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/60e2c8aa-8dfd-417e-a314-278a9109d69c.webp",
+            "Team_B": "Milwaukee Brewers",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/693e4904-9299-4803-b649-2a9b37ad5089.webp",
+            "Start_Time": "04/10/2026; 06:00:00 IST",
+            "End_Time": "04/10/2026; 09:00:00 IST",
+            "UTC_Start": "2026/10/04 00:30:00 +0000",
+            "UTC_End": "2026/10/04 03:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/Czajafjihafch18.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "50",
             "Category": "Hockey",
             "Event_Name": "Anaheim Ducks at Vegas Golden Knights",
             "League_Name": "NHL",
@@ -770,21 +855,21 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bnvcxwhfg54.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "46",
-            "Category": "Boxing",
-            "Event_Name": "Omari Jones vs Alan Sanchez",
-            "League_Name": "Boxing",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11235/image",
-            "Stream_Name": "BOXING SERVER",
-            "Team_A": "Boxing",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
-            "Team_B": "Boxing",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
-            "Start_Time": "03/10/2026; 05:30:00 IST",
-            "End_Time": "03/10/2026; 08:30:00 IST",
-            "UTC_Start": "2026/10/03 00:00:00 +0000",
-            "UTC_End": "2026/10/03 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hbfhzbfzak46.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Id": "51",
+            "Category": "Basketball",
+            "Event_Name": "Miami Heat at Toronto Raptors",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Miami Heat",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/3967b4fa-d3db-4c52-8523-bece9b205c5e.webp",
+            "Team_B": "Toronto Raptors",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/7a826d96-3fb0-4155-8f60-208e8e94e207.webp",
+            "Start_Time": "04/10/2026; 04:30:00 IST",
+            "End_Time": "04/10/2026; 07:30:00 IST",
+            "UTC_Start": "2026/10/03 23:00:00 +0000",
+            "UTC_End": "2026/10/04 02:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bzagLHzach19.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
