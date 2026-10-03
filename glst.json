@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "03/10/26 09:31:30 IST",
+    "Last update": "03/10/26 09:40:54 IST",
     "Total_Matches": 7,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "American Football",
-            "Event_Name": "Penn State Nittany Lions at Northwestern Wildcats",
-            "League_Name": "NCAA Football",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "NCAA FOOTBALL SERVER",
-            "Team_A": "Penn State Nittany Lions",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/25331e16-8f01-4a56-a301-2e5e4b9da673.webp",
-            "Team_B": "Northwestern Wildcats",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/3168b8ad-8c3d-444e-a13c-a5c76ea64428.webp",
-            "Start_Time": "03/10/2026; 05:30:00 IST",
-            "End_Time": "03/10/2026; 08:30:00 IST",
-            "UTC_Start": "2026/10/03 00:00:00 +0000",
-            "UTC_End": "2026/10/03 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/qsdnajbq32.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "American Football",
             "Event_Name": "Montana State Bobcats vs Idaho Vandals",
             "League_Name": "American Football",
@@ -39,7 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/oipozuezeji33.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "2",
             "Category": "Basketball",
             "Event_Name": "WNBA Dallas Wings at Golden State Valkyries",
             "League_Name": "Basketball",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/cwxvbnfghq60.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "Racing",
             "Event_Name": "Gulf Air Bahrain Grand Prix in Malaysia — FP3",
             "League_Name": "Formula 1",
@@ -73,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "4",
             "Category": "Racing",
             "Event_Name": "Gulf Air Bahrain Grand Prix in Malaysia — Qual",
             "League_Name": "Formula 1",
@@ -90,7 +73,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "5",
             "Category": "Hockey",
             "Event_Name": "St. Louis Blues at Dallas Stars",
             "League_Name": "NHL",
@@ -107,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rtzaeyvhb53.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "6",
             "Category": "Hockey",
             "Event_Name": "Anaheim Ducks at Vegas Golden Knights",
             "League_Name": "NHL",
@@ -122,6 +105,23 @@
             "UTC_Start": "2026/10/03 02:00:00 +0000",
             "UTC_End": "2026/10/03 05:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bnvcxwhfg54.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "7",
+            "Category": "Boxing",
+            "Event_Name": "Omari Jones vs Alan Sanchez",
+            "League_Name": "Boxing",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11235/image",
+            "Stream_Name": "BOXING SERVER",
+            "Team_A": "Boxing",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Team_B": "Boxing",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Start_Time": "03/10/2026; 05:30:00 IST",
+            "End_Time": "03/10/2026; 08:30:00 IST",
+            "UTC_Start": "2026/10/03 00:00:00 +0000",
+            "UTC_End": "2026/10/03 03:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hbfhzbfzak46.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
