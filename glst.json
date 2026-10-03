@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "03/10/26 10:41:38 IST",
+    "Last update": "03/10/26 10:51:40 IST",
     "Total_Matches": 60,
     "Live_Data": [
         {
@@ -993,23 +993,6 @@
         {
             "Id": "59",
             "Category": "Hockey",
-            "Event_Name": "Anaheim Ducks at Vegas Golden Knights",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Anaheim Ducks",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/8d661920-97ad-4e18-9ae1-5943982608a0.webp",
-            "Team_B": "Vegas Golden Knights",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/15506e97-07f7-4138-8d2f-48830c5f4445.webp",
-            "Start_Time": "03/10/2026; 07:30:00 IST",
-            "End_Time": "03/10/2026; 10:30:00 IST",
-            "UTC_Start": "2026/10/03 02:00:00 +0000",
-            "UTC_End": "2026/10/03 05:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bnvcxwhfg54.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "60",
-            "Category": "Hockey",
             "Event_Name": "Chicago Blackhawks at Buffalo Sabres",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -1023,6 +1006,23 @@
             "UTC_Start": "2026/10/03 23:00:00 +0000",
             "UTC_End": "2026/10/04 02:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/uyopzarf50.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "60",
+            "Category": "Hockey",
+            "Event_Name": "Montreal Canadiens at Pittsburgh Penguins",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Montreal Canadiens",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/567b123a-3a88-42a9-a809-020841c0c05f.webp",
+            "Team_B": "Pittsburgh Penguins",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/cf193378-d6e6-4cac-aa1b-1d4dde3e7221.webp",
+            "Start_Time": "04/10/2026; 04:30:00 IST",
+            "End_Time": "04/10/2026; 07:30:00 IST",
+            "UTC_Start": "2026/10/03 23:00:00 +0000",
+            "UTC_End": "2026/10/04 02:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hjksgdfauzy51.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
