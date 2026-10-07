@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "07/10/26 09:41:02 IST",
-    "Total_Matches": 5,
+    "Last update": "07/10/26 09:51:08 IST",
+    "Total_Matches": 4,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "American Football",
-            "Event_Name": "Southern Miss Golden Eagles at Troy Trojans",
-            "League_Name": "NCAA Football",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "NCAA FOOTBALL SERVER",
-            "Team_A": "Southern Miss Golden Eagles",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/e1107b97-b916-417b-8607-48cdb7d6d3e2.webp",
-            "Team_B": "Troy Trojans",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/ee84e7f1-830c-4a65-bbb1-cc39714b13af.webp",
-            "Start_Time": "07/10/2026; 05:30:00 IST",
-            "End_Time": "07/10/2026; 08:30:00 IST",
-            "UTC_Start": "2026/10/07 00:00:00 +0000",
-            "UTC_End": "2026/10/07 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "Basketball",
             "Event_Name": "Los Angeles Lakers at Golden State Warriors",
             "League_Name": "NBA",
@@ -39,7 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "2",
             "Category": "Baseball",
             "Event_Name": "Milwaukee Brewers at San Diego Padres",
             "League_Name": "MLB",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "Hockey",
             "Event_Name": "Vegas Golden Knights at Seattle Kraken",
             "League_Name": "NHL",
@@ -73,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rzavbdyua57.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "4",
             "Category": "Hockey",
             "Event_Name": "Florida Panthers at Los Angeles Kings",
             "League_Name": "NHL",
