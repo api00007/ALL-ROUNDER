@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "07/10/26 10:31:40 IST",
-    "Total_Matches": 4,
+    "Last update": "07/10/26 10:41:02 IST",
+    "Total_Matches": 2,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "Basketball",
-            "Event_Name": "Los Angeles Lakers at Golden State Warriors",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Los Angeles Lakers",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/53d24139-b636-452b-ae08-a417e4db49fa.webp",
-            "Team_B": "Golden State Warriors",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/bb768ee2-3abb-4176-927b-9953c09c2385.webp",
-            "Start_Time": "07/10/2026; 07:30:00 IST",
-            "End_Time": "07/10/2026; 10:30:00 IST",
-            "UTC_Start": "2026/10/07 02:00:00 +0000",
-            "UTC_End": "2026/10/07 05:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "Baseball",
             "Event_Name": "Milwaukee Brewers at San Diego Padres",
             "League_Name": "MLB",
@@ -39,24 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
-            "Category": "Hockey",
-            "Event_Name": "Vegas Golden Knights at Seattle Kraken",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Vegas Golden Knights",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/15506e97-07f7-4138-8d2f-48830c5f4445.webp",
-            "Team_B": "Seattle Kraken",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/58e1055d-df86-4f5b-a9a9-5e32ea674a84.webp",
-            "Start_Time": "07/10/2026; 07:10:00 IST",
-            "End_Time": "07/10/2026; 10:10:00 IST",
-            "UTC_Start": "2026/10/07 01:40:00 +0000",
-            "UTC_End": "2026/10/07 04:40:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rzavbdyua57.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "4",
+            "Id": "2",
             "Category": "Hockey",
             "Event_Name": "Florida Panthers at Los Angeles Kings",
             "League_Name": "NHL",
