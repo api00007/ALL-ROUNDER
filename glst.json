@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "07/10/26 09:31:40 IST",
-    "Total_Matches": 6,
+    "Last update": "07/10/26 09:41:02 IST",
+    "Total_Matches": 5,
     "Live_Data": [
         {
             "Id": "1",
@@ -24,23 +24,6 @@
         {
             "Id": "2",
             "Category": "Basketball",
-            "Event_Name": "Denver Nuggets at Utah Jazz",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Denver Nuggets",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/0acf1a39-8f3a-48e3-91f3-d16ed98e27cd.webp",
-            "Team_B": "Utah Jazz",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/83529492-e38a-4c43-8110-7e94386b52fe.webp",
-            "Start_Time": "07/10/2026; 06:30:00 IST",
-            "End_Time": "07/10/2026; 09:30:00 IST",
-            "UTC_Start": "2026/10/07 01:00:00 +0000",
-            "UTC_End": "2026/10/07 04:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "3",
-            "Category": "Basketball",
             "Event_Name": "Los Angeles Lakers at Golden State Warriors",
             "League_Name": "NBA",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "Baseball",
             "Event_Name": "Milwaukee Brewers at San Diego Padres",
             "League_Name": "MLB",
@@ -73,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "4",
             "Category": "Hockey",
             "Event_Name": "Vegas Golden Knights at Seattle Kraken",
             "League_Name": "NHL",
@@ -90,7 +73,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rzavbdyua57.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "5",
             "Category": "Hockey",
             "Event_Name": "Florida Panthers at Los Angeles Kings",
             "League_Name": "NHL",
