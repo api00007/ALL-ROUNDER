@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "09/10/26 04:41:10 IST",
+    "Last update": "09/10/26 04:51:08 IST",
     "Total_Matches": 25,
     "Live_Data": [
         {
@@ -262,6 +262,23 @@
         {
             "Id": "16",
             "Category": "Hockey",
+            "Event_Name": "Philadelphia Flyers at Ottawa Senators",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Philadelphia Flyers",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/36cc4665-ff40-4500-9daf-7822a241548a.webp",
+            "Team_B": "Ottawa Senators",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/967db9c2-4152-4893-b255-df00248b82d1.webp",
+            "Start_Time": "09/10/2026; 04:30:00 IST",
+            "End_Time": "09/10/2026; 07:30:00 IST",
+            "UTC_Start": "2026/10/08 23:00:00 +0000",
+            "UTC_End": "2026/10/09 02:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/uyopzarf50.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "17",
+            "Category": "Hockey",
             "Event_Name": "Utah Mammoth at Boston Bruins",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -277,7 +294,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hjksgdfauzy51.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "17",
+            "Id": "18",
             "Category": "Hockey",
             "Event_Name": "Dallas Stars at Buffalo Sabres",
             "League_Name": "NHL",
@@ -294,7 +311,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/lmdsjkfgv52.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "18",
+            "Id": "19",
             "Category": "Hockey",
             "Event_Name": "Nashville Predators at Montreal Canadiens",
             "League_Name": "NHL",
@@ -311,7 +328,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rtzaeyvhb53.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "19",
+            "Id": "20",
             "Category": "Hockey",
             "Event_Name": "Minnesota Wild at Tampa Bay Lightning",
             "League_Name": "NHL",
@@ -328,7 +345,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bnvcxwhfg54.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "20",
+            "Id": "21",
             "Category": "Hockey",
             "Event_Name": "Vancouver Canucks at Carolina Hurricanes",
             "League_Name": "NHL",
@@ -343,23 +360,6 @@
             "UTC_Start": "2026/10/08 23:00:00 +0000",
             "UTC_End": "2026/10/09 02:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sdezqfza55.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "21",
-            "Category": "Hockey",
-            "Event_Name": "Philadelphia Flyers at Ottawa Senators",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Philadelphia Flyers",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/36cc4665-ff40-4500-9daf-7822a241548a.webp",
-            "Team_B": "Ottawa Senators",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/967db9c2-4152-4893-b255-df00248b82d1.webp",
-            "Start_Time": "09/10/2026; 04:30:00 IST",
-            "End_Time": "09/10/2026; 07:30:00 IST",
-            "UTC_Start": "2026/10/08 23:00:00 +0000",
-            "UTC_End": "2026/10/09 02:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/uyopzarf50.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "22",
