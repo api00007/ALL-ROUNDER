@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "10/10/26 04:31:46 IST",
+    "Last update": "10/10/26 04:41:03 IST",
     "Total_Matches": 13,
     "Live_Data": [
         {
@@ -160,23 +160,6 @@
         {
             "Id": "10",
             "Category": "Hockey",
-            "Event_Name": "New York Rangers at Washington Capitals",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "New York Rangers",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/2b61dab9-9852-430e-8f29-91e4adb82bbf.webp",
-            "Team_B": "Washington Capitals",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/74b70289-6a72-4956-a4b7-20a14cc85823.webp",
-            "Start_Time": "10/10/2026; 04:30:00 IST",
-            "End_Time": "10/10/2026; 07:30:00 IST",
-            "UTC_Start": "2026/10/09 23:00:00 +0000",
-            "UTC_End": "2026/10/10 02:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hjksgdfauzy51.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "11",
-            "Category": "Hockey",
             "Event_Name": "Pittsburgh Penguins at Columbus Blue Jackets",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -190,6 +173,23 @@
             "UTC_Start": "2026/10/09 23:00:00 +0000",
             "UTC_End": "2026/10/10 02:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/lmdsjkfgv52.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "11",
+            "Category": "Hockey",
+            "Event_Name": "New York Rangers at Washington Capitals",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "New York Rangers",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/2b61dab9-9852-430e-8f29-91e4adb82bbf.webp",
+            "Team_B": "Washington Capitals",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/74b70289-6a72-4956-a4b7-20a14cc85823.webp",
+            "Start_Time": "10/10/2026; 04:30:00 IST",
+            "End_Time": "10/10/2026; 07:30:00 IST",
+            "UTC_Start": "2026/10/09 23:00:00 +0000",
+            "UTC_End": "2026/10/10 02:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hjksgdfauzy51.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "12",
