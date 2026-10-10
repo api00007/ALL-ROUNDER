@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "10/10/26 09:01:28 IST",
-    "Total_Matches": 17,
+    "Last update": "10/10/26 09:11:16 IST",
+    "Total_Matches": 30,
     "Live_Data": [
         {
             "Id": "1",
@@ -75,6 +75,23 @@
         {
             "Id": "5",
             "Category": "Soccer",
+            "Event_Name": "Leeds United at Arsenal",
+            "League_Name": "Soccer",
+            "League_Logo": "https://streamcenter.st/api/images/badge/269f0229-314a-4263-8189-ec19c9c4a170.webp",
+            "Stream_Name": "SOCCER SERVER",
+            "Team_A": "Leeds United",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/269f0229-314a-4263-8189-ec19c9c4a170.webp",
+            "Team_B": "Arsenal",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/f335ffc9-5975-4c71-8983-88847d042a48.webp",
+            "Start_Time": "10/10/2026; 17:00:00 IST",
+            "End_Time": "10/10/2026; 20:00:00 IST",
+            "UTC_Start": "2026/10/10 11:30:00 +0000",
+            "UTC_End": "2026/10/10 14:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "6",
+            "Category": "Soccer",
             "Event_Name": "Athletic Club at Rayo Vallecano",
             "League_Name": "Soccer",
             "League_Logo": "https://streamcenter.st/api/images/badge/fd3db922-f970-4441-86d7-587d52cf65ed.webp",
@@ -90,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "7",
             "Category": "Soccer",
             "Event_Name": "Fiorentina at Genoa",
             "League_Name": "Soccer",
@@ -107,7 +124,75 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/syaLqucEne4k.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "8",
+            "Category": "Soccer",
+            "Event_Name": "Brighton & Hove Albion at Sunderland",
+            "League_Name": "Soccer",
+            "League_Logo": "https://streamcenter.st/api/images/badge/80e773bb-7135-4bea-89c1-a89e2118a5f2.webp",
+            "Stream_Name": "SOCCER SERVER",
+            "Team_A": "Brighton & Hove Albion",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/80e773bb-7135-4bea-89c1-a89e2118a5f2.webp",
+            "Team_B": "Sunderland",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/72356773-699e-4ba4-bca9-88b3bec08fec.webp",
+            "Start_Time": "10/10/2026; 19:30:00 IST",
+            "End_Time": "10/10/2026; 22:30:00 IST",
+            "UTC_Start": "2026/10/10 14:00:00 +0000",
+            "UTC_End": "2026/10/10 17:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "9",
+            "Category": "Soccer",
+            "Event_Name": "AFC Bournemouth at Chelsea",
+            "League_Name": "Soccer",
+            "League_Logo": "https://streamcenter.st/api/images/badge/7a9ed5ec-257b-4843-a438-a39afb7389c7.webp",
+            "Stream_Name": "SOCCER SERVER",
+            "Team_A": "AFC Bournemouth",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/7a9ed5ec-257b-4843-a438-a39afb7389c7.webp",
+            "Team_B": "Chelsea",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/14894e93-9bcf-4e17-b0db-ed7363d3bbfb.webp",
+            "Start_Time": "10/10/2026; 19:30:00 IST",
+            "End_Time": "10/10/2026; 22:30:00 IST",
+            "UTC_Start": "2026/10/10 14:00:00 +0000",
+            "UTC_End": "2026/10/10 17:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "10",
+            "Category": "Soccer",
+            "Event_Name": "Brentford at Aston Villa",
+            "League_Name": "Soccer",
+            "League_Logo": "https://streamcenter.st/api/images/badge/9af98b88-60db-4164-be6f-c0cc5a6d2681.webp",
+            "Stream_Name": "SOCCER SERVER",
+            "Team_A": "Brentford",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/9af98b88-60db-4164-be6f-c0cc5a6d2681.webp",
+            "Team_B": "Aston Villa",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/c138e625-67f2-481a-8b06-31a703302ff1.webp",
+            "Start_Time": "10/10/2026; 19:30:00 IST",
+            "End_Time": "10/10/2026; 22:30:00 IST",
+            "UTC_Start": "2026/10/10 14:00:00 +0000",
+            "UTC_End": "2026/10/10 17:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "11",
+            "Category": "Soccer",
+            "Event_Name": "Fulham at Ipswich Town",
+            "League_Name": "Soccer",
+            "League_Logo": "https://streamcenter.st/api/images/badge/35a719cc-7f11-4b9c-ae4f-a70a6984c467.webp",
+            "Stream_Name": "SOCCER SERVER",
+            "Team_A": "Fulham",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/35a719cc-7f11-4b9c-ae4f-a70a6984c467.webp",
+            "Team_B": "Ipswich Town",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/fe586456-b3d8-47c0-abf4-c6279940a7f4.webp",
+            "Start_Time": "10/10/2026; 19:30:00 IST",
+            "End_Time": "10/10/2026; 22:30:00 IST",
+            "UTC_Start": "2026/10/10 14:00:00 +0000",
+            "UTC_End": "2026/10/10 17:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sqdahach1ax.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "12",
             "Category": "Soccer",
             "Event_Name": "Atlético Madrid at Alavés",
             "League_Name": "Soccer",
@@ -124,7 +209,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "13",
             "Category": "Soccer",
             "Event_Name": "Le Havre AC at Lille",
             "League_Name": "Soccer",
@@ -141,7 +226,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/dza5z8f69.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "14",
             "Category": "Soccer",
             "Event_Name": "Parma at Internazionale",
             "League_Name": "Soccer",
@@ -158,7 +243,24 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/syaLqucEne4k.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "10",
+            "Id": "15",
+            "Category": "Soccer",
+            "Event_Name": "Tottenham Hotspur at Manchester United",
+            "League_Name": "Soccer",
+            "League_Logo": "https://streamcenter.st/api/images/badge/6ece0102-9276-483b-9134-8e7ad20d047b.webp",
+            "Stream_Name": "SOCCER SERVER",
+            "Team_A": "Tottenham Hotspur",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/6ece0102-9276-483b-9134-8e7ad20d047b.webp",
+            "Team_B": "Manchester United",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/d2926f31-c848-47a8-b844-fc8c8ba99e17.webp",
+            "Start_Time": "10/10/2026; 22:00:00 IST",
+            "End_Time": "11/10/2026; 01:00:00 IST",
+            "UTC_Start": "2026/10/10 16:30:00 +0000",
+            "UTC_End": "2026/10/10 19:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "16",
             "Category": "Soccer",
             "Event_Name": "Getafe at Barcelona",
             "League_Name": "Soccer",
@@ -175,7 +277,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "11",
+            "Id": "17",
             "Category": "Soccer",
             "Event_Name": "Le Mans at Paris Saint-Germain",
             "League_Name": "Soccer",
@@ -192,7 +294,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/dza5z8f69.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "12",
+            "Id": "18",
             "Category": "Soccer",
             "Event_Name": "Toulouse at AS Monaco",
             "League_Name": "Soccer",
@@ -209,7 +311,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "13",
+            "Id": "19",
             "Category": "Soccer",
             "Event_Name": "Paris FC at Lorient",
             "League_Name": "Soccer",
@@ -226,7 +328,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sqdahach1ax.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "14",
+            "Id": "20",
             "Category": "Soccer",
             "Event_Name": "Angers at Brest",
             "League_Name": "Soccer",
@@ -243,7 +345,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/griogoehvn2.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "15",
+            "Id": "21",
             "Category": "Soccer",
             "Event_Name": "Frosinone at Napoli",
             "League_Name": "Soccer",
@@ -260,7 +362,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/syaLqucEne4k.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "16",
+            "Id": "22",
             "Category": "Soccer",
             "Event_Name": "Villarreal at Real Madrid",
             "League_Name": "Soccer",
@@ -277,7 +379,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "17",
+            "Id": "23",
             "Category": "Basketball",
             "Event_Name": "Golden State Valkyries at Las Vegas Aces",
             "League_Name": "WNBA",
@@ -292,6 +394,125 @@
             "UTC_Start": "2026/10/10 01:30:00 +0000",
             "UTC_End": "2026/10/10 04:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "24",
+            "Category": "Basketball",
+            "Event_Name": "LA Clippers at Toronto Raptors",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "LA Clippers",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/cb466bde-fc22-4665-9465-10ef862ab4de.webp",
+            "Team_B": "Toronto Raptors",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/7a826d96-3fb0-4155-8f60-208e8e94e207.webp",
+            "Start_Time": "11/10/2026; 04:00:00 IST",
+            "End_Time": "11/10/2026; 07:00:00 IST",
+            "UTC_Start": "2026/10/10 22:30:00 +0000",
+            "UTC_End": "2026/10/11 01:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/fgjhvebazfhgazf94.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "25",
+            "Category": "Basketball",
+            "Event_Name": "Atlanta Hawks at Indiana Pacers",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Atlanta Hawks",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/ff2b21cf-70b5-4245-adbb-f66d06cb644c.webp",
+            "Team_B": "Indiana Pacers",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/b1c74876-0e79-46fc-be96-7661fe865c04.webp",
+            "Start_Time": "11/10/2026; 04:30:00 IST",
+            "End_Time": "11/10/2026; 07:30:00 IST",
+            "UTC_Start": "2026/10/10 23:00:00 +0000",
+            "UTC_End": "2026/10/11 02:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hgfdshkjsqkda95.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "26",
+            "Category": "Basketball",
+            "Event_Name": "Detroit Pistons at Washington Wizards",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Detroit Pistons",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/ae652cc7-9bf8-4fa1-8ded-2290a991c592.webp",
+            "Team_B": "Washington Wizards",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/5209cf6f-a3aa-49c2-a31d-3171d477088e.webp",
+            "Start_Time": "11/10/2026; 04:30:00 IST",
+            "End_Time": "11/10/2026; 07:30:00 IST",
+            "UTC_Start": "2026/10/10 23:00:00 +0000",
+            "UTC_End": "2026/10/11 02:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hpouezruioazd96.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "27",
+            "Category": "Basketball",
+            "Event_Name": "Minnesota Timberwolves at Miami Heat",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Minnesota Timberwolves",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/1f813ba9-db28-4662-a801-cccecea4dcff.webp",
+            "Team_B": "Miami Heat",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/3967b4fa-d3db-4c52-8523-bece9b205c5e.webp",
+            "Start_Time": "11/10/2026; 05:30:00 IST",
+            "End_Time": "11/10/2026; 08:30:00 IST",
+            "UTC_Start": "2026/10/11 00:00:00 +0000",
+            "UTC_End": "2026/10/11 03:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/wxqsdafzaengfgu97.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "28",
+            "Category": "Basketball",
+            "Event_Name": "Philadelphia 76ers at Boston Celtics",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Philadelphia 76ers",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/3f0f83c7-b6fb-4a6d-864c-873a66795e84.webp",
+            "Team_B": "Boston Celtics",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/7c16587a-00ec-43f3-934e-b24c84e62545.webp",
+            "Start_Time": "11/10/2026; 05:30:00 IST",
+            "End_Time": "11/10/2026; 08:30:00 IST",
+            "UTC_Start": "2026/10/11 00:00:00 +0000",
+            "UTC_End": "2026/10/11 03:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/zazezagdgfc98.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "29",
+            "Category": "Basketball",
+            "Event_Name": "Sacramento Kings at Golden State Warriors",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Sacramento Kings",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/90261af4-da9d-483f-b317-7d808e76e3b8.webp",
+            "Team_B": "Golden State Warriors",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/bb768ee2-3abb-4176-927b-9953c09c2385.webp",
+            "Start_Time": "11/10/2026; 06:00:00 IST",
+            "End_Time": "11/10/2026; 09:00:00 IST",
+            "UTC_Start": "2026/10/11 00:30:00 +0000",
+            "UTC_End": "2026/10/11 03:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/aetrayytufzrdtvgx99.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "30",
+            "Category": "Basketball",
+            "Event_Name": "San Antonio Spurs at Phoenix Suns",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "San Antonio Spurs",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/53c69c5f-5a1e-44a8-b7df-863eaac1cc06.webp",
+            "Team_B": "Phoenix Suns",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/ccbf7ba3-313c-47a9-a817-65309344418e.webp",
+            "Start_Time": "11/10/2026; 08:00:00 IST",
+            "End_Time": "11/10/2026; 11:00:00 IST",
+            "UTC_Start": "2026/10/11 02:30:00 +0000",
+            "UTC_End": "2026/10/11 05:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/erytezaiuzeazer100.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
