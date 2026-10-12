@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "12/10/26 07:11:03 IST",
-    "Total_Matches": 5,
+    "Last update": "12/10/26 07:21:02 IST",
+    "Total_Matches": 4,
     "Live_Data": [
         {
             "Id": "1",
@@ -24,23 +24,6 @@
         {
             "Id": "2",
             "Category": "Basketball",
-            "Event_Name": "Milwaukee Bucks at Charlotte Hornets",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Milwaukee Bucks",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/1e7d7289-c94a-4896-9b74-ed4d2d337f4d.webp",
-            "Team_B": "Charlotte Hornets",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/0494a5d3-2758-4599-8add-b06144a2a4d2.webp",
-            "Start_Time": "12/10/2026; 04:30:00 IST",
-            "End_Time": "12/10/2026; 07:30:00 IST",
-            "UTC_Start": "2026/10/11 23:00:00 +0000",
-            "UTC_End": "2026/10/12 02:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "3",
-            "Category": "Basketball",
             "Event_Name": "Chicago Bulls at Denver Nuggets",
             "League_Name": "NBA",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "Baseball",
             "Event_Name": "Los Angeles Dodgers at Milwaukee Brewers",
             "League_Name": "MLB",
@@ -73,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "4",
             "Category": "Hockey",
             "Event_Name": "Carolina Hurricanes at Philadelphia Flyers",
             "League_Name": "NHL",
