@@ -5026,51 +5026,10 @@
   ],
   "sports_live": {
     "Finish": "00",
-    "Last update time": "09:15:43 AM 13-10-2026",
+    "Last update time": "09:31:15 PM 13-10-2026",
     "Live": "00",
-    "Upcoming": "27",
+    "Upcoming": "74",
     "events": [
-      {
-        "cat": "Boxing",
-        "channels_data": [
-          {
-            "link": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
-            "title": "HQ Stream",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-            "title": "HD Link",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
-            "source": "ivan",
-            "title": "WWE FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/2.m3u8",
-            "source": "ivan",
-            "title": "WWE HD",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 03:30:00 +0000",
-          "eventName": "Monday Night RAW",
-          "isHot": "0",
-          "startTime": "2026/10/13 00:00:00 +0000",
-          "teamA": "WWE RAW",
-          "teamAFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
-          "teamB": "WWE RAW",
-          "teamBFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
-        },
-        "id": 73,
-        "league_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
-        "title": "Monday Night RAW"
-      },
       {
         "cat": "Boxing",
         "channels_data": [
@@ -5211,849 +5170,33 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream5.pro/hls/syaLqucEne4k.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621467.m3u8?txSecret=e5debd78ae89d78554e7354bce0e12e8&txTime=6ACE1042|Referer=https://player.online878.com/",
             "source": "ivan",
-            "title": "beIN ENGLISH FHD",
+            "title": "FAST SERVER",
             "tokenApi": ""
           },
           {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/7d306d273e62ab55caa078a99b80c758/index.m3u8?|Referer=https://iplayer.is/",
             "source": "ivan",
-            "title": "CBS SPORTS FHD",
+            "title": "SportKlub HD",
             "tokenApi": ""
           },
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vv1llknnur/out/v1/ebee0846bc4e47dea395ed333313d1ba/7d78e942-7875-4de7-ae01-479f7e9e6903-cenc.mpd?aws_sessionId=d0dc2b91-f92d-423a-90aa-42c9b5f026ab|drmScheme=clearkey&drmLicense=99fde6bb04877a8d90418d61d80094ac:47457a2554bd3fb2c6999cbabd98dc3f",
-            "source": "ivan",
-            "title": "PARAMOUNT+ FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ozgoff0ij2/out/v1/e9584c6de0d145a9ac1b36ddf7795081/f08baf34-e257-4880-aed5-aa9356df87d6-cenc.mpd?aws_sessionId=ed7178f3-2312-49ba-9ca0-ca2bcae9ca56|drmScheme=clearkey&drmLicense=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
-            "source": "ivan",
-            "title": "FUBO SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cfiiwou6qb/out/v1/48c9184e3b084619a7cb100bc473fc1b/cenc.mpd|drmScheme=clearkey&drmLicense=389571df4336a82150f7f22f6a7bb84d:043c82d081d456fe3c6282e5bc13b8cb",
-            "source": "ivan",
-            "title": "DAZN ITALIA FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/6587db81d5121bfc7c1ff4d2282dfc9b/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "ZIGGO SPORT HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://loki.dulo.cc/play/6QSEu17nHA-bpxPOi02csYvE_eu7DaoF/E3vzq2Cuc_f8G8qx.m3u8",
-            "source": "ivan",
-            "title": "CBS SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/c1e1b2b058ee008b9417063b61ef053c/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "ELEVEN SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4549117.m3u8?txSecret=cbcd47a4ec3801be01586652fe3b8aa4&txTime=6ACD1E0A|Referer=https://player.online878.com/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621467.m3u8?txSecret=68688bf02f7838631858a541dc5d0ba3&txTime=6ACE1042|Referer=https://player.online878.com/",
             "source": "ivan",
             "title": "HD SERVER",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/ae48217d49300db5dc9303fe0eebd031/index.m3u8?|Referer=https://iplayer.is/",
+            "link": "https://www.rtmpcdn.com/live/f325f4bc-3b78-4ad4-80c9-c77b65520d86.m3u8",
             "source": "ivan",
-            "title": "SPORT TV HD",
+            "title": "HD SERVER+",
             "tokenApi": ""
           },
           {
-            "link": "https://www.rtmpcdn.com/live/48e91178-39d6-423d-bf2c-0bbd3dcf43b9.m3u8",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.55/hls/A555AAAAAA.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "LOW QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 18:50:00 +0000",
-          "eventName": "Serie A",
-          "isHot": "0",
-          "startTime": "2026/10/12 16:30:00 +0000",
-          "teamA": "Atalanta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-          "teamB": "Venezia",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2688/image"
-        },
-        "id": 4455,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "title": "Serie A"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/YFFFAAA.m3u8|Referer=http://www.fawanews.sc/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/BABABAAA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
             "title": "SD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 14:20:00 +0000",
-          "eventName": "LaLiga 2",
-          "isHot": "0",
-          "startTime": "2026/10/12 12:00:00 +0000",
-          "teamA": "Real Valladolid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-          "teamB": "Albacete",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image"
-        },
-        "id": 4456,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "title": "LaLiga 2"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/YFFFAAA.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 16:35:00 +0000",
-          "eventName": "LaLiga 2",
-          "isHot": "0",
-          "startTime": "2026/10/12 14:15:00 +0000",
-          "teamA": "Burgos",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-          "teamB": "Granada",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/33779/image"
-        },
-        "id": 4457,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "title": "LaLiga 2"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/YFFFAAAX.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/YFFFAAAX.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD (USE VPN)",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 18:50:00 +0000",
-          "eventName": "LaLiga 2",
-          "isHot": "0",
-          "startTime": "2026/10/12 16:30:00 +0000",
-          "teamA": "Oviedo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-          "teamB": "Eibar",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image"
-        },
-        "id": 4458,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "title": "LaLiga 2"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4581325.m3u8?txSecret=20c717b35787564418cb892e4209c7bf&txTime=6ACD20D6|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "LIVE SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/F666AAAAQQ.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "LOW QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 19:20:00 +0000",
-          "eventName": "Trendyol Süper Lig",
-          "isHot": "0",
-          "startTime": "2026/10/12 17:00:00 +0000",
-          "teamA": "Eyüpspor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-          "teamB": "Göztepe",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3054/image"
-        },
-        "id": 4459,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "title": "Trendyol Süper Lig"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-            "source": "ivan",
-            "title": "FANCODE FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621414.m3u8?txSecret=aae46e9c9b990f477f68b2acff505c5a&txTime=6ACD340E|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "LIVE SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621414.m3u8?txSecret=4ba4e6e4f22199dbd63df57465bdb51b&txTime=6ACD340E|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://www.rtmpcdn.com/live/ccd4e61d-7a19-4501-9c81-3a185a86e44c.m3u8",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/BEEEAA.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "LOW QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 20:35:00 +0000",
-          "eventName": "AFC Champions League Elite",
-          "isHot": "0",
-          "startTime": "2026/10/12 18:15:00 +0000",
-          "teamA": "Al-Nassr",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-          "teamB": "Neftchi",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/36256/image"
-        },
-        "id": 4460,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "title": "AFC Champions League Elite"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621459.m3u8?txSecret=84bf17b34d4b30c00b327486ffdd55c7&txTime=6ACD15C2|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "FAST SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://cdn-v2.gamhed.online/hls/arena8x-1.m3u8",
-            "source": "ivan",
-            "title": "beIN SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621459.m3u8?txSecret=9968df333bd75fb914c730344a1bc07d&txTime=6ACD15C2|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/A555A.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 18:20:00 +0000",
-          "eventName": "AFC Champions League Elite",
-          "isHot": "0",
-          "startTime": "2026/10/12 16:00:00 +0000",
-          "teamA": "Al-Wasl",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/47674/image",
-          "teamB": "Al-Ahli",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image"
-        },
-        "id": 4461,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "title": "AFC Champions League Elite"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621448.m3u8?txSecret=3a7c815b2f6d1f1417ff9fdf697ecc83&txTime=6ACD158B|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "FAST SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621448.m3u8?txSecret=984ed2df10dcc5ae74c09f68035d2c35&txTime=6ACD158B|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/A555AA.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 18:20:00 +0000",
-          "eventName": "AFC Champions League Elite",
-          "isHot": "0",
-          "startTime": "2026/10/12 16:00:00 +0000",
-          "teamA": "Tractor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
-          "teamB": "Al Shamal SC",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/170366/image"
-        },
-        "id": 4462,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "title": "AFC Champions League Elite"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://www.rtmpcdn.com/live/aa22045b-ed80-4447-92a5-d7326c72318f.m3u8",
-            "source": "ivan",
-            "title": "LIVE SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621435.m3u8?txSecret=0fee36c32e61ddfa77b401d235863f2f&txTime=6ACD3493|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.55/hls/HHHHa.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "LOW QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 20:35:00 +0000",
-          "eventName": "AFC Champions League Elite",
-          "isHot": "0",
-          "startTime": "2026/10/12 18:15:00 +0000",
-          "teamA": "Al-Gharafa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34312/image",
-          "teamB": "Esteghlal FC",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image"
-        },
-        "id": 4463,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "title": "AFC Champions League Elite"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://www.rtmpcdn.com/live/822aa37c-c26f-4a7b-90af-f6bd6dcf18d6.m3u8",
-            "source": "ivan",
-            "title": "LIVE SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621474.m3u8?txSecret=8e8bfb4844fbd9b7f219e79828c841ed&txTime=6ACD345F|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "LOW QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 20:35:00 +0000",
-          "eventName": "AFC Champions League Elite",
-          "isHot": "0",
-          "startTime": "2026/10/12 18:15:00 +0000",
-          "teamA": "Al-Jawiya",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
-          "teamB": "Al-Ain",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/37082/image"
-        },
-        "id": 4464,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "title": "AFC Champions League Elite"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/syaLqucEne4k.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "source": "ivan",
-            "title": "beIN ENGLISH FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "source": "ivan",
-            "title": "CBS SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r7g4inpsan/out/v1/31a70b2571764861b0994dc63235c9a0/cenc.mpd|drmScheme=clearkey&drmLicense=fa89486cc31c70ffcd29f59ff158c3e3:49abcc8251abc657b641812781cf8570",
-            "source": "ivan",
-            "title": "PARAMOUNT+ FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jewreepytu/out/v1/4379e830995b4993a974c6cd682b8b54/2674fe8c-1077-4800-88bb-48a3b2fa2ba0-cenc.mpd?aws_sessionId=4449f202-7be0-4e53-86cd-807276f4e28a|drmScheme=clearkey&drmLicense=ada2e1f98bb127aadf568a248543344d:32596d57dec91ed1e2221934649e7a7f",
-            "source": "ivan",
-            "title": "FUBO SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jthr3quzbb/out/v1/3640c79491d04f9b955cacae5fc63dd5/cenc.mpd|drmScheme=clearkey&drmLicense=4ee4d8962454da7969ec6792bebc9d47:f86cf93c7cf8fff3343eef5a0118586c",
-            "source": "ivan",
-            "title": "DAZN ITALIA FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "source": "ivan",
-            "title": "SPORT1 CZ FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/87a42c06bf5e71d8ffff28abb4d153d7/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "PARAMOUNT+ HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/0f40b10d4aea4cb7f2d7d560c3cad6d5/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "ELEVEN SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4549082.m3u8?txSecret=8d8f762aa4b7bcb1e694d6dd85172de1&txTime=6ACD3C22|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "FAST SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/6f6dcfe72e98f7fd2869d0b2c34c7fd4/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "SPORT TV HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://www.rtmpcdn.com/live/2060e7b2-f994-40f5-86bf-04a51c7ba936.m3u8",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/BEEEAAAAA.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 21:05:00 +0000",
-          "eventName": "Serie A",
-          "isHot": "0",
-          "startTime": "2026/10/12 18:45:00 +0000",
-          "teamA": "Torino",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-          "teamB": "Udinese",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2695/image"
-        },
-        "id": 4465,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "title": "Serie A"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://admin2.formaturamaxi.com.br/hub.m3u8",
-            "title": "HD Link",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://admin2.formaturamaxi.com.br/main.m3u8",
-            "title": "HD Link 2",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/r2izlvm3yt/out/v1/aaaab12c95924d80a77f87f7c745782a/72c617cf-66e3-4222-9b88-a4c058152d51-cenc.mpd?aws_sessionId=367f8cce-4d53-4de7-a77d-8613e35f7e78|drmScheme=clearkey&drmLicense=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
-            "source": "ivan",
-            "title": "FUBO SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=RJXd5PNGnusi5UlAVs7ojg&e=2091830493&scheme=https",
-            "source": "ivan",
-            "title": "SKY SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/e6f7bff78773c689b2466868a7a6efa2/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "STAN SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/b2385cf917e8ee8602c4567b331285cb/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "ARENA SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/3b72a7c7d443c41e267b1900d83e8955/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "CANAL+ SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4558584.m3u8?txSecret=7c1af2c2898f11a2221339458022d40c&txTime=6ACD4116|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "LIVE SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://www.rtmpcdn.com/live/2060e7b2-f994-40f5-86bf-04a51c7ba936.m3u8",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/FZZZZ.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "LOW QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 21:20:00 +0000",
-          "eventName": "Premier League",
-          "isHot": "0",
-          "startTime": "2026/10/12 19:00:00 +0000",
-          "teamA": "Coventry",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
-          "teamB": "Newcastle",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image"
-        },
-        "id": 4466,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "title": "Premier League"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/BEEEAAAA.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 21:05:00 +0000",
-          "eventName": "Ligue 2",
-          "isHot": "0",
-          "startTime": "2026/10/12 18:45:00 +0000",
-          "teamA": "Dijon",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1686/image",
-          "teamB": "Metz",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1651/image"
-        },
-        "id": 4467,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
-        "title": "Ligue 2"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "source": "ivan",
-            "title": "PREMIER SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "source": "ivan",
-            "title": "beIN ENGLISH FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-            "source": "ivan",
-            "title": "D SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-            "source": "ivan",
-            "title": "CazéTV FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/c8362408b51cda848317d17d11c4bf66/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "ARENA SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4565438.m3u8?txSecret=5aa58198b3ce6c9505dc385813456e38&txTime=6ACD417E|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "FAST SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/ddc201fe128d242fcb85dca4a579677e/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "ZIGGO SPORT HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/1125f66d30f721948e184f890fc79f66/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "DAZN SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/3e9c774014f846547ab8adc6a36f63b2/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "CANAL+ SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://www.rtmpcdn.com/live/5134f282-4950-4fa0-bc58-b8ce8c993686.m3u8",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/BEEEAAAAAQQQQA.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "LOW QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 21:20:00 +0000",
-          "eventName": "LaLiga",
-          "isHot": "0",
-          "startTime": "2026/10/12 19:00:00 +0000",
-          "teamA": "Levante",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-          "teamB": "Sevilla",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image"
-        },
-        "id": 4468,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "title": "LaLiga"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/b7252b4544cb38dbbc9a6314acacc327/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "ARENA SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4465827.m3u8?txSecret=887a276efb7b656ee024b1cc0eb51bec&txTime=6ACD41A1|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "FAST SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/BEEEAAAAAQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 21:20:00 +0000",
-          "eventName": "Campeonato Brasileiro Série A",
-          "isHot": "0",
-          "startTime": "2026/10/12 19:00:00 +0000",
-          "teamA": "Coritiba",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
-          "teamB": "Botafogo",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image"
-        },
-        "id": 4469,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "title": "Campeonato Brasileiro Série A"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/7981648c21571d3920ade010c34e1f60/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "DAZN SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4567310.m3u8?txSecret=86e62e03f950701f496cd89543e4b0d9&txTime=6ACD4204|Referer=https://player.online878.com/",
-            "source": "ivan",
-            "title": "FAST SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/YFFFAAAX.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 21:20:00 +0000",
-          "eventName": "LaLiga 2",
-          "isHot": "0",
-          "startTime": "2026/10/12 19:00:00 +0000",
-          "teamA": "Tenerife",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-          "teamB": "Girona",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image"
-        },
-        "id": 4470,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "title": "LaLiga 2"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://netanjahu.hls.st/t/b31c1a93405b01b80aa72d0e4cc6980d/index.m3u8?|Referer=https://iplayer.is/",
-            "source": "ivan",
-            "title": "SPORT TV HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/BEEEAAAAAQQQQAA.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "LOW QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 21:35:00 +0000",
-          "eventName": "Liga Portugal Betclic",
-          "isHot": "0",
-          "startTime": "2026/10/12 19:15:00 +0000",
-          "teamA": "Famalicão",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/49531/image",
-          "teamB": "Alverca",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image"
-        },
-        "id": 4471,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "title": "Liga Portugal Betclic"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-            "source": "ivan",
-            "title": "SporTV BR FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-            "source": "ivan",
-            "title": "PREMIERE BR FHD",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 02:20:00 +0000",
-          "eventName": "Campeonato Brasileiro Série A",
-          "isHot": "0",
-          "startTime": "2026/10/13 00:00:00 +0000",
-          "teamA": "RB Bragantino",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-          "teamB": "Cruzeiro",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image"
-        },
-        "id": 4472,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "title": "Campeonato Brasileiro Série A"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
             "tokenApi": ""
           }
         ],
@@ -6076,9 +5219,27 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621547.m3u8?txSecret=668a93fb6552e2b55922518026538766&txTime=6ACE0FF9|Referer=https://player.online878.com/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "FAST SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621547.m3u8?txSecret=773bc378ada032f240c8754ec66eb7df&txTime=6ACE0FF9|Referer=https://player.online878.com/",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://www.rtmpcdn.com/live/b77997dc-9ec8-4407-b5f5-1491143b5109.m3u8",
+            "source": "ivan",
+            "title": "HD SERVER+",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/BABABA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6101,59 +5262,27 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621535.m3u8?txSecret=01feadf769b692d5b0c26dfffe2e731d&txTime=6ACE1019|Referer=https://player.online878.com/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "FAST SERVER",
             "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 10:05:00 +0000",
-          "eventName": "AFC Champions League Elite",
-          "isHot": "0",
-          "startTime": "2026/10/13 07:45:00 +0000",
-          "teamA": "Newcastle Jets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-          "teamB": "Gamba Osaka",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image"
-        },
-        "id": 4475,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "title": "AFC Champions League Elite"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
+          },
           {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621535.m3u8?txSecret=b5fe052409e5f4d5846fb004cbb86a6d&txTime=6ACE1019|Referer=https://player.online878.com/",
             "source": "ivan",
-            "title": "PREMIERE BR FHD",
+            "title": "HD SERVER",
             "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 00:50:00 +0000",
-          "eventName": "Campeonato Brasileiro Série A",
-          "isHot": "0",
-          "startTime": "2026/10/12 22:30:00 +0000",
-          "teamA": "Chapecoense",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-          "teamB": "Athletico",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image"
-        },
-        "id": 4476,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "title": "Campeonato Brasileiro Série A"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
+          },
           {
-            "link": "https://no.link",
+            "link": "https://www.rtmpcdn.com/live/ba41a433-fdc3-4d61-a4b3-ec426b99d5aa.m3u8",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD SERVER+",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/BABABAA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6173,330 +5302,16 @@
         "title": "AFC Champions League Elite"
       },
       {
-        "cat": "Basketball",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 01:30:00 +0000",
-          "eventName": "NBA Preseason",
-          "isHot": "0",
-          "startTime": "2026/10/12 23:00:00 +0000",
-          "teamA": "Hawks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-          "teamB": "Thunder",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image"
-        },
-        "id": 4478,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "title": "NBA Preseason"
-      },
-      {
-        "cat": "Basketball",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream5.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 01:30:00 +0000",
-          "eventName": "NBA Preseason",
-          "isHot": "0",
-          "startTime": "2026/10/12 23:00:00 +0000",
-          "teamA": "Wizards",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-          "teamB": "Nets",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image"
-        },
-        "id": 4479,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "title": "NBA Preseason"
-      },
-      {
-        "cat": "Basketball",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/zeafwqvhfe69.m3u8|Referer=https://streame.center",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/57988/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-            "source": "ivan",
-            "title": "NBA HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://admin2.formaturamaxi.com.br/nba5.m3u8",
-            "source": "ivan",
-            "title": "HD SERVER+",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 03:30:00 +0000",
-          "eventName": "NBA Preseason",
-          "isHot": "0",
-          "startTime": "2026/10/13 01:00:00 +0000",
-          "teamA": "Jazz",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-          "teamB": "Spurs",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image"
-        },
-        "id": 4480,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "title": "NBA Preseason"
-      },
-      {
-        "cat": "Basketball",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 02:00:00 +0000",
-          "eventName": "NBA Preseason",
-          "isHot": "0",
-          "startTime": "2026/10/12 23:30:00 +0000",
-          "teamA": "Knicks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-          "teamB": "Timberwolves",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image"
-        },
-        "id": 4481,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "title": "NBA Preseason"
-      },
-      {
-        "cat": "Basketball",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/mlkijfezag65.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/fgjhvebazfhgazf94.m3u8?|Referer=https://streamscenter.online/",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 22:30:00 +0000",
-          "eventName": "NBA Preseason",
-          "isHot": "0",
-          "startTime": "2026/10/12 20:00:00 +0000",
-          "teamA": "Trail Blazers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-          "teamB": "London Lions",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3616/image"
-        },
-        "id": 4482,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "title": "NBA Preseason"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-            "source": "ivan",
-            "title": "TNT SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream5.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 03:00:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/10/13 00:00:00 +0000",
-          "teamA": "Rays",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-          "teamB": "Guardians",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image"
-        },
-        "id": 4484,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Hockey",
-        "channels_data": [
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "source": "ivan",
-            "title": "PREMIER SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://streamscenter.online/",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 03:20:00 +0000",
-          "eventName": "NHL",
-          "isHot": "0",
-          "startTime": "2026/10/13 00:00:00 +0000",
-          "teamA": "Wild",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-          "teamB": "Golden Knights",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image"
-        },
-        "id": 4485,
-        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "title": "NHL"
-      },
-      {
-        "cat": "Hockey",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/uyopzarf50.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "source": "ivan",
-            "title": "PREMIER SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/57965/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream5.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/",
-            "source": "ivan",
-            "title": "LIVE SERVER",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 20:29:00 +0000",
-          "eventName": "NHL",
-          "isHot": "0",
-          "startTime": "2026/10/12 17:00:00 +0000",
-          "teamA": "Sabres",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-          "teamB": "Panthers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image"
-        },
-        "id": 4486,
-        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "title": "NHL"
-      },
-      {
-        "cat": "Hockey",
-        "channels_data": [
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "source": "ivan",
-            "title": "PREMIER SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streame.center",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 02:20:00 +0000",
-          "eventName": "NHL",
-          "isHot": "0",
-          "startTime": "2026/10/12 23:00:00 +0000",
-          "teamA": "Devils",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-          "teamB": "Senators",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image"
-        },
-        "id": 4487,
-        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "title": "NHL"
-      },
-      {
-        "cat": "American football",
-        "channels_data": [
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "source": "ivan",
-            "title": "TSN SPORTS 1 FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-            "source": "ivan",
-            "title": "TSN SPORTS 3 FHD",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 20:00:00 +0000",
-          "eventName": "CFL",
-          "isHot": "0",
-          "startTime": "2026/10/12 17:00:00 +0000",
-          "teamA": "Montréal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
-          "teamB": "Saskatchewan",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4438/image"
-        },
-        "id": 4488,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
-        "title": "CFL"
-      },
-      {
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd|drmScheme=clearkey&drmLicense=d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd|drmScheme=clearkey&drmLicense=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af",
             "source": "ivan",
             "title": "WILLOW FHD",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|Referer=https://tapmad.com/",
-            "source": "ivan",
-            "title": "TAPMAD FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd|drmScheme=clearkey&drmLicense=d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd|drmScheme=clearkey&drmLicense=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af",
             "source": "ivan",
             "title": "WILLOW ALT",
             "tokenApi": ""
@@ -6508,9 +5323,21 @@
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/NCCC.m3u8|Referer=http://www.fawanews.sc/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/krrr.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
             "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|Referer=https://tapmad.com/",
+            "source": "ivan",
+            "title": "TAPMAD FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://gcpcdn2.tamashaweb.com/live/main.m3u8?timeshift=1",
+            "source": "ivan",
+            "title": "TAMASHA FHD",
             "tokenApi": ""
           }
         ],
@@ -6600,140 +5427,6 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd|drmScheme=clearkey&drmLicense=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf",
-            "source": "ivan",
-            "title": "WILLOW FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd|drmScheme=clearkey&drmLicense=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf",
-            "source": "ivan",
-            "title": "WILLOW ALT",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|Referer=https://tapmad.com/",
-            "source": "ivan",
-            "title": "TAPMAD FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
-            "source": "ivan",
-            "title": "T SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
-            "source": "ivan",
-            "title": "A SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
-            "source": "ivan",
-            "title": "T SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/index.m3u8|Referer=https://fancode.com/",
-            "source": "ivan",
-            "title": "FANCODE (IND)",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 14:00:00 +0000",
-          "eventName": "Test Series",
-          "isHot": "0",
-          "startTime": "2026/10/12 06:00:00 +0000",
-          "teamA": "AFG",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-          "teamB": "BAN",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image"
-        },
-        "id": 4234,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark",
-        "title": "Test Series"
-      },
-      {
-        "cat": "Cricket",
-        "channels_data": [
-          {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd|drmScheme=clearkey&drmLicense=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df",
-            "source": "ivan",
-            "title": "WILLOW FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "source": "ivan",
-            "title": "FANCODE FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-            "source": "ivan",
-            "title": "SKY CRICKET FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd|drmScheme=clearkey&drmLicense=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df",
-            "source": "ivan",
-            "title": "WILLOW ALT",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/",
-            "source": "ivan",
-            "title": "SD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/index.m3u8|Referer=https://fancode.com/",
-            "source": "ivan",
-            "title": "FANCODE (IND)",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
-            "source": "ivan",
-            "title": "FOX CRICKET HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
-            "source": "ivan",
-            "title": "A SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
-            "source": "ivan",
-            "title": "WILLOW HD",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/12 16:00:00 +0000",
-          "eventName": "ICC World Test Championship",
-          "isHot": "0",
-          "startTime": "2026/10/12 07:10:00 +0000",
-          "teamA": "SA",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-          "teamB": "AUS",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image"
-        },
-        "id": 3934,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "title": "ICC World Test Championship"
-      },
-      {
-        "cat": "Cricket",
-        "channels_data": [
-          {
             "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd|drmScheme=clearkey&drmLicense=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5",
             "source": "ivan",
             "title": "WILLOW FHD",
@@ -6777,7 +5470,7 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2obepsx4jx/out/v1/0fd776498ea149a2893b6ba533f5a7aa/cenc.mpd|drmScheme=clearkey&drmLicense=12cdb08af9c2f9c7667a3c3c58ed9443:1679c9c3398400a552e34e9f5153bc78",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uo8lwqdfwk/out/v1/b95d78252fc94504963d13fbe22d6f1d/cenc.mpd|drmScheme=clearkey&drmLicense=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6",
             "source": "ivan",
             "title": "WILLOW FHD",
             "tokenApi": ""
@@ -6795,7 +5488,7 @@
             "tokenApi": ""
           },
           {
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2obepsx4jx/out/v1/0fd776498ea149a2893b6ba533f5a7aa/cenc.mpd|drmScheme=clearkey&drmLicense=12cdb08af9c2f9c7667a3c3c58ed9443:1679c9c3398400a552e34e9f5153bc78",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uo8lwqdfwk/out/v1/b95d78252fc94504963d13fbe22d6f1d/cenc.mpd|drmScheme=clearkey&drmLicense=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6",
             "source": "ivan",
             "title": "WILLOW ALT",
             "tokenApi": ""
@@ -6951,6 +5644,190 @@
         "title": "MotoGP"
       },
       {
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791897463~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=7c1b6f8851a091df792cf337efdb8d76c4c0fad4e88b05a156241fc6bf19436f/manifest.mpd?vcfilter=3381d5e4-3a87-48d3-a524-8b0e11b75516|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+            "source": "ivan",
+            "title": "ICC TV FHD",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 13:30:00 +0000",
+          "eventName": "ICC CWC League 2",
+          "isHot": "0",
+          "startTime": "2026/10/13 05:30:00 +0000",
+          "teamA": "OMA",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/199279/image",
+          "teamB": "NEP",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image"
+        },
+        "id": 4478,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+        "title": "ICC CWC League 2"
+      },
+      {
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd|drmScheme=clearkey&drmLicense=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2",
+            "source": "ivan",
+            "title": "WILLOW FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd|drmScheme=clearkey&drmLicense=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2",
+            "source": "ivan",
+            "title": "WILLOW ALT",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|Referer=https://tapmad.com/",
+            "source": "ivan",
+            "title": "TAPMAD FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+            "source": "ivan",
+            "title": "T SPORTS HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/index.m3u8|Referer=https://fancode.com/",
+            "source": "ivan",
+            "title": "FANCODE (IND)",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 14:00:00 +0000",
+          "eventName": "Test Series",
+          "isHot": "0",
+          "startTime": "2026/10/13 06:00:00 +0000",
+          "teamA": "AFG",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+          "teamB": "BAN",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image"
+        },
+        "id": 4234,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark",
+        "title": "Test Series"
+      },
+      {
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd|drmScheme=clearkey&drmLicense=7578716f99caa689b9a4d2bdce753651:24d34e5d771ed71f519c8f8e971c3bd8",
+            "source": "ivan",
+            "title": "WILLOW FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+            "source": "ivan",
+            "title": "FANCODE FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+            "source": "ivan",
+            "title": "SKY CRICKET FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8|Referer=https://tapmad.com/",
+            "source": "ivan",
+            "title": "TAPMAD FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd|drmScheme=clearkey&drmLicense=7578716f99caa689b9a4d2bdce753651:24d34e5d771ed71f519c8f8e971c3bd8",
+            "source": "ivan",
+            "title": "WILLOW ALT",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/index.m3u8|Referer=https://fancode.com/",
+            "source": "ivan",
+            "title": "FANCODE (IND)",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
+            "source": "ivan",
+            "title": "FOX CRICKET HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
+            "source": "ivan",
+            "title": "A SPORTS HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+            "source": "ivan",
+            "title": "WILLOW HD",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 16:00:00 +0000",
+          "eventName": "ICC World Test Championship",
+          "isHot": "0",
+          "startTime": "2026/10/13 07:20:00 +0000",
+          "teamA": "SA",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+          "teamB": "AUS",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image"
+        },
+        "id": 3934,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "title": "ICC World Test Championship"
+      },
+      {
+        "cat": "Boxing",
+        "channels_data": [
+          {
+            "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+            "source": "ivan",
+            "title": "WWE FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/2.m3u8",
+            "source": "ivan",
+            "title": "WWE HD",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/20 03:30:00 +0000",
+          "eventName": "Monday Night RAW",
+          "isHot": "0",
+          "startTime": "2026/10/20 00:00:00 +0000",
+          "teamA": "WWE RAW",
+          "teamAFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
+          "teamB": "WWE RAW",
+          "teamBFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
+        },
+        "id": 73,
+        "league_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+        "title": "Monday Night RAW"
+      },
+      {
         "cat": "American football",
         "channels_data": [
           {
@@ -7058,15 +5935,15 @@
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live2.jorvakstreamcache.com/live/channel13.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          },
-          {
             "link": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93",
             "source": "ivan",
             "title": "SonyLiv [BEN]",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live2.jorvakstreamcache.com/live/channel13.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "source": "ivan",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -7337,70 +6214,22 @@
         "title": "Cycling"
       },
       {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/dazhfiach15.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "source": "ivan",
-            "title": "TNT SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-            "source": "ivan",
-            "title": "FOX SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "source": "ivan",
-            "title": "FOX DEPORTES FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/",
-            "source": "ivan",
-            "title": "HD QUALITY",
-            "tokenApi": ""
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/10/13 00:00:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/10/12 21:00:00 +0000",
-          "teamA": "Brewers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-          "teamB": "Dodgers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
-        },
-        "id": 4483,
-        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621442.m3u8?txSecret=52c64e31f6bb70b39d64070796d413fa&txTime=6ACCEA27|Referer=https://player.online878.com/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621505.m3u8?txSecret=57e3f6696b14b4db55f213d71e05b605&txTime=6ACDF3F8|Referer=https://player.online878.com/",
             "source": "ivan",
             "title": "FAST SERVER",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621442.m3u8?txSecret=46d01841ec5048f0569ead98646c3c27&txTime=6ACCEA27|Referer=https://player.online878.com/",
+            "link": "https://www.rtmpcdn.com/live/79eed6c2-1233-4e93-a910-62f7421a6e07.m3u8",
             "source": "ivan",
             "title": "HD SERVER",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/YFFFAAAA.m3u8|Referer=http://www.fawanews.sc/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/REEE.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
             "title": "SD SERVER",
             "tokenApi": ""
@@ -7408,18 +6237,1459 @@
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/10/12 16:05:00 +0000",
+          "endTime": "2026/10/13 10:05:00 +0000",
           "eventName": "AFC Champions League Elite",
           "isHot": "0",
-          "startTime": "2026/10/12 13:45:00 +0000",
-          "teamA": "Pakhtakor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34310/image",
-          "teamB": "Al-Qadsiah",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image"
+          "startTime": "2026/10/13 07:45:00 +0000",
+          "teamA": "Newcastle Jets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
+          "teamB": "Gamba Osaka",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image"
         },
-        "id": 4489,
+        "id": 4475,
         "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "title": "AFC Champions League Elite"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
+            "source": "ivan",
+            "title": "FAST SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.55/hls/emmm.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://dai-fancode.pages.dev/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/index.m3u8|Referer=https://fancode.com/",
+            "source": "ivan",
+            "title": "FANCODE (IND)",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 16:05:00 +0000",
+          "eventName": "AFC Champions League Two",
+          "isHot": "0",
+          "startTime": "2026/10/13 13:45:00 +0000",
+          "teamA": "East Bengal",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
+          "teamB": "Shorta",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image"
+        },
+        "id": 4479,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "title": "AFC Champions League Two"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621493.m3u8?txSecret=2a6fb305dee918ecd72a3ab153cfb90a&txTime=6ACE33FF|Referer=https://player.online878.com/",
+            "source": "ivan",
+            "title": "FAST SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/FJJJAA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621493.m3u8?txSecret=f7daab5881268f0463595e2213d98de6&txTime=6ACE33FF|Referer=https://player.online878.com/",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 14:35:00 +0000",
+          "eventName": "AFC Champions League Elite",
+          "isHot": "0",
+          "startTime": "2026/10/13 12:15:00 +0000",
+          "teamA": "Buriram",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34218/image",
+          "teamB": "Guoan",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3376/image"
+        },
+        "id": 4480,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "title": "AFC Champions League Elite"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4621516.m3u8?txSecret=8f6298c1905ae201ae734afe9b492b16&txTime=6ACE3435|Referer=https://player.online878.com/",
+            "source": "ivan",
+            "title": "FAST SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/sd-1-4621516.m3u8?txSecret=a03fea51124ec538a2a9e11cc33b450e&txTime=6ACE3435|Referer=https://player.online878.com/",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/FJJJAAA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 14:35:00 +0000",
+          "eventName": "AFC Champions League Elite",
+          "isHot": "0",
+          "startTime": "2026/10/13 12:15:00 +0000",
+          "teamA": "Công An Hà Nội",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/193616/image",
+          "teamB": "Kashima",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3134/image"
+        },
+        "id": 4481,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "title": "AFC Champions League Elite"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/I888AAAAQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD LINK",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 18:20:00 +0000",
+          "eventName": "AFC Champions League Elite",
+          "isHot": "0",
+          "startTime": "2026/10/13 16:00:00 +0000",
+          "teamA": "Al-Sadd",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/39733/image",
+          "teamB": "Al-Hilal",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image"
+        },
+        "id": 4482,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "title": "AFC Champions League Elite"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 19:05:00 +0000",
+          "eventName": "UEFA Champions League",
+          "isHot": "0",
+          "startTime": "2026/10/13 16:45:00 +0000",
+          "teamA": "Lens",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+          "teamB": "Sporting",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image"
+        },
+        "id": 4483,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "title": "UEFA Champions League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/I888AAAAQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD LINK",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 18:20:00 +0000",
+          "eventName": "AFC Champions League Two",
+          "isHot": "0",
+          "startTime": "2026/10/13 16:00:00 +0000",
+          "teamA": "Al Seeb",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
+          "teamB": "Al-Hussein Irbid",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image"
+        },
+        "id": 4484,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "title": "AFC Champions League Two"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/sqdahach1ax.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 19:05:00 +0000",
+          "eventName": "UEFA Champions League",
+          "isHot": "0",
+          "startTime": "2026/10/13 16:45:00 +0000",
+          "teamA": "Sabah",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/267828/image",
+          "teamB": "Slavia Praha",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2216/image"
+        },
+        "id": 4485,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "title": "UEFA Champions League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 20:35:00 +0000",
+          "eventName": "AFC Champions League Elite",
+          "isHot": "0",
+          "startTime": "2026/10/13 18:15:00 +0000",
+          "teamA": "Al-Ittihad",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+          "teamB": "Shabab Al-Ahli",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/264111/image"
+        },
+        "id": 4486,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "title": "AFC Champions League Elite"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:05:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/10/13 18:45:00 +0000",
+          "teamA": "Wolves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+          "teamB": "Bolton",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image"
+        },
+        "id": 4487,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ueyeztrazb4.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:20:00 +0000",
+          "eventName": "UEFA Champions League",
+          "isHot": "0",
+          "startTime": "2026/10/13 19:00:00 +0000",
+          "teamA": "Inter",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+          "teamB": "Club Brugge",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2888/image"
+        },
+        "id": 4488,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "title": "UEFA Champions League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:05:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/10/13 18:45:00 +0000",
+          "teamA": "Burnley",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+          "teamB": "Charlton",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image"
+        },
+        "id": 4489,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:05:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/10/13 18:45:00 +0000",
+          "teamA": "Wrexham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
+          "teamB": "West Brom",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/8/image"
+        },
+        "id": 4490,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:20:00 +0000",
+          "eventName": "UEFA Champions League",
+          "isHot": "0",
+          "startTime": "2026/10/13 19:00:00 +0000",
+          "teamA": "Atlético Madrid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+          "teamB": "Man Utd",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image"
+        },
+        "id": 4491,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "title": "UEFA Champions League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:05:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/10/13 18:45:00 +0000",
+          "teamA": "Millwall",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+          "teamB": "Swansea",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image"
+        },
+        "id": 4492,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:05:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/10/13 18:45:00 +0000",
+          "teamA": "Cardiff",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
+          "teamB": "Watford",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image"
+        },
+        "id": 4493,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:05:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/10/13 18:45:00 +0000",
+          "teamA": "Bristol City",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+          "teamB": "Blackburn",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image"
+        },
+        "id": 4494,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/ueyeztrazb4.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:20:00 +0000",
+          "eventName": "UEFA Champions League",
+          "isHot": "0",
+          "startTime": "2026/10/13 19:00:00 +0000",
+          "teamA": "Arsenal",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+          "teamB": "Lille",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image"
+        },
+        "id": 4495,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "title": "UEFA Champions League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:20:00 +0000",
+          "eventName": "UEFA Champions League",
+          "isHot": "0",
+          "startTime": "2026/10/13 19:00:00 +0000",
+          "teamA": "Galatasaray",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+          "teamB": "Barcelona",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image"
+        },
+        "id": 4496,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "title": "UEFA Champions League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream5.pro/hls/sqdahach1ax.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:20:00 +0000",
+          "eventName": "UEFA Champions League",
+          "isHot": "0",
+          "startTime": "2026/10/13 19:00:00 +0000",
+          "teamA": "Viking",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1164/image",
+          "teamB": "Bayern",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image"
+        },
+        "id": 4497,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "title": "UEFA Champions League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:20:00 +0000",
+          "eventName": "UEFA Champions League",
+          "isHot": "0",
+          "startTime": "2026/10/13 19:00:00 +0000",
+          "teamA": "Leipzig",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+          "teamB": "PSV",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image"
+        },
+        "id": 4498,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "title": "UEFA Champions League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/griogoehvn2.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:20:00 +0000",
+          "eventName": "UEFA Champions League",
+          "isHot": "0",
+          "startTime": "2026/10/13 19:00:00 +0000",
+          "teamA": "Villarreal",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+          "teamB": "Napoli",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image"
+        },
+        "id": 4499,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "title": "UEFA Champions League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/10/13 19:00:00 +0000",
+          "teamA": "Stoke",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
+          "teamB": "Middlesbrough",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image"
+        },
+        "id": 4500,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 12:20:00 +0000",
+          "eventName": "UEFA Youth League",
+          "isHot": "0",
+          "startTime": "2026/10/14 10:00:00 +0000",
+          "teamA": "LASK Linz U19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
+          "teamB": "Liverpool U19",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image"
+        },
+        "id": 4501,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "title": "UEFA Youth League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 11:20:00 +0000",
+          "eventName": "UEFA Youth League",
+          "isHot": "0",
+          "startTime": "2026/10/14 09:00:00 +0000",
+          "teamA": "Bodo/Glimt U19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/295469/image",
+          "teamB": "Dortmund U19",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/43719/image"
+        },
+        "id": 4502,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "title": "UEFA Youth League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 12:20:00 +0000",
+          "eventName": "UEFA Youth League",
+          "isHot": "0",
+          "startTime": "2026/10/14 10:00:00 +0000",
+          "teamA": "Kairat Almaty U19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/232531/image",
+          "teamB": "Mladost DG U19",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1079672/image"
+        },
+        "id": 4503,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "title": "UEFA Youth League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 02:50:00 +0000",
+          "eventName": "CONMEBOL Sudamericana",
+          "isHot": "0",
+          "startTime": "2026/10/14 00:30:00 +0000",
+          "teamA": "Boca Juniors",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+          "teamB": "Vasco",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image"
+        },
+        "id": 4504,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+        "title": "CONMEBOL Sudamericana"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/13 21:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/10/13 19:00:00 +0000",
+          "teamA": "Birmingham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
+          "teamB": "Preston",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image"
+        },
+        "id": 4505,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 10:05:00 +0000",
+          "eventName": "AFC Champions League Two",
+          "isHot": "0",
+          "startTime": "2026/10/14 07:45:00 +0000",
+          "teamA": "Melbourne Victory",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+          "teamB": "FC Seoul",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7646/image"
+        },
+        "id": 4506,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "title": "AFC Champions League Two"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 12:20:00 +0000",
+          "eventName": "AFC Champions League Elite",
+          "isHot": "0",
+          "startTime": "2026/10/14 10:00:00 +0000",
+          "teamA": "Vissel Kobe",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
+          "teamB": "Jeonbuk",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image"
+        },
+        "id": 4507,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "title": "AFC Champions League Elite"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 12:20:00 +0000",
+          "eventName": "AFC Champions League Elite",
+          "isHot": "0",
+          "startTime": "2026/10/14 10:00:00 +0000",
+          "teamA": "Kashiwa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
+          "teamB": "Port FC",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image"
+        },
+        "id": 4508,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "title": "AFC Champions League Elite"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 13:20:00 +0000",
+          "eventName": "UEFA Youth League",
+          "isHot": "0",
+          "startTime": "2026/10/14 11:00:00 +0000",
+          "teamA": "Shakhtar U19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/107723/image",
+          "teamB": "AEK U19",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/297065/image"
+        },
+        "id": 4509,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "title": "UEFA Youth League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 13:20:00 +0000",
+          "eventName": "UEFA Youth League",
+          "isHot": "0",
+          "startTime": "2026/10/14 11:00:00 +0000",
+          "teamA": "Feyenoord U19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/197177/image",
+          "teamB": "Como U20",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/206254/image"
+        },
+        "id": 4510,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "title": "UEFA Youth League"
+      },
+      {
+        "cat": "Baseball",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 03:00:00 +0000",
+          "eventName": "MLB",
+          "isHot": "0",
+          "startTime": "2026/10/14 00:00:00 +0000",
+          "teamA": "Rays",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+          "teamB": "Guardians",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image"
+        },
+        "id": 4511,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "title": "MLB"
+      },
+      {
+        "cat": "Basketball",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 02:30:00 +0000",
+          "eventName": "NBA Preseason",
+          "isHot": "0",
+          "startTime": "2026/10/14 00:00:00 +0000",
+          "teamA": "Thunder",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+          "teamB": "Pacers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image"
+        },
+        "id": 4512,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "title": "NBA Preseason"
+      },
+      {
+        "cat": "Basketball",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 01:30:00 +0000",
+          "eventName": "NBA Preseason",
+          "isHot": "0",
+          "startTime": "2026/10/13 23:00:00 +0000",
+          "teamA": "Magic",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+          "teamB": "Cavaliers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
+        },
+        "id": 4513,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "title": "NBA Preseason"
+      },
+      {
+        "cat": "Basketball",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 01:30:00 +0000",
+          "eventName": "NBA Preseason",
+          "isHot": "0",
+          "startTime": "2026/10/13 23:00:00 +0000",
+          "teamA": "Raptors",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+          "teamB": "Knicks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image"
+        },
+        "id": 4514,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "title": "NBA Preseason"
+      },
+      {
+        "cat": "Basketball",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 04:30:00 +0000",
+          "eventName": "NBA Preseason",
+          "isHot": "0",
+          "startTime": "2026/10/14 02:00:00 +0000",
+          "teamA": "Kings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+          "teamB": "Trail Blazers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image"
+        },
+        "id": 4515,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "title": "NBA Preseason"
+      },
+      {
+        "cat": "Basketball",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 04:30:00 +0000",
+          "eventName": "NBA Preseason",
+          "isHot": "0",
+          "startTime": "2026/10/14 02:00:00 +0000",
+          "teamA": "Lakers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+          "teamB": "Warriors",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image"
+        },
+        "id": 4516,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "title": "NBA Preseason"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 02:15:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/13 23:00:00 +0000",
+          "teamA": "Flyers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+          "teamB": "Kraken",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image"
+        },
+        "id": 4517,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 04:33:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/14 01:00:00 +0000",
+          "teamA": "Mammoth",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+          "teamB": "Maple Leafs",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image"
+        },
+        "id": 4518,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 03:33:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/14 00:15:00 +0000",
+          "teamA": "Jets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+          "teamB": "Wild",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image"
+        },
+        "id": 4519,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 05:50:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/14 03:00:00 +0000",
+          "teamA": "Sharks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+          "teamB": "Bruins",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image"
+        },
+        "id": 4520,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 02:45:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/13 23:30:00 +0000",
+          "teamA": "Senators",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+          "teamB": "Blues",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image"
+        },
+        "id": 4521,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 01:59:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/13 22:45:00 +0000",
+          "teamA": "Hurricanes",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+          "teamB": "Capitals",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image"
+        },
+        "id": 4522,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 05:03:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/14 01:45:00 +0000",
+          "teamA": "Ducks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+          "teamB": "Flames",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image"
+        },
+        "id": 4523,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 01:50:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/13 22:30:00 +0000",
+          "teamA": "Canadiens",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+          "teamB": "Sabres",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image"
+        },
+        "id": 4524,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 05:50:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/14 02:30:00 +0000",
+          "teamA": "Kings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+          "teamB": "Oilers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image"
+        },
+        "id": 4525,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 02:59:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/13 23:45:00 +0000",
+          "teamA": "Islanders",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+          "teamB": "Canucks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image"
+        },
+        "id": 4526,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 01:30:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/13 22:00:00 +0000",
+          "teamA": "Red Wings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+          "teamB": "Devils",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image"
+        },
+        "id": 4527,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "  +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/14 00:00:00 +0000",
+          "teamA": "Blackhawks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+          "teamB": "Penguins",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image"
+        },
+        "id": 4528,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 01:45:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/13 22:15:00 +0000",
+          "teamA": "Blue Jackets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+          "teamB": "Panthers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image"
+        },
+        "id": 4529,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 02:45:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/13 23:15:00 +0000",
+          "teamA": "Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+          "teamB": "Lightning",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image"
+        },
+        "id": 4530,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 04:10:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/14 00:45:00 +0000",
+          "teamA": "Predators",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+          "teamB": "Golden Knights",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image"
+        },
+        "id": 4531,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 03:52:00 +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/10/14 00:30:00 +0000",
+          "teamA": "Stars",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+          "teamB": "Avalanche",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image"
+        },
+        "id": 4532,
+        "league_logo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
       },
       {
         "cat": "American Football",
@@ -7427,24 +7697,49 @@
           {
             "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "NFL SERVER",
+            "title": "NCAA FOOTBALL SERVER",
             "tokenApi": ""
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/10/13 03:15:00 +0000",
-          "eventName": "Buffalo Bills at Los Angeles Rams",
+          "endTime": "2026/10/14 02:00:00 +0000",
+          "eventName": "Delaware Blue Hens at Middle Tennessee Blue Raiders",
           "isHot": "0",
-          "startTime": "2026/10/13 00:15:00 +0000",
-          "teamA": "Buffalo Bills",
-          "teamAFlag": "https://streamcenter.st/api/images/badge/93a7842c-d5d5-45df-97d6-24091917479f.webp",
-          "teamB": "Los Angeles Rams",
-          "teamBFlag": "https://streamcenter.st/api/images/badge/3692c780-eb29-4901-9a0d-35b9e6ae2417.webp"
+          "startTime": "2026/10/13 23:00:00 +0000",
+          "teamA": "Delaware Blue Hens",
+          "teamAFlag": "https://streamcenter.st/api/images/badge/c033ee41-ce53-4a2d-ad58-28870909f031.webp",
+          "teamB": "Middle Tennessee Blue Raiders",
+          "teamBFlag": "https://streamcenter.st/api/images/badge/35430fa0-da61-4c7b-9978-d61b36ec197d.webp"
         },
-        "id": 1791822614395,
-        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
-        "title": "NFL"
+        "id": 1791906661099,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "NCAA Football"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sfjnzabacah31.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "NCAA FOOTBALL SERVER",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/14 03:00:00 +0000",
+          "eventName": "Florida International Panthers at Jacksonville State Gamecocks",
+          "isHot": "0",
+          "startTime": "2026/10/14 00:00:00 +0000",
+          "teamA": "Florida International Panthers",
+          "teamAFlag": "https://streamcenter.st/api/images/badge/b669b5a6-0f8a-4caa-bfd0-bf20507b15cd.webp",
+          "teamB": "Jacksonville State Gamecocks",
+          "teamBFlag": "https://streamcenter.st/api/images/badge/4d38d4ff-6403-4dae-a401-94e283447ca3.webp"
+        },
+        "id": 1791906661176,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "NCAA Football"
       }
     ]
   }
