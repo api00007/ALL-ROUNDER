@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "15/10/26 09:01:23 IST",
-    "Total_Matches": 12,
+    "Last update": "15/10/26 09:10:58 IST",
+    "Total_Matches": 10,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "American Football",
-            "Event_Name": "Western Kentucky Hilltoppers at Sam Houston Bearkats",
-            "League_Name": "NCAA Football",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "NCAA FOOTBALL SERVER",
-            "Team_A": "Western Kentucky Hilltoppers",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/95bcd403-8bb4-4e1a-b143-96fc2efcab30.webp",
-            "Team_B": "Sam Houston Bearkats",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/aeda90c5-591e-4e6b-a1ad-18d098be8f32.webp",
-            "Start_Time": "15/10/2026; 05:30:00 IST",
-            "End_Time": "15/10/2026; 08:30:00 IST",
-            "UTC_Start": "2026/10/15 00:00:00 +0000",
-            "UTC_End": "2026/10/15 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sfjnzabacah31.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "American Football",
             "Event_Name": "East Carolina Pirates at UAB Blazers",
             "League_Name": "NCAA Football",
@@ -39,7 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sfjnzabacah31.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "2",
             "Category": "American Football",
             "Event_Name": "Georgia Southern Eagles at Old Dominion Monarchs",
             "League_Name": "NCAA Football",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/qsdnajbq32.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "American Football",
             "Event_Name": "Colorado State Rams at Texas State Bobcats",
             "League_Name": "NCAA Football",
@@ -73,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/oipozuezeji33.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "4",
             "Category": "American Football",
             "Event_Name": "Seattle Seahawks at Denver Broncos",
             "League_Name": "NFL",
@@ -88,6 +71,23 @@
             "UTC_Start": "2026/10/16 00:15:00 +0000",
             "UTC_End": "2026/10/16 03:15:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "5",
+            "Category": "Soccer",
+            "Event_Name": "Olympiacos at Marseille",
+            "League_Name": "Soccer",
+            "League_Logo": "https://streamcenter.st/api/images/badge/c9fb63d4-4989-460b-b0fe-57f4929b81ba.webp",
+            "Stream_Name": "SOCCER SERVER",
+            "Team_A": "Olympiacos",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/c9fb63d4-4989-460b-b0fe-57f4929b81ba.webp",
+            "Team_B": "Marseille",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/f49b67ae-bb69-4e68-a904-bc6636cd5e74.webp",
+            "Start_Time": "16/10/2026; 00:30:00 IST",
+            "End_Time": "16/10/2026; 03:30:00 IST",
+            "UTC_Start": "2026/10/15 19:00:00 +0000",
+            "UTC_End": "2026/10/15 22:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "6",
@@ -143,23 +143,6 @@
         {
             "Id": "9",
             "Category": "Baseball",
-            "Event_Name": "Milwaukee Brewers at Los Angeles Dodgers",
-            "League_Name": "MLB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11205/image",
-            "Stream_Name": "MLB SERVER",
-            "Team_A": "Milwaukee Brewers",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/693e4904-9299-4803-b649-2a9b37ad5089.webp",
-            "Team_B": "Los Angeles Dodgers",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/83518ce0-d24d-48e2-88f2-80a115913765.webp",
-            "Start_Time": "15/10/2026; 05:30:00 IST",
-            "End_Time": "15/10/2026; 08:30:00 IST",
-            "UTC_Start": "2026/10/15 00:00:00 +0000",
-            "UTC_End": "2026/10/15 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/dazhfiach15.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "10",
-            "Category": "Baseball",
             "Event_Name": "Tampa Bay Rays at Cleveland Guardians",
             "League_Name": "MLB",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11205/image",
@@ -175,7 +158,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/dazhfiach15.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "11",
+            "Id": "10",
             "Category": "Baseball",
             "Event_Name": "Milwaukee Brewers at Los Angeles Dodgers",
             "League_Name": "MLB",
@@ -190,23 +173,6 @@
             "UTC_Start": "2026/10/16 00:00:00 +0000",
             "UTC_End": "2026/10/16 03:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "12",
-            "Category": "Hockey",
-            "Event_Name": "Dallas Stars at Colorado Avalanche",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Dallas Stars",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/19aca6fb-bba6-4593-83f1-b4cda6999749.webp",
-            "Team_B": "Colorado Avalanche",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/bfa441dc-3461-42bb-a326-adb5f6057b9d.webp",
-            "Start_Time": "15/10/2026; 06:00:00 IST",
-            "End_Time": "15/10/2026; 09:00:00 IST",
-            "UTC_Start": "2026/10/15 00:30:00 +0000",
-            "UTC_End": "2026/10/15 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hjksgdfauzy51.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
