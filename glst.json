@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "17/10/26 09:31:32 IST",
-    "Total_Matches": 7,
+    "Last update": "17/10/26 09:40:55 IST",
+    "Total_Matches": 5,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "American Football",
-            "Event_Name": "Washington Huskies at Purdue Boilermakers",
-            "League_Name": "NCAA Football",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "NCAA FOOTBALL SERVER",
-            "Team_A": "Washington Huskies",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/6642f284-005f-45d3-991b-322efac2df92.webp",
-            "Team_B": "Purdue Boilermakers",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/aff0ac65-0ddc-404e-a7c4-775363189ff5.webp",
-            "Start_Time": "17/10/2026; 05:30:00 IST",
-            "End_Time": "17/10/2026; 08:30:00 IST",
-            "UTC_Start": "2026/10/17 00:00:00 +0000",
-            "UTC_End": "2026/10/17 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sfjnzabacah31.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "Basketball",
             "Event_Name": "Portland Trail Blazers at Golden State Warriors",
             "League_Name": "NBA",
@@ -39,7 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/yjtzafghvjza74.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "2",
             "Category": "Basketball",
             "Event_Name": "Utah Jazz at Phoenix Suns",
             "League_Name": "NBA",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sqhdghzavbxu75.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "Basketball",
             "Event_Name": "Denver Nuggets at Los Angeles Lakers",
             "League_Name": "NBA",
@@ -73,24 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/xcsfadafgzfg76.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
-            "Category": "Hockey",
-            "Event_Name": "Pittsburgh Penguins at Colorado Avalanche",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Pittsburgh Penguins",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/cf193378-d6e6-4cac-aa1b-1d4dde3e7221.webp",
-            "Team_B": "Colorado Avalanche",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/bfa441dc-3461-42bb-a326-adb5f6057b9d.webp",
-            "Start_Time": "17/10/2026; 06:30:00 IST",
-            "End_Time": "17/10/2026; 09:30:00 IST",
-            "UTC_Start": "2026/10/17 01:00:00 +0000",
-            "UTC_End": "2026/10/17 04:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/uyopzarf50.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "6",
+            "Id": "4",
             "Category": "Hockey",
             "Event_Name": "Boston Bruins at Anaheim Ducks",
             "League_Name": "NHL",
@@ -107,7 +73,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hjksgdfauzy51.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "5",
             "Category": "Wwe",
             "Event_Name": "WWE Friday Night Smackdown",
             "League_Name": "Wwe",
