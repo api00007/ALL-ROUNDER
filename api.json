@@ -1366,8 +1366,13 @@
       "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08eiyyW7KYk8lSxElDBWcQfueujvKvpxDuN_gvX07Aw&s=10",
       "Name": "2026 MOVIES",
       "Position": 3,
-      "Stream_url": "https://srv248.beginater.cyou/s4/42069/6c42e3c188c336cc36d9782846d75fa5160b0e4df6042dae4830959dc23335ee/tH9HJIC4sqUkf3XqMWUvGA/1791753359/storage1/movies/1791514853-28498219-matchbox-the-movie-2026/c29da12741efd73f9a9d56bd9daf1567.mp4/index.m3u8",
+      "Stream_url": "https://srv248.dically.cyou/s4/42069/483aa741afeed74e6f24c1017ba940ff6ab0571f462f2e4cb0f0b52090b490bc/8suUurhCxK4N6nXiUulZaA/1792281444/storage4/movies/1792162849-6262770-tenzing-2026/2701ef9c5f01c467bc5f164a8c588596.mp4/index.m3u8",
       "stream_links": [
+        {
+          "link": "https://srv248.dically.cyou/s4/42069/483aa741afeed74e6f24c1017ba940ff6ab0571f462f2e4cb0f0b52090b490bc/8suUurhCxK4N6nXiUulZaA/1792281444/storage4/movies/1792162849-6262770-tenzing-2026/2701ef9c5f01c467bc5f164a8c588596.mp4/index.m3u8",
+          "name": "Tenzing 2026",
+          "tokenApi": ""
+        },
         {
           "link": "https://srv248.beginater.cyou/s4/42069/6c42e3c188c336cc36d9782846d75fa5160b0e4df6042dae4830959dc23335ee/tH9HJIC4sqUkf3XqMWUvGA/1791753359/storage1/movies/1791514853-28498219-matchbox-the-movie-2026/c29da12741efd73f9a9d56bd9daf1567.mp4/index.m3u8",
           "name": "Matchbox 2026",
@@ -1384,11 +1389,6 @@
           "tokenApi": ""
         },
         {
-          "link": "https://srv248.rustrupully.site/s4/42069/0bc31346b68022a19dbb8265eddd96a673cd589812f24cdd61616bb7316115b9/GAlBZ2gUX23Ud8tTRQA2xg/1790678381/storage4/movies/1790501220-31349844-runner-2026/7a7abe675f1ef3a0ec5fc2dc44d81b0c.mp4/index.m3u8",
-          "name": "Runner 2026",
-          "tokenApi": ""
-        },
-        {
           "link": "https://srv248.converseriandy.site/s4/42069/e6dd3a434b71db9640e636b63621222672507e84077547959b620760eddf2bcc/CwwBLeWqJH7yHFhefzPs5w/1790111098/storage6/movies/1790004802-8820258-super-troopers-3-2026/99a61246e65f922358fa274f814c248f.mp4/index.m3u8",
           "name": "Super Troopers 3 2026",
           "tokenApi": ""
@@ -1396,11 +1396,6 @@
         {
           "link": "https://srv248.cardent.site/s4/42069/7950eb4f1bd8ce18aa48e3dbb7c36ef7648031cdd4516f4de68f66dc2847567c/FGc4c07I0EkNO1mT5UIqAQ/1790817044/storage2/movies/1790668864-1756855-coyote-vs-acme-2026/cf662a695276f37ad20353e670764bca.mp4/index.m3u8",
           "name": "Coyote vs Acme 2026",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://srv248.mestricalled.cyou/s4/42069/45c0801100077889034d061db904b3980168d9af8190bb0858fb45bb73d1c403/E8w6bVXgHvox7phk9kptCQ/1791327743/storage6/movies/1791226842-32393988-insidious-out-of-the-further-2026/f19d96c9ad2966cd8a9828cbeb453f62.mp4/index.m3u8",
-          "name": "Insidious: Out of the Further 2026",
           "tokenApi": ""
         }
       ]
@@ -5026,7 +5021,7 @@
   ],
   "sports_live": {
     "Finish": "00",
-    "Last update time": "03:15:40 AM 17-10-2026",
+    "Last update time": "05:31:10 AM 17-10-2026",
     "Live": "00",
     "Upcoming": "63",
     "events": [
@@ -5070,6 +5065,16 @@
       {
         "cat": "Boxing",
         "channels_data": [
+          {
+            "link": "https://emby.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://emby.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+            "title": "HD Link",
+            "tokenApi": ""
+          },
           {
             "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
@@ -6728,6 +6733,11 @@
             "source": "ivan",
             "title": "HD SERVER",
             "tokenApi": ""
+          },
+          {
+            "link": "https://admin2.formaturamaxi.com.br/nba6.m3u8",
+            "title": "Backup Link",
+            "tokenApi": ""
           }
         ],
         "eventInfo": {
@@ -7312,6 +7322,30 @@
         "id": 1792187589303,
         "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
         "title": "NCAA Football"
+      },
+      {
+        "cat": "MMA",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58101/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "title": "Backup Link",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/17 06:30:00 +0000",
+          "eventName": "PFL",
+          "isHot": "0",
+          "startTime": "2026/10/16 23:00:00 +0000",
+          "teamA": "Carmouche",
+          "teamAFlag": "https://images.tapology.com/headshot_images/10675/preview/Screenshot_%281%29.png?1787166234",
+          "teamB": "Bishop",
+          "teamBFlag": "https://images.tapology.com/headshot_images/211607/preview/Screenshot_%284%29.png?1787166337"
+        },
+        "id": 508,
+        "league_logo": "https://images.tapology.com/logo_squares/1969/icon_bw/Professional_Fighters_League-logo-square.jpg?1721407793",
+        "title": "PFL"
       }
     ]
   }
