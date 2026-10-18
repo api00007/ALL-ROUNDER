@@ -5021,9 +5021,9 @@
   ],
   "sports_live": {
     "Finish": "00",
-    "Last update time": "06:40:36 AM 18-10-2026",
+    "Last update time": "11:20:34 AM 18-10-2026",
     "Live": "00",
-    "Upcoming": "69",
+    "Upcoming": "59",
     "events": [
       {
         "cat": "Motorsport",
@@ -10500,14 +10500,14 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://admin2.formaturamaxi.com.br/tudnus.m3u8",
+            "title": "HD Link",
             "tokenApi": ""
           },
           {
-            "link": "https://admin2.formaturamaxi.com.br/tudnus.m3u8",
-            "title": "HD Link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/FEEEA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -10722,14 +10722,14 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://admin2.formaturamaxi.com.br/canal5mx.m3u8",
+            "title": "HD Link",
             "tokenApi": ""
           },
           {
-            "link": "https://admin2.formaturamaxi.com.br/canal5mx.m3u8",
-            "title": "HD Link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/FEEEAA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -10752,9 +10752,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "CANAL5 FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/TPPPAAA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -11075,6 +11081,12 @@
             "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/",
             "source": "ivan",
             "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58235/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "NHL HD",
             "tokenApi": ""
           }
         ],
