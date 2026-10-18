@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "19/10/26 04:52:55 IST",
-    "Total_Matches": 9,
+    "Last update": "19/10/26 05:01:19 IST",
+    "Total_Matches": 8,
     "Live_Data": [
         {
             "Id": "1",
@@ -41,23 +41,6 @@
         {
             "Id": "3",
             "Category": "American Football",
-            "Event_Name": "Arizona Cardinals at Los Angeles Rams",
-            "League_Name": "NFL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
-            "Stream_Name": "NFL SERVER",
-            "Team_A": "Arizona Cardinals",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/635e11df-8603-4fcf-988b-6bc55bc87eec.webp",
-            "Team_B": "Los Angeles Rams",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/3692c780-eb29-4901-9a0d-35b9e6ae2417.webp",
-            "Start_Time": "19/10/2026; 01:35:00 IST",
-            "End_Time": "19/10/2026; 04:35:00 IST",
-            "UTC_Start": "2026/10/18 20:05:00 +0000",
-            "UTC_End": "2026/10/18 23:05:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ysvbxwnbc38.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "4",
-            "Category": "American Football",
             "Event_Name": "Buffalo Bills at Las Vegas Raiders",
             "League_Name": "NFL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
@@ -73,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "4",
             "Category": "American Football",
             "Event_Name": "Los Angeles Chargers at Kansas City Chiefs",
             "League_Name": "NFL",
@@ -90,7 +73,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/poertjnvnev40.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "5",
             "Category": "American Football",
             "Event_Name": "Dallas Cowboys at Green Bay Packers",
             "League_Name": "NFL",
@@ -107,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ijzriafaq41.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "6",
             "Category": "Baseball",
             "Event_Name": "Tampa Bay Rays at Cleveland Guardians",
             "League_Name": "MLB",
@@ -124,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/dazhfiach15.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "7",
             "Category": "Hockey",
             "Event_Name": "Columbus Blue Jackets at Minnesota Wild",
             "League_Name": "NHL",
@@ -141,7 +124,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/uyopzarf50.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "8",
             "Category": "Hockey",
             "Event_Name": "Carolina Hurricanes at Calgary Flames",
             "League_Name": "NHL",
