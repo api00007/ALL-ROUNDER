@@ -1371,8 +1371,13 @@
       "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08eiyyW7KYk8lSxElDBWcQfueujvKvpxDuN_gvX07Aw&s=10",
       "Name": "2026 MOVIES",
       "Position": 3,
-      "Stream_url": "https://srv248.dically.cyou/s4/42069/483aa741afeed74e6f24c1017ba940ff6ab0571f462f2e4cb0f0b52090b490bc/8suUurhCxK4N6nXiUulZaA/1792281444/storage4/movies/1792162849-6262770-tenzing-2026/2701ef9c5f01c467bc5f164a8c588596.mp4/index.m3u8",
+      "Stream_url": "https://srv248.tanguivariana.cyou/s4/42069/8e8e4db68dd237eb7215b89f00066156e5480588050d770e9a38b5bb13d674fa/TwagnG0nT1Wkj5aCzCo_nw/1792553439/storage5/movies/1792432902-34379051-by-any-means-2026/32ba921ca153cd031139ca285fdf0b65.mp4/index.m3u8",
       "stream_links": [
+        {
+          "link": "https://srv248.tanguivariana.cyou/s4/42069/8e8e4db68dd237eb7215b89f00066156e5480588050d770e9a38b5bb13d674fa/TwagnG0nT1Wkj5aCzCo_nw/1792553439/storage5/movies/1792432902-34379051-by-any-means-2026/32ba921ca153cd031139ca285fdf0b65.mp4/index.m3u8",
+          "name": "By Any Means 2026",
+          "tokenApi": ""
+        },
         {
           "link": "https://srv248.dically.cyou/s4/42069/483aa741afeed74e6f24c1017ba940ff6ab0571f462f2e4cb0f0b52090b490bc/8suUurhCxK4N6nXiUulZaA/1792281444/storage4/movies/1792162849-6262770-tenzing-2026/2701ef9c5f01c467bc5f164a8c588596.mp4/index.m3u8",
           "name": "Tenzing 2026",
@@ -4802,9 +4807,9 @@
   ],
   "sports_live": {
     "Finish": "00",
-    "Last update time": "01:15:43 AM 20-10-2026",
+    "Last update time": "09:05:24 AM 20-10-2026",
     "Live": "00",
-    "Upcoming": "48",
+    "Upcoming": "36",
     "events": [
       {
         "cat": "Motorsport",
@@ -5091,33 +5096,9 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnparssbf9/out/v1/fd27f9f2ac2a400db81a85b1a22ea66e/cenc.mpd|drmScheme=clearkey&drmLicense=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b",
+            "link": "https://no.link",
             "source": "ivan",
-            "title": "WILLOW FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fnparssbf9/out/v1/fd27f9f2ac2a400db81a85b1a22ea66e/cenc.mpd|drmScheme=clearkey&drmLicense=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b",
-            "source": "ivan",
-            "title": "WILLOW ALT",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|Referer=https://tapmad.com/",
-            "source": "ivan",
-            "title": "TAPMAD FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
-            "source": "ivan",
-            "title": "A SPORTS HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
-            "source": "ivan",
-            "title": "T SPORTS HD",
+            "title": "Link 1",
             "tokenApi": ""
           }
         ],
@@ -5857,9 +5838,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1792446125-0-0-4f71a4c7a2c4e224d80852056e93f002",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=2eb884f66030514676c5e06a76448fba&txTime=6ad6d4fd",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6745,6 +6732,105 @@
         "id": 4726,
         "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
         "title": "T20 International"
+      },
+      {
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnparssbf9/out/v1/fd27f9f2ac2a400db81a85b1a22ea66e/cenc.mpd|drmScheme=clearkey&drmLicense=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b",
+            "source": "ivan",
+            "title": "WILLOW FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fnparssbf9/out/v1/fd27f9f2ac2a400db81a85b1a22ea66e/cenc.mpd|drmScheme=clearkey&drmLicense=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b",
+            "source": "ivan",
+            "title": "WILLOW ALT",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|Referer=https://tapmad.com/",
+            "source": "ivan",
+            "title": "TAPMAD FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
+            "source": "ivan",
+            "title": "A SPORTS HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+            "source": "ivan",
+            "title": "T SPORTS HD",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/21 20:30:00 +0000",
+          "eventName": "ODI Tri-Series in United Arab Emirates",
+          "isHot": "0",
+          "startTime": "2026/10/21 11:30:00 +0000",
+          "teamA": "BAN",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+          "teamB": "AFG",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image"
+        },
+        "id": 4590,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark",
+        "title": "ODI Tri-Series in United Arab Emirates"
+      },
+      {
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "  +0000",
+          "eventName": "ICC World Test Championship",
+          "isHot": "0",
+          "startTime": "2026/10/28 04:00:00 +0000",
+          "teamA": "BAN",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+          "teamB": "WI",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image"
+        },
+        "id": 4728,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "title": "ICC World Test Championship"
+      },
+      {
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/22 12:30:00 +0000",
+          "eventName": "One Day International",
+          "isHot": "0",
+          "startTime": "2026/10/22 08:00:00 +0000",
+          "teamA": "NAM",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
+          "teamB": "IRE",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187766/image"
+        },
+        "id": 4729,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "title": "One Day International"
       }
     ]
   }
