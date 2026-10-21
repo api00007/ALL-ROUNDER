@@ -4748,71 +4748,8 @@
     },
     {
       "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v6wJFmNxyYiDw1PMZy5N8WpM2uCzvBjyys10JhDUog&s",
-      "Name": "Mexico List 4 (Mexico IP)",
-      "Position": 61,
-      "Stream_url": "https://no.link",
-      "stream_links": [
-        {
-          "link": "https://no.link",
-          "name": "USE MEXCIO IP OR VPN (CLICK GLOBE TO CHANGE LANGUAGE)",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(e_entertainment_hd)/manifest.mpd|drmScheme=clearkey&drmLicense=80fa37cfc97ec6425a03fdc6892eecd6:895c40f6e9d35f296e1554af8bbe590c",
-          "name": "E Entertainment",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(e_gourment)/variant.mpd|drmScheme=clearkey&drmLicense=5f3eebd14fc7f6fcbe4ba310dd654a6b:249312af2692abff48daa39c0dc8607d",
-          "name": "E Gourment",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(europa_europa)/manifest.mpd|drmScheme=clearkey&drmLicense=de24e1b99c8b18ff9aa6d1faf2e71720:66f2ae3dc379900b5495f440f68c674a",
-          "name": "Europa",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(film_and_arts)/variant.mpd|drmScheme=clearkey&drmLicense=c2aecc40a610b30b03f61e965942266e:89a83e6b4512fd9a9e1455ac0abbe975",
-          "name": "Film and Arts",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(foodnetwork)/variant.mpd|drmScheme=clearkey&drmLicense=10d3629549d8c66086b49281497b45c7:5f557b793c39fa4ecd5d248c4f67102d",
-          "name": "Food Network",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(fueltvhd)/variant.mpd|drmScheme=clearkey&drmLicense=8b8434c3b14b5b102b066d211d2fed1b:824bc2299209b4116926abe83cae0c15",
-          "name": "Fuel TV",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(fx)/variant.mpd|drmScheme=clearkey&drmLicense=ef5157845628b5f3f07a40d2c6e851bc:0f416467760f72e2269abfbab2e3c564",
-          "name": "FX",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/variant.mpd|drmScheme=clearkey&drmLicense=5fd24b691f5e5108a4b9bfaf70066463:9d54422436550ad2dbb979546a0caf71",
-          "name": "GINX Esports TV ",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(golflatin)/manifest.mpd|drmScheme=clearkey&drmLicense=2ab02862fda94a3d1b56fe7d1f691583:684faca772cb75ad0b3574c3a84463f7",
-          "name": "Golf Channel",
-          "tokenApi": ""
-        },
-        {
-          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(93b5438f-d00d-3a75-e257-95bdb326e721)/variant.mpd|drmScheme=clearkey&drmLicense=b2cea93a0a01e1218cf0a3d0d2d09f25:a06ac367319c8926249057a2eb2a78d9",
-          "name": "Hola TV",
-          "tokenApi": ""
-        }
-      ]
-    },
-    {
-      "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v6wJFmNxyYiDw1PMZy5N8WpM2uCzvBjyys10JhDUog&s",
       "Name": "Mexico List 1 (Mexico IP)",
-      "Position": 62,
+      "Position": 61,
       "Stream_url": "https://no.link",
       "stream_links": [
         {
@@ -4846,6 +4783,26 @@
           "tokenApi": ""
         },
         {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd|drmScheme=clearkey&drmLicense=bbac4c7d3d0f47a319e638e65c985997:de8dd6acc1d3cdb1994720ee41f43417",
+          "name": "Azteca Cinema",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(aztecadeporteshd)/variant.mpd|drmScheme=clearkey&drmLicense=e459142c426c37a16322969a5ddcbcab:62b00ab99444ae566b261de1a3472700",
+          "name": "Azteca Deportes",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(aztecainternacionalhd)/variant.mpd|drmScheme=clearkey&drmLicense=ba15afee205d1bfe69d6b9f3486ebf37:62570d9ef67f763174b4a8f4343855e2",
+          "name": "Azteca International",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(azteca7hd)/variant.mpd|drmScheme=clearkey&drmLicense=a5717e2dda7fc0fead005059e5536b6c:04243a2f2c5237efd969213e36f1ec77",
+          "name": "Azteca 7",
+          "tokenApi": ""
+        },
+        {
           "link": "https://dish.akamaized.net/Content/DASH/Live/channel(babytv)/variant.mpd|drmScheme=clearkey&drmLicense=c716dca5a51693cacb4c0fdf5d58c93e:8a36d0baf248b73563fbe08929e6c889",
           "name": "Baby TV",
           "tokenApi": ""
@@ -4853,6 +4810,19 @@
         {
           "link": "https://dish.akamaized.net/Content/DASH/Live/channel(bbcworldnews)/variant.mpd|drmScheme=clearkey&drmLicense=6d93971a12a2d772f172618967bdbcdc:9fe4455887ec79ad1165976ebbb27abf",
           "name": "BBC News",
+          "tokenApi": ""
+        }
+      ]
+    },
+    {
+      "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v6wJFmNxyYiDw1PMZy5N8WpM2uCzvBjyys10JhDUog&s",
+      "Name": "Mexico List 2 (Mexico IP)",
+      "Position": 62,
+      "Stream_url": "https://no.link",
+      "stream_links": [
+        {
+          "link": "https://no.link",
+          "name": "USE MEXCIO IP OR VPN (CLICK GLOBE TO CHANGE LANGUAGE)",
           "tokenApi": ""
         },
         {
@@ -4868,19 +4838,6 @@
         {
           "link": "https://dish.akamaized.net/Content/DASH/Live/channel(cinecanal)/variant.mpd|drmScheme=clearkey&drmLicense=b5575c4cac7dd0aba98835c5b59a0c62:48cb36a63c1526132d4f969a10d6eec3",
           "name": "Cine Canal",
-          "tokenApi": ""
-        }
-      ]
-    },
-    {
-      "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v6wJFmNxyYiDw1PMZy5N8WpM2uCzvBjyys10JhDUog&s",
-      "Name": "Mexico List 2 (Mexico IP)",
-      "Position": 63,
-      "Stream_url": "https://no.link",
-      "stream_links": [
-        {
-          "link": "https://no.link",
-          "name": "USE MEXCIO IP OR VPN (CLICK GLOBE TO CHANGE LANGUAGE)",
           "tokenApi": ""
         },
         {
@@ -4928,7 +4885,7 @@
     {
       "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v6wJFmNxyYiDw1PMZy5N8WpM2uCzvBjyys10JhDUog&s",
       "Name": "Mexico List 3 (Mexico IP)",
-      "Position": 64,
+      "Position": 63,
       "Stream_url": "https://no.link",
       "stream_links": [
         {
@@ -4985,10 +4942,277 @@
           "link": "https://dish.akamaized.net/Content/DASH/Live/channel(dnehd)/variant.mpd|drmScheme=clearkey&drmLicense=103cc11d061c3bb8aff8dbafbfc5a5a1:e42eb93eb51e8ea78828ccfbb31f4d60",
           "name": "DHE",
           "tokenApi": ""
+        }
+      ]
+    },
+    {
+      "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v6wJFmNxyYiDw1PMZy5N8WpM2uCzvBjyys10JhDUog&s",
+      "Name": "Mexico List 4 (Mexico IP)",
+      "Position": 64,
+      "Stream_url": "https://no.link",
+      "stream_links": [
+        {
+          "link": "https://no.link",
+          "name": "USE MEXCIO IP OR VPN (CLICK GLOBE TO CHANGE LANGUAGE)",
+          "tokenApi": ""
         },
         {
           "link": "https://dish.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.mpd|drmScheme=clearkey&drmLicense=e6c7a488a73c9c780eaea5765ad29a00:08ffa90ee936cbacb10a59bb66aed57d",
           "name": "Dreamworks",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(e_entertainment_hd)/manifest.mpd|drmScheme=clearkey&drmLicense=80fa37cfc97ec6425a03fdc6892eecd6:895c40f6e9d35f296e1554af8bbe590c",
+          "name": "E Entertainment",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(e_gourment)/variant.mpd|drmScheme=clearkey&drmLicense=5f3eebd14fc7f6fcbe4ba310dd654a6b:249312af2692abff48daa39c0dc8607d",
+          "name": "E Gourment",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(europa_europa)/manifest.mpd|drmScheme=clearkey&drmLicense=de24e1b99c8b18ff9aa6d1faf2e71720:66f2ae3dc379900b5495f440f68c674a",
+          "name": "Europa",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(film_and_arts)/variant.mpd|drmScheme=clearkey&drmLicense=c2aecc40a610b30b03f61e965942266e:89a83e6b4512fd9a9e1455ac0abbe975",
+          "name": "Film and Arts",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(foodnetwork)/variant.mpd|drmScheme=clearkey&drmLicense=10d3629549d8c66086b49281497b45c7:5f557b793c39fa4ecd5d248c4f67102d",
+          "name": "Food Network",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(fueltvhd)/variant.mpd|drmScheme=clearkey&drmLicense=8b8434c3b14b5b102b066d211d2fed1b:824bc2299209b4116926abe83cae0c15",
+          "name": "Fuel TV",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(fx)/variant.mpd|drmScheme=clearkey&drmLicense=ef5157845628b5f3f07a40d2c6e851bc:0f416467760f72e2269abfbab2e3c564",
+          "name": "FX",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/variant.mpd|drmScheme=clearkey&drmLicense=5fd24b691f5e5108a4b9bfaf70066463:9d54422436550ad2dbb979546a0caf71",
+          "name": "GINX Esports TV ",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(golflatin)/manifest.mpd|drmScheme=clearkey&drmLicense=2ab02862fda94a3d1b56fe7d1f691583:684faca772cb75ad0b3574c3a84463f7",
+          "name": "Golf Channel",
+          "tokenApi": ""
+        }
+      ]
+    },
+    {
+      "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v6wJFmNxyYiDw1PMZy5N8WpM2uCzvBjyys10JhDUog&s",
+      "Name": "Mexico List 5 (Mexico IP)",
+      "Position": 65,
+      "Stream_url": "https://no.link",
+      "stream_links": [
+        {
+          "link": "https://no.link",
+          "name": "USE MEXCIO IP OR VPN (CLICK GLOBE TO CHANGE LANGUAGE)",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(93b5438f-d00d-3a75-e257-95bdb326e721)/variant.mpd|drmScheme=clearkey&drmLicense=b2cea93a0a01e1218cf0a3d0d2d09f25:a06ac367319c8926249057a2eb2a78d9",
+          "name": "Hola TV",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(hgtv)/variant.mpd|drmScheme=clearkey&drmLicense=1d494c9381e506a93e78a022219a927c:5b1d996b5cde3c6051062da59886740d",
+          "name": "HGTV",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(history)/variant.mpd|drmScheme=clearkey&drmLicense=c60825bef7f79a30696e835532e2c1e5:9917be8378ddcb8ff4aa26c554da639e",
+          "name": "History Channel",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/manifest.mpd|drmScheme=clearkey&drmLicense=35ac7c20bf38822bd1c9fb001c07ed23:10d14cdc8a18dfbc131bfbd123fde210",
+          "name": "History 2",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(investigationdiscoveryhd)/variant.mpd|drmScheme=clearkey&drmLicense=efe8aa76c0e7c3aeefed0966453b5baf:fbccf5bf2a03a2cef118f92210fb75bd",
+          "name": "Investigation Discovery",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(lifetimehd)/variant.mpd|drmScheme=clearkey&drmLicense=4c17e69d6e92861fc2ca18df9c23c9c6:09e1bda6f1a7edeb9fb9f40f54f84be8",
+          "name": "Lifetime",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(mileniohd)/variant.mpd|drmScheme=clearkey&drmLicense=95693bf13a5faa3afb2c25624b021038:70aa363b9f8d9d553d62f8a139781a1b",
+          "name": "Milenio",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(83640aad-3943-f226-67b6-94086f915fd5)/variant.mpd|drmScheme=clearkey&drmLicense=bb8a6b32e830d4c9c52606d93b852262:12ae020d159c4ef6c5a7a411a3d0aa51",
+          "name": "MTV",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(6f29f4bb-a84c-6924-9782-a5647d2146a0)/manifest.mpd|drmScheme=clearkey&drmLicense=077105b9c52693e7c1df39521ab65803:7189d75c1469f0bd11efa54d58d3499b",
+          "name": "Multi Cinema",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(mvshd)/variant.mpd|drmScheme=clearkey&drmLicense=03a6be34f620b1cbd96800a709346b23:0ed65893fb20d712602af499878596eb",
+          "name": "MVS ",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(national_geographic)/variant.mpd|drmScheme=clearkey&drmLicense=14747c7e082ba58e7391e3712578ee0a:4bcbff3d553e8a8b755a19bb4e93208a",
+          "name": "Nat Geo",
+          "tokenApi": ""
+        }
+      ]
+    },
+    {
+      "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v6wJFmNxyYiDw1PMZy5N8WpM2uCzvBjyys10JhDUog&s",
+      "Name": "Mexico List 6 (Mexico IP)",
+      "Position": 66,
+      "Stream_url": "https://no.link",
+      "stream_links": [
+        {
+          "link": "https://no.link",
+          "name": "USE MEXCIO IP OR VPN (CLICK GLOBE TO CHANGE LANGUAGE)",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(nickelodeon)/variant.mpd|drmScheme=clearkey&drmLicense=7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac",
+          "name": "Nickelodeon",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(nickjrhd)/variant.mpd|drmScheme=clearkey&drmLicense=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d",
+          "name": "Nick Jr",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(outdoor)/manifest.mpd|drmScheme=clearkey&drmLicense=06723e4db0084a4bd5a107cc2e60c273:05d239ff5f8735342942487773cb8131",
+          "name": "Outdoor Channel",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(pxsports)/variant.mpd|drmScheme=clearkey&drmLicense=7a3331860220a10a7e8b16c137c61765:e9ab4d4a676be421e88c6e0127c6e087",
+          "name": "PX Sports",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(sony)/variant.mpd|drmScheme=clearkey&drmLicense=896f730715176bb90484f8385512cba7:7372951666a6653c2dbff9f2646c1c5d",
+          "name": "Sony Channel",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(space)/variant.mpd|drmScheme=clearkey&drmLicense=e6441ec9b4f7ddfbc4cac8801f4df9df:676229a75fdbc1a6b5f4a50c383490d9",
+          "name": "Space",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd|drmScheme=clearkey&drmLicense=6de957e2c8090588b2cc3b4cfe0470f4:52d97d7f43b204d2379b43ee7d3a2a21",
+          "name": "Start TV",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(studio_universal)/variant.mpd|drmScheme=clearkey&drmLicense=ff583851013fa7fb7abeaa8d0e762a41:ad289e896926729a4e7559bdaa04e537",
+          "name": "Studio Universal",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(teleformula)/variant.mpd|drmScheme=clearkey&drmLicense=78e5edc6768e248bb933f4703a6cef27:5208e7e0187c9ef4cb79c957c4793194",
+          "name": "Teleformula",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(telemundohd)/variant.mpd|drmScheme=clearkey&drmLicense=37c93f4babaaabc0da1d8b24828c3ff7:88e2ac75ce14cd5fbfb79083f37107dd",
+          "name": "Telemundo",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(tlchd)/variant.mpd|drmScheme=clearkey&drmLicense=6254689477110d794617a8b8da688570:a1126eaea3add2df3e27f3da40911ae2",
+          "name": "TLC",
+          "tokenApi": ""
+        }
+      ]
+    },
+    {
+      "Logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v6wJFmNxyYiDw1PMZy5N8WpM2uCzvBjyys10JhDUog&s",
+      "Name": "Mexico List 7 (Mexico IP)",
+      "Position": 67,
+      "Stream_url": "https://no.link",
+      "stream_links": [
+        {
+          "link": "https://no.link",
+          "name": "USE MEXCIO IP OR VPN (CLICK GLOBE TO CHANGE LANGUAGE)",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(tnt)/variant.mpd|drmScheme=clearkey&drmLicense=4139b9f4b9b13b81c2d1b53acd01e5e5:24f771215b927cd0961be8ab963bb8d2",
+          "name": "TNT",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd|drmScheme=clearkey&drmLicense=fdee0f86736487e4d0137d46eb7dc0fb:1751603a6aca9ffb044a4b60efd68fd1",
+          "name": "TNT Novela",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd|drmScheme=clearkey&drmLicense=af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd",
+          "name": "TNT Series",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(tvcdeportes)/manifest.mpd|drmScheme=clearkey&drmLicense=ffdd8c79a09c11c5d42bc4f2d85bded7:72adc5405cee0fc1288bc75b8ef11759",
+          "name": "TVC Deportes",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(tycsports)/variant.mpd|drmScheme=clearkey&drmLicense=abb4405bf296d53b612b9124b6ff9b57:7dff5070b84e6890b35a88a86ce44f40",
+          "name": "TYC Sports",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(universalcinemawest)/manifest.mpd|drmScheme=clearkey&drmLicense=29efd3db92ba3a4655e86c1512cfe338:fe098b90492e9e66c7d971119d638bd6",
+          "name": "Universal Cinema",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(universalcomedy)/manifest.mpd|drmScheme=clearkey&drmLicense=57c0bef7e975ae07bd76c4c6b551b6cc:d8f2a76c4ae9542211e63c6e95c9421d",
+          "name": "Universal Comedy",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(universalcrime)/manifest.mpd|drmScheme=clearkey&drmLicense=cfe6e0c1bf0de723b34491baf1243b5a:bf2bca1d9221381e886936a5fde48cb6",
+          "name": "Universal Crime",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(universalpremierewest)/manifest.mpd|drmScheme=clearkey&drmLicense=115d8a1195650f9dea6fa2d87e135418:90e1a8aacacbee7f35ab30fea1c4ab4e",
+          "name": "Universal Premiere",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(usamexico)/manifest.mpd|drmScheme=clearkey&drmLicense=39773b0d7b389430776142a2fa613ad9:bce74121a4884ec7d2ed9dd96442a775",
+          "name": "USA Mexico",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(videorolahd)/variant.mpd|drmScheme=clearkey&drmLicense=74993bccb315a26ce9b4f06af6be21a9:58953c667626292458c3dcdcf8d8cb34",
+          "name": "Video Rola",
+          "tokenApi": ""
+        },
+        {
+          "link": "https://dish.akamaized.net/Content/DASH/Live/channel(warner_channel)/variant.mpd|drmScheme=clearkey&drmLicense=79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef",
+          "name": "Warner Channel",
           "tokenApi": ""
         }
       ]
@@ -4996,9 +5220,9 @@
   ],
   "sports_live": {
     "Finish": "00",
-    "Last update time": "08:15:45 PM 21-10-2026",
+    "Last update time": "12:15:43 AM 22-10-2026",
     "Live": "00",
-    "Upcoming": "57",
+    "Upcoming": "58",
     "events": [
       {
         "cat": "Motorsport",
@@ -5355,14 +5579,68 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "source": "ivan",
+            "title": "TNT SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/hflfkrtib42.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "HD QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/jrrra.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643848~acl=/*~id=87827957333843694028371710510675~hmac=38ca92b991a4f418de3c17b66528637b4d7de282919e27b03470194bc6113996",
+            "source": "ivan",
+            "title": "SONYLIV [ASIA]",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sc8dv5jodp/out/v1/a7606ec0721744df83e7a57f3378edfe/710a7479-086d-451c-b55f-0a0b407e5cd9-cenc.mpd?aws_sessionId=4dd6fb21-500f-462c-b58a-dedc43ad4c9c|drmScheme=clearkey&drmLicense=5ff4ae6e3d815f52c90513a1ebfc6835:e7a85a79c9cb63ccf5f6d8bc1e5df3ff",
+            "source": "ivan",
+            "title": "PARAMOUNT+ FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3x9dulwgdi/out/v1/c0791f704acc41be90aec9a37254425c/cenc.mpd|drmScheme=clearkey&drmLicense=acbde1bebf32ed54d6071319ca151935:0c8b07352e17f4460509a9550e69223d",
+            "source": "ivan",
+            "title": "PRIME VIDEO FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/phuhevukj1/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd|drmScheme=clearkey&drmLicense=7af2088d5ae68e1f9448513435b3b6e5:ce9f96e9b00b0c83cf3d06718c2bc962",
+            "source": "ivan",
+            "title": "VIX Español FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58358/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "PARAMOUNT+ HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/hflfkrtib42.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "VIX Español HD",
             "tokenApi": ""
           }
         ],
@@ -5623,14 +5901,56 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+            "source": "ivan",
+            "title": "TNT SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "source": "ivan",
+            "title": "CBS SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "HD QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/jrrr.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643848~acl=/*~id=87827957333843694028371710510675~hmac=38ca92b991a4f418de3c17b66528637b4d7de282919e27b03470194bc6113996",
+            "source": "ivan",
+            "title": "SONYLIV [ASIA]",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/mpyhvskdvu/out/v1/0ff5894d23284064bf8b0d4a01148c46/f20a6973-7fae-4ac9-be77-930c0bd505ad-cenc.mpd?aws_sessionId=2182fa91-4951-4603-93e1-f8584247b1f6|drmScheme=clearkey&drmLicense=3566bf2dae2d1b77a34bf17bbd791883:bc4f2e5b6d0a48afbb5909bbcd39b205",
+            "source": "ivan",
+            "title": "PARAMOUNT+ FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azog1xv2tg/out/v1/9c9724aa4e1746d08bf29f326da55833/cenc.mpd|drmScheme=clearkey&drmLicense=11161ed21917361e1ae8e9705cd87e03:1be5110a187629586632cc126840a5a3",
+            "source": "ivan",
+            "title": "PRIME VIDEO FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/oz4vqoljzg/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd|drmScheme=clearkey&drmLicense=4c17144b76f49fb410d27061d70fe50a:f520fa4cc6c9331698f860956d086ea1",
+            "source": "ivan",
+            "title": "VIX Español FHD",
             "tokenApi": ""
           }
         ],
@@ -5653,9 +5973,21 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "PREMIER SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+            "source": "ivan",
+            "title": "D SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "source": "ivan",
+            "title": "CazéTV FHD",
             "tokenApi": ""
           }
         ],
@@ -5678,14 +6010,44 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+            "source": "ivan",
+            "title": "TNT SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [ENG]",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [HIN]",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [TAM]",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [TEL]",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [KAN]",
             "tokenApi": ""
           }
         ],
@@ -5708,14 +6070,26 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "source": "ivan",
+            "title": "TNT SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "TNT SPORTS HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [ASIA]",
             "tokenApi": ""
           }
         ],
@@ -5738,14 +6112,38 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/sqdahach1ax.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/sqdahach1ax.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+            "source": "ivan",
+            "title": "TNT SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/sqdahach1ax.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "TNT SPORTS HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/hflfkrtib42.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "VIX Español HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/RGRGRGqqq.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [ASIA]",
             "tokenApi": ""
           }
         ],
@@ -5768,14 +6166,26 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "CBS SPORTS FHD",
             "tokenApi": ""
           },
           {
             "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
+            "source": "ivan",
+            "title": "PARAMOUNT+ HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [ASIA]",
             "tokenApi": ""
           }
         ],
@@ -5798,14 +6208,20 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/griogoehvn2.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/griogoehvn2.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/griogoehvn2.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [ASIA]",
             "tokenApi": ""
           }
         ],
@@ -5828,14 +6244,20 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream5.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream5.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [ASIA]",
             "tokenApi": ""
           }
         ],
@@ -5858,14 +6280,32 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
-            "source": "ivan",
-            "title": "Link 1",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/dza5z8f69.m3u8|Referer=https://streame.center",
+            "title": "HQ Stream",
             "tokenApi": ""
           },
           {
             "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/dza5z8f69.m3u8|Referer=https://streame.center",
-            "title": "HQ Stream",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://pull.qjkngv.com/live/stream-718044_lhd.m3u8",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.55/hls/XAXAXAAA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+            "source": "ivan",
+            "title": "SONYLIV [ASIA]",
             "tokenApi": ""
           }
         ],
@@ -5913,9 +6353,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "beIN ENGLISH FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "source": "ivan",
+            "title": "SportDigital Fussball",
             "tokenApi": ""
           }
         ],
@@ -6063,9 +6509,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/sdghjvqazhvg80.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6088,9 +6534,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/hfsdqtaxvb67.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6113,9 +6559,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/fdgsqdfawa73.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6138,9 +6584,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/ztyarueaghj71.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6163,9 +6609,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6188,9 +6634,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream4.pro/hls/yjtzafghvjza74.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6213,9 +6659,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/zeafwqvhfe69.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6238,9 +6684,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6263,9 +6709,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6288,9 +6734,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6313,9 +6759,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/mlkijfezag65.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6338,9 +6784,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/hls/sqhdghzavbxu75.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6363,9 +6809,9 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/uyopzarf50.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6388,9 +6834,9 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/hjksgdfauzy51.m3u8|Referer=https://streame.center",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6903,6 +7349,11 @@
         "cat": "Football",
         "channels_data": [
           {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+            "title": "TNT SPORTS ",
+            "tokenApi": ""
+          },
+          {
             "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/g2pac4npr8/out/v1/5c0eb4104ba94cf798e9550be8d69e31/c7e0445f-84e6-42c0-886c-4604ad4fbd26-cenc.mpd?aws_sessionId=2336b570-1168-4786-8757-868d6a620b82|drmScheme=clearkey&drmLicense=01b05b4481f227edd4e746fa2cb6f788:49b7b1c9cc9f44e15df6d96a672a91ef",
             "source": "ivan",
             "title": "PARAMOUNT+ FHD",
@@ -6954,6 +7405,37 @@
         "id": 1792586461228,
         "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
         "title": "NCAA Football"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "source": "ivan",
+            "title": "beIN ENGLISH FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.55/hls/ajjjQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/21 21:20:00 +0000",
+          "eventName": "League One",
+          "isHot": "0",
+          "startTime": "2026/10/21 19:00:00 +0000",
+          "teamA": "Reading",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/28/image",
+          "teamB": "Leyton Orient",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/83/image"
+        },
+        "id": 4788,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "title": "League One"
       }
     ]
   }
