@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "23/10/26 05:31:48 IST",
+    "Last update": "23/10/26 05:41:07 IST",
     "Total_Matches": 19,
     "Live_Data": [
         {
@@ -228,23 +228,6 @@
         {
             "Id": "14",
             "Category": "Hockey",
-            "Event_Name": "Vegas Golden Knights at St. Louis Blues",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Vegas Golden Knights",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/15506e97-07f7-4138-8d2f-48830c5f4445.webp",
-            "Team_B": "St. Louis Blues",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/5132e046-2483-4cc1-bf41-6f7eb254766a.webp",
-            "Start_Time": "23/10/2026; 05:30:00 IST",
-            "End_Time": "23/10/2026; 08:30:00 IST",
-            "UTC_Start": "2026/10/23 00:00:00 +0000",
-            "UTC_End": "2026/10/23 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/poiryezafv56.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "15",
-            "Category": "Hockey",
             "Event_Name": "Winnipeg Jets at Dallas Stars",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -258,6 +241,23 @@
             "UTC_Start": "2026/10/23 00:00:00 +0000",
             "UTC_End": "2026/10/23 03:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rzavbdyua57.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "15",
+            "Category": "Hockey",
+            "Event_Name": "Vegas Golden Knights at St. Louis Blues",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Vegas Golden Knights",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/15506e97-07f7-4138-8d2f-48830c5f4445.webp",
+            "Team_B": "St. Louis Blues",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/5132e046-2483-4cc1-bf41-6f7eb254766a.webp",
+            "Start_Time": "23/10/2026; 05:30:00 IST",
+            "End_Time": "23/10/2026; 08:30:00 IST",
+            "UTC_Start": "2026/10/23 00:00:00 +0000",
+            "UTC_End": "2026/10/23 03:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/poiryezafv56.m3u8|Referer=https://streame.center\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "16",
