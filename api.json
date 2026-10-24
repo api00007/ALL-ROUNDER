@@ -5442,7 +5442,7 @@
   ],
   "sports_live": {
     "Finish": "00",
-    "Last update time": "03:35:28 AM 24-10-2026",
+    "Last update time": "06:05:28 AM 24-10-2026",
     "Live": "00",
     "Upcoming": "56",
     "events": [
@@ -5486,6 +5486,11 @@
       {
         "cat": "Boxing",
         "channels_data": [
+          {
+            "link": "https://emby.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          },
           {
             "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream1.pro/hls/zeuryuegn48.m3u8|Referer=https://streame.center",
             "title": "HQ Stream",
@@ -7676,6 +7681,11 @@
             "source": "ivan",
             "title": "Link 1",
             "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58461/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "title": "HD Link",
+            "tokenApi": ""
           }
         ],
         "eventInfo": {
@@ -7817,6 +7827,47 @@
         "id": 1792765363737,
         "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
         "title": "NCAA Football"
+      },
+      {
+        "cat": "MMA",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58466/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "title": "HD Link",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/24 05:14:00 +0000",
+          "eventName": "BKFC",
+          "isHot": "0",
+          "startTime": "2026/10/24 00:00:00 +0000",
+          "teamA": "Ryan Reber ",
+          "teamAFlag": "https://images.tapology.com/headshot_images/335404/large/BKFC_25_12.jpeg?1652142993",
+          "teamB": "Justin Street",
+          "teamBFlag": "https://images.tapology.com/headshot_images/119672/large/streethead.jpg?1453014274"
+        },
+        "id": 139,
+        "league_logo": "https://images.tapology.com/logo_squares/2682/icon_bw/Bare_Knuckle_Fighting_Championship-logo-sq.jpg?1743621666",
+        "title": "BKFC"
+      },
+      {
+        "cat": "Wrestling",
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/10/24 05:18:00 +0000",
+          "eventName": "RAF 14",
+          "isHot": "0",
+          "startTime": "2026/10/24 01:00:00 +0000",
+          "teamA": "Tsarukyan",
+          "teamAFlag": "https://images.tapology.com/headshot_images/115752/large/Screenshot_%283%29.png?1712456355",
+          "teamB": "Danis",
+          "teamBFlag": "https://images.tapology.com/headshot_images/101730/large/Dillon-Danis.jpg?1552331980"
+        },
+        "id": 573,
+        "league_logo": "https://images.tapology.com/logo_squares/6307/icon_bw/Real_American_Freestyle-logo-sq.png?1769544766",
+        "title": "RAF 14"
       }
     ]
   }
