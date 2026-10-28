@@ -2,8 +2,8 @@
     "Owner": "Ivan-FluX",
     "Telegram": "https://t.me/iVan_flux",
     "App name": "fawna-auto-scrape-api",
-    "Last update": "28/10/26 13:22:52 IST",
-    "Total_Matches": 57,
+    "Last update": "28/10/26 13:43:58 IST",
+    "Total_Matches": 98,
     "Live_Data": [
         {
             "Id": "1",
@@ -37,312 +37,558 @@
         },
         {
             "Id": "6",
-            "Rivels": "Sassuolo vs Lazio",
+            "Rivels": "Milan vs Bologna",
             "Title": "Soccer (S-1)",
             "Link": "https://tedesco.formaturamaxi.com.br/now.m3u8"
         },
         {
             "Id": "7",
-            "Rivels": "Sassuolo vs Lazio",
+            "Rivels": "Milan vs Bologna",
             "Title": "Soccer (S-2)",
             "Link": "https://tedesco.formaturamaxi.com.br/now.m3u8"
         },
         {
             "Id": "8",
-            "Rivels": "Roma vs Cagliari",
+            "Rivels": "Inter Milan vs Venezia",
             "Title": "Soccer (S-1)",
             "Link": "https://tedesco.formaturamaxi.com.br/now.m3u8"
         },
         {
             "Id": "9",
-            "Rivels": "Roma vs Cagliari",
+            "Rivels": "Inter Milan vs Venezia",
             "Title": "Soccer (S-2)",
             "Link": "https://tedesco.formaturamaxi.com.br/now.m3u8"
         },
         {
             "Id": "10",
-            "Rivels": "Bradford City vs Peterborough United",
+            "Rivels": "Manchester City vs Brighton",
             "Title": "Soccer (S-1)",
             "Link": "https://tedesco.formaturamaxi.com.br/golazo.m3u8"
         },
         {
             "Id": "11",
-            "Rivels": "Bradford City vs Peterborough United",
+            "Rivels": "Manchester City vs Brighton",
             "Title": "Soccer (S-2)",
             "Link": "https://tedesco.formaturamaxi.com.br/golazo.m3u8"
         },
         {
             "Id": "12",
-            "Rivels": "Borussia Dortmund vs Werder Bremen",
+            "Rivels": "Aston Villa vs Bournemouth",
             "Title": "Soccer (S-1)",
-            "Link": "https://admin2.formaturamaxi.com.br/prem1.m3u8"
+            "Link": "https://tedesco.formaturamaxi.com.br/cbssn.m3u8"
         },
         {
             "Id": "13",
-            "Rivels": "Borussia Dortmund vs Werder Bremen",
+            "Rivels": "Aston Villa vs Bournemouth",
             "Title": "Soccer (S-2)",
-            "Link": "https://admin2.formaturamaxi.com.br/prem1.m3u8"
+            "Link": "https://tedesco.formaturamaxi.com.br/cbssn.m3u8"
         },
         {
             "Id": "14",
-            "Rivels": "Torino vs Como",
-            "Title": "Soccer (S-1)",
-            "Link": "https://tedesco.formaturamaxi.com.br/cbssn.m3u8"
-        },
-        {
-            "Id": "15",
-            "Rivels": "Torino vs Como",
-            "Title": "Soccer (S-2)",
-            "Link": "https://tedesco.formaturamaxi.com.br/cbssn.m3u8"
-        },
-        {
-            "Id": "16",
-            "Rivels": "Arsenal vs Fleetwood",
+            "Rivels": "Bayern M\u00c3\u00bcnchen vs Magdeburg",
             "Title": "Soccer (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/main.m3u8"
         },
         {
-            "Id": "17",
-            "Rivels": "Arsenal vs Fleetwood",
+            "Id": "15",
+            "Rivels": "Bayern M\u00c3\u00bcnchen vs Magdeburg",
             "Title": "Soccer (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/foot.m3u8"
         },
         {
-            "Id": "18",
-            "Rivels": "Arsenal vs Fleetwood",
+            "Id": "16",
+            "Rivels": "Bayern M\u00c3\u00bcnchen vs Magdeburg",
             "Title": "Soccer (S-3)",
             "Link": "https://admin2.formaturamaxi.com.br/main.m3u8"
         },
         {
+            "Id": "17",
+            "Rivels": "Fulham vs Crystal Palace",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/prem1.m3u8"
+        },
+        {
+            "Id": "18",
+            "Rivels": "Fulham vs Crystal Palace",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/prem1.m3u8"
+        },
+        {
             "Id": "19",
-            "Rivels": "Brooklyn Nets vs Boston Celtics",
+            "Rivels": "Sunderland vs Brentford",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/sportv.m3u8"
+        },
+        {
+            "Id": "20",
+            "Rivels": "Sunderland vs Brentford",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/sportv.m3u8"
+        },
+        {
+            "Id": "21",
+            "Rivels": "Genoa vs Juventus",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/bein4.m3u8"
+        },
+        {
+            "Id": "22",
+            "Rivels": "Genoa vs Juventus",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/match3ru.m3u8"
+        },
+        {
+            "Id": "23",
+            "Rivels": "Genoa vs Juventus",
+            "Title": "Soccer (S-3)",
+            "Link": "https://admin2.formaturamaxi.com.br/bein4.m3u8"
+        },
+        {
+            "Id": "24",
+            "Rivels": "Monza vs Napoli",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/bein3.m3u8"
+        },
+        {
+            "Id": "25",
+            "Rivels": "Monza vs Napoli",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/bein3.m3u8"
+        },
+        {
+            "Id": "26",
+            "Rivels": "Chelsea vs Liverpool",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/bein4.m3u8"
+        },
+        {
+            "Id": "27",
+            "Rivels": "Chelsea vs Liverpool",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/match1ru.m3u8"
+        },
+        {
+            "Id": "28",
+            "Rivels": "Chelsea vs Liverpool",
+            "Title": "Soccer (S-3)",
+            "Link": "https://admin2.formaturamaxi.com.br/bein4.m3u8"
+        },
+        {
+            "Id": "29",
+            "Rivels": "RB Bragantino vs Chapecoense",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/dep.m3u8"
+        },
+        {
+            "Id": "30",
+            "Rivels": "RB Bragantino vs Chapecoense",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/dep.m3u8"
+        },
+        {
+            "Id": "31",
+            "Rivels": "Fluminense vs Internacional",
+            "Title": "Soccer (S-1)",
+            "Link": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
+        },
+        {
+            "Id": "32",
+            "Rivels": "Santos vs Palmeiras",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/main.m3u8"
+        },
+        {
+            "Id": "33",
+            "Rivels": "Santos vs Palmeiras",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/main.m3u8"
+        },
+        {
+            "Id": "34",
+            "Rivels": "Inter Miami vs Cincinnati",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/golazo.m3u8"
+        },
+        {
+            "Id": "35",
+            "Rivels": "Inter Miami vs Cincinnati",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/golazo.m3u8"
+        },
+        {
+            "Id": "36",
+            "Rivels": "Toronto FC vs DC United",
+            "Title": "Soccer (S-1)",
+            "Link": "https://temp.formaturamaxi.com.br/abc.m3u8"
+        },
+        {
+            "Id": "37",
+            "Rivels": "Toronto FC vs DC United",
+            "Title": "Soccer (S-2)",
+            "Link": "https://temp.formaturamaxi.com.br/abbiecadabrii.m3u8"
+        },
+        {
+            "Id": "38",
+            "Rivels": "Toronto FC vs DC United",
+            "Title": "Soccer (S-3)",
+            "Link": "https://temp.formaturamaxi.com.br/dep.m3u8"
+        },
+        {
+            "Id": "39",
+            "Rivels": "Toronto FC vs DC United",
+            "Title": "Soccer (S-4)",
+            "Link": "https://admin2.formaturamaxi.com.br/dep.m3u8"
+        },
+        {
+            "Id": "40",
+            "Rivels": "Toronto FC vs DC United",
+            "Title": "Soccer (S-5)",
+            "Link": "https://temp.formaturamaxi.com.br/arab.m3u8"
+        },
+        {
+            "Id": "41",
+            "Rivels": "Toronto FC vs DC United",
+            "Title": "Soccer (S-6)",
+            "Link": "https://temp.formaturamaxi.com.br/abc.m3u8"
+        },
+        {
+            "Id": "42",
+            "Rivels": "Bahia vs Sao Paulo",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/colo.m3u8"
+        },
+        {
+            "Id": "43",
+            "Rivels": "Bahia vs Sao Paulo",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/colo.m3u8"
+        },
+        {
+            "Id": "44",
+            "Rivels": "Remo vs Botafogo",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin.formaturamaxi.com.br/afaplay.m3u8"
+        },
+        {
+            "Id": "45",
+            "Rivels": "Remo vs Botafogo",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin.formaturamaxi.com.br/afaplayen.m3u8"
+        },
+        {
+            "Id": "46",
+            "Rivels": "Remo vs Botafogo",
+            "Title": "Soccer (S-3)",
+            "Link": "https://admin.formaturamaxi.com.br/afaplay.m3u8"
+        },
+        {
+            "Id": "47",
+            "Rivels": "Am\u00c3\u00a9rica vs Tijuana",
+            "Title": "Soccer (S-1)",
+            "Link": "https://admin.formaturamaxi.com.br/afaplay2.m3u8"
+        },
+        {
+            "Id": "48",
+            "Rivels": "Am\u00c3\u00a9rica vs Tijuana",
+            "Title": "Soccer (S-2)",
+            "Link": "https://admin.formaturamaxi.com.br/afaplay2en.m3u8"
+        },
+        {
+            "Id": "49",
+            "Rivels": "Am\u00c3\u00a9rica vs Tijuana",
+            "Title": "Soccer (S-3)",
+            "Link": "https://admin.formaturamaxi.com.br/afaplay2.m3u8"
+        },
+        {
+            "Id": "50",
+            "Rivels": "Miami Heat vs Atlanta Hawks",
             "Title": "NBA (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/celtics.m3u8"
         },
         {
-            "Id": "20",
-            "Rivels": "Brooklyn Nets vs Boston Celtics",
+            "Id": "51",
+            "Rivels": "Miami Heat vs Atlanta Hawks",
             "Title": "NBA (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/lp.m3u8"
         },
         {
-            "Id": "21",
-            "Rivels": "Brooklyn Nets vs Boston Celtics",
+            "Id": "52",
+            "Rivels": "Miami Heat vs Atlanta Hawks",
             "Title": "NBA (S-3)",
             "Link": "https://admin2.formaturamaxi.com.br/celtics.m3u8"
         },
         {
-            "Id": "22",
-            "Rivels": "Detroit Pistons vs New York Knicks",
+            "Id": "53",
+            "Rivels": "Washington Wizards vs Cleveland Cavaliers",
             "Title": "NBA (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/nba.m3u8"
         },
         {
-            "Id": "23",
-            "Rivels": "Detroit Pistons vs New York Knicks",
+            "Id": "54",
+            "Rivels": "Washington Wizards vs Cleveland Cavaliers",
             "Title": "NBA (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/nba2.m3u8"
         },
         {
-            "Id": "24",
-            "Rivels": "Detroit Pistons vs New York Knicks",
+            "Id": "55",
+            "Rivels": "Washington Wizards vs Cleveland Cavaliers",
             "Title": "NBA (S-3)",
             "Link": "https://admin2.formaturamaxi.com.br/nba.m3u8"
         },
         {
-            "Id": "25",
-            "Rivels": "Sacramento Kings vs San Antonio Spurs",
+            "Id": "56",
+            "Rivels": "Charlotte Hornets vs Detroit Pistons",
             "Title": "NBA (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/nba3.m3u8"
         },
         {
-            "Id": "26",
-            "Rivels": "Sacramento Kings vs San Antonio Spurs",
+            "Id": "57",
+            "Rivels": "Charlotte Hornets vs Detroit Pistons",
             "Title": "NBA (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/nba3.m3u8"
         },
         {
-            "Id": "27",
-            "Rivels": "Portland Trail Blazers vs Los Angeles Lakers",
+            "Id": "58",
+            "Rivels": "Philadelphia 76ers vs Indiana Pacers",
             "Title": "NBA (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/nba.m3u8"
         },
         {
-            "Id": "28",
-            "Rivels": "Portland Trail Blazers vs Los Angeles Lakers",
+            "Id": "59",
+            "Rivels": "Philadelphia 76ers vs Indiana Pacers",
             "Title": "NBA (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/nba2.m3u8"
         },
         {
-            "Id": "29",
-            "Rivels": "Portland Trail Blazers vs Los Angeles Lakers",
+            "Id": "60",
+            "Rivels": "Philadelphia 76ers vs Indiana Pacers",
             "Title": "NBA (S-3)",
             "Link": "https://admin2.formaturamaxi.com.br/nba.m3u8"
         },
         {
-            "Id": "30",
-            "Rivels": "Columbus Blue Jackets vs Philadelphia Flyers",
+            "Id": "61",
+            "Rivels": "Orlando Magic vs Toronto Raptors",
+            "Title": "NBA (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba5.m3u8"
+        },
+        {
+            "Id": "62",
+            "Rivels": "Orlando Magic vs Toronto Raptors",
+            "Title": "NBA (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba5.m3u8"
+        },
+        {
+            "Id": "63",
+            "Rivels": "New York Knicks vs Chicago Bulls",
+            "Title": "NBA (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba6.m3u8"
+        },
+        {
+            "Id": "64",
+            "Rivels": "New York Knicks vs Chicago Bulls",
+            "Title": "NBA (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba6.m3u8"
+        },
+        {
+            "Id": "65",
+            "Rivels": "Houston Rockets vs Milwaukee Bucks",
+            "Title": "NBA (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba7.m3u8"
+        },
+        {
+            "Id": "66",
+            "Rivels": "Houston Rockets vs Milwaukee Bucks",
+            "Title": "NBA (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba7.m3u8"
+        },
+        {
+            "Id": "67",
+            "Rivels": "Golden State Warriors vs Minnesota Timberwolves",
+            "Title": "NBA (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba8.m3u8"
+        },
+        {
+            "Id": "68",
+            "Rivels": "Golden State Warriors vs Minnesota Timberwolves",
+            "Title": "NBA (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba8.m3u8"
+        },
+        {
+            "Id": "69",
+            "Rivels": "Denver Nuggets vs New Orleans Pelicans",
+            "Title": "NBA (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba9.m3u8"
+        },
+        {
+            "Id": "70",
+            "Rivels": "Denver Nuggets vs New Orleans Pelicans",
+            "Title": "NBA (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba9.m3u8"
+        },
+        {
+            "Id": "71",
+            "Rivels": "San Antonio Spurs vs Utah Jazz",
+            "Title": "NBA (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba10.m3u8"
+        },
+        {
+            "Id": "72",
+            "Rivels": "San Antonio Spurs vs Utah Jazz",
+            "Title": "NBA (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba10.m3u8"
+        },
+        {
+            "Id": "73",
+            "Rivels": "Oklahoma City Thunder vs Dallas Mavericks",
+            "Title": "NBA (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba11.m3u8"
+        },
+        {
+            "Id": "74",
+            "Rivels": "Oklahoma City Thunder vs Dallas Mavericks",
+            "Title": "NBA (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba11.m3u8"
+        },
+        {
+            "Id": "75",
+            "Rivels": "Los Angeles Lakers vs Los Angeles Clippers",
+            "Title": "NBA (S-1)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba12.m3u8"
+        },
+        {
+            "Id": "76",
+            "Rivels": "Los Angeles Lakers vs Los Angeles Clippers",
+            "Title": "NBA (S-2)",
+            "Link": "https://admin2.formaturamaxi.com.br/nba12.m3u8"
+        },
+        {
+            "Id": "77",
+            "Rivels": "Philadelphia Flyers vs Washington Capitals",
             "Title": "NHL (S-1)",
             "Link": "https://tedesco.formaturamaxi.com.br/nhl.m3u8"
         },
         {
-            "Id": "31",
-            "Rivels": "Columbus Blue Jackets vs Philadelphia Flyers",
+            "Id": "78",
+            "Rivels": "Philadelphia Flyers vs Washington Capitals",
             "Title": "NHL (S-2)",
             "Link": "https://tedesco.formaturamaxi.com.br/nhl.m3u8"
         },
         {
-            "Id": "32",
-            "Rivels": "Boston Bruins vs Carolina Hurricanes",
+            "Id": "79",
+            "Rivels": "Calgary Flames vs Edmonton Oilers",
             "Title": "NHL (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/nhl2.m3u8"
         },
         {
-            "Id": "33",
-            "Rivels": "Boston Bruins vs Carolina Hurricanes",
+            "Id": "80",
+            "Rivels": "Calgary Flames vs Edmonton Oilers",
             "Title": "NHL (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/nhl2.m3u8"
         },
         {
-            "Id": "34",
-            "Rivels": "Los Angeles Kings vs Chicago Blackhawks",
+            "Id": "81",
+            "Rivels": "New Jersey Devils vs Colorado Avalanche",
             "Title": "NHL (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/nhl3.m3u8"
         },
         {
-            "Id": "35",
-            "Rivels": "Los Angeles Kings vs Chicago Blackhawks",
+            "Id": "82",
+            "Rivels": "New Jersey Devils vs Colorado Avalanche",
             "Title": "NHL (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/nhl3.m3u8"
         },
         {
-            "Id": "36",
-            "Rivels": "Montreal Canadiens vs St. Louis Blues",
+            "Id": "83",
+            "Rivels": "Toronto Maple Leafs vs Seattle Kraken",
             "Title": "NHL (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/nhl4.m3u8"
         },
         {
-            "Id": "37",
-            "Rivels": "Montreal Canadiens vs St. Louis Blues",
+            "Id": "84",
+            "Rivels": "Toronto Maple Leafs vs Seattle Kraken",
             "Title": "NHL (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/nhl4.m3u8"
         },
         {
-            "Id": "38",
-            "Rivels": "New York Islanders vs Nashville Predators",
-            "Title": "NHL (S-1)",
-            "Link": "https://admin2.formaturamaxi.com.br/nhl5.m3u8"
-        },
-        {
-            "Id": "39",
-            "Rivels": "New Jersey Devils vs Dallas Stars",
-            "Title": "NHL (S-1)",
-            "Link": "https://admin2.formaturamaxi.com.br/nhl6.m3u8"
-        },
-        {
-            "Id": "40",
-            "Rivels": "Florida Panthers vs Winnipeg Jets",
-            "Title": "NHL (S-1)",
-            "Link": "https://admin2.formaturamaxi.com.br/nhl7.m3u8"
-        },
-        {
-            "Id": "41",
-            "Rivels": "Minnesota Wild vs Utah Mammoth",
-            "Title": "NHL (S-1)",
-            "Link": "https://admin2.formaturamaxi.com.br/nhl8.m3u8"
-        },
-        {
-            "Id": "42",
-            "Rivels": "Ottawa Senators vs Vegas Golden Knights",
-            "Title": "NHL (S-1)",
-            "Link": "https://admin2.formaturamaxi.com.br/nhl9.m3u8"
-        },
-        {
-            "Id": "43",
-            "Rivels": "Vancouver Canucks vs Anaheim Ducks",
-            "Title": "NHL (S-1)",
-            "Link": "https://admin2.formaturamaxi.com.br/nhl10.m3u8"
-        },
-        {
-            "Id": "44",
-            "Rivels": "Delaware vs Western Kentucky",
+            "Id": "85",
+            "Rivels": "Kennesaw State vs Middle Tennessee",
             "Title": "NFL (S-1)",
             "Link": "https://tedesco.formaturamaxi.com.br/ncaa.m3u8"
         },
         {
-            "Id": "45",
-            "Rivels": "Delaware vs Western Kentucky",
+            "Id": "86",
+            "Rivels": "Kennesaw State vs Middle Tennessee",
             "Title": "NFL (S-2)",
             "Link": "https://tedesco.formaturamaxi.com.br/ncaa.m3u8"
         },
         {
-            "Id": "46",
-            "Rivels": "Sam Houston vs Missouri State",
+            "Id": "87",
+            "Rivels": "Jacksonville State vs New Mexico State",
             "Title": "NFL (S-1)",
             "Link": "https://tedesco.formaturamaxi.com.br/ncaa2.m3u8"
         },
         {
-            "Id": "47",
-            "Rivels": "Sam Houston vs Missouri State",
+            "Id": "88",
+            "Rivels": "Jacksonville State vs New Mexico State",
             "Title": "NFL (S-2)",
             "Link": "https://tedesco.formaturamaxi.com.br/ncaa2.m3u8"
         },
         {
-            "Id": "48",
+            "Id": "89",
             "Rivels": "AEW",
             "Title": "Fighting (S-1)",
             "Link": "https://tedesco.formaturamaxi.com.br/aew.m3u8"
         },
         {
-            "Id": "49",
+            "Id": "90",
             "Rivels": "AEW",
             "Title": "Fighting (S-2)",
             "Link": "https://tedesco.formaturamaxi.com.br/aew.m3u8"
         },
         {
-            "Id": "50",
+            "Id": "91",
             "Rivels": "TNA",
             "Title": "Fighting (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/ppv.m3u8"
         },
         {
-            "Id": "51",
+            "Id": "92",
             "Rivels": "TNA",
             "Title": "Fighting (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/ppv.m3u8"
         },
         {
-            "Id": "52",
+            "Id": "93",
             "Rivels": "MotoGP - Australian Grand Prix",
             "Title": "Motorsports (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/tnt.m3u8"
         },
         {
-            "Id": "53",
+            "Id": "94",
             "Rivels": "MotoGP - Australian Grand Prix",
             "Title": "Motorsports (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/tnt.m3u8"
         },
         {
-            "Id": "54",
+            "Id": "95",
             "Rivels": "NASCAR Cup Series - Race",
             "Title": "Motorsports (S-1)",
             "Link": "https://admin2.formaturamaxi.com.br/nas.m3u8"
         },
         {
-            "Id": "55",
+            "Id": "96",
             "Rivels": "Formula 1 - United States Grand Prix",
             "Title": "Motorsports (S-1)",
             "Link": "https://temp.formaturamaxi.com.br/main.m3u8"
         },
         {
-            "Id": "56",
+            "Id": "97",
             "Rivels": "Formula 1 - United States Grand Prix",
             "Title": "Motorsports (S-2)",
             "Link": "https://admin2.formaturamaxi.com.br/tsn.m3u8"
         },
         {
-            "Id": "57",
+            "Id": "98",
             "Rivels": "Formula 1 - United States Grand Prix",
             "Title": "Motorsports (S-3)",
             "Link": "https://temp.formaturamaxi.com.br/main.m3u8"
