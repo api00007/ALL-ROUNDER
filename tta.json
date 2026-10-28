@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "28/10/26 16:27:17 IST",
-    "Total_Matches": 37,
+    "Last update": "28/10/26 16:33:11 IST",
+    "Total_Matches": 39,
     "Live_Data": [
         {
             "Id": "1",
@@ -24,23 +24,6 @@
         {
             "Id": "2",
             "Category": "Serie A",
-            "Event_Name": "Venezia vs Inter",
-            "League_Name": "Serie A",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
-            "Stream_Name": "SERIE A SERVER",
-            "Team_A": "Venezia",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Inter",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "28/10/2026; 23:00:00 IST",
-            "End_Time": "29/10/2026; 02:00:00 IST",
-            "UTC_Start": "2026/10/28 17:30:00 +0000",
-            "UTC_End": "2026/10/28 20:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8301967296/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "3",
-            "Category": "Serie A",
             "Event_Name": "Parma vs Udinese",
             "League_Name": "Serie A",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
@@ -54,6 +37,23 @@
             "UTC_Start": "2026/10/28 17:30:00 +0000",
             "UTC_End": "2026/10/28 20:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8301961640/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "3",
+            "Category": "Serie A",
+            "Event_Name": "Venezia vs Inter",
+            "League_Name": "Serie A",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
+            "Stream_Name": "SERIE A SERVER",
+            "Team_A": "Venezia",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Inter",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "28/10/2026; 23:00:00 IST",
+            "End_Time": "29/10/2026; 02:00:00 IST",
+            "UTC_Start": "2026/10/28 17:30:00 +0000",
+            "UTC_End": "2026/10/28 20:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8301967296/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "4",
@@ -177,23 +177,6 @@
         {
             "Id": "11",
             "Category": "Basketball",
-            "Event_Name": "Atlanta Hawks vs Miami Heat",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Atlanta Hawks",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Miami Heat",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "29/10/2026; 04:30:00 IST",
-            "End_Time": "29/10/2026; 07:00:00 IST",
-            "UTC_Start": "2026/10/28 23:00:00 +0000",
-            "UTC_End": "2026/10/29 01:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803937296/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "12",
-            "Category": "Basketball",
             "Event_Name": "Indiana Pacers vs Philadelphia 76ers",
             "League_Name": "NBA",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
@@ -209,24 +192,24 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803954264/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "13",
+            "Id": "12",
             "Category": "Basketball",
-            "Event_Name": "Detroit Pistons vs Charlotte Hornets",
+            "Event_Name": "Atlanta Hawks vs Miami Heat",
             "League_Name": "NBA",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
             "Stream_Name": "NBA SERVER",
-            "Team_A": "Detroit Pistons",
+            "Team_A": "Atlanta Hawks",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Charlotte Hornets",
+            "Team_B": "Miami Heat",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "29/10/2026; 04:30:00 IST",
             "End_Time": "29/10/2026; 07:00:00 IST",
             "UTC_Start": "2026/10/28 23:00:00 +0000",
             "UTC_End": "2026/10/29 01:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803948608/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803937296/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "14",
+            "Id": "13",
             "Category": "Basketball",
             "Event_Name": "Cleveland Cavaliers vs Washington Wizards",
             "League_Name": "NBA",
@@ -243,7 +226,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803942952/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "15",
+            "Id": "14",
             "Category": "American Football",
             "Event_Name": "Middle Tennessee St. vs Kennesaw St.",
             "League_Name": "CFB",
@@ -260,7 +243,41 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699159896/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
+            "Id": "15",
+            "Category": "Basketball",
+            "Event_Name": "Detroit Pistons vs Charlotte Hornets",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Detroit Pistons",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Charlotte Hornets",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "29/10/2026; 04:30:00 IST",
+            "End_Time": "29/10/2026; 07:00:00 IST",
+            "UTC_Start": "2026/10/28 23:00:00 +0000",
+            "UTC_End": "2026/10/29 01:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803948608/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
             "Id": "16",
+            "Category": "MLS",
+            "Event_Name": "Inter Miami CF vs FC Cincinnati",
+            "League_Name": "MLS",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
+            "Stream_Name": "MLS SERVER",
+            "Team_A": "Inter Miami CF",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "FC Cincinnati",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "29/10/2026; 05:00:00 IST",
+            "End_Time": "29/10/2026; 08:00:00 IST",
+            "UTC_Start": "2026/10/28 23:30:00 +0000",
+            "UTC_End": "2026/10/29 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068602968/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "17",
             "Category": "Basketball",
             "Event_Name": "Toronto Raptors vs Orlando Magic",
             "League_Name": "NBA",
@@ -277,7 +294,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803959920/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "17",
+            "Id": "18",
             "Category": "MLS",
             "Event_Name": "Charlotte FC vs CF Montréal",
             "League_Name": "MLS",
@@ -292,23 +309,6 @@
             "UTC_Start": "2026/10/28 23:30:00 +0000",
             "UTC_End": "2026/10/29 02:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068597312/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "18",
-            "Category": "MLS",
-            "Event_Name": "Inter Miami CF vs FC Cincinnati",
-            "League_Name": "MLS",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
-            "Stream_Name": "MLS SERVER",
-            "Team_A": "Inter Miami CF",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "FC Cincinnati",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "29/10/2026; 05:00:00 IST",
-            "End_Time": "29/10/2026; 08:00:00 IST",
-            "UTC_Start": "2026/10/28 23:30:00 +0000",
-            "UTC_End": "2026/10/29 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068602968/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "19",
@@ -363,23 +363,6 @@
         },
         {
             "Id": "22",
-            "Category": "Basketball",
-            "Event_Name": "Minnesota Timberwolves vs Golden State Warriors",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Minnesota Timberwolves",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Golden State Warriors",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "29/10/2026; 05:30:00 IST",
-            "End_Time": "29/10/2026; 08:00:00 IST",
-            "UTC_Start": "2026/10/29 00:00:00 +0000",
-            "UTC_End": "2026/10/29 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803976888/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "23",
             "Category": "NCAA Men",
             "Event_Name": "Memphis Tigers vs Arkansas Razorbacks",
             "League_Name": "NCAA Men",
@@ -396,7 +379,41 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58760/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
+            "Id": "23",
+            "Category": "Basketball",
+            "Event_Name": "Minnesota Timberwolves vs Golden State Warriors",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Minnesota Timberwolves",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Golden State Warriors",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "29/10/2026; 05:30:00 IST",
+            "End_Time": "29/10/2026; 08:00:00 IST",
+            "UTC_Start": "2026/10/29 00:00:00 +0000",
+            "UTC_End": "2026/10/29 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803976888/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
             "Id": "24",
+            "Category": "American Football",
+            "Event_Name": "New Mexico St. vs Jacksonville State",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "New Mexico St.",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Jacksonville State",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "29/10/2026; 05:30:00 IST",
+            "End_Time": "29/10/2026; 09:00:00 IST",
+            "UTC_Start": "2026/10/29 00:00:00 +0000",
+            "UTC_End": "2026/10/29 03:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699165552/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "25",
             "Category": "Baseball",
             "Event_Name": "Tampa Bay Rays vs Milwaukee Brewers",
             "League_Name": "MLB",
@@ -413,7 +430,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9027140024/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "25",
+            "Id": "26",
             "Category": "Basketball",
             "Event_Name": "New Orleans Pelicans vs Denver Nuggets",
             "League_Name": "NBA",
@@ -428,23 +445,6 @@
             "UTC_Start": "2026/10/29 00:00:00 +0000",
             "UTC_End": "2026/10/29 02:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803982544/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "26",
-            "Category": "American Football",
-            "Event_Name": "New Mexico St. vs Jacksonville State",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "New Mexico St.",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Jacksonville State",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "29/10/2026; 05:30:00 IST",
-            "End_Time": "29/10/2026; 09:00:00 IST",
-            "UTC_Start": "2026/10/29 00:00:00 +0000",
-            "UTC_End": "2026/10/29 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699165552/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "27",
@@ -482,20 +482,20 @@
         },
         {
             "Id": "29",
-            "Category": "Hockey",
-            "Event_Name": "Edmonton Oilers vs Calgary Flames",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Edmonton Oilers",
+            "Category": "MLS",
+            "Event_Name": "Chicago Fire vs Orlando City SC",
+            "League_Name": "MLS",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
+            "Stream_Name": "MLS SERVER",
+            "Team_A": "Chicago Fire",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Calgary Flames",
+            "Team_B": "Orlando City SC",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "29/10/2026; 06:00:00 IST",
-            "End_Time": "29/10/2026; 08:30:00 IST",
+            "End_Time": "29/10/2026; 09:00:00 IST",
             "UTC_Start": "2026/10/29 00:30:00 +0000",
-            "UTC_End": "2026/10/29 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577035544/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "UTC_End": "2026/10/29 03:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068631248/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "30",
@@ -516,6 +516,23 @@
         },
         {
             "Id": "31",
+            "Category": "Hockey",
+            "Event_Name": "Edmonton Oilers vs Calgary Flames",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Edmonton Oilers",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Calgary Flames",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "29/10/2026; 06:00:00 IST",
+            "End_Time": "29/10/2026; 08:30:00 IST",
+            "UTC_Start": "2026/10/29 00:30:00 +0000",
+            "UTC_End": "2026/10/29 03:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577035544/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "32",
             "Category": "MLS",
             "Event_Name": "St.Louis City vs Portland Timbers",
             "League_Name": "MLS",
@@ -532,7 +549,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068653872/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "32",
+            "Id": "33",
             "Category": "MLS",
             "Event_Name": "Nashville SC vs Philadelphia Union",
             "League_Name": "MLS",
@@ -549,7 +566,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068648216/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "33",
+            "Id": "34",
             "Category": "MLS",
             "Event_Name": "Minnesota United vs Sporting Kansas City",
             "League_Name": "MLS",
@@ -566,7 +583,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068642560/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "34",
+            "Id": "35",
             "Category": "MLS",
             "Event_Name": "FC Dallas vs Columbus Crew",
             "League_Name": "MLS",
@@ -583,24 +600,24 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068636904/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "35",
-            "Category": "MLS",
-            "Event_Name": "Chicago Fire vs Orlando City SC",
-            "League_Name": "MLS",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
-            "Stream_Name": "MLS SERVER",
-            "Team_A": "Chicago Fire",
+            "Id": "36",
+            "Category": "Hockey",
+            "Event_Name": "Colorado Avalanche vs New Jersey Devils",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Colorado Avalanche",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Orlando City SC",
+            "Team_B": "New Jersey Devils",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "29/10/2026; 06:00:00 IST",
+            "Start_Time": "29/10/2026; 06:30:00 IST",
             "End_Time": "29/10/2026; 09:00:00 IST",
-            "UTC_Start": "2026/10/29 00:30:00 +0000",
+            "UTC_Start": "2026/10/29 01:00:00 +0000",
             "UTC_End": "2026/10/29 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068631248/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577041200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "36",
+            "Id": "37",
             "Category": "Basketball",
             "Event_Name": "Utah Jazz vs San Antonio Spurs",
             "League_Name": "NBA",
@@ -617,21 +634,38 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803988200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "37",
+            "Id": "38",
+            "Category": "Basketball",
+            "Event_Name": "Dallas Mavericks vs Oklahoma City Thunder",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Dallas Mavericks",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Oklahoma City Thunder",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "29/10/2026; 07:00:00 IST",
+            "End_Time": "29/10/2026; 09:30:00 IST",
+            "UTC_Start": "2026/10/29 01:30:00 +0000",
+            "UTC_End": "2026/10/29 04:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8803993856/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "39",
             "Category": "Hockey",
-            "Event_Name": "Colorado Avalanche vs New Jersey Devils",
+            "Event_Name": "Seattle Kraken vs Toronto Maple Leafs",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
             "Stream_Name": "NHL SERVER",
-            "Team_A": "Colorado Avalanche",
+            "Team_A": "Seattle Kraken",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "New Jersey Devils",
+            "Team_B": "Toronto Maple Leafs",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "29/10/2026; 06:30:00 IST",
-            "End_Time": "29/10/2026; 09:00:00 IST",
-            "UTC_Start": "2026/10/29 01:00:00 +0000",
-            "UTC_End": "2026/10/29 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577041200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Start_Time": "29/10/2026; 07:30:00 IST",
+            "End_Time": "29/10/2026; 10:00:00 IST",
+            "UTC_Start": "2026/10/29 02:00:00 +0000",
+            "UTC_End": "2026/10/29 04:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577046856/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
