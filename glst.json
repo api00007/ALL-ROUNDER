@@ -1,11 +1,28 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "30/10/26 04:21:16 IST",
-    "Total_Matches": 26,
+    "Last update": "30/10/26 04:41:28 IST",
+    "Total_Matches": 27,
     "Live_Data": [
         {
             "Id": "1",
+            "Category": "American Football",
+            "Event_Name": "South Carolina State Bulldogs vs Morgan State Bears",
+            "League_Name": "American Football",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Stream_Name": "AMERICAN FOOTBALL SERVER",
+            "Team_A": "American Football",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Team_B": "American Football",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.jpg",
+            "Start_Time": "30/10/2026; 04:30:00 IST",
+            "End_Time": "30/10/2026; 07:30:00 IST",
+            "UTC_Start": "2026/10/29 23:00:00 +0000",
+            "UTC_End": "2026/10/30 02:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/oipozuezeji33.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "2",
             "Category": "American Football",
             "Event_Name": "Florida Atlantic Owls at North Texas Mean Green",
             "League_Name": "NCAA Football",
@@ -22,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sfjnzabacah31.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "2",
+            "Id": "3",
             "Category": "American Football",
             "Event_Name": "Florida Atlantic Owls at North Texas Mean Green",
             "League_Name": "NCAA Football",
@@ -39,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/sh/embed/f0c279b91eeb6cda92d527b764a818ab1543dc21affd991f722f1f980ed00757\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "4",
             "Category": "American Football",
             "Event_Name": "Troy Trojans at James Madison Dukes",
             "League_Name": "NCAA Football",
@@ -56,7 +73,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/qsdnajbq32.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "5",
             "Category": "American Football",
             "Event_Name": "Troy Trojans at James Madison Dukes",
             "League_Name": "NCAA Football",
@@ -73,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/sh/embed/dc03d6dcef1bc217eaa57fb5242c5071f3253aeb8bc812cd817d0375253efbd3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "6",
             "Category": "American Football",
             "Event_Name": "Carolina Panthers at Green Bay Packers",
             "League_Name": "NFL",
@@ -90,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "7",
             "Category": "American Football",
             "Event_Name": "Carolina Panthers at Green Bay Packers",
             "League_Name": "NFL",
@@ -107,7 +124,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/sh/embed/03fd8b83e84a765f33d53a3f2b0d35be25d2ab3f9b49dc6c77c6732f2baec924\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "8",
             "Category": "Basketball",
             "Event_Name": "Cleveland Cavaliers at Atlanta Hawks",
             "League_Name": "NBA",
@@ -124,7 +141,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/mlkijfezag65.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "9",
             "Category": "Basketball",
             "Event_Name": "Sacramento Kings at New Orleans Pelicans",
             "League_Name": "NBA",
@@ -141,7 +158,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "10",
             "Category": "Basketball",
             "Event_Name": "Memphis Grizzlies at Portland Trail Blazers",
             "League_Name": "NBA",
@@ -158,7 +175,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "10",
+            "Id": "11",
             "Category": "Racing",
             "Event_Name": "MotoGP",
             "League_Name": "Racing",
@@ -175,7 +192,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/oeenzgezcz47.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "11",
+            "Id": "12",
             "Category": "Hockey",
             "Event_Name": "Winnipeg Jets at Tampa Bay Lightning",
             "League_Name": "NHL",
@@ -192,7 +209,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/uyopzarf50.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "12",
+            "Id": "13",
             "Category": "Hockey",
             "Event_Name": "Winnipeg Jets at Tampa Bay Lightning",
             "League_Name": "NHL",
@@ -209,7 +226,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/sh/embed/6760e98f6e6c37f89ca891605df5786f478cc2529cc8fd2ad4e636cff2f02fc4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "13",
+            "Id": "14",
             "Category": "Hockey",
             "Event_Name": "Utah Mammoth at Pittsburgh Penguins",
             "League_Name": "NHL",
@@ -226,7 +243,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/hjksgdfauzy51.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "14",
+            "Id": "15",
             "Category": "Hockey",
             "Event_Name": "Utah Mammoth at Pittsburgh Penguins",
             "League_Name": "NHL",
@@ -243,7 +260,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/sh/embed/1ecacce18e5a9377de0d873101b3311736912e6f881508d700d401960de6e123\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "15",
+            "Id": "16",
             "Category": "Hockey",
             "Event_Name": "Columbus Blue Jackets at Carolina Hurricanes",
             "League_Name": "NHL",
@@ -260,7 +277,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/lmdsjkfgv52.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "16",
+            "Id": "17",
             "Category": "Hockey",
             "Event_Name": "Columbus Blue Jackets at Carolina Hurricanes",
             "League_Name": "NHL",
@@ -277,7 +294,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/sh/embed/3ea9987b5da3edba97d67e45e2b0754e17a26fd579585088e1f2d385d7457ad5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "17",
+            "Id": "18",
             "Category": "Hockey",
             "Event_Name": "Chicago Blackhawks at Detroit Red Wings",
             "League_Name": "NHL",
@@ -294,7 +311,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rtzaeyvhb53.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "18",
+            "Id": "19",
             "Category": "Hockey",
             "Event_Name": "Chicago Blackhawks at Detroit Red Wings",
             "League_Name": "NHL",
@@ -311,7 +328,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/sh/embed/f0c279b91eeb6cda92d527b764a818ab1543dc21affd991f722f1f980ed00757\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "19",
+            "Id": "20",
             "Category": "Hockey",
             "Event_Name": "Boston Bruins at St. Louis Blues",
             "League_Name": "NHL",
@@ -328,7 +345,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bnvcxwhfg54.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "20",
+            "Id": "21",
             "Category": "Hockey",
             "Event_Name": "Washington Capitals at Nashville Predators",
             "League_Name": "NHL",
@@ -345,7 +362,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sdezqfza55.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "21",
+            "Id": "22",
             "Category": "Hockey",
             "Event_Name": "Montreal Canadiens at Dallas Stars",
             "League_Name": "NHL",
@@ -362,7 +379,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/poiryezafv56.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "22",
+            "Id": "23",
             "Category": "Hockey",
             "Event_Name": "Montreal Canadiens at Dallas Stars",
             "League_Name": "NHL",
@@ -379,7 +396,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/sh/embed/c20f6c804e32d326ebc7d319adefdddd13096bab38beed7a55c276d7a9059d5e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "23",
+            "Id": "24",
             "Category": "Hockey",
             "Event_Name": "New York Islanders at Minnesota Wild",
             "League_Name": "NHL",
@@ -396,7 +413,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rzavbdyua57.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "24",
+            "Id": "25",
             "Category": "Hockey",
             "Event_Name": "Buffalo Sabres at Anaheim Ducks",
             "League_Name": "NHL",
@@ -413,7 +430,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/earzfddshg58.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "25",
+            "Id": "26",
             "Category": "Hockey",
             "Event_Name": "Ottawa Senators at Los Angeles Kings",
             "League_Name": "NHL",
@@ -430,7 +447,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bvnzadfvyt59.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "26",
+            "Id": "27",
             "Category": "Hockey",
             "Event_Name": "Vancouver Canucks at San Jose Sharks",
             "League_Name": "NHL",
