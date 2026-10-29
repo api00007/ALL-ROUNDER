@@ -1,11 +1,19 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "29/10/26 22:01:54 IST",
+    "Last update": "29/10/26 23:01:52 IST",
     "Total_Matches": 21,
     "Live_Data": [
         {
             "Id": "1",
+            "Rivels": "Frosinone vs Lecce",
+            "Team A": "Frosinone",
+            "Team B": "Lecce",
+            "Title": "Serie A (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/58838/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "2",
             "Rivels": "Atlanta Dream vs Golden State Valkyries",
             "Team A": "Atlanta Dream",
             "Team B": "Golden State Valkyries",
@@ -13,20 +21,12 @@
             "Link": "https://chatgpt.hereisman.net/playlist/58837/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "2",
-            "Rivels": "Frosinone vs Lecce",
-            "Team A": "Frosinone",
-            "Team B": "Lecce",
-            "Title": "Serie A (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8292906384/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
             "Id": "3",
             "Rivels": "Al-Nassr vs Al-Kholood",
             "Team A": "Al-Nassr",
             "Team B": "Al-Kholood",
             "Title": "Saudi Pro League (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8305434424/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/58839/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "4",
@@ -38,14 +38,6 @@
         },
         {
             "Id": "5",
-            "Rivels": "Pittsburgh Penguins vs Utah Mammoth",
-            "Team A": "Pittsburgh Penguins",
-            "Team B": "Utah Mammoth",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8577765168/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "6",
             "Rivels": "Tampa Bay Lightning vs Winnipeg Jets",
             "Team A": "Tampa Bay Lightning",
             "Team B": "Winnipeg Jets",
@@ -53,12 +45,20 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8577770824/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "7",
+            "Id": "6",
             "Rivels": "Carolina Hurricanes vs Columbus Blue Jackets",
             "Team A": "Carolina Hurricanes",
             "Team B": "Columbus Blue Jackets",
             "Title": "NHL (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/8577753856/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "7",
+            "Rivels": "Pittsburgh Penguins vs Utah Mammoth",
+            "Team A": "Pittsburgh Penguins",
+            "Team B": "Utah Mammoth",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8577765168/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "8",
