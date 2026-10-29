@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "30/10/26 02:21:21 IST",
-    "Total_Matches": 27,
+    "Last update": "30/10/26 02:41:22 IST",
+    "Total_Matches": 28,
     "Live_Data": [
         {
             "Id": "1",
@@ -398,6 +398,23 @@
         {
             "Id": "24",
             "Category": "Hockey",
+            "Event_Name": "Montreal Canadiens at Dallas Stars",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "HD SERVER",
+            "Team_A": "Montreal Canadiens",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/567b123a-3a88-42a9-a809-020841c0c05f.webp",
+            "Team_B": "Dallas Stars",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/19aca6fb-bba6-4593-83f1-b4cda6999749.webp",
+            "Start_Time": "30/10/2026; 05:30:00 IST",
+            "End_Time": "30/10/2026; 08:30:00 IST",
+            "UTC_Start": "2026/10/30 00:00:00 +0000",
+            "UTC_End": "2026/10/30 03:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream3.pro/sh/embed/c20f6c804e32d326ebc7d319adefdddd13096bab38beed7a55c276d7a9059d5e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "25",
+            "Category": "Hockey",
             "Event_Name": "New York Islanders at Minnesota Wild",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -413,7 +430,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rzavbdyua57.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "25",
+            "Id": "26",
             "Category": "Hockey",
             "Event_Name": "Buffalo Sabres at Anaheim Ducks",
             "League_Name": "NHL",
@@ -430,7 +447,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/earzfddshg58.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "26",
+            "Id": "27",
             "Category": "Hockey",
             "Event_Name": "Ottawa Senators at Los Angeles Kings",
             "League_Name": "NHL",
@@ -447,7 +464,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/bvnzadfvyt59.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "27",
+            "Id": "28",
             "Category": "Hockey",
             "Event_Name": "Vancouver Canucks at San Jose Sharks",
             "League_Name": "NHL",
