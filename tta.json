@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "29/10/26 22:56:20 IST",
+    "Last update": "29/10/26 23:01:50 IST",
     "Total_Matches": 21,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "Basketball",
-            "Event_Name": "Atlanta Dream vs Golden State Valkyries",
-            "League_Name": "WNBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "WNBA SERVER",
-            "Team_A": "Atlanta Dream",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Golden State Valkyries",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "29/10/2026; 22:00:00 IST",
-            "End_Time": "30/10/2026; 00:30:00 IST",
-            "UTC_Start": "2026/10/29 16:30:00 +0000",
-            "UTC_End": "2026/10/29 19:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58837/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "Serie A",
             "Event_Name": "Frosinone vs Lecce",
             "League_Name": "Serie A",
@@ -37,6 +20,23 @@
             "UTC_Start": "2026/10/29 17:30:00 +0000",
             "UTC_End": "2026/10/29 20:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58838/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "2",
+            "Category": "Basketball",
+            "Event_Name": "Atlanta Dream vs Golden State Valkyries",
+            "League_Name": "WNBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "WNBA SERVER",
+            "Team_A": "Atlanta Dream",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Golden State Valkyries",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "29/10/2026; 22:00:00 IST",
+            "End_Time": "30/10/2026; 00:30:00 IST",
+            "UTC_Start": "2026/10/29 16:30:00 +0000",
+            "UTC_End": "2026/10/29 19:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58837/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "3",
@@ -75,23 +75,6 @@
         {
             "Id": "5",
             "Category": "Hockey",
-            "Event_Name": "Carolina Hurricanes vs Columbus Blue Jackets",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Carolina Hurricanes",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Columbus Blue Jackets",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "30/10/2026; 04:30:00 IST",
-            "End_Time": "30/10/2026; 07:00:00 IST",
-            "UTC_Start": "2026/10/29 23:00:00 +0000",
-            "UTC_End": "2026/10/30 01:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577753856/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "6",
-            "Category": "Hockey",
             "Event_Name": "Tampa Bay Lightning vs Winnipeg Jets",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -105,6 +88,23 @@
             "UTC_Start": "2026/10/29 23:00:00 +0000",
             "UTC_End": "2026/10/30 01:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577770824/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "6",
+            "Category": "Hockey",
+            "Event_Name": "Carolina Hurricanes vs Columbus Blue Jackets",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Carolina Hurricanes",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Columbus Blue Jackets",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "30/10/2026; 04:30:00 IST",
+            "End_Time": "30/10/2026; 07:00:00 IST",
+            "UTC_Start": "2026/10/29 23:00:00 +0000",
+            "UTC_End": "2026/10/30 01:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577753856/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "7",
