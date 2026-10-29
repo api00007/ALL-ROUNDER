@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "30/10/26 00:36:17 IST",
+    "Last update": "30/10/26 00:46:33 IST",
     "Total_Matches": 21,
     "Live_Data": [
         {
@@ -40,23 +40,6 @@
         },
         {
             "Id": "3",
-            "Category": "Soccer",
-            "Event_Name": "Everton vs Newcastle United",
-            "League_Name": "EFL Cup",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/3666/image",
-            "Stream_Name": "EFL CUP SERVER",
-            "Team_A": "Everton",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Newcastle United",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "30/10/2026; 01:15:00 IST",
-            "End_Time": "30/10/2026; 03:15:00 IST",
-            "UTC_Start": "2026/10/29 19:45:00 +0000",
-            "UTC_End": "2026/10/29 21:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58841/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "4",
             "Category": "Serie A",
             "Event_Name": "Fiorentina vs Atalanta",
             "League_Name": "Serie A",
@@ -71,6 +54,23 @@
             "UTC_Start": "2026/10/29 19:45:00 +0000",
             "UTC_End": "2026/10/29 22:45:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58840/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "4",
+            "Category": "Soccer",
+            "Event_Name": "Everton vs Newcastle United",
+            "League_Name": "EFL Cup",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/3666/image",
+            "Stream_Name": "EFL CUP SERVER",
+            "Team_A": "Everton",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Newcastle United",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "30/10/2026; 01:15:00 IST",
+            "End_Time": "30/10/2026; 03:15:00 IST",
+            "UTC_Start": "2026/10/29 19:45:00 +0000",
+            "UTC_End": "2026/10/29 21:45:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58841/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "5",
@@ -92,23 +92,6 @@
         {
             "Id": "6",
             "Category": "Hockey",
-            "Event_Name": "Tampa Bay Lightning vs Winnipeg Jets",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Tampa Bay Lightning",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Winnipeg Jets",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "30/10/2026; 04:30:00 IST",
-            "End_Time": "30/10/2026; 07:00:00 IST",
-            "UTC_Start": "2026/10/29 23:00:00 +0000",
-            "UTC_End": "2026/10/30 01:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577770824/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "7",
-            "Category": "Hockey",
             "Event_Name": "Pittsburgh Penguins vs Utah Mammoth",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -124,7 +107,41 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577765168/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
+            "Id": "7",
+            "Category": "Hockey",
+            "Event_Name": "Tampa Bay Lightning vs Winnipeg Jets",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Tampa Bay Lightning",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Winnipeg Jets",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "30/10/2026; 04:30:00 IST",
+            "End_Time": "30/10/2026; 07:00:00 IST",
+            "UTC_Start": "2026/10/29 23:00:00 +0000",
+            "UTC_End": "2026/10/30 01:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577770824/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
             "Id": "8",
+            "Category": "Hockey",
+            "Event_Name": "Detroit Red Wings vs Chicago Blackhawks",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Detroit Red Wings",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Chicago Blackhawks",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "30/10/2026; 05:00:00 IST",
+            "End_Time": "30/10/2026; 07:30:00 IST",
+            "UTC_Start": "2026/10/29 23:30:00 +0000",
+            "UTC_End": "2026/10/30 02:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577759512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "9",
             "Category": "American Football",
             "Event_Name": "James Madison vs Troy",
             "League_Name": "CFB",
@@ -141,7 +158,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699182520/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "10",
             "Category": "American Football",
             "Event_Name": "North Texas vs Florida Atl.",
             "League_Name": "CFB",
@@ -156,23 +173,6 @@
             "UTC_Start": "2026/10/29 23:30:00 +0000",
             "UTC_End": "2026/10/30 03:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699188176/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "10",
-            "Category": "Hockey",
-            "Event_Name": "Detroit Red Wings vs Chicago Blackhawks",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Detroit Red Wings",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Chicago Blackhawks",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "30/10/2026; 05:00:00 IST",
-            "End_Time": "30/10/2026; 07:30:00 IST",
-            "UTC_Start": "2026/10/29 23:30:00 +0000",
-            "UTC_End": "2026/10/30 02:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8577759512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "11",
