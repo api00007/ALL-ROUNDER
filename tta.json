@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "30/10/26 12:31:30 IST",
-    "Total_Matches": 4,
+    "Last update": "30/10/26 12:35:56 IST",
+    "Total_Matches": 3,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "UFC",
-            "Event_Name": "UFC BJJ 13: Tackett vs Rodriguez",
-            "League_Name": "UFC",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11187/image",
-            "Stream_Name": "UFC SERVER",
-            "Team_A": "UFC BJJ 13: Tackett",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Rodriguez",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "30/10/2026; 05:30:00 IST",
-            "End_Time": "30/10/2026; 08:30:00 IST",
-            "UTC_Start": "2026/10/30 00:00:00 +0000",
-            "UTC_End": "2026/10/30 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58868/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "LaLiga",
             "Event_Name": "Villarreal vs Espanyol",
             "League_Name": "LaLiga",
@@ -39,7 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8317566544/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "2",
             "Category": "Nascar",
             "Event_Name": "2026 Truck Playoff at Martinsville",
             "League_Name": "Nascar",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58851/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "Hockey",
             "Event_Name": "Vegas Golden Knights vs New Jersey Devils",
             "League_Name": "NHL",
