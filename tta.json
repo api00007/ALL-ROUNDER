@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "30/10/26 16:26:10 IST",
-    "Total_Matches": 16,
+    "Last update": "30/10/26 16:36:22 IST",
+    "Total_Matches": 18,
     "Live_Data": [
         {
             "Id": "1",
@@ -23,23 +23,6 @@
         },
         {
             "Id": "2",
-            "Category": "Nascar",
-            "Event_Name": "2026 Truck Playoff at Martinsville",
-            "League_Name": "Nascar",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NASCAR SERVER",
-            "Team_A": "2026 Truck Playoff",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Martinsville",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 03:30:00 IST",
-            "End_Time": "31/10/2026; 06:30:00 IST",
-            "UTC_Start": "2026/10/30 22:00:00 +0000",
-            "UTC_End": "2026/10/31 01:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58851/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "3",
             "Category": "Hockey",
             "Event_Name": "Vegas Golden Knights vs New Jersey Devils",
             "League_Name": "NHL",
@@ -54,6 +37,23 @@
             "UTC_Start": "2026/10/30 22:00:00 +0000",
             "UTC_End": "2026/10/31 00:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8578245928/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "3",
+            "Category": "Nascar",
+            "Event_Name": "2026 Truck Playoff at Martinsville",
+            "League_Name": "Nascar",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NASCAR SERVER",
+            "Team_A": "2026 Truck Playoff",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Martinsville",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 03:30:00 IST",
+            "End_Time": "31/10/2026; 06:30:00 IST",
+            "UTC_Start": "2026/10/30 22:00:00 +0000",
+            "UTC_End": "2026/10/31 01:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58851/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "4",
@@ -74,23 +74,6 @@
         },
         {
             "Id": "5",
-            "Category": "American Football",
-            "Event_Name": "Charlotte vs Tulane",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Charlotte",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Tulane",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 04:30:00 IST",
-            "End_Time": "31/10/2026; 08:00:00 IST",
-            "UTC_Start": "2026/10/30 23:00:00 +0000",
-            "UTC_End": "2026/10/31 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699205144/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "6",
             "Category": "Hockey",
             "Event_Name": "Florida Panthers vs Winnipeg Jets",
             "League_Name": "NHL",
@@ -107,21 +90,38 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8578251584/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
+            "Id": "6",
+            "Category": "American Football",
+            "Event_Name": "Charlotte vs Tulane",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Charlotte",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Tulane",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 04:30:00 IST",
+            "End_Time": "31/10/2026; 08:00:00 IST",
+            "UTC_Start": "2026/10/30 23:00:00 +0000",
+            "UTC_End": "2026/10/31 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699205144/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
             "Id": "7",
             "Category": "Basketball",
-            "Event_Name": "Boston Celtics vs Chicago Bulls",
+            "Event_Name": "Toronto Raptors vs Orlando Magic",
             "League_Name": "NBA",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
             "Stream_Name": "NBA SERVER",
-            "Team_A": "Boston Celtics",
+            "Team_A": "Toronto Raptors",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Chicago Bulls",
+            "Team_B": "Orlando Magic",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "31/10/2026; 05:00:00 IST",
             "End_Time": "31/10/2026; 07:30:00 IST",
             "UTC_Start": "2026/10/30 23:30:00 +0000",
             "UTC_End": "2026/10/31 02:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805537944/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805554912/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "8",
@@ -160,19 +160,19 @@
         {
             "Id": "10",
             "Category": "Basketball",
-            "Event_Name": "Toronto Raptors vs Orlando Magic",
+            "Event_Name": "Boston Celtics vs Chicago Bulls",
             "League_Name": "NBA",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
             "Stream_Name": "NBA SERVER",
-            "Team_A": "Toronto Raptors",
+            "Team_A": "Boston Celtics",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Orlando Magic",
+            "Team_B": "Chicago Bulls",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "31/10/2026; 05:00:00 IST",
             "End_Time": "31/10/2026; 07:30:00 IST",
             "UTC_Start": "2026/10/30 23:30:00 +0000",
             "UTC_End": "2026/10/31 02:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805554912/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805537944/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "11",
@@ -194,19 +194,19 @@
         {
             "Id": "12",
             "Category": "Basketball",
-            "Event_Name": "Dallas Mavericks vs Houston Rockets",
+            "Event_Name": "Minnesota Timberwolves vs Los Angeles Clippers",
             "League_Name": "NBA",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
             "Stream_Name": "NBA SERVER",
-            "Team_A": "Dallas Mavericks",
+            "Team_A": "Minnesota Timberwolves",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Houston Rockets",
+            "Team_B": "Los Angeles Clippers",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "31/10/2026; 05:30:00 IST",
             "End_Time": "31/10/2026; 08:00:00 IST",
             "UTC_Start": "2026/10/31 00:00:00 +0000",
             "UTC_End": "2026/10/31 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805560568/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805571880/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "13",
@@ -228,19 +228,19 @@
         {
             "Id": "14",
             "Category": "Basketball",
-            "Event_Name": "Minnesota Timberwolves vs Los Angeles Clippers",
+            "Event_Name": "Dallas Mavericks vs Houston Rockets",
             "League_Name": "NBA",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
             "Stream_Name": "NBA SERVER",
-            "Team_A": "Minnesota Timberwolves",
+            "Team_A": "Dallas Mavericks",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Los Angeles Clippers",
+            "Team_B": "Houston Rockets",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "31/10/2026; 05:30:00 IST",
             "End_Time": "31/10/2026; 08:00:00 IST",
             "UTC_Start": "2026/10/31 00:00:00 +0000",
             "UTC_End": "2026/10/31 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805571880/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805560568/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "15",
@@ -275,6 +275,40 @@
             "UTC_Start": "2026/10/31 00:00:00 +0000",
             "UTC_End": "2026/10/31 02:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8578257240/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "17",
+            "Category": "Basketball",
+            "Event_Name": "Golden State Warriors vs Los Angeles Lakers",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Golden State Warriors",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Los Angeles Lakers",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 07:30:00 IST",
+            "End_Time": "31/10/2026; 10:00:00 IST",
+            "UTC_Start": "2026/10/31 02:00:00 +0000",
+            "UTC_End": "2026/10/31 04:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805577536/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "18",
+            "Category": "Basketball",
+            "Event_Name": "Phoenix Suns vs Denver Nuggets",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Phoenix Suns",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Denver Nuggets",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 07:30:00 IST",
+            "End_Time": "31/10/2026; 10:00:00 IST",
+            "UTC_Start": "2026/10/31 02:00:00 +0000",
+            "UTC_End": "2026/10/31 04:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8805583192/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
