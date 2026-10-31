@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "01/11/26 05:11:52 IST",
+    "Last update": "01/11/26 05:17:01 IST",
     "Total_Matches": 42,
     "Live_Data": [
         {
@@ -211,6 +211,23 @@
         {
             "Id": "13",
             "Category": "American Football",
+            "Event_Name": "Arkansas vs Missouri",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Arkansas",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Missouri",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 05:15:00 IST",
+            "End_Time": "01/11/2026; 08:45:00 IST",
+            "UTC_Start": "2026/10/31 23:45:00 +0000",
+            "UTC_End": "2026/11/01 03:15:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59008/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "14",
+            "Category": "American Football",
             "Event_Name": "Pittsburgh vs Georgia Tech",
             "League_Name": "CFB",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
@@ -226,7 +243,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59004/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "14",
+            "Id": "15",
             "Category": "Hockey",
             "Event_Name": "Vancouver Canucks vs Toronto Maple Leafs",
             "League_Name": "NHL",
@@ -243,7 +260,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58997/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "15",
+            "Id": "16",
             "Category": "Hockey",
             "Event_Name": "Montréal Canadiens vs Pittsburgh Penguins",
             "League_Name": "NHL",
@@ -260,7 +277,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58999/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "16",
+            "Id": "17",
             "Category": "Basketball",
             "Event_Name": "New Orleans Pelicans vs Atlanta Hawks",
             "League_Name": "NBA",
@@ -277,7 +294,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59000/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "17",
+            "Id": "18",
             "Category": "Basketball",
             "Event_Name": "New Orleans Pelicans vs Atlanta Hawks",
             "League_Name": "NBA",
@@ -294,7 +311,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58995/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "18",
+            "Id": "19",
             "Category": "American Football",
             "Event_Name": "San Diego St. vs Washington St.",
             "League_Name": "CFB",
@@ -311,7 +328,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58994/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "19",
+            "Id": "20",
             "Category": "American Football",
             "Event_Name": "Florida State vs Clemson",
             "League_Name": "CFB",
@@ -328,7 +345,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58996/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "20",
+            "Id": "21",
             "Category": "American Football",
             "Event_Name": "Georgia Southern vs Appalachian St.",
             "League_Name": "CFB",
@@ -345,7 +362,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58993/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "21",
+            "Id": "22",
             "Category": "American Football",
             "Event_Name": "Oklahoma vs South Carolina",
             "League_Name": "CFB",
@@ -362,23 +379,6 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58981/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "22",
-            "Category": "American Football",
-            "Event_Name": "Arkansas vs Missouri",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Arkansas",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Missouri",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 05:15:00 IST",
-            "End_Time": "01/11/2026; 08:45:00 IST",
-            "UTC_Start": "2026/10/31 23:45:00 +0000",
-            "UTC_End": "2026/11/01 03:15:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59008/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
             "Id": "23",
             "Category": "Basketball",
             "Event_Name": "Memphis Grizzlies vs Sacramento Kings",
@@ -393,7 +393,7 @@
             "End_Time": "01/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/01 00:00:00 +0000",
             "UTC_End": "2026/11/01 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59012/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59017/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "24",
@@ -410,7 +410,7 @@
             "End_Time": "01/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/01 00:00:00 +0000",
             "UTC_End": "2026/11/01 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59017/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59012/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "25",
@@ -427,7 +427,7 @@
             "End_Time": "01/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/01 00:00:00 +0000",
             "UTC_End": "2026/11/01 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59016/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59011/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "26",
@@ -444,7 +444,7 @@
             "End_Time": "01/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/01 00:00:00 +0000",
             "UTC_End": "2026/11/01 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59011/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59016/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "27",
@@ -461,7 +461,7 @@
             "End_Time": "01/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/01 00:00:00 +0000",
             "UTC_End": "2026/11/01 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59014/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59015/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "28",
@@ -478,7 +478,7 @@
             "End_Time": "01/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/01 00:00:00 +0000",
             "UTC_End": "2026/11/01 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59015/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59014/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "29",
