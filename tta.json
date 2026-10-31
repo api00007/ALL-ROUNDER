@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "31/10/26 15:13:53 IST",
-    "Total_Matches": 91,
+    "Last update": "31/10/26 15:18:46 IST",
+    "Total_Matches": 90,
     "Live_Data": [
         {
             "Id": "1",
@@ -23,23 +23,6 @@
         },
         {
             "Id": "2",
-            "Category": "MotoGP",
-            "Event_Name": "MotoGP 2026 - Grand Prix of Malaysia",
-            "League_Name": "MotoGP",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "MOTOGP SERVER",
-            "Team_A": "MotoGP 2026",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Grand Prix of Malaysia",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 15:55:00 IST",
-            "End_Time": "31/10/2026; 18:55:00 IST",
-            "UTC_Start": "2026/10/31 10:25:00 +0000",
-            "UTC_End": "2026/10/31 13:25:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58908/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "3",
             "Category": "Premier League",
             "Event_Name": "Chelsea vs Manchester United",
             "League_Name": "Premier League",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8306978512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "LaLiga",
             "Event_Name": "Levante UD vs Atlético Madrid",
             "League_Name": "LaLiga",
@@ -73,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8317543920/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "4",
             "Category": "Serie A",
             "Event_Name": "Bologna vs Monza",
             "League_Name": "Serie A",
@@ -88,6 +71,23 @@
             "UTC_Start": "2026/10/31 14:00:00 +0000",
             "UTC_End": "2026/10/31 17:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312860752/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "5",
+            "Category": "Bundesliga",
+            "Event_Name": "FC Augsburg vs SC Freiburg",
+            "League_Name": "Bundesliga",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/35/image",
+            "Stream_Name": "BUNDESLIGA SERVER",
+            "Team_A": "FC Augsburg",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "SC Freiburg",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 20:00:00 IST",
+            "End_Time": "31/10/2026; 23:00:00 IST",
+            "UTC_Start": "2026/10/31 14:30:00 +0000",
+            "UTC_End": "2026/10/31 17:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8307029416/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "6",
@@ -126,23 +126,6 @@
         {
             "Id": "8",
             "Category": "Bundesliga",
-            "Event_Name": "FC Augsburg vs SC Freiburg",
-            "League_Name": "Bundesliga",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/35/image",
-            "Stream_Name": "BUNDESLIGA SERVER",
-            "Team_A": "FC Augsburg",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "SC Freiburg",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 20:00:00 IST",
-            "End_Time": "31/10/2026; 23:00:00 IST",
-            "UTC_Start": "2026/10/31 14:30:00 +0000",
-            "UTC_End": "2026/10/31 17:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8307029416/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "9",
-            "Category": "Bundesliga",
             "Event_Name": "Bayer 04 Leverkusen vs VfB Stuttgart",
             "League_Name": "Bundesliga",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/35/image",
@@ -158,7 +141,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8307012448/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "10",
+            "Id": "9",
             "Category": "Premier League",
             "Event_Name": "Hull City vs Ipswich Town",
             "League_Name": "Premier League",
@@ -173,6 +156,23 @@
             "UTC_Start": "2026/10/31 15:00:00 +0000",
             "UTC_End": "2026/10/31 18:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312832472/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "10",
+            "Category": "Premier League",
+            "Event_Name": "Coventry City vs Sunderland",
+            "League_Name": "Premier League",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
+            "Stream_Name": "PREMIER LEAGUE SERVER",
+            "Team_A": "Coventry City",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Sunderland",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 20:30:00 IST",
+            "End_Time": "31/10/2026; 23:30:00 IST",
+            "UTC_Start": "2026/10/31 15:00:00 +0000",
+            "UTC_End": "2026/10/31 18:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312826816/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "11",
@@ -193,40 +193,6 @@
         },
         {
             "Id": "12",
-            "Category": "Scottish Premiership",
-            "Event_Name": "Rangers vs Aberdeen",
-            "League_Name": "Scottish Premiership",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "SCOTTISH PREMIERSHIP SERVER",
-            "Team_A": "Rangers",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Aberdeen",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 20:30:00 IST",
-            "End_Time": "31/10/2026; 23:30:00 IST",
-            "UTC_Start": "2026/10/31 15:00:00 +0000",
-            "UTC_End": "2026/10/31 18:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8313064368/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "13",
-            "Category": "Premier League",
-            "Event_Name": "Brentford vs Nottingham Forest",
-            "League_Name": "Premier League",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
-            "Stream_Name": "PREMIER LEAGUE SERVER",
-            "Team_A": "Brentford",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Nottingham Forest",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 20:30:00 IST",
-            "End_Time": "31/10/2026; 23:30:00 IST",
-            "UTC_Start": "2026/10/31 15:00:00 +0000",
-            "UTC_End": "2026/10/31 18:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312821160/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "14",
             "Category": "Premier League",
             "Event_Name": "Manchester City vs Brighton &amp; Hove Albion",
             "League_Name": "Premier League",
@@ -243,24 +209,41 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312838128/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "15",
-            "Category": "Premier League",
-            "Event_Name": "Coventry City vs Sunderland",
-            "League_Name": "Premier League",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
-            "Stream_Name": "PREMIER LEAGUE SERVER",
-            "Team_A": "Coventry City",
+            "Id": "13",
+            "Category": "Scottish Premiership",
+            "Event_Name": "Rangers vs Aberdeen",
+            "League_Name": "Scottish Premiership",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "SCOTTISH PREMIERSHIP SERVER",
+            "Team_A": "Rangers",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Sunderland",
+            "Team_B": "Aberdeen",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "31/10/2026; 20:30:00 IST",
             "End_Time": "31/10/2026; 23:30:00 IST",
             "UTC_Start": "2026/10/31 15:00:00 +0000",
             "UTC_End": "2026/10/31 18:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312826816/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8313064368/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "16",
+            "Id": "14",
+            "Category": "Premier League",
+            "Event_Name": "Brentford vs Nottingham Forest",
+            "League_Name": "Premier League",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
+            "Stream_Name": "PREMIER LEAGUE SERVER",
+            "Team_A": "Brentford",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Nottingham Forest",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 20:30:00 IST",
+            "End_Time": "31/10/2026; 23:30:00 IST",
+            "UTC_Start": "2026/10/31 15:00:00 +0000",
+            "UTC_End": "2026/10/31 18:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312821160/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "15",
             "Category": "LaLiga",
             "Event_Name": "Rayo Vallecano vs Celta Vigo",
             "League_Name": "LaLiga",
@@ -277,7 +260,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8317549576/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "17",
+            "Id": "16",
             "Category": "American Football",
             "Event_Name": "Maryland vs Illinois",
             "League_Name": "CFB",
@@ -294,7 +277,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699363512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "18",
+            "Id": "17",
             "Category": "American Football",
             "Event_Name": "South Florida vs UAB",
             "League_Name": "CFB",
@@ -311,41 +294,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699437040/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "19",
-            "Category": "American Football",
-            "Event_Name": "Navy vs Notre Dame",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Navy",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Notre Dame",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 21:30:00 IST",
-            "End_Time": "01/11/2026; 01:00:00 IST",
-            "UTC_Start": "2026/10/31 16:00:00 +0000",
-            "UTC_End": "2026/10/31 19:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699273016/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "20",
-            "Category": "American Football",
-            "Event_Name": "Western Michigan vs Bowling Green",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Western Michigan",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Bowling Green",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 21:30:00 IST",
-            "End_Time": "01/11/2026; 01:00:00 IST",
-            "UTC_Start": "2026/10/31 16:00:00 +0000",
-            "UTC_End": "2026/10/31 19:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699278672/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "21",
+            "Id": "18",
             "Category": "American Football",
             "Event_Name": "Duke vs Boston College",
             "League_Name": "CFB",
@@ -362,58 +311,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699306952/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "22",
-            "Category": "American Football",
-            "Event_Name": "NC State vs California",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "NC State",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "California",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 21:30:00 IST",
-            "End_Time": "01/11/2026; 01:00:00 IST",
-            "UTC_Start": "2026/10/31 16:00:00 +0000",
-            "UTC_End": "2026/10/31 19:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699380480/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "23",
-            "Category": "American Football",
-            "Event_Name": "Iowa vs Wisconsin",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Iowa",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Wisconsin",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 21:30:00 IST",
-            "End_Time": "01/11/2026; 01:00:00 IST",
-            "UTC_Start": "2026/10/31 16:00:00 +0000",
-            "UTC_End": "2026/10/31 19:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699340888/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "24",
-            "Category": "American Football",
-            "Event_Name": "Syracuse vs SMU",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Syracuse",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "SMU",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 21:30:00 IST",
-            "End_Time": "01/11/2026; 01:00:00 IST",
-            "UTC_Start": "2026/10/31 16:00:00 +0000",
-            "UTC_End": "2026/10/31 19:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699442696/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "25",
+            "Id": "19",
             "Category": "American Football",
             "Event_Name": "Texas Tech vs Arizona",
             "League_Name": "CFB",
@@ -430,7 +328,92 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699459664/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "26",
+            "Id": "20",
+            "Category": "American Football",
+            "Event_Name": "Syracuse vs SMU",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Syracuse",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "SMU",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 21:30:00 IST",
+            "End_Time": "01/11/2026; 01:00:00 IST",
+            "UTC_Start": "2026/10/31 16:00:00 +0000",
+            "UTC_End": "2026/10/31 19:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699442696/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "21",
+            "Category": "American Football",
+            "Event_Name": "Navy vs Notre Dame",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Navy",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Notre Dame",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 21:30:00 IST",
+            "End_Time": "01/11/2026; 01:00:00 IST",
+            "UTC_Start": "2026/10/31 16:00:00 +0000",
+            "UTC_End": "2026/10/31 19:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699273016/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "22",
+            "Category": "American Football",
+            "Event_Name": "Western Michigan vs Bowling Green",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Western Michigan",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Bowling Green",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 21:30:00 IST",
+            "End_Time": "01/11/2026; 01:00:00 IST",
+            "UTC_Start": "2026/10/31 16:00:00 +0000",
+            "UTC_End": "2026/10/31 19:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699278672/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "23",
+            "Category": "American Football",
+            "Event_Name": "NC State vs California",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "NC State",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "California",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 21:30:00 IST",
+            "End_Time": "01/11/2026; 01:00:00 IST",
+            "UTC_Start": "2026/10/31 16:00:00 +0000",
+            "UTC_End": "2026/10/31 19:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699380480/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "24",
+            "Category": "American Football",
+            "Event_Name": "Iowa vs Wisconsin",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Iowa",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Wisconsin",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 21:30:00 IST",
+            "End_Time": "01/11/2026; 01:00:00 IST",
+            "UTC_Start": "2026/10/31 16:00:00 +0000",
+            "UTC_End": "2026/10/31 19:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699340888/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "25",
             "Category": "American Football",
             "Event_Name": "Rutgers vs Michigan",
             "League_Name": "CFB",
@@ -447,7 +430,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699425728/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "27",
+            "Id": "26",
             "Category": "American Football",
             "Event_Name": "Ole Miss vs Auburn",
             "League_Name": "CFB",
@@ -464,58 +447,24 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699403104/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
+            "Id": "27",
+            "Category": "Hockey",
+            "Event_Name": "Boston Bruins vs Chicago Blackhawks",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Boston Bruins",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Chicago Blackhawks",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 22:30:00 IST",
+            "End_Time": "01/11/2026; 01:00:00 IST",
+            "UTC_Start": "2026/10/31 17:00:00 +0000",
+            "UTC_End": "2026/10/31 19:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579869200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
             "Id": "28",
-            "Category": "American Football",
-            "Event_Name": "Old Dominion vs Marshall",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Old Dominion",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Marshall",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 22:30:00 IST",
-            "End_Time": "01/11/2026; 02:00:00 IST",
-            "UTC_Start": "2026/10/31 17:00:00 +0000",
-            "UTC_End": "2026/10/31 20:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699397448/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "29",
-            "Category": "Serie A",
-            "Event_Name": "Udinese vs AS Roma",
-            "League_Name": "Serie A",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
-            "Stream_Name": "SERIE A SERVER",
-            "Team_A": "Udinese",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "AS Roma",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 22:30:00 IST",
-            "End_Time": "01/11/2026; 01:30:00 IST",
-            "UTC_Start": "2026/10/31 17:00:00 +0000",
-            "UTC_End": "2026/10/31 20:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312866408/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "30",
-            "Category": "MLS",
-            "Event_Name": "Charlotte FC vs Orlando City SC",
-            "League_Name": "MLS",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
-            "Stream_Name": "MLS SERVER",
-            "Team_A": "Charlotte FC",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Orlando City SC",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 22:30:00 IST",
-            "End_Time": "01/11/2026; 01:30:00 IST",
-            "UTC_Start": "2026/10/31 17:00:00 +0000",
-            "UTC_End": "2026/10/31 20:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068800928/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "31",
             "Category": "Hockey",
             "Event_Name": "Detroit Red Wings vs St. Louis Blues",
             "League_Name": "NHL",
@@ -532,21 +481,72 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579874856/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "32",
-            "Category": "Hockey",
-            "Event_Name": "Boston Bruins vs Chicago Blackhawks",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Boston Bruins",
+            "Id": "29",
+            "Category": "MLS",
+            "Event_Name": "Charlotte FC vs Orlando City SC",
+            "League_Name": "MLS",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
+            "Stream_Name": "MLS SERVER",
+            "Team_A": "Charlotte FC",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Chicago Blackhawks",
+            "Team_B": "Orlando City SC",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "31/10/2026; 22:30:00 IST",
-            "End_Time": "01/11/2026; 01:00:00 IST",
+            "End_Time": "01/11/2026; 01:30:00 IST",
             "UTC_Start": "2026/10/31 17:00:00 +0000",
-            "UTC_End": "2026/10/31 19:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579869200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "UTC_End": "2026/10/31 20:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068800928/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "30",
+            "Category": "American Football",
+            "Event_Name": "Old Dominion vs Marshall",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Old Dominion",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Marshall",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 22:30:00 IST",
+            "End_Time": "01/11/2026; 02:00:00 IST",
+            "UTC_Start": "2026/10/31 17:00:00 +0000",
+            "UTC_End": "2026/10/31 20:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699397448/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "31",
+            "Category": "Serie A",
+            "Event_Name": "Udinese vs AS Roma",
+            "League_Name": "Serie A",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
+            "Stream_Name": "SERIE A SERVER",
+            "Team_A": "Udinese",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "AS Roma",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 22:30:00 IST",
+            "End_Time": "01/11/2026; 01:30:00 IST",
+            "UTC_Start": "2026/10/31 17:00:00 +0000",
+            "UTC_End": "2026/10/31 20:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312866408/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "32",
+            "Category": "Bundesliga",
+            "Event_Name": "FC Bayern München vs Borussia Dortmund",
+            "League_Name": "Bundesliga",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/35/image",
+            "Stream_Name": "BUNDESLIGA SERVER",
+            "Team_A": "FC Bayern München",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Borussia Dortmund",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "31/10/2026; 23:00:00 IST",
+            "End_Time": "01/11/2026; 02:00:00 IST",
+            "UTC_Start": "2026/10/31 17:30:00 +0000",
+            "UTC_End": "2026/10/31 20:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8307035072/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "33",
@@ -584,23 +584,6 @@
         },
         {
             "Id": "35",
-            "Category": "Bundesliga",
-            "Event_Name": "FC Bayern München vs Borussia Dortmund",
-            "League_Name": "Bundesliga",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/35/image",
-            "Stream_Name": "BUNDESLIGA SERVER",
-            "Team_A": "FC Bayern München",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Borussia Dortmund",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 23:00:00 IST",
-            "End_Time": "01/11/2026; 02:00:00 IST",
-            "UTC_Start": "2026/10/31 17:30:00 +0000",
-            "UTC_End": "2026/10/31 20:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8307035072/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "36",
             "Category": "MLS",
             "Event_Name": "Columbus Crew vs DC United",
             "League_Name": "MLS",
@@ -617,7 +600,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068806584/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "37",
+            "Id": "36",
             "Category": "MLS",
             "Event_Name": "FC Cincinnati vs Philadelphia Union",
             "League_Name": "MLS",
@@ -634,7 +617,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068812240/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "38",
+            "Id": "37",
             "Category": "Hockey",
             "Event_Name": "Nashville Predators vs Tampa Bay Lightning",
             "League_Name": "NHL",
@@ -651,7 +634,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579880512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "39",
+            "Id": "38",
             "Category": "Hockey",
             "Event_Name": "New York Islanders vs Edmonton Oilers",
             "League_Name": "NHL",
@@ -668,7 +651,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579886168/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "40",
+            "Id": "39",
             "Category": "MLS",
             "Event_Name": "New York City FC vs CF Montréal",
             "League_Name": "MLS",
@@ -685,7 +668,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7068823552/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "41",
+            "Id": "40",
             "Category": "American Football",
             "Event_Name": "Georgia St. vs Coastal Carolina",
             "League_Name": "CFB",
@@ -702,7 +685,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699329576/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "42",
+            "Id": "41",
             "Category": "American Football",
             "Event_Name": "Colorado vs Kansas St.",
             "League_Name": "CFB",
@@ -719,7 +702,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699301296/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "43",
+            "Id": "42",
             "Category": "MLS",
             "Event_Name": "Sporting Kansas City vs FC Dallas",
             "League_Name": "MLS",
@@ -736,24 +719,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7069349560/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "44",
-            "Category": "American Football",
-            "Event_Name": "Air Force vs Connecticut",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Air Force",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Connecticut",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 00:30:00 IST",
-            "End_Time": "01/11/2026; 04:00:00 IST",
-            "UTC_Start": "2026/10/31 19:00:00 +0000",
-            "UTC_End": "2026/10/31 22:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699482288/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "45",
+            "Id": "43",
             "Category": "MLS",
             "Event_Name": "St.Louis City vs San Diego FC",
             "League_Name": "MLS",
@@ -770,7 +736,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7069355216/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "46",
+            "Id": "44",
             "Category": "American Football",
             "Event_Name": "East Carolina vs Temple",
             "League_Name": "CFB",
@@ -787,24 +753,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699312608/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "47",
-            "Category": "American Football",
-            "Event_Name": "South Alabama vs Louisiana Tech",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "South Alabama",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Louisiana Tech",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 00:30:00 IST",
-            "End_Time": "01/11/2026; 04:00:00 IST",
-            "UTC_Start": "2026/10/31 19:00:00 +0000",
-            "UTC_End": "2026/10/31 22:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699431384/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "48",
+            "Id": "45",
             "Category": "Basketball",
             "Event_Name": "Utah Jazz vs Portland Trail Blazers",
             "League_Name": "NBA",
@@ -821,7 +770,41 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8807223432/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "49",
+            "Id": "46",
+            "Category": "American Football",
+            "Event_Name": "South Alabama vs Louisiana Tech",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "South Alabama",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Louisiana Tech",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 00:30:00 IST",
+            "End_Time": "01/11/2026; 04:00:00 IST",
+            "UTC_Start": "2026/10/31 19:00:00 +0000",
+            "UTC_End": "2026/10/31 22:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699431384/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "47",
+            "Category": "American Football",
+            "Event_Name": "Air Force vs Connecticut",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Air Force",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Connecticut",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 00:30:00 IST",
+            "End_Time": "01/11/2026; 04:00:00 IST",
+            "UTC_Start": "2026/10/31 19:00:00 +0000",
+            "UTC_End": "2026/10/31 22:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699482288/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "48",
             "Category": "American Football",
             "Event_Name": "Louisville vs Stanford",
             "League_Name": "CFB",
@@ -838,41 +821,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699357856/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "50",
-            "Category": "American Football",
-            "Event_Name": "ULM vs Southern Miss",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "ULM",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Southern Miss",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 01:00:00 IST",
-            "End_Time": "01/11/2026; 04:30:00 IST",
-            "UTC_Start": "2026/10/31 19:30:00 +0000",
-            "UTC_End": "2026/10/31 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699352200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "51",
-            "Category": "American Football",
-            "Event_Name": "Oregon vs Northwestern",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Oregon",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Northwestern",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 01:00:00 IST",
-            "End_Time": "01/11/2026; 04:30:00 IST",
-            "UTC_Start": "2026/10/31 19:30:00 +0000",
-            "UTC_End": "2026/10/31 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699408760/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "52",
+            "Id": "49",
             "Category": "American Football",
             "Event_Name": "Indiana vs Minnesota",
             "League_Name": "CFB",
@@ -889,7 +838,24 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699335232/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "53",
+            "Id": "50",
+            "Category": "American Football",
+            "Event_Name": "Oregon vs Northwestern",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Oregon",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Northwestern",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 01:00:00 IST",
+            "End_Time": "01/11/2026; 04:30:00 IST",
+            "UTC_Start": "2026/10/31 19:30:00 +0000",
+            "UTC_End": "2026/10/31 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699408760/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "51",
             "Category": "American Football",
             "Event_Name": "BYU vs Arizona St.",
             "League_Name": "CFB",
@@ -906,7 +872,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699289984/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "54",
+            "Id": "52",
             "Category": "American Football",
             "Event_Name": "TCU vs Kansas",
             "League_Name": "CFB",
@@ -923,7 +889,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699448352/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "55",
+            "Id": "53",
             "Category": "American Football",
             "Event_Name": "Georgia Bulldogs vs Florida",
             "League_Name": "CFB",
@@ -940,7 +906,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699487944/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "56",
+            "Id": "54",
             "Category": "American Football",
             "Event_Name": "Liberty Flames vs Florida Int.",
             "League_Name": "CFB",
@@ -957,7 +923,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699493600/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "57",
+            "Id": "55",
             "Category": "American Football",
             "Event_Name": "North Dakota State Bison vs UTEP",
             "League_Name": "CFB",
@@ -974,7 +940,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699499256/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "58",
+            "Id": "56",
             "Category": "American Football",
             "Event_Name": "Utah State vs Colorado State",
             "League_Name": "CFB",
@@ -989,6 +955,40 @@
             "UTC_Start": "2026/10/31 19:30:00 +0000",
             "UTC_End": "2026/10/31 23:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699504912/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "57",
+            "Category": "American Football",
+            "Event_Name": "ULM vs Southern Miss",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "ULM",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Southern Miss",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 01:00:00 IST",
+            "End_Time": "01/11/2026; 04:30:00 IST",
+            "UTC_Start": "2026/10/31 19:30:00 +0000",
+            "UTC_End": "2026/10/31 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699352200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "58",
+            "Category": "Serie A",
+            "Event_Name": "AC Milan vs Inter",
+            "League_Name": "Serie A",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
+            "Stream_Name": "SERIE A SERVER",
+            "Team_A": "AC Milan",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Inter",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 01:15:00 IST",
+            "End_Time": "01/11/2026; 04:15:00 IST",
+            "UTC_Start": "2026/10/31 19:45:00 +0000",
+            "UTC_End": "2026/10/31 22:45:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312872064/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "59",
@@ -1026,20 +1026,20 @@
         },
         {
             "Id": "61",
-            "Category": "Serie A",
-            "Event_Name": "AC Milan vs Inter",
-            "League_Name": "Serie A",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
-            "Stream_Name": "SERIE A SERVER",
-            "Team_A": "AC Milan",
+            "Category": "Hockey",
+            "Event_Name": "San Jose Sharks vs Ottawa Senators",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "San Jose Sharks",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Inter",
+            "Team_B": "Ottawa Senators",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 01:15:00 IST",
-            "End_Time": "01/11/2026; 04:15:00 IST",
-            "UTC_Start": "2026/10/31 19:45:00 +0000",
-            "UTC_End": "2026/10/31 22:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312872064/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Start_Time": "01/11/2026; 01:30:00 IST",
+            "End_Time": "01/11/2026; 04:00:00 IST",
+            "UTC_Start": "2026/10/31 20:00:00 +0000",
+            "UTC_End": "2026/10/31 22:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579897480/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "62",
@@ -1061,23 +1061,6 @@
         {
             "Id": "63",
             "Category": "Hockey",
-            "Event_Name": "San Jose Sharks vs Ottawa Senators",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "San Jose Sharks",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Ottawa Senators",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 01:30:00 IST",
-            "End_Time": "01/11/2026; 04:00:00 IST",
-            "UTC_Start": "2026/10/31 20:00:00 +0000",
-            "UTC_End": "2026/10/31 22:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579897480/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "64",
-            "Category": "Hockey",
             "Event_Name": "Los Angeles Kings vs Buffalo Sabres",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -1091,6 +1074,23 @@
             "UTC_Start": "2026/10/31 20:00:00 +0000",
             "UTC_End": "2026/10/31 22:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579891824/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "64",
+            "Category": "Premier League",
+            "Event_Name": "Aston Villa vs Fulham",
+            "League_Name": "Premier League",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
+            "Stream_Name": "PREMIER LEAGUE SERVER",
+            "Team_A": "Aston Villa",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Fulham",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 01:30:00 IST",
+            "End_Time": "01/11/2026; 04:30:00 IST",
+            "UTC_Start": "2026/10/31 20:00:00 +0000",
+            "UTC_End": "2026/10/31 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312855096/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "65",
@@ -1111,23 +1111,6 @@
         },
         {
             "Id": "66",
-            "Category": "Premier League",
-            "Event_Name": "Aston Villa vs Fulham",
-            "League_Name": "Premier League",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
-            "Stream_Name": "PREMIER LEAGUE SERVER",
-            "Team_A": "Aston Villa",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Fulham",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 01:30:00 IST",
-            "End_Time": "01/11/2026; 04:30:00 IST",
-            "UTC_Start": "2026/10/31 20:00:00 +0000",
-            "UTC_End": "2026/10/31 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8312855096/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "67",
             "Category": "American Football",
             "Event_Name": "Penn State vs Purdue",
             "League_Name": "CFB",
@@ -1144,7 +1127,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699414416/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "68",
+            "Id": "67",
             "Category": "American Football",
             "Event_Name": "UCLA vs Nevada",
             "League_Name": "CFB",
@@ -1161,7 +1144,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699465320/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "69",
+            "Id": "68",
             "Category": "American Football",
             "Event_Name": "Oklahoma vs South Carolina",
             "League_Name": "CFB",
@@ -1178,7 +1161,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699391792/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "70",
+            "Id": "69",
             "Category": "MLS",
             "Event_Name": "LA Galaxy vs Austin FC",
             "League_Name": "MLS",
@@ -1195,7 +1178,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7069332592/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "71",
+            "Id": "70",
             "Category": "MLS",
             "Event_Name": "San Jose Earthquakes vs Real Salt Lake",
             "League_Name": "MLS",
@@ -1212,7 +1195,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7069343904/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "72",
+            "Id": "71",
             "Category": "Basketball",
             "Event_Name": "Charlotte Hornets vs Philadelphia 76ers",
             "League_Name": "NBA",
@@ -1229,7 +1212,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8807229088/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "73",
+            "Id": "72",
             "Category": "American Football",
             "Event_Name": "Georgia Southern vs Appalachian St.",
             "League_Name": "CFB",
@@ -1246,7 +1229,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699323920/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "74",
+            "Id": "73",
             "Category": "Hockey",
             "Event_Name": "Montréal Canadiens vs Pittsburgh Penguins",
             "League_Name": "NHL",
@@ -1263,75 +1246,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579903136/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "75",
-            "Category": "Basketball",
-            "Event_Name": "New Orleans Pelicans vs Atlanta Hawks",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "New Orleans Pelicans",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Atlanta Hawks",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 04:30:00 IST",
-            "End_Time": "01/11/2026; 07:00:00 IST",
-            "UTC_Start": "2026/10/31 23:00:00 +0000",
-            "UTC_End": "2026/11/01 01:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8807234744/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "76",
-            "Category": "American Football",
-            "Event_Name": "San Diego St. vs Washington St.",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "San Diego St.",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Washington St.",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 04:30:00 IST",
-            "End_Time": "01/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/10/31 23:00:00 +0000",
-            "UTC_End": "2026/11/01 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699516224/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "77",
-            "Category": "American Football",
-            "Event_Name": "Iowa State vs Oklahoma St.",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Iowa State",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Oklahoma St.",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 04:30:00 IST",
-            "End_Time": "01/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/10/31 23:00:00 +0000",
-            "UTC_End": "2026/11/01 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699346544/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "78",
-            "Category": "American Football",
-            "Event_Name": "Florida State vs Clemson",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Florida State",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Clemson",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "01/11/2026; 04:30:00 IST",
-            "End_Time": "01/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/10/31 23:00:00 +0000",
-            "UTC_End": "2026/11/01 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699318264/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "79",
+            "Id": "74",
             "Category": "Hockey",
             "Event_Name": "Vancouver Canucks vs Toronto Maple Leafs",
             "League_Name": "NHL",
@@ -1348,7 +1263,75 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8579908792/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "80",
+            "Id": "75",
+            "Category": "American Football",
+            "Event_Name": "San Diego St. vs Washington St.",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "San Diego St.",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Washington St.",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 04:30:00 IST",
+            "End_Time": "01/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/10/31 23:00:00 +0000",
+            "UTC_End": "2026/11/01 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699516224/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "76",
+            "Category": "American Football",
+            "Event_Name": "Iowa State vs Oklahoma St.",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Iowa State",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Oklahoma St.",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 04:30:00 IST",
+            "End_Time": "01/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/10/31 23:00:00 +0000",
+            "UTC_End": "2026/11/01 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699346544/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "77",
+            "Category": "American Football",
+            "Event_Name": "Florida State vs Clemson",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Florida State",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Clemson",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 04:30:00 IST",
+            "End_Time": "01/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/10/31 23:00:00 +0000",
+            "UTC_End": "2026/11/01 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699318264/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "78",
+            "Category": "Basketball",
+            "Event_Name": "New Orleans Pelicans vs Atlanta Hawks",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "New Orleans Pelicans",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Atlanta Hawks",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "01/11/2026; 04:30:00 IST",
+            "End_Time": "01/11/2026; 07:00:00 IST",
+            "UTC_Start": "2026/10/31 23:00:00 +0000",
+            "UTC_End": "2026/11/01 01:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8807234744/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "79",
             "Category": "American Football",
             "Event_Name": "USC vs Ohio State",
             "League_Name": "CFB",
@@ -1365,7 +1348,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699470976/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "81",
+            "Id": "80",
             "Category": "American Football",
             "Event_Name": "North Carolina vs Miami Hurricanes",
             "League_Name": "CFB",
@@ -1382,7 +1365,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699386136/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "82",
+            "Id": "81",
             "Category": "American Football",
             "Event_Name": "Texas vs Mississippi St.",
             "League_Name": "CFB",
@@ -1399,7 +1382,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699454008/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "83",
+            "Id": "82",
             "Category": "American Football",
             "Event_Name": "Pittsburgh vs Georgia Tech",
             "League_Name": "CFB",
@@ -1416,7 +1399,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699420072/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "84",
+            "Id": "83",
             "Category": "American Football",
             "Event_Name": "Arkansas vs Missouri",
             "League_Name": "CFB",
@@ -1433,7 +1416,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699284328/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "85",
+            "Id": "84",
             "Category": "Basketball",
             "Event_Name": "Golden State Valkyries vs Atlanta Dream",
             "League_Name": "WNBA",
@@ -1450,7 +1433,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9150729280/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "86",
+            "Id": "85",
             "Category": "American Football",
             "Event_Name": "Nebraska vs Washington",
             "League_Name": "CFB",
@@ -1467,7 +1450,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699374824/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "87",
+            "Id": "86",
             "Category": "American Football",
             "Event_Name": "Memphis vs Army",
             "League_Name": "CFB",
@@ -1484,7 +1467,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8699369168/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "88",
+            "Id": "87",
             "Category": "Basketball",
             "Event_Name": "San Antonio Spurs vs Minnesota Timberwolves",
             "League_Name": "NBA",
@@ -1501,7 +1484,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8807251712/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "89",
+            "Id": "88",
             "Category": "Basketball",
             "Event_Name": "Milwaukee Bucks vs Cleveland Cavaliers",
             "League_Name": "NBA",
@@ -1511,14 +1494,14 @@
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Team_B": "Cleveland Cavaliers",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "31/10/2026; 15:13:53 IST",
-            "End_Time": "31/10/2026; 17:43:53 IST",
-            "UTC_Start": "2026/10/31 09:43:53 +0000",
-            "UTC_End": "2026/10/31 12:13:53 +0000",
+            "Start_Time": "01/11/2026; 05:30:00 IST",
+            "End_Time": "01/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/11/01 00:00:00 +0000",
+            "UTC_End": "2026/11/01 02:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8807246056/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "90",
+            "Id": "89",
             "Category": "Basketball",
             "Event_Name": "Memphis Grizzlies vs Sacramento Kings",
             "League_Name": "NBA",
@@ -1535,7 +1518,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8807240400/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "91",
+            "Id": "90",
             "Category": "Hockey",
             "Event_Name": "Dallas Stars vs Columbus Blue Jackets",
             "League_Name": "NHL",
