@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "01/11/26 14:02:10 IST",
-    "Total_Matches": 28,
+    "Last update": "01/11/26 14:32:26 IST",
+    "Total_Matches": 29,
     "Live_Data": [
         {
             "Id": "1",
@@ -22,19 +22,19 @@
         },
         {
             "Id": "3",
-            "Rivels": "Lazio vs Cagliari",
-            "Team A": "Lazio",
-            "Team B": "Cagliari",
-            "Title": "Serie A (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8317498672/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "4",
             "Rivels": "Frosinone vs Torino",
             "Team A": "Frosinone",
             "Team B": "Torino",
             "Title": "Serie A (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/8317493016/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "4",
+            "Rivels": "Lazio vs Cagliari",
+            "Team A": "Lazio",
+            "Team B": "Cagliari",
+            "Title": "Serie A (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8317498672/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "5",
@@ -70,14 +70,6 @@
         },
         {
             "Id": "9",
-            "Rivels": "Tampa Bay Buccaneers vs Atlanta Falcons",
-            "Team A": "Tampa Bay Buccaneers",
-            "Team B": "Atlanta Falcons",
-            "Title": "NFL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8701009408/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "10",
             "Rivels": "Cincinnati Bengals vs Tennessee Titans",
             "Team A": "Cincinnati Bengals",
             "Team B": "Tennessee Titans",
@@ -85,7 +77,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8700975472/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "11",
+            "Id": "10",
             "Rivels": "Dallas Cowboys vs Arizona Cardinals",
             "Team A": "Dallas Cowboys",
             "Team B": "Arizona Cardinals",
@@ -93,7 +85,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8700981128/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "12",
+            "Id": "11",
             "Rivels": "Detroit Lions vs Minnesota Vikings",
             "Team A": "Detroit Lions",
             "Team B": "Minnesota Vikings",
@@ -101,31 +93,23 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8700986784/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "13",
-            "Rivels": "Jacksonville Jaguars vs Indianapolis Colts",
-            "Team A": "Jacksonville Jaguars",
-            "Team B": "Indianapolis Colts",
+            "Id": "12",
+            "Rivels": "Tampa Bay Buccaneers vs Atlanta Falcons",
+            "Team A": "Tampa Bay Buccaneers",
+            "Team B": "Atlanta Falcons",
             "Title": "NFL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8700992440/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/8701009408/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "13",
+            "Rivels": "Carolina Hurricanes vs Winnipeg Jets",
+            "Team A": "Carolina Hurricanes",
+            "Team B": "Winnipeg Jets",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8581379352/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "14",
-            "Rivels": "New York Jets vs Las Vegas Raiders",
-            "Team A": "New York Jets",
-            "Team B": "Las Vegas Raiders",
-            "Title": "NFL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8700998096/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "15",
-            "Rivels": "Pittsburgh Steelers vs Cleveland Browns",
-            "Team A": "Pittsburgh Steelers",
-            "Team B": "Cleveland Browns",
-            "Title": "NFL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8701003752/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "16",
             "Rivels": "Buffalo Bills vs Baltimore Ravens",
             "Team A": "Buffalo Bills",
             "Team B": "Baltimore Ravens",
@@ -133,12 +117,28 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8700969816/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
+            "Id": "15",
+            "Rivels": "Jacksonville Jaguars vs Indianapolis Colts",
+            "Team A": "Jacksonville Jaguars",
+            "Team B": "Indianapolis Colts",
+            "Title": "NFL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8700992440/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "16",
+            "Rivels": "New York Jets vs Las Vegas Raiders",
+            "Team A": "New York Jets",
+            "Team B": "Las Vegas Raiders",
+            "Title": "NFL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8700998096/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
             "Id": "17",
-            "Rivels": "Carolina Hurricanes vs Winnipeg Jets",
-            "Team A": "Carolina Hurricanes",
-            "Team B": "Winnipeg Jets",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8581379352/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Rivels": "Pittsburgh Steelers vs Cleveland Browns",
+            "Team A": "Pittsburgh Steelers",
+            "Team B": "Cleveland Browns",
+            "Title": "NFL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8701003752/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "18",
@@ -150,19 +150,19 @@
         },
         {
             "Id": "19",
-            "Rivels": "Washington Capitals vs Minnesota Wild",
-            "Team A": "Washington Capitals",
-            "Team B": "Minnesota Wild",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8581385008/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "20",
             "Rivels": "Orlando Magic vs Boston Celtics",
             "Team A": "Orlando Magic",
             "Team B": "Boston Celtics",
             "Title": "NBA (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/8810628344/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "20",
+            "Rivels": "Washington Capitals vs Minnesota Wild",
+            "Team A": "Washington Capitals",
+            "Team B": "Minnesota Wild",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8581385008/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "21",
@@ -227,6 +227,14 @@
             "Team B": "Edmonton Oilers",
             "Title": "NHL (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/8581396320/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "29",
+            "Rivels": "New England Revolution vs Inter Miami CF",
+            "Team A": "New England Revolution",
+            "Team B": "Inter Miami CF",
+            "Title": "MLS (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/7069372184/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         }
     ]
 }
