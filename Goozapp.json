@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "04/11/26 13:51:37 IST",
-    "Total_Matches": 19,
+    "Last update": "04/11/26 14:51:43 IST",
+    "Total_Matches": 21,
     "Live_Data": [
         {
             "Id": "1",
@@ -46,6 +46,14 @@
         },
         {
             "Id": "6",
+            "Rivels": "UMass vs Ball State",
+            "Team A": "UMass",
+            "Team B": "Ball State",
+            "Title": "CFB (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8701196056/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "7",
             "Rivels": "Washington Wizards vs Atlanta Hawks",
             "Team A": "Washington Wizards",
             "Team B": "Atlanta Hawks",
@@ -53,7 +61,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922600176/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "7",
+            "Id": "8",
             "Rivels": "Detroit Pistons vs Philadelphia 76ers",
             "Team A": "Detroit Pistons",
             "Team B": "Philadelphia 76ers",
@@ -61,7 +69,15 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922594520/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "8",
+            "Id": "9",
+            "Rivels": "Sacramento State vs Toledo",
+            "Team A": "Sacramento State",
+            "Team B": "Toledo",
+            "Title": "CFB (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8701201712/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "10",
             "Rivels": "New York Knicks vs Chicago Bulls",
             "Team A": "New York Knicks",
             "Team B": "Chicago Bulls",
@@ -69,7 +85,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922617144/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "9",
+            "Id": "11",
             "Rivels": "Brooklyn Nets vs Charlotte Hornets",
             "Team A": "Brooklyn Nets",
             "Team B": "Charlotte Hornets",
@@ -77,7 +93,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922611488/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "10",
+            "Id": "12",
             "Rivels": "Boston Celtics vs Milwaukee Bucks",
             "Team A": "Boston Celtics",
             "Team B": "Milwaukee Bucks",
@@ -85,15 +101,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922605832/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "11",
-            "Rivels": "New Orleans Pelicans vs Utah Jazz",
-            "Team A": "New Orleans Pelicans",
-            "Team B": "Utah Jazz",
-            "Title": "NBA (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8922628456/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "12",
+            "Id": "13",
             "Rivels": "Oklahoma City Thunder vs Cleveland Cavaliers",
             "Team A": "Oklahoma City Thunder",
             "Team B": "Cleveland Cavaliers",
@@ -101,7 +109,15 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922634112/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "13",
+            "Id": "14",
+            "Rivels": "New Orleans Pelicans vs Utah Jazz",
+            "Team A": "New Orleans Pelicans",
+            "Team B": "Utah Jazz",
+            "Title": "NBA (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8922628456/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "15",
             "Rivels": "Memphis Grizzlies vs Indiana Pacers",
             "Team A": "Memphis Grizzlies",
             "Team B": "Indiana Pacers",
@@ -109,7 +125,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922622800/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "14",
+            "Id": "16",
             "Rivels": "Houston Rockets vs Minnesota Timberwolves",
             "Team A": "Houston Rockets",
             "Team B": "Minnesota Timberwolves",
@@ -117,15 +133,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922639768/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "15",
-            "Rivels": "Denver Nuggets vs Toronto Raptors",
-            "Team A": "Denver Nuggets",
-            "Team B": "Toronto Raptors",
-            "Title": "NBA (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8922645424/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "16",
+            "Id": "17",
             "Rivels": "Phoenix Suns vs Portland Trail Blazers",
             "Team A": "Phoenix Suns",
             "Team B": "Portland Trail Blazers",
@@ -133,7 +141,15 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922651080/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "17",
+            "Id": "18",
+            "Rivels": "Denver Nuggets vs Toronto Raptors",
+            "Team A": "Denver Nuggets",
+            "Team B": "Toronto Raptors",
+            "Title": "NBA (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8922645424/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "19",
             "Rivels": "San Antonio Spurs vs Dallas Mavericks",
             "Team A": "San Antonio Spurs",
             "Team B": "Dallas Mavericks",
@@ -141,7 +157,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922656736/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "18",
+            "Id": "20",
             "Rivels": "Sacramento Kings vs Los Angeles Lakers",
             "Team A": "Sacramento Kings",
             "Team B": "Los Angeles Lakers",
@@ -149,7 +165,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8922662392/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "19",
+            "Id": "21",
             "Rivels": "Los Angeles Clippers vs Miami Heat",
             "Team A": "Los Angeles Clippers",
             "Team B": "Miami Heat",
