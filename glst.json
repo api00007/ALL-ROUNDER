@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "05/11/26 08:41:08 IST",
+    "Last update": "05/11/26 08:51:14 IST",
     "Total_Matches": 20,
     "Live_Data": [
         {
@@ -313,23 +313,6 @@
         {
             "Id": "19",
             "Category": "Hockey",
-            "Event_Name": "Calgary Flames at Seattle Kraken",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Calgary Flames",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/60a78682-cae9-4dc6-bd8f-9898c18e0dc5.webp",
-            "Team_B": "Seattle Kraken",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/58e1055d-df86-4f5b-a9a9-5e32ea674a84.webp",
-            "Start_Time": "05/11/2026; 08:30:00 IST",
-            "End_Time": "05/11/2026; 11:30:00 IST",
-            "UTC_Start": "2026/11/05 03:00:00 +0000",
-            "UTC_End": "2026/11/05 06:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rtzaeyvhb53.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "20",
-            "Category": "Hockey",
             "Event_Name": "San Jose Sharks at Los Angeles Kings",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -343,6 +326,23 @@
             "UTC_Start": "2026/11/05 03:00:00 +0000",
             "UTC_End": "2026/11/05 06:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/lmdsjkfgv52.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "20",
+            "Category": "Hockey",
+            "Event_Name": "Calgary Flames at Seattle Kraken",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Calgary Flames",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/60a78682-cae9-4dc6-bd8f-9898c18e0dc5.webp",
+            "Team_B": "Seattle Kraken",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/58e1055d-df86-4f5b-a9a9-5e32ea674a84.webp",
+            "Start_Time": "05/11/2026; 08:30:00 IST",
+            "End_Time": "05/11/2026; 11:30:00 IST",
+            "UTC_Start": "2026/11/05 03:00:00 +0000",
+            "UTC_End": "2026/11/05 06:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rtzaeyvhb53.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
