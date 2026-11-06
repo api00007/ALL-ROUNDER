@@ -1,45 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "06/11/26 23:26:43 IST",
+    "Last update": "06/11/26 23:36:53 IST",
     "Total_Matches": 33,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "OFC",
-            "Event_Name": "ONE Championship",
-            "League_Name": "OFC",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "OFC SERVER",
-            "Team_A": "ONE Championship",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "ONE Championship",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "06/11/2026; 20:00:00 IST",
-            "End_Time": "06/11/2026; 23:00:00 IST",
-            "UTC_Start": "2026/11/06 14:30:00 +0000",
-            "UTC_End": "2026/11/06 17:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59368/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
-            "Category": "MotoGP",
-            "Event_Name": "MotoGP 2026 - Grand Prix of Qatar",
-            "League_Name": "MotoGP",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "MOTOGP SERVER",
-            "Team_A": "MotoGP 2026",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Grand Prix of Qatar",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "06/11/2026; 15:55:00 IST",
-            "End_Time": "06/11/2026; 18:55:00 IST",
-            "UTC_Start": "2026/11/06 10:25:00 +0000",
-            "UTC_End": "2026/11/06 13:25:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59363/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "3",
             "Category": "World Championship Women",
             "Event_Name": "Denmark vs Finland",
             "League_Name": "World Championship Women",
@@ -56,7 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59370/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "2",
             "Category": "World Championship Women",
             "Event_Name": "Switzerland vs USA",
             "League_Name": "World Championship Women",
@@ -71,6 +37,40 @@
             "UTC_Start": "2026/11/06 18:00:00 +0000",
             "UTC_End": "2026/11/06 21:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59369/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "3",
+            "Category": "OFC",
+            "Event_Name": "ONE Championship",
+            "League_Name": "OFC",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "OFC SERVER",
+            "Team_A": "ONE Championship",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "ONE Championship",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "06/11/2026; 20:00:00 IST",
+            "End_Time": "06/11/2026; 23:00:00 IST",
+            "UTC_Start": "2026/11/06 14:30:00 +0000",
+            "UTC_End": "2026/11/06 17:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59368/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "4",
+            "Category": "MotoGP",
+            "Event_Name": "MotoGP 2026 - Grand Prix of Qatar",
+            "League_Name": "MotoGP",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "MOTOGP SERVER",
+            "Team_A": "MotoGP 2026",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Grand Prix of Qatar",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "06/11/2026; 15:55:00 IST",
+            "End_Time": "06/11/2026; 18:55:00 IST",
+            "UTC_Start": "2026/11/06 10:25:00 +0000",
+            "UTC_End": "2026/11/06 13:25:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59363/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "5",
@@ -138,7 +138,7 @@
             "End_Time": "07/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/06 23:30:00 +0000",
             "UTC_End": "2026/11/07 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8943441152/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/1201956484/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "9",
