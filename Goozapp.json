@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "06/11/26 18:32:28 IST",
-    "Total_Matches": 27,
+    "Last update": "06/11/26 19:02:19 IST",
+    "Total_Matches": 29,
     "Live_Data": [
         {
             "Id": "1",
@@ -46,14 +46,6 @@
         },
         {
             "Id": "6",
-            "Rivels": "Atlanta Hawks vs Washington Wizards",
-            "Team A": "Atlanta Hawks",
-            "Team B": "Washington Wizards",
-            "Title": "NBA (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8924862576/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "7",
             "Rivels": "Buffalo Sabres vs Columbus Blue Jackets",
             "Team A": "Buffalo Sabres",
             "Team B": "Columbus Blue Jackets",
@@ -61,12 +53,20 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8583030904/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "8",
+            "Id": "7",
             "Rivels": "SMU vs Virginia Tech",
             "Team A": "SMU",
             "Team B": "Virginia Tech",
             "Title": "CFB (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/8701280896/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "8",
+            "Rivels": "Atlanta Hawks vs Washington Wizards",
+            "Team A": "Atlanta Hawks",
+            "Team B": "Washington Wizards",
+            "Title": "NBA (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8924862576/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "9",
@@ -182,6 +182,14 @@
         },
         {
             "Id": "23",
+            "Rivels": "Nevada vs New Mexico",
+            "Team A": "Nevada",
+            "Team B": "New Mexico",
+            "Title": "CFB (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8701297864/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "24",
             "Rivels": "Miami Hurricanes vs Wagner Seahawks",
             "Team A": "Miami Hurricanes",
             "Team B": "Wagner Seahawks",
@@ -189,20 +197,12 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8926898736/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "24",
+            "Id": "25",
             "Rivels": "Kansas Jayhawks vs Middle Tennessee State Blue Raiders",
             "Team A": "Kansas Jayhawks",
             "Team B": "Middle Tennessee State Blue Raiders",
             "Title": "NCAA Men (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/9182159672/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "25",
-            "Rivels": "Nevada vs New Mexico",
-            "Team A": "Nevada",
-            "Team B": "New Mexico",
-            "Title": "CFB (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8701297864/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "26",
@@ -219,6 +219,22 @@
             "Team B": "Portland Trail Blazers",
             "Title": "NBA (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/8924902168/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "28",
+            "Rivels": "Arizona vs TCU",
+            "Team A": "Arizona",
+            "Team B": "TCU",
+            "Title": "CFB (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8701303520/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "29",
+            "Rivels": "UCLA Bruins vs North Florida Ospreys",
+            "Team A": "UCLA Bruins",
+            "Team B": "North Florida Ospreys",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/9182182296/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         }
     ]
 }
