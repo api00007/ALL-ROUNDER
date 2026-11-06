@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "06/11/26 08:51:14 IST",
-    "Total_Matches": 19,
+    "Last update": "06/11/26 09:31:46 IST",
+    "Total_Matches": 17,
     "Live_Data": [
         {
             "Id": "1",
@@ -10,7 +10,7 @@
             "Team A": "Golden State Warriors",
             "Team B": "Miami Heat",
             "Title": "NBA (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/59365/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/59367/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "2",
@@ -22,6 +22,22 @@
         },
         {
             "Id": "3",
+            "Rivels": "Golden State Warriors vs Miami Heat",
+            "Team A": "Golden State Warriors",
+            "Team B": "Miami Heat",
+            "Title": "NBA (S-3)",
+            "Link": "https://chatgpt.hereisman.net/playlist/59365/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "4",
+            "Rivels": "Golden State Warriors vs Miami Heat",
+            "Team A": "Golden State Warriors",
+            "Team B": "Miami Heat",
+            "Title": "NBA (S-4)",
+            "Link": "https://chatgpt.hereisman.net/playlist/59366/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "5",
             "Rivels": "Phoenix Suns vs Orlando Magic",
             "Team A": "Phoenix Suns",
             "Team B": "Orlando Magic",
@@ -29,27 +45,11 @@
             "Link": "https://chatgpt.hereisman.net/playlist/59356/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "4",
-            "Rivels": "Baltimore Ravens vs Jacksonville Jaguars",
-            "Team A": "Baltimore Ravens",
-            "Team B": "Jacksonville Jaguars",
-            "Title": "NFL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/59336/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "5",
-            "Rivels": "Baltimore Ravens vs Jacksonville Jaguars",
-            "Team A": "Baltimore Ravens",
-            "Team B": "Jacksonville Jaguars",
-            "Title": "NFL (S-2)",
-            "Link": "https://chatgpt.hereisman.net/playlist/59334/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
             "Id": "6",
             "Rivels": "Baltimore Ravens vs Jacksonville Jaguars",
             "Team A": "Baltimore Ravens",
             "Team B": "Jacksonville Jaguars",
-            "Title": "NFL (S-3)",
+            "Title": "NFL (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/59335/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
@@ -57,11 +57,27 @@
             "Rivels": "Baltimore Ravens vs Jacksonville Jaguars",
             "Team A": "Baltimore Ravens",
             "Team B": "Jacksonville Jaguars",
+            "Title": "NFL (S-2)",
+            "Link": "https://chatgpt.hereisman.net/playlist/59334/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "8",
+            "Rivels": "Baltimore Ravens vs Jacksonville Jaguars",
+            "Team A": "Baltimore Ravens",
+            "Team B": "Jacksonville Jaguars",
+            "Title": "NFL (S-3)",
+            "Link": "https://chatgpt.hereisman.net/playlist/59336/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "9",
+            "Rivels": "Baltimore Ravens vs Jacksonville Jaguars",
+            "Team A": "Baltimore Ravens",
+            "Team B": "Jacksonville Jaguars",
             "Title": "NFL (S-4)",
             "Link": "https://chatgpt.hereisman.net/playlist/59357/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "8",
+            "Id": "10",
             "Rivels": "NFL Network",
             "Team A": "NFL Network",
             "Team B": "NFL Network",
@@ -69,15 +85,15 @@
             "Link": "https://chatgpt.hereisman.net/playlist/54923/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "9",
-            "Rivels": "Washington Huskies vs Pacific Tigers",
-            "Team A": "Washington Huskies",
-            "Team B": "Pacific Tigers",
-            "Title": "NCAA Women (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/59361/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Id": "11",
+            "Rivels": "Arizona Wildcats vs Cal Poly Mustangs",
+            "Team A": "Arizona Wildcats",
+            "Team B": "Cal Poly Mustangs",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/59364/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "10",
+            "Id": "12",
             "Rivels": "UCLA Bruins vs UC Irvine Anteaters",
             "Team A": "UCLA Bruins",
             "Team B": "UC Irvine Anteaters",
@@ -85,36 +101,20 @@
             "Link": "https://chatgpt.hereisman.net/playlist/59359/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "11",
+            "Id": "13",
+            "Rivels": "Washington Huskies vs Pacific Tigers",
+            "Team A": "Washington Huskies",
+            "Team B": "Pacific Tigers",
+            "Title": "NCAA Women (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/59361/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "14",
             "Rivels": "Colorado Avalanche vs Nashville Predators",
             "Team A": "Colorado Avalanche",
             "Team B": "Nashville Predators",
             "Title": "NHL (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/59358/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "12",
-            "Rivels": "DePaul Blue Demons vs South Florida Bulls",
-            "Team A": "DePaul Blue Demons",
-            "Team B": "South Florida Bulls",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/59355/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "13",
-            "Rivels": "Illinois Fighting Illini vs Pennsylvania Quakers",
-            "Team A": "Illinois Fighting Illini",
-            "Team B": "Pennsylvania Quakers",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/59354/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "14",
-            "Rivels": "Edmonton Oilers vs Anaheim Ducks",
-            "Team A": "Edmonton Oilers",
-            "Team B": "Anaheim Ducks",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/59345/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "15",
@@ -126,14 +126,6 @@
         },
         {
             "Id": "16",
-            "Rivels": "Duke Blue Devils vs Coastal Carolina Chanticleers",
-            "Team A": "Duke Blue Devils",
-            "Team B": "Coastal Carolina Chanticleers",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/59344/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "17",
             "Rivels": "Florida Atl. vs UTSA",
             "Team A": "Florida Atl.",
             "Team B": "UTSA",
@@ -141,15 +133,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/59337/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "18",
-            "Rivels": "Arizona Wildcats vs Cal Poly Mustangs",
-            "Team A": "Arizona Wildcats",
-            "Team B": "Cal Poly Mustangs",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/59364/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "19",
+            "Id": "17",
             "Rivels": "MotoGP 2026 - Grand Prix of Qatar",
             "Team A": "MotoGP 2026",
             "Team B": "Grand Prix of Qatar",
