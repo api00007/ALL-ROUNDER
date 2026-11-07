@@ -5478,9 +5478,9 @@
   ],
   "sports_live": {
     "Finish": "00",
-    "Last update time": "05:55:34 AM 07-11-2026",
+    "Last update time": "11:55:35 AM 07-11-2026",
     "Live": "00",
-    "Upcoming": "55",
+    "Upcoming": "111",
     "events": [
       {
         "cat": "Motorsport",
@@ -5596,6 +5596,11 @@
         "cat": "Boxing",
         "channels_data": [
           {
+            "link": "https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          },
+          {
             "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58881/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
             "title": "WWE HD",
@@ -5610,10 +5615,10 @@
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/11/07 03:30:00 +0000",
+          "endTime": "2026/11/07 04:30:00 +0000",
           "eventName": "Friday Night SmackDown",
           "isHot": "0",
-          "startTime": "2026/11/07 00:00:00 +0000",
+          "startTime": "2026/11/07 01:00:00 +0000",
           "teamA": "SmackDown",
           "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
           "teamB": "SmackDown",
@@ -5708,63 +5713,75 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd|drmScheme=clearkey&drmLicense=7ef90352c28904be995275bc47f74c04:af5e36ddef7584474601c19b4ae5935a",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd|drmScheme=clearkey&drmLicense=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f",
             "source": "ivan",
             "title": "WILLOW FHD",
             "tokenApi": ""
           },
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ppmrp8tlzz/out/v1/cf829370483b4212ac7d5e3009c514b1/cenc.mpd|drmScheme=clearkey&drmLicense=952fb91696308da86bee7cd24edf0b58:bf359214ab3ac848738bdf014ace21b3",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/kuptqxvclu/out/v1/5f434a56da684ce58ef04a955faeb1d7/cenc.mpd|drmScheme=clearkey&drmLicense=8e3eef73bb953c9da96600b47e2190d1:f1dbf72267c0bb24aa5fa2ab61987df8",
             "source": "ivan",
             "title": "PRIME HINDI FHD",
             "tokenApi": ""
           },
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnz2tp3cz2/out/v1/57dea44e09564aa7b769ebdc51f9a42f/cenc.mpd|drmScheme=clearkey&drmLicense=db4b3e1da015cf0f03c2a5f4b9ee8433:964bab777741f2b59adedcbbcd463374",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cqbd0spknz/out/v1/71f66b096687482b8139a87814657aee/cenc.mpd|drmScheme=clearkey&drmLicense=d6fa7afe010c5fd6a05338599da7158f:865584ea64ec125cd6524ab3fb7d0e80",
             "source": "ivan",
             "title": "PRIME ENG FHD",
             "tokenApi": ""
           },
           {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
             "source": "ivan",
             "title": "TNT SPORTS FHD",
             "tokenApi": ""
           },
           {
-            "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/4dwybz2taj/out/v1/c90ad7bb77af498083f47bf86b7999b7/cenc.mpd|drmScheme=clearkey&drmLicense=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd|drmScheme=clearkey&drmLicense=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f",
             "source": "ivan",
             "title": "WILLOW ALT",
             "tokenApi": ""
           },
           {
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793796037~acl=/*~id=944eb554fe0d9d39204a057f1ae426e3-1793752837149~hmac=3f6ed50fb95858dc451bb75e5f83384c487dce331cf29ae361b3784bc545208d",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|Referer=https://www.sonyliv.com/",
             "source": "ivan",
             "title": "SonyLiv (ENG)",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793384988~acl=/*~id=80544463850118442124985754858702~hmac=21063c5dc25983ed44ff98f1259d1c041125c069820aeec4facd965956876ec8|Referer=https://www.sonyliv.com/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://liveakmt-p-md.slivcdn.com/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|Referer=https://www.sonyliv.com/",
             "source": "ivan",
             "title": "SonyLiv (HIN)",
             "tokenApi": ""
           },
           {
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793796155~acl=/*~id=9330fc4a2255cbf324394d7b5b191e90-1793752955164~hmac=1fd83137467b58c5eab840c4d951510eddecacd341e747518010c8de4e5e5aed",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|Referer=https://www.sonyliv.com/",
             "source": "ivan",
             "title": "SonyLiv (TAM)",
             "tokenApi": ""
           },
           {
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793796155~acl=/*~id=9330fc4a2255cbf324394d7b5b191e90-1793752955164~hmac=1fd83137467b58c5eab840c4d951510eddecacd341e747518010c8de4e5e5aed",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|Referer=https://www.sonyliv.com/",
             "source": "ivan",
             "title": "SonyLiv (TEL)",
             "tokenApi": ""
           },
           {
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793796155~acl=/*~id=9330fc4a2255cbf324394d7b5b191e90-1793752955164~hmac=1fd83137467b58c5eab840c4d951510eddecacd341e747518010c8de4e5e5aed",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://liveakmt-p-md.slivcdn.com/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|Referer=https://www.sonyliv.com/",
             "source": "ivan",
             "title": "SonyLiv (KAN)",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/JJJJA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?|Referer=https://tapmad.com/",
+            "source": "ivan",
+            "title": "TAPMAD FHD",
             "tokenApi": ""
           }
         ],
@@ -6352,9 +6369,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "TNT SPORTS 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/HHHH.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6408,9 +6431,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/JJJJAAAQQ.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6433,9 +6456,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/JJJJAAAQ.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6551,9 +6574,21 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live.vivo155.com/live/hd-en-1-4553932.m3u8?txSecret=2d0a6dad29ab7178f8c412e400c604e5&txTime=6AEEA6F4|Referer=https://player.on8on8.com/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "FAST SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://live.uu1pp.com/sport/202_5623853_1.m3u8?txSecret=3c67e2911cfed8be48a2ebf63ae97433&txTime=6AEEDD1E",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6601,13 +6636,13 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59387/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59393/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59393/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59387/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "HD SERVER",
             "tokenApi": ""
@@ -6632,7 +6667,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59382/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -6666,6 +6701,18 @@
             "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59392/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59412/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59420/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "SERVER 4",
             "tokenApi": ""
           }
         ],
@@ -6713,9 +6760,15 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59404/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59418/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59404/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6738,9 +6791,15 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59405/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59422/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59405/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6763,9 +6822,15 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59399/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59419/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59399/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -6788,7 +6853,7 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59398/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -6813,7 +6878,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59401/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -6838,7 +6903,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59414/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -6938,7 +7003,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59390/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59433/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -6963,21 +7028,9 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59389/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
             "source": "tta",
             "title": "GOALZEN LIVE",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59411/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-            "source": "tta",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59407/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-            "source": "tta",
-            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -7000,15 +7053,9 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59386/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-            "source": "tta",
-            "title": "GOALZEN LIVE",
-            "tokenApi": ""
-          },
-          {
             "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59410/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
-            "title": "HD SERVER",
+            "title": "GOALZEN LIVE",
             "tokenApi": ""
           }
         ],
@@ -7031,7 +7078,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59391/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7081,7 +7128,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59378/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59413/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7106,21 +7153,9 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59384/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
             "source": "tta",
             "title": "GOALZEN LIVE",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59383/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-            "source": "tta",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59394/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-            "source": "tta",
-            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -7210,13 +7245,13 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/luldqqjdgc/out/v1/819f4b259e5248c089feb5934af92890/cenc.mpd|drmScheme=clearkey&drmLicense=cf6092dc6444b182d9ef6fde4152ff7d:2a868d1944e597930dde32f183a0c6bf",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zktryikvfk/out/v1/41fed8195b54444fb83fa2f78a21ae98/cenc.mpd|drmScheme=clearkey&drmLicense=797029dcd8fc70eadd1d6b62a1cf8b2a:315a82cfbdc0b5a5a9588b786ec098aa",
             "source": "ivan",
             "title": "WILLOW FHD",
             "tokenApi": ""
           },
           {
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/luldqqjdgc/out/v1/819f4b259e5248c089feb5934af92890/cenc.mpd|drmScheme=clearkey&drmLicense=cf6092dc6444b182d9ef6fde4152ff7d:2a868d1944e597930dde32f183a0c6bf",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zktryikvfk/out/v1/41fed8195b54444fb83fa2f78a21ae98/cenc.mpd|drmScheme=clearkey&drmLicense=797029dcd8fc70eadd1d6b62a1cf8b2a:315a82cfbdc0b5a5a9588b786ec098aa",
             "source": "ivan",
             "title": "WILLOW ALT",
             "tokenApi": ""
@@ -7320,7 +7355,7 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vyjgbcddti/out/v1/afd9c25f5179456fb3caf61ccbde2652/cenc.mpd|drmScheme=clearkey&drmLicense=2fcc4db0b53bea0a25def717c67cfe57:71ba2e8f5ea6cd6ad995206b300f051a",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ielcudodao/out/v1/ab4efd324ec94fdd9560e0d2a2d5ba82/cenc.mpd|drmScheme=clearkey&drmLicense=090b160106961955954006105189ef9a:1a242276ec54a4843a40949fb6159ae0",
             "source": "ivan",
             "title": "WILLOW FHD",
             "tokenApi": ""
@@ -7332,27 +7367,33 @@
             "tokenApi": ""
           },
           {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "source": "ivan",
-            "title": "WILLOW HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vyjgbcddti/out/v1/afd9c25f5179456fb3caf61ccbde2652/cenc.mpd|drmScheme=clearkey&drmLicense=2fcc4db0b53bea0a25def717c67cfe57:71ba2e8f5ea6cd6ad995206b300f051a",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ielcudodao/out/v1/ab4efd324ec94fdd9560e0d2a2d5ba82/cenc.mpd|drmScheme=clearkey&drmLicense=090b160106961955954006105189ef9a:1a242276ec54a4843a40949fb6159ae0",
             "source": "ivan",
             "title": "WILLOW ALT",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-            "source": "ivan",
-            "title": "TAPMAD FHD",
             "tokenApi": ""
           },
           {
             "link": "http://51.77.217.114:8089/Wbbl52/index.m3u8",
             "source": "ivan",
             "title": "WILLOW SD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+            "source": "ivan",
+            "title": "EUROSPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "source": "ivan",
+            "title": "WILLOW HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8?|Referer=https://tapmad.com/",
+            "source": "ivan",
+            "title": "TAPMAD FHD",
             "tokenApi": ""
           }
         ],
@@ -7921,9 +7962,15 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59426/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59430/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -7946,9 +7993,21 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59435/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59425/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59434/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -7996,9 +8055,21 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ui956rr2ik/out/v1/dd28fb7477af4988adfe26cfb597ecae/cenc.mpd|drmScheme=clearkey&drmLicense=39d280a9175ed0b36aedbb609205489a:0f170ef5ca6128cb106c8cd02d0eac30",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "WILLOW FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ui956rr2ik/out/v1/dd28fb7477af4988adfe26cfb597ecae/cenc.mpd|drmScheme=clearkey&drmLicense=39d280a9175ed0b36aedbb609205489a:0f170ef5ca6128cb106c8cd02d0eac30",
+            "source": "ivan",
+            "title": "WILLOW ALT",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794070001~acl=/*~id=27007709439190034209396402533319~hmac=0995167dbfd9462dae7c5b1964ee670b4f73d510e63ae82f104d88d63656033b|Referer=https://www.sonyliv.com/",
+            "source": "ivan",
+            "title": "SonyLiv (ENG)",
             "tokenApi": ""
           }
         ],
@@ -8021,9 +8092,21 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://no.link",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dtmozm83d5/out/v1/f352036cb781432697950dff0519cec8/cenc.mpd|drmScheme=clearkey&drmLicense=0fba170e6a8f0a48ce0f79ace5f8fae1:153c8d4dfd85e4b19738eaf8b21494ca",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "WILLOW FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dtmozm83d5/out/v1/f352036cb781432697950dff0519cec8/cenc.mpd|drmScheme=clearkey&drmLicense=0fba170e6a8f0a48ce0f79ace5f8fae1:153c8d4dfd85e4b19738eaf8b21494ca",
+            "source": "ivan",
+            "title": "WILLOW ALT",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794070001~acl=/*~id=27007709439190034209396402533319~hmac=0995167dbfd9462dae7c5b1964ee670b4f73d510e63ae82f104d88d63656033b|Referer=https://www.sonyliv.com/",
+            "source": "ivan",
+            "title": "SonyLiv (ENG)",
             "tokenApi": ""
           }
         ],
@@ -8046,7 +8129,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59429/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -8146,9 +8229,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://admin2.formaturamaxi.com.br/nba4.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59398/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
-            "title": "HD SERVER",
+            "title": "NBA HD",
             "tokenApi": ""
           }
         ],
@@ -8183,9 +8266,21 @@
             "tokenApi": ""
           },
           {
-            "link": "https://admin2.formaturamaxi.com.br/nba2.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59395/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
-            "title": "HD SERVER",
+            "title": "NBA HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59396/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "NBA LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59397/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "NBA LIVE 2",
             "tokenApi": ""
           },
           {
@@ -8226,9 +8321,27 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://admin22.formaturamaxi.com.br/nba8.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59425/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
-            "title": "HD SERVER",
+            "title": "NBA HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59435/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "Lakers TV HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://mixedshop.pw/list8?",
+            "source": "ivan",
+            "title": "SportsNET HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59434/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "SERVER 3 HD",
             "tokenApi": ""
           }
         ],
@@ -8251,9 +8364,15 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://admin22.formaturamaxi.com.br/nba9.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59426/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
-            "title": "HD SERVER",
+            "title": "NBA HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59430/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "NBA LIVE",
             "tokenApi": ""
           }
         ],
@@ -8276,9 +8395,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://admin22.formaturamaxi.com.br/nba6.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59405/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
-            "title": "HD SERVER",
+            "title": "NBA HD",
             "tokenApi": ""
           }
         ],
@@ -8332,9 +8451,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://admin2.formaturamaxi.com.br/nba5.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59399/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
-            "title": "HD SERVER",
+            "title": "NBA HD",
             "tokenApi": ""
           }
         ],
@@ -8357,9 +8476,9 @@
         "cat": "Basketball",
         "channels_data": [
           {
-            "link": "https://admin22.formaturamaxi.com.br/nba7.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59404/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
-            "title": "HD SERVER",
+            "title": "NBA HD",
             "tokenApi": ""
           }
         ],
@@ -8463,7 +8582,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59376/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59383/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -8519,7 +8638,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59385/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -8544,7 +8663,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59431/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -8594,7 +8713,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59424/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -8864,6 +8983,2555 @@
         "id": 10236366,
         "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
         "title": "World Championship Women"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "  +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:30:00 +0000",
+          "teamA": "Capitals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+          "teamB": "Panthers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image"
+        },
+        "id": 5272,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59381/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "NHL HD",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "  +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/11/07 00:00:00 +0000",
+          "teamA": "Sabres",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+          "teamB": "Blue Jackets",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image"
+        },
+        "id": 5273,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59408/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "NHL HD",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "  +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/11/07 01:00:00 +0000",
+          "teamA": "Flames",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+          "teamB": "Ducks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image"
+        },
+        "id": 5274,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "  +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/11/07 18:00:00 +0000",
+          "teamA": "Predators",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+          "teamB": "Blues",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image"
+        },
+        "id": 5275,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Hockey",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59406/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "NHL HD",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "  +0000",
+          "eventName": "NHL",
+          "isHot": "0",
+          "startTime": "2026/11/07 01:00:00 +0000",
+          "teamA": "Wild",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+          "teamB": "Sharks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image"
+        },
+        "id": 5276,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "title": "NHL"
+      },
+      {
+        "cat": "Wrestling",
+        "channels_data": [
+          {
+            "link": "https://word.onnext.site/dailymotion/live/playlist/90.m3u8",
+            "title": "HQ Stream",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 03:45:00 +0000",
+          "eventName": "GCW",
+          "isHot": "0",
+          "startTime": "2026/11/07 01:00:00 +0000",
+          "teamA": "Dead on Arrival 2026",
+          "teamAFlag": "https://watch-wrestling.eu/wp-content/uploads/2023/09/Watch-GCW-Wrestling-Full-Show-Online.jpg",
+          "teamB": "Dead on Arrival 2026",
+          "teamBFlag": "https://watch-wrestling.eu/wp-content/uploads/2023/09/Watch-GCW-Wrestling-Full-Show-Online.jpg"
+        },
+        "id": 785,
+        "league_logo": "https://watch-wrestling.eu/wp-content/uploads/2023/09/Watch-GCW-Wrestling-Full-Show-Online.jpg",
+        "title": "GCW"
+      },
+      {
+        "cat": "Liga MX, Apertura",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59421/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 04:00:00 +0000",
+          "eventName": "Club Necaxa vs Club Tijuana",
+          "isHot": "0",
+          "startTime": "2026/11/07 01:00:00 +0000",
+          "teamA": "Club Necaxa",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Club Tijuana",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 14138397,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "Liga MX, Apertura"
+      },
+      {
+        "cat": "Ligue 1",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 19:15:00 +0000",
+          "eventName": "Auxerre vs Paris FC",
+          "isHot": "0",
+          "startTime": "2026/11/07 16:15:00 +0000",
+          "teamA": "Auxerre",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Paris FC",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 17435611,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/34/image",
+        "title": "Ligue 1"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:30:00 +0000",
+          "eventName": "Syracuse vs Clemson",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:00:00 +0000",
+          "teamA": "Syracuse",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Clemson",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 17435685,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:30:00 +0000",
+          "eventName": "Minnesota vs UCLA",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:00:00 +0000",
+          "teamA": "Minnesota",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "UCLA",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 17435770,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:30:00 +0000",
+          "eventName": "Baylor vs Iowa State",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:00:00 +0000",
+          "teamA": "Baylor",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Iowa State",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 17435851,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:30:00 +0000",
+          "eventName": "Missouri vs Texas",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:00:00 +0000",
+          "teamA": "Missouri",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Texas",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 17435947,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "Serie A",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:00:00 +0000",
+          "eventName": "Parma vs Bologna",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:00:00 +0000",
+          "teamA": "Parma",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Bologna",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 17436022,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
+        "title": "Serie A"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:30:00 +0000",
+          "eventName": "Utah vs BYU",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:00:00 +0000",
+          "teamA": "Utah",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "BYU",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 17436102,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:30:00 +0000",
+          "eventName": "Tulane vs Tulsa",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:00:00 +0000",
+          "teamA": "Tulane",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Tulsa",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 17436174,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "NCAA Men",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59428/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 05:00:00 +0000",
+          "eventName": "Brigham Young Cougars vs Nebraska-Omaha Mavericks",
+          "isHot": "0",
+          "startTime": "2026/11/07 02:00:00 +0000",
+          "teamA": "Brigham Young Cougars",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Nebraska-Omaha Mavericks",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 17739810,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "NCAA Men"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 21:00:00 +0000",
+          "eventName": "Purdue vs Maryland",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:30:00 +0000",
+          "teamA": "Purdue",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Maryland",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 21038197,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 21:15:00 +0000",
+          "eventName": "Auburn vs Arkansas",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:45:00 +0000",
+          "teamA": "Auburn",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Arkansas",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 21038475,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 21:30:00 +0000",
+          "eventName": "Kansas St. vs Oklahoma St.",
+          "isHot": "0",
+          "startTime": "2026/11/07 18:00:00 +0000",
+          "teamA": "Kansas St.",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Oklahoma St.",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 21038753,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 19:50:00 +0000",
+          "eventName": "Premier League",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:30:00 +0000",
+          "teamA": "Forest",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
+          "teamB": "Man City",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
+        },
+        "id": 5277,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "title": "Premier League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Premier League",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "Arsenal",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+          "teamB": "Hull",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image"
+        },
+        "id": 5278,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "title": "Premier League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 14:50:00 +0000",
+          "eventName": "Premier League",
+          "isHot": "0",
+          "startTime": "2026/11/07 12:30:00 +0000",
+          "teamA": "Leeds",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
+          "teamB": "Tottenham",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image"
+        },
+        "id": 5279,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "title": "Premier League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Premier League",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "Fulham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
+          "teamB": "Newcastle",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image"
+        },
+        "id": 5280,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "title": "Premier League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 15:20:00 +0000",
+          "eventName": "LaLiga",
+          "isHot": "0",
+          "startTime": "2026/11/07 13:00:00 +0000",
+          "teamA": "Málaga",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+          "teamB": "Racing Club",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image"
+        },
+        "id": 5281,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "title": "LaLiga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:35:00 +0000",
+          "eventName": "LaLiga",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:15:00 +0000",
+          "teamA": "Espanyol",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2814/image",
+          "teamB": "Deportivo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image"
+        },
+        "id": 5282,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "title": "LaLiga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 19:50:00 +0000",
+          "eventName": "LaLiga",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:30:00 +0000",
+          "teamA": "Osasuna",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+          "teamB": "Athletic Club",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image"
+        },
+        "id": 5283,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "title": "LaLiga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 15:20:00 +0000",
+          "eventName": "LaLiga",
+          "isHot": "0",
+          "startTime": "2026/11/08 13:00:00 +0000",
+          "teamA": "Elche",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+          "teamB": "Real Betis",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image"
+        },
+        "id": 5284,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "title": "LaLiga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 22:20:00 +0000",
+          "eventName": "LaLiga",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:00:00 +0000",
+          "teamA": "Valencia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+          "teamB": "Real Madrid",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image"
+        },
+        "id": 5285,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "title": "LaLiga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 15:20:00 +0000",
+          "eventName": "LaLiga 2",
+          "isHot": "0",
+          "startTime": "2026/11/08 13:00:00 +0000",
+          "teamA": "Andorra",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/324871/image",
+          "teamB": "Mallorca",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image"
+        },
+        "id": 5286,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "title": "LaLiga 2"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 19:50:00 +0000",
+          "eventName": "LaLiga 2",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:30:00 +0000",
+          "teamA": "Córdoba",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+          "teamB": "Ceuta",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image"
+        },
+        "id": 5287,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "title": "LaLiga 2"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 22:20:00 +0000",
+          "eventName": "LaLiga 2",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:00:00 +0000",
+          "teamA": "Granada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/33779/image",
+          "teamB": "Tenerife",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image"
+        },
+        "id": 5288,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "title": "LaLiga 2"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 15:20:00 +0000",
+          "eventName": "LaLiga 2",
+          "isHot": "0",
+          "startTime": "2026/11/07 13:00:00 +0000",
+          "teamA": "Burgos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+          "teamB": "Celta Fortuna",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image"
+        },
+        "id": 5289,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "title": "LaLiga 2"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:35:00 +0000",
+          "eventName": "LaLiga 2",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:15:00 +0000",
+          "teamA": "Cádiz",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
+          "teamB": "Oviedo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image"
+        },
+        "id": 5290,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "title": "LaLiga 2"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 19:50:00 +0000",
+          "eventName": "LaLiga 2",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:30:00 +0000",
+          "teamA": "Leganés",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+          "teamB": "Albacete",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image"
+        },
+        "id": 5291,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "title": "LaLiga 2"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 13:50:00 +0000",
+          "eventName": "Serie A",
+          "isHot": "0",
+          "startTime": "2026/11/08 11:30:00 +0000",
+          "teamA": "Napoli",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+          "teamB": "Lazio",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image"
+        },
+        "id": 5293,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "title": "Serie A"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 22:05:00 +0000",
+          "eventName": "Serie A",
+          "isHot": "0",
+          "startTime": "2026/11/07 19:45:00 +0000",
+          "teamA": "Roma",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+          "teamB": "Sassuolo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image"
+        },
+        "id": 5296,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "title": "Serie A"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 13:50:00 +0000",
+          "eventName": "Serie A Women",
+          "isHot": "0",
+          "startTime": "2026/11/07 11:30:00 +0000",
+          "teamA": "Como",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1114927/image",
+          "teamB": "Roma",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/301414/image"
+        },
+        "id": 5297,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "title": "Serie A Women"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 16:20:00 +0000",
+          "eventName": "Serie A Women",
+          "isHot": "0",
+          "startTime": "2026/11/07 14:00:00 +0000",
+          "teamA": "Milan",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/298858/image",
+          "teamB": "Inter",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image"
+        },
+        "id": 5298,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "title": "Serie A Women"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 13:50:00 +0000",
+          "eventName": "Serie A Women",
+          "isHot": "0",
+          "startTime": "2026/11/08 11:30:00 +0000",
+          "teamA": "Parma",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/424787/image",
+          "teamB": "FC Como",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/404899/image"
+        },
+        "id": 5299,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "title": "Serie A Women"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 19:20:00 +0000",
+          "eventName": "Serie A Women",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:00:00 +0000",
+          "teamA": "Juventus",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+          "teamB": "Sassuolo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/269819/image"
+        },
+        "id": 5300,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "title": "Serie A Women"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 16:50:00 +0000",
+          "eventName": "Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/07 14:30:00 +0000",
+          "teamA": "Leipzig",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+          "teamB": "Augsburg",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2600/image"
+        },
+        "id": 5301,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "title": "Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 16:50:00 +0000",
+          "eventName": "Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/07 14:30:00 +0000",
+          "teamA": "Mainz 05",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
+          "teamB": "Bayern",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image"
+        },
+        "id": 5302,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "title": "Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 16:50:00 +0000",
+          "eventName": "Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/07 14:30:00 +0000",
+          "teamA": "Dortmund",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+          "teamB": "Elversberg",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image"
+        },
+        "id": 5303,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "title": "Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 19:50:00 +0000",
+          "eventName": "Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:30:00 +0000",
+          "teamA": "Stuttgart",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+          "teamB": "Bremen",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2534/image"
+        },
+        "id": 5304,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "title": "Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 16:50:00 +0000",
+          "eventName": "Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/07 14:30:00 +0000",
+          "teamA": "Paderborn",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
+          "teamB": "Frankfurt",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image"
+        },
+        "id": 5305,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "title": "Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 14:20:00 +0000",
+          "eventName": "2. Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/07 12:00:00 +0000",
+          "teamA": "Kiel",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
+          "teamB": "Bielefeld",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image"
+        },
+        "id": 5306,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "title": "2. Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 14:50:00 +0000",
+          "eventName": "2. Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/08 12:30:00 +0000",
+          "teamA": "Bochum",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
+          "teamB": "Karlsruhe",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image"
+        },
+        "id": 5307,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "title": "2. Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 14:20:00 +0000",
+          "eventName": "2. Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/07 12:00:00 +0000",
+          "teamA": "Nürnberg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2523/image",
+          "teamB": "Darmstadt",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image"
+        },
+        "id": 5308,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "title": "2. Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 14:50:00 +0000",
+          "eventName": "2. Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/08 12:30:00 +0000",
+          "teamA": "Heidenheim",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+          "teamB": "Hannover",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2541/image"
+        },
+        "id": 5309,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "title": "2. Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 21:50:00 +0000",
+          "eventName": "2. Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/07 19:30:00 +0000",
+          "teamA": "Hertha",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+          "teamB": "Wolfsburg",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image"
+        },
+        "id": 5310,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "title": "2. Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 14:50:00 +0000",
+          "eventName": "2. Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/08 12:30:00 +0000",
+          "teamA": "Magdeburg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
+          "teamB": "St. Pauli",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image"
+        },
+        "id": 5311,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "title": "2. Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 14:20:00 +0000",
+          "eventName": "2. Bundesliga",
+          "isHot": "0",
+          "startTime": "2026/11/07 12:00:00 +0000",
+          "teamA": "Osnabrück",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2581/image",
+          "teamB": "Kaiserslautern",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image"
+        },
+        "id": 5312,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "title": "2. Bundesliga"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:20:00 +0000",
+          "eventName": "Ligue 1",
+          "isHot": "0",
+          "startTime": "2026/11/07 18:00:00 +0000",
+          "teamA": "Auxerre",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1646/image",
+          "teamB": "Paris",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image"
+        },
+        "id": 5313,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "title": "Ligue 1"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 22:25:00 +0000",
+          "eventName": "Ligue 1",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:05:00 +0000",
+          "teamA": "PSG",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+          "teamB": "Troyes",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1652/image"
+        },
+        "id": 5314,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "title": "Ligue 1"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 14:50:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 12:30:00 +0000",
+          "teamA": "Wrexham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
+          "teamB": "Wolves",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image"
+        },
+        "id": 5315,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "Blackburn",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/46/image",
+          "teamB": "West Ham",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image"
+        },
+        "id": 5316,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "Charlton",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/47/image",
+          "teamB": "Sheffield Utd",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image"
+        },
+        "id": 5317,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "Watford",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/24/image",
+          "teamB": "Middlesbrough",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image"
+        },
+        "id": 5318,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 14:50:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 12:30:00 +0000",
+          "teamA": "Portsmouth",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
+          "teamB": "Stoke",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image"
+        },
+        "id": 5319,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "West Brom",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
+          "teamB": "Millwall",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image"
+        },
+        "id": 5320,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "Cardiff",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
+          "teamB": "Burnley",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image"
+        },
+        "id": 5321,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "Preston",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
+          "teamB": "Southampton",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image"
+        },
+        "id": 5322,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "QPR",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
+          "teamB": "Lincoln",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image"
+        },
+        "id": 5323,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 14:50:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 12:30:00 +0000",
+          "teamA": "Bristol City",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+          "teamB": "Norwich",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image"
+        },
+        "id": 5324,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Championship",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "Birmingham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
+          "teamB": "Swansea",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image"
+        },
+        "id": 5325,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "title": "Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:50:00 +0000",
+          "eventName": "Liga Portugal Betclic",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:30:00 +0000",
+          "teamA": "Nacional",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3013/image",
+          "teamB": "Académico Viseu",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3022/image"
+        },
+        "id": 5326,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "title": "Liga Portugal Betclic"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:20:00 +0000",
+          "eventName": "Liga Portugal Betclic",
+          "isHot": "0",
+          "startTime": "2026/11/07 18:00:00 +0000",
+          "teamA": "Alverca",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/190328/image",
+          "teamB": "Casa Pia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36365/image"
+        },
+        "id": 5327,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "title": "Liga Portugal Betclic"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 22:50:00 +0000",
+          "eventName": "Liga Portugal Betclic",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:30:00 +0000",
+          "teamA": "Sporting",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
+          "teamB": "Moreirense",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3014/image"
+        },
+        "id": 5328,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "title": "Liga Portugal Betclic"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 23:20:00 +0000",
+          "eventName": "MLS",
+          "isHot": "0",
+          "startTime": "2026/11/07 21:00:00 +0000",
+          "teamA": "Inter Miami",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+          "teamB": "Charlotte",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/404108/image"
+        },
+        "id": 5329,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "title": "MLS"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 13:05:00 +0000",
+          "eventName": "A-League Men",
+          "isHot": "0",
+          "startTime": "2026/11/07 10:45:00 +0000",
+          "teamA": "Perth Glory",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2945/image",
+          "teamB": "Newcastle Jets",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2934/image"
+        },
+        "id": 5330,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "title": "A-League Men"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 06:20:00 +0000",
+          "eventName": "A-League Men",
+          "isHot": "0",
+          "startTime": "2026/11/08 04:00:00 +0000",
+          "teamA": "Macarthur",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/371682/image",
+          "teamB": "Brisbane Roar",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5968/image"
+        },
+        "id": 5331,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "title": "A-League Men"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 08:20:00 +0000",
+          "eventName": "A-League Men",
+          "isHot": "0",
+          "startTime": "2026/11/08 06:00:00 +0000",
+          "teamA": "Adelaide United",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2946/image",
+          "teamB": "Melbourne Victory",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5970/image"
+        },
+        "id": 5332,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "title": "A-League Men"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 15:05:00 +0000",
+          "eventName": "Women's Super League",
+          "isHot": "0",
+          "startTime": "2026/11/07 12:45:00 +0000",
+          "teamA": "Man City",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/142658/image",
+          "teamB": "West Ham",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/297802/image"
+        },
+        "id": 5333,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "title": "Women's Super League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 14:20:00 +0000",
+          "eventName": "Women's Super League",
+          "isHot": "0",
+          "startTime": "2026/11/08 12:00:00 +0000",
+          "teamA": "Aston Villa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/266375/image",
+          "teamB": "Man Utd",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/301455/image"
+        },
+        "id": 5334,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "title": "Women's Super League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 15:05:00 +0000",
+          "eventName": "Women's Super League",
+          "isHot": "0",
+          "startTime": "2026/11/07 12:45:00 +0000",
+          "teamA": "Chelsea",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+          "teamB": "Everton",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36704/image"
+        },
+        "id": 5335,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "title": "Women's Super League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 14:20:00 +0000",
+          "eventName": "Women's Super League",
+          "isHot": "0",
+          "startTime": "2026/11/08 12:00:00 +0000",
+          "teamA": "Liverpool",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/66774/image",
+          "teamB": "Arsenal",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image"
+        },
+        "id": 5336,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "title": "Women's Super League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:20:00 +0000",
+          "eventName": "Liga F Moeve",
+          "isHot": "0",
+          "startTime": "2026/11/07 15:00:00 +0000",
+          "teamA": "Athletic Club",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/77877/image",
+          "teamB": "Real Madrid",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image"
+        },
+        "id": 5337,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "title": "Liga F Moeve"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 18:35:00 +0000",
+          "eventName": "Liga F Moeve",
+          "isHot": "0",
+          "startTime": "2026/11/07 16:15:00 +0000",
+          "teamA": "Eibar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/362904/image",
+          "teamB": "R. Sociedad",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/77897/image"
+        },
+        "id": 5338,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "title": "Liga F Moeve"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 13:20:00 +0000",
+          "eventName": "Liga F Moeve",
+          "isHot": "0",
+          "startTime": "2026/11/07 11:00:00 +0000",
+          "teamA": "Granada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/114819/image",
+          "teamB": "Espanyol",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38323/image"
+        },
+        "id": 5339,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "title": "Liga F Moeve"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 12:50:00 +0000",
+          "eventName": "Trendyol Süper Lig",
+          "isHot": "0",
+          "startTime": "2026/11/08 10:30:00 +0000",
+          "teamA": "Rizespor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
+          "teamB": "Erzurumspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/55603/image"
+        },
+        "id": 5340,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "title": "Trendyol Süper Lig"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 12:50:00 +0000",
+          "eventName": "Trendyol Süper Lig",
+          "isHot": "0",
+          "startTime": "2026/11/07 10:30:00 +0000",
+          "teamA": "Eyüpspor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+          "teamB": "Kocaelispor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image"
+        },
+        "id": 5341,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "title": "Trendyol Süper Lig"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 15:20:00 +0000",
+          "eventName": "Trendyol Süper Lig",
+          "isHot": "0",
+          "startTime": "2026/11/07 13:00:00 +0000",
+          "teamA": "Samsunspor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+          "teamB": "Konyaspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image"
+        },
+        "id": 5342,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "title": "Trendyol Süper Lig"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 18:20:00 +0000",
+          "eventName": "Trendyol Süper Lig",
+          "isHot": "0",
+          "startTime": "2026/11/07 16:00:00 +0000",
+          "teamA": "Galatasaray",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+          "teamB": "Amedspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/207011/image"
+        },
+        "id": 5343,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "title": "Trendyol Süper Lig"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 18:20:00 +0000",
+          "eventName": "Trendyol Süper Lig",
+          "isHot": "0",
+          "startTime": "2026/11/07 16:00:00 +0000",
+          "teamA": "Göztepe",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3054/image",
+          "teamB": "Başakşehir",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image"
+        },
+        "id": 5344,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "title": "Trendyol Süper Lig"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 15:20:00 +0000",
+          "eventName": "Trendyol Süper Lig",
+          "isHot": "0",
+          "startTime": "2026/11/08 13:00:00 +0000",
+          "teamA": "Çorum",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/77629/image",
+          "teamB": "Fenerbahçe",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3052/image"
+        },
+        "id": 5345,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "title": "Trendyol Süper Lig"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 22:20:00 +0000",
+          "eventName": "Scottish Premiership",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:00:00 +0000",
+          "teamA": "St Mirren",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2359/image",
+          "teamB": "Rangers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image"
+        },
+        "id": 5346,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "title": "Scottish Premiership"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 01:20:00 +0000",
+          "eventName": "Liga MX, Apertura",
+          "isHot": "0",
+          "startTime": "2026/11/07 23:00:00 +0000",
+          "teamA": "Atlas",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1949/image",
+          "teamB": "Pachuca",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image"
+        },
+        "id": 5347,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "title": "Liga MX, Apertura"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 05:30:00 +0000",
+          "eventName": "Liga MX, Apertura",
+          "isHot": "0",
+          "startTime": "2026/11/08 03:10:00 +0000",
+          "teamA": "Pumas",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+          "teamB": "América",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image"
+        },
+        "id": 5348,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "title": "Liga MX, Apertura"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 03:20:00 +0000",
+          "eventName": "Liga MX, Apertura",
+          "isHot": "0",
+          "startTime": "2026/11/08 01:00:00 +0000",
+          "teamA": "Tigres",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
+          "teamB": "Cruz Azul",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1947/image"
+        },
+        "id": 5349,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "title": "Liga MX, Apertura"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://no.link",
+            "source": "ivan",
+            "title": "Link 1",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 03:20:00 +0000",
+          "eventName": "Liga MX, Apertura",
+          "isHot": "0",
+          "startTime": "2026/11/08 01:00:00 +0000",
+          "teamA": "Toluca",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+          "teamB": "Monterrey",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image"
+        },
+        "id": 5350,
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "title": "Liga MX, Apertura"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/55418/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 17:30:00 +0000",
+          "eventName": "College GameDay",
+          "isHot": "0",
+          "startTime": "2026/11/07 14:00:00 +0000",
+          "teamA": "College GameDay",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "College GameDay",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 28233781,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "LaLiga",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 20:30:00 +0000",
+          "eventName": "Osasuna vs Athletic Club",
+          "isHot": "0",
+          "startTime": "2026/11/07 17:30:00 +0000",
+          "teamA": "Osasuna",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Athletic Club",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 28234304,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/8/image",
+        "title": "LaLiga"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 23:00:00 +0000",
+          "eventName": "Appalachian St. vs Georgia St.",
+          "isHot": "0",
+          "startTime": "2026/11/07 19:30:00 +0000",
+          "teamA": "Appalachian St.",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Georgia St.",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 28234567,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/07 23:30:00 +0000",
+          "eventName": "Kennesaw St. vs Delaware",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:00:00 +0000",
+          "teamA": "Kennesaw St.",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Delaware",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 28234800,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 00:00:00 +0000",
+          "eventName": "UAB vs Charlotte",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:30:00 +0000",
+          "teamA": "UAB",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Charlotte",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 31835300,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 00:00:00 +0000",
+          "eventName": "Houston vs Cincinnati",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:30:00 +0000",
+          "teamA": "Houston",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Cincinnati",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 31835386,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 00:00:00 +0000",
+          "eventName": "LSU Tigers vs Alabama",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:30:00 +0000",
+          "teamA": "LSU Tigers",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Alabama",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 31835471,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 00:00:00 +0000",
+          "eventName": "Middle Tennessee St. vs Western Kentucky",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:30:00 +0000",
+          "teamA": "Middle Tennessee St.",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Western Kentucky",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 31835555,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "American Football",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 00:00:00 +0000",
+          "eventName": "Navy vs Temple",
+          "isHot": "0",
+          "startTime": "2026/11/07 20:30:00 +0000",
+          "teamA": "Navy",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Temple",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 31835721,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+        "title": "CFB"
+      },
+      {
+        "cat": "MLS",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 00:00:00 +0000",
+          "eventName": "Chicago Fire vs Columbus Crew",
+          "isHot": "0",
+          "startTime": "2026/11/07 21:00:00 +0000",
+          "teamA": "Chicago Fire",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Columbus Crew",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 31835803,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
+        "title": "MLS"
+      },
+      {
+        "cat": "MLS",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 00:00:00 +0000",
+          "eventName": "CF Montréal vs Vancouver Whitecaps",
+          "isHot": "0",
+          "startTime": "2026/11/07 21:00:00 +0000",
+          "teamA": "CF Montréal",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Vancouver Whitecaps",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 31836071,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
+        "title": "MLS"
+      },
+      {
+        "cat": "MLS",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/08 00:00:00 +0000",
+          "eventName": "Philadelphia Union vs Toronto FC",
+          "isHot": "0",
+          "startTime": "2026/11/07 21:00:00 +0000",
+          "teamA": "Philadelphia Union",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Toronto FC",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 31836238,
+        "league_logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
+        "title": "MLS"
       }
     ]
   }
