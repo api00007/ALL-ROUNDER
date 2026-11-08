@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "08/11/26 11:26:59 IST",
-    "Total_Matches": 38,
+    "Last update": "08/11/26 11:32:49 IST",
+    "Total_Matches": 39,
     "Live_Data": [
         {
             "Id": "1",
@@ -109,6 +109,23 @@
         {
             "Id": "7",
             "Category": "Premier League",
+            "Event_Name": "Crystal Palace vs Liverpool FC",
+            "League_Name": "Premier League",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
+            "Stream_Name": "PREMIER LEAGUE SERVER",
+            "Team_A": "Crystal Palace",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Liverpool FC",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "08/11/2026; 19:30:00 IST",
+            "End_Time": "08/11/2026; 22:30:00 IST",
+            "UTC_Start": "2026/11/08 14:00:00 +0000",
+            "UTC_End": "2026/11/08 17:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8331893192/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "8",
+            "Category": "Premier League",
             "Event_Name": "Brighton &amp; Hove Albion vs Brentford",
             "League_Name": "Premier League",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
@@ -124,7 +141,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8331887536/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "9",
             "Category": "Premier League",
             "Event_Name": "Sunderland vs Chelsea",
             "League_Name": "Premier League",
@@ -141,7 +158,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8331932784/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "10",
             "Category": "Serie A",
             "Event_Name": "Genoa vs AC Milan",
             "League_Name": "Serie A",
@@ -158,7 +175,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8336955312/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "10",
+            "Id": "11",
             "Category": "Serie A",
             "Event_Name": "Monza vs Atalanta",
             "League_Name": "Serie A",
@@ -175,7 +192,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8336960968/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "11",
+            "Id": "12",
             "Category": "Premier League",
             "Event_Name": "Ipswich Town vs Bournemouth",
             "League_Name": "Premier League",
@@ -192,7 +209,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8331910160/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "12",
+            "Id": "13",
             "Category": "World Championship Women",
             "Event_Name": "USA vs Germany",
             "League_Name": "World Championship Women",
@@ -207,23 +224,6 @@
             "UTC_Start": "2026/11/08 14:00:00 +0000",
             "UTC_End": "2026/11/08 17:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8585067064/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "13",
-            "Category": "Premier League",
-            "Event_Name": "Crystal Palace vs Liverpool FC",
-            "League_Name": "Premier League",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
-            "Stream_Name": "PREMIER LEAGUE SERVER",
-            "Team_A": "Crystal Palace",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Liverpool FC",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "08/11/2026; 19:30:00 IST",
-            "End_Time": "08/11/2026; 22:30:00 IST",
-            "UTC_Start": "2026/11/08 14:00:00 +0000",
-            "UTC_End": "2026/11/08 17:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8331893192/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "14",
@@ -649,6 +649,23 @@
             "UTC_Start": "2026/11/08 20:00:00 +0000",
             "UTC_End": "2026/11/08 23:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8933742496/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "39",
+            "Category": "Hockey",
+            "Event_Name": "Buffalo Sabres vs Vegas Golden Knights",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Buffalo Sabres",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Vegas Golden Knights",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "09/11/2026; 02:00:00 IST",
+            "End_Time": "09/11/2026; 04:30:00 IST",
+            "UTC_Start": "2026/11/08 20:30:00 +0000",
+            "UTC_End": "2026/11/08 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8584897384/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
