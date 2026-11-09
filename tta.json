@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "09/11/26 22:56:26 IST",
+    "Last update": "09/11/26 23:01:59 IST",
     "Total_Matches": 25,
     "Live_Data": [
         {
@@ -74,6 +74,23 @@
         },
         {
             "Id": "5",
+            "Category": "Basketball",
+            "Event_Name": "Charlotte Hornets vs Cleveland Cavaliers",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Charlotte Hornets",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Cleveland Cavaliers",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "10/11/2026; 05:30:00 IST",
+            "End_Time": "10/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/11/10 00:00:00 +0000",
+            "UTC_End": "2026/11/10 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9029051752/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "6",
             "Category": "NCAA Men",
             "Event_Name": "Texas Longhorns vs Grambling St Tigers",
             "League_Name": "NCAA Men",
@@ -90,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9029690880/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "7",
             "Category": "Basketball",
             "Event_Name": "Detroit Pistons vs Washington Wizards",
             "League_Name": "NBA",
@@ -105,23 +122,6 @@
             "UTC_Start": "2026/11/10 00:00:00 +0000",
             "UTC_End": "2026/11/10 02:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9029057408/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "7",
-            "Category": "Basketball",
-            "Event_Name": "Charlotte Hornets vs Cleveland Cavaliers",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Charlotte Hornets",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Cleveland Cavaliers",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "10/11/2026; 05:30:00 IST",
-            "End_Time": "10/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/10 00:00:00 +0000",
-            "UTC_End": "2026/11/10 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9029051752/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "8",
@@ -363,20 +363,20 @@
         },
         {
             "Id": "22",
-            "Category": "NCAA Women",
-            "Event_Name": "Grand Canyon Antelopes vs Oregon Ducks",
-            "League_Name": "NCAA Women",
+            "Category": "NCAA Men",
+            "Event_Name": "Washington Huskies vs Mississippi Valley State Delta Devils",
+            "League_Name": "NCAA Men",
             "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA WOMEN SERVER",
-            "Team_A": "Grand Canyon Antelopes",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Washington Huskies",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Oregon Ducks",
+            "Team_B": "Mississippi Valley State Delta Devils",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "10/11/2026; 08:30:00 IST",
             "End_Time": "10/11/2026; 11:30:00 IST",
             "UTC_Start": "2026/11/10 03:00:00 +0000",
             "UTC_End": "2026/11/10 06:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9029888840/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9196859616/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "23",
@@ -397,20 +397,20 @@
         },
         {
             "Id": "24",
-            "Category": "NCAA Men",
-            "Event_Name": "Washington Huskies vs Mississippi Valley State Delta Devils",
-            "League_Name": "NCAA Men",
+            "Category": "NCAA Women",
+            "Event_Name": "Grand Canyon Antelopes vs Oregon Ducks",
+            "League_Name": "NCAA Women",
             "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Washington Huskies",
+            "Stream_Name": "NCAA WOMEN SERVER",
+            "Team_A": "Grand Canyon Antelopes",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Mississippi Valley State Delta Devils",
+            "Team_B": "Oregon Ducks",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "10/11/2026; 08:30:00 IST",
             "End_Time": "10/11/2026; 11:30:00 IST",
             "UTC_Start": "2026/11/10 03:00:00 +0000",
             "UTC_End": "2026/11/10 06:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9196859616/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9029888840/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "25",
