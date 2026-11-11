@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "11/11/26 18:21:36 IST",
-    "Total_Matches": 22,
+    "Last update": "11/11/26 18:51:39 IST",
+    "Total_Matches": 23,
     "Live_Data": [
         {
             "Id": "1",
@@ -46,14 +46,6 @@
         },
         {
             "Id": "6",
-            "Rivels": "Michigan Wolverines vs Marquette Golden Eagles",
-            "Team A": "Michigan Wolverines",
-            "Team B": "Marquette Golden Eagles",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/9208148992/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "7",
             "Rivels": "Texas Longhorns vs South Dakota State Jackrabbits",
             "Team A": "Texas Longhorns",
             "Team B": "South Dakota State Jackrabbits",
@@ -61,23 +53,15 @@
             "Link": "https://chatgpt.hereisman.net/playlist/9208889928/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
+            "Id": "7",
+            "Rivels": "Michigan Wolverines vs Marquette Golden Eagles",
+            "Team A": "Michigan Wolverines",
+            "Team B": "Marquette Golden Eagles",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/9208148992/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
             "Id": "8",
-            "Rivels": "Central Michigan vs Sacramento State",
-            "Team A": "Central Michigan",
-            "Team B": "Sacramento State",
-            "Title": "CFB (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8703379272/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "9",
-            "Rivels": "Ball State vs Buffalo",
-            "Team A": "Ball State",
-            "Team B": "Buffalo",
-            "Title": "CFB (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8703373616/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "10",
             "Rivels": "Toledo vs UMass",
             "Team A": "Toledo",
             "Team B": "UMass",
@@ -85,12 +69,28 @@
             "Link": "https://chatgpt.hereisman.net/playlist/8703384928/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "11",
+            "Id": "9",
             "Rivels": "Calgary Flames vs New York Rangers",
             "Team A": "Calgary Flames",
             "Team B": "New York Rangers",
             "Title": "NHL (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/8585745784/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "10",
+            "Rivels": "Ball State vs Buffalo",
+            "Team A": "Ball State",
+            "Team B": "Buffalo",
+            "Title": "CFB (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8703373616/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "11",
+            "Rivels": "Central Michigan vs Sacramento State",
+            "Team A": "Central Michigan",
+            "Team B": "Sacramento State",
+            "Title": "CFB (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8703379272/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "12",
@@ -118,19 +118,19 @@
         },
         {
             "Id": "15",
-            "Rivels": "Edmonton Oilers vs Philadelphia Flyers",
-            "Team A": "Edmonton Oilers",
-            "Team B": "Philadelphia Flyers",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8585751440/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "16",
             "Rivels": "Nebraska Cornhuskers vs Lindenwood Lions",
             "Team A": "Nebraska Cornhuskers",
             "Team B": "Lindenwood Lions",
             "Title": "NCAA Men (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/9208267768/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "16",
+            "Rivels": "Edmonton Oilers vs Philadelphia Flyers",
+            "Team A": "Edmonton Oilers",
+            "Team B": "Philadelphia Flyers",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8585751440/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "17",
@@ -142,19 +142,19 @@
         },
         {
             "Id": "18",
-            "Rivels": "Vegas Golden Knights vs Utah Mammoth",
-            "Team A": "Vegas Golden Knights",
-            "Team B": "Utah Mammoth",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8585768408/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "19",
             "Rivels": "Houston Rockets vs Golden State Warriors",
             "Team A": "Houston Rockets",
             "Team B": "Golden State Warriors",
             "Title": "NBA (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/9206808520/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "19",
+            "Rivels": "Vegas Golden Knights vs Utah Mammoth",
+            "Team A": "Vegas Golden Knights",
+            "Team B": "Utah Mammoth",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8585768408/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "20",
@@ -179,6 +179,14 @@
             "Team B": "Oklahoma City Thunder",
             "Title": "NBA (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/9206814176/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "23",
+            "Rivels": "California Golden Bears vs USC Trojans",
+            "Team A": "California Golden Bears",
+            "Team B": "USC Trojans",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/9208307360/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         }
     ]
 }
