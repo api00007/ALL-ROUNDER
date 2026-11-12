@@ -1,11 +1,28 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "13/11/26 02:56:27 IST",
+    "Last update": "13/11/26 03:02:05 IST",
     "Total_Matches": 32,
     "Live_Data": [
         {
             "Id": "1",
+            "Category": "NCAA Women",
+            "Event_Name": "Brown Bears vs Holy Cross Crusaders",
+            "League_Name": "NCAA Women",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA WOMEN SERVER",
+            "Team_A": "Brown Bears",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Holy Cross Crusaders",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "13/11/2026; 03:00:00 IST",
+            "End_Time": "13/11/2026; 06:00:00 IST",
+            "UTC_Start": "2026/11/12 21:30:00 +0000",
+            "UTC_End": "2026/11/13 00:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59890/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "2",
             "Category": "UEFA Nations League",
             "Event_Name": "England vs Croatia",
             "League_Name": "UEFA Nations League",
@@ -22,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59879/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "2",
+            "Id": "3",
             "Category": "UEFA Nations League",
             "Event_Name": "San Marino vs Belarus",
             "League_Name": "UEFA Nations League",
@@ -39,29 +56,12 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59878/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
-            "Category": "UEFA Nations League",
-            "Event_Name": "Italy vs France",
-            "League_Name": "UEFA Nations League",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
-            "Team_A": "Italy",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "France",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "13/11/2026; 01:15:00 IST",
-            "End_Time": "13/11/2026; 04:15:00 IST",
-            "UTC_Start": "2026/11/12 19:45:00 +0000",
-            "UTC_End": "2026/11/12 22:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59887/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
             "Id": "4",
             "Category": "UEFA Nations League",
             "Event_Name": "Italy vs France",
             "League_Name": "UEFA Nations League",
             "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "HD SERVER",
+            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
             "Team_A": "Italy",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Team_B": "France",
@@ -78,6 +78,23 @@
             "Event_Name": "Italy vs France",
             "League_Name": "UEFA Nations League",
             "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "HD SERVER",
+            "Team_A": "Italy",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "France",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "13/11/2026; 01:15:00 IST",
+            "End_Time": "13/11/2026; 04:15:00 IST",
+            "UTC_Start": "2026/11/12 19:45:00 +0000",
+            "UTC_End": "2026/11/12 22:45:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59887/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "6",
+            "Category": "UEFA Nations League",
+            "Event_Name": "Italy vs France",
+            "League_Name": "UEFA Nations League",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Stream_Name": "HD SERVER 2",
             "Team_A": "Italy",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
@@ -90,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59889/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "7",
             "Category": "UEFA Nations League",
             "Event_Name": "Montenegro vs Latvia",
             "League_Name": "UEFA Nations League",
@@ -107,7 +124,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59884/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "8",
             "Category": "UEFA Nations League",
             "Event_Name": "Czechia vs Spain",
             "League_Name": "UEFA Nations League",
@@ -121,10 +138,10 @@
             "End_Time": "13/11/2026; 04:15:00 IST",
             "UTC_Start": "2026/11/12 19:45:00 +0000",
             "UTC_End": "2026/11/12 22:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59888/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59885/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "9",
             "Category": "UEFA Nations League",
             "Event_Name": "Czechia vs Spain",
             "League_Name": "UEFA Nations League",
@@ -138,10 +155,10 @@
             "End_Time": "13/11/2026; 04:15:00 IST",
             "UTC_Start": "2026/11/12 19:45:00 +0000",
             "UTC_End": "2026/11/12 22:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59885/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59888/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "10",
             "Category": "UEFA Nations League",
             "Event_Name": "Albania vs Finland",
             "League_Name": "UEFA Nations League",
@@ -156,23 +173,6 @@
             "UTC_Start": "2026/11/12 19:45:00 +0000",
             "UTC_End": "2026/11/12 22:45:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59883/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "10",
-            "Category": "NCAA Women",
-            "Event_Name": "Brown Bears vs Holy Cross Crusaders",
-            "League_Name": "NCAA Women",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA WOMEN SERVER",
-            "Team_A": "Brown Bears",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Holy Cross Crusaders",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "13/11/2026; 03:00:00 IST",
-            "End_Time": "13/11/2026; 06:00:00 IST",
-            "UTC_Start": "2026/11/12 21:30:00 +0000",
-            "UTC_End": "2026/11/13 00:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59890/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "11",
