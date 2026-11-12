@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "12/11/26 06:11:13 IST",
+    "Last update": "12/11/26 06:21:13 IST",
     "Total_Matches": 19,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "American Football",
-            "Event_Name": "Sacramento State Hornets at Central Michigan Chippewas",
-            "League_Name": "NCAA Football",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "NCAA FOOTBALL SERVER",
-            "Team_A": "Sacramento State Hornets",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/e5ca4be0-6da1-40c9-840a-75bec9ff79cd.webp",
-            "Team_B": "Central Michigan Chippewas",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/fbf5b4e8-8c31-4ac0-8940-54144bddab1f.webp",
-            "Start_Time": "12/11/2026; 06:00:00 IST",
-            "End_Time": "12/11/2026; 09:00:00 IST",
-            "UTC_Start": "2026/11/12 00:30:00 +0000",
-            "UTC_End": "2026/11/12 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sfjnzabacah31.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "American Football",
             "Event_Name": "Buffalo Bulls at Ball State Cardinals",
             "League_Name": "NCAA Football",
@@ -37,6 +20,23 @@
             "UTC_Start": "2026/11/12 00:30:00 +0000",
             "UTC_End": "2026/11/12 03:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "2",
+            "Category": "American Football",
+            "Event_Name": "Sacramento State Hornets at Central Michigan Chippewas",
+            "League_Name": "NCAA Football",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "NCAA FOOTBALL SERVER",
+            "Team_A": "Sacramento State Hornets",
+            "Team_A_Logo": "https://streamcenter.st/api/images/badge/e5ca4be0-6da1-40c9-840a-75bec9ff79cd.webp",
+            "Team_B": "Central Michigan Chippewas",
+            "Team_B_Logo": "https://streamcenter.st/api/images/badge/fbf5b4e8-8c31-4ac0-8940-54144bddab1f.webp",
+            "Start_Time": "12/11/2026; 06:00:00 IST",
+            "End_Time": "12/11/2026; 09:00:00 IST",
+            "UTC_Start": "2026/11/12 00:30:00 +0000",
+            "UTC_End": "2026/11/12 03:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/sfjnzabacah31.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "3",
