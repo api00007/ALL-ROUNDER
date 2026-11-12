@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "12/11/26 18:02:06 IST",
-    "Total_Matches": 30,
+    "Last update": "12/11/26 18:32:23 IST",
+    "Total_Matches": 31,
     "Live_Data": [
         {
             "Id": "1",
@@ -110,14 +110,6 @@
         },
         {
             "Id": "14",
-            "Rivels": "Boston Bruins vs Montréal Canadiens",
-            "Team A": "Boston Bruins",
-            "Team B": "Montréal Canadiens",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8586379256/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "15",
             "Rivels": "Washington Wizards vs Detroit Pistons",
             "Team A": "Washington Wizards",
             "Team B": "Detroit Pistons",
@@ -125,20 +117,28 @@
             "Link": "https://chatgpt.hereisman.net/playlist/9228210824/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "16",
-            "Rivels": "New Jersey Devils vs Washington Capitals",
-            "Team A": "New Jersey Devils",
-            "Team B": "Washington Capitals",
+            "Id": "15",
+            "Rivels": "Boston Bruins vs Montréal Canadiens",
+            "Team A": "Boston Bruins",
+            "Team B": "Montréal Canadiens",
             "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8586396224/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/8586379256/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "17",
+            "Id": "16",
             "Rivels": "Columbus Blue Jackets vs Tampa Bay Lightning",
             "Team A": "Columbus Blue Jackets",
             "Team B": "Tampa Bay Lightning",
             "Title": "NHL (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/8586384912/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "17",
+            "Rivels": "New Jersey Devils vs Washington Capitals",
+            "Team A": "New Jersey Devils",
+            "Team B": "Washington Capitals",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/8586396224/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "18",
@@ -190,19 +190,19 @@
         },
         {
             "Id": "24",
-            "Rivels": "Minnesota Timberwolves vs Dallas Mavericks",
-            "Team A": "Minnesota Timberwolves",
-            "Team B": "Dallas Mavericks",
-            "Title": "NBA (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/9228216480/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "25",
             "Rivels": "Ball State Cardinals vs Louisville Cardinals",
             "Team A": "Ball State Cardinals",
             "Team B": "Louisville Cardinals",
             "Title": "NCAA Women (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/9229443832/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "25",
+            "Rivels": "Minnesota Timberwolves vs Dallas Mavericks",
+            "Team A": "Minnesota Timberwolves",
+            "Team B": "Dallas Mavericks",
+            "Title": "NBA (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/9228216480/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "26",
@@ -243,6 +243,14 @@
             "Team B": "New York Islanders",
             "Title": "NHL (S-1)",
             "Link": "https://chatgpt.hereisman.net/playlist/8586430160/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "31",
+            "Rivels": "UCLA Bruins vs Arizona Wildcats",
+            "Team A": "UCLA Bruins",
+            "Team B": "Arizona Wildcats",
+            "Title": "NCAA Women (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/9229472112/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         }
     ]
 }
