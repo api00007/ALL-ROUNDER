@@ -1,62 +1,28 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "14/11/26 04:26:48 IST",
-    "Total_Matches": 29,
+    "Last update": "14/11/26 04:32:23 IST",
+    "Total_Matches": 30,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "NCAA Women",
-            "Event_Name": "West Virginia Mountaineers vs Northwestern Wildcats",
-            "League_Name": "NCAA Women",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA WOMEN SERVER",
-            "Team_A": "West Virginia Mountaineers",
+            "Category": "Wrestling",
+            "Event_Name": "Friday Night SmackDown",
+            "League_Name": "WWE",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11235/image",
+            "Stream_Name": "WWE SERVER",
+            "Team_A": "Friday Night SmackDown",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Northwestern Wildcats",
+            "Team_B": "Friday Night SmackDown",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "14/11/2026; 04:00:00 IST",
-            "End_Time": "14/11/2026; 07:00:00 IST",
-            "UTC_Start": "2026/11/13 22:30:00 +0000",
-            "UTC_End": "2026/11/14 01:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59957/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Start_Time": "14/11/2026; 06:30:00 IST",
+            "End_Time": "14/11/2026; 09:30:00 IST",
+            "UTC_Start": "2026/11/14 01:00:00 +0000",
+            "UTC_End": "2026/11/14 04:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/58881/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "2",
-            "Category": "NCAA Men",
-            "Event_Name": "Miami Hurricanes vs North Alabama Lions",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Miami Hurricanes",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "North Alabama Lions",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "14/11/2026; 03:30:00 IST",
-            "End_Time": "14/11/2026; 06:30:00 IST",
-            "UTC_Start": "2026/11/13 22:00:00 +0000",
-            "UTC_End": "2026/11/14 01:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59955/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "3",
-            "Category": "NCAA Men",
-            "Event_Name": "Florida State Seminoles vs Texas A&amp;M Corpus Christi Islanders",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Florida State Seminoles",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Texas A&amp;M Corpus Christi Islanders",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "14/11/2026; 03:30:00 IST",
-            "End_Time": "14/11/2026; 06:30:00 IST",
-            "UTC_Start": "2026/11/13 22:00:00 +0000",
-            "UTC_End": "2026/11/14 01:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59956/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "4",
             "Category": "NCAA Men",
             "Event_Name": "Clemson Tigers vs Georgetown Hoyas",
             "League_Name": "NCAA Men",
@@ -73,7 +39,58 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59958/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
+            "Id": "3",
+            "Category": "NCAA Women",
+            "Event_Name": "West Virginia Mountaineers vs Northwestern Wildcats",
+            "League_Name": "NCAA Women",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA WOMEN SERVER",
+            "Team_A": "West Virginia Mountaineers",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Northwestern Wildcats",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "14/11/2026; 04:00:00 IST",
+            "End_Time": "14/11/2026; 07:00:00 IST",
+            "UTC_Start": "2026/11/13 22:30:00 +0000",
+            "UTC_End": "2026/11/14 01:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59957/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "4",
+            "Category": "NCAA Men",
+            "Event_Name": "Miami Hurricanes vs North Alabama Lions",
+            "League_Name": "NCAA Men",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Miami Hurricanes",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "North Alabama Lions",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "14/11/2026; 03:30:00 IST",
+            "End_Time": "14/11/2026; 06:30:00 IST",
+            "UTC_Start": "2026/11/13 22:00:00 +0000",
+            "UTC_End": "2026/11/14 01:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59955/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
             "Id": "5",
+            "Category": "NCAA Men",
+            "Event_Name": "Florida State Seminoles vs Texas A&amp;M Corpus Christi Islanders",
+            "League_Name": "NCAA Men",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Florida State Seminoles",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Texas A&amp;M Corpus Christi Islanders",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "14/11/2026; 03:30:00 IST",
+            "End_Time": "14/11/2026; 06:30:00 IST",
+            "UTC_Start": "2026/11/13 22:00:00 +0000",
+            "UTC_End": "2026/11/14 01:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59956/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "6",
             "Category": "Basketball",
             "Event_Name": "Indiana Pacers vs New York Knicks",
             "League_Name": "NBA",
@@ -87,10 +104,10 @@
             "End_Time": "14/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/14 00:00:00 +0000",
             "UTC_End": "2026/11/14 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229602200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59962/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "7",
             "Category": "NCAA Men",
             "Event_Name": "North Carolina Tar Heels vs Georgia Bulldogs",
             "League_Name": "NCAA Men",
@@ -104,10 +121,10 @@
             "End_Time": "14/11/2026; 08:30:00 IST",
             "UTC_Start": "2026/11/14 00:00:00 +0000",
             "UTC_End": "2026/11/14 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232447168/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59963/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "8",
             "Category": "American Football",
             "Event_Name": "Pittsburgh vs Florida State",
             "League_Name": "CFB",
@@ -121,10 +138,10 @@
             "End_Time": "14/11/2026; 09:00:00 IST",
             "UTC_Start": "2026/11/14 00:00:00 +0000",
             "UTC_End": "2026/11/14 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8703407552/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59959/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "9",
             "Category": "Basketball",
             "Event_Name": "Orlando Magic vs Milwaukee Bucks",
             "League_Name": "NBA",
@@ -138,10 +155,10 @@
             "End_Time": "14/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/14 00:00:00 +0000",
             "UTC_End": "2026/11/14 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229607856/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59965/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "10",
             "Category": "NCAA Men",
             "Event_Name": "Florida Gators vs Merrimack Warriors",
             "League_Name": "NCAA Men",
@@ -155,10 +172,10 @@
             "End_Time": "14/11/2026; 08:30:00 IST",
             "UTC_Start": "2026/11/14 00:00:00 +0000",
             "UTC_End": "2026/11/14 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232390608/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59964/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "10",
+            "Id": "11",
             "Category": "NCAA Men",
             "Event_Name": "Michigan State Spartans vs Northern Iowa Panthers",
             "League_Name": "NCAA Men",
@@ -172,10 +189,10 @@
             "End_Time": "14/11/2026; 08:30:00 IST",
             "UTC_Start": "2026/11/14 00:00:00 +0000",
             "UTC_End": "2026/11/14 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232435856/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59960/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "11",
+            "Id": "12",
             "Category": "NCAA Men",
             "Event_Name": "North Carolina State Wolfpack vs Troy State Trojans",
             "League_Name": "NCAA Men",
@@ -189,10 +206,10 @@
             "End_Time": "14/11/2026; 08:30:00 IST",
             "UTC_Start": "2026/11/14 00:00:00 +0000",
             "UTC_End": "2026/11/14 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232441512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59961/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "12",
+            "Id": "13",
             "Category": "NCAA Men",
             "Event_Name": "Connecticut Huskies vs Ohio State Buckeyes",
             "League_Name": "NCAA Men",
@@ -209,7 +226,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232481104/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "13",
+            "Id": "14",
             "Category": "Basketball",
             "Event_Name": "Miami Heat vs Cleveland Cavaliers",
             "League_Name": "NBA",
@@ -226,7 +243,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229619168/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "14",
+            "Id": "15",
             "Category": "Basketball",
             "Event_Name": "New Orleans Pelicans vs Memphis Grizzlies",
             "League_Name": "NBA",
@@ -243,7 +260,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229624824/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "15",
+            "Id": "16",
             "Category": "Basketball",
             "Event_Name": "Chicago Bulls vs Atlanta Hawks",
             "League_Name": "NBA",
@@ -260,7 +277,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229613512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "16",
+            "Id": "17",
             "Category": "Basketball",
             "Event_Name": "Houston Rockets vs Utah Jazz",
             "League_Name": "NBA",
@@ -277,7 +294,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229630480/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "17",
+            "Id": "18",
             "Category": "NCAA Men",
             "Event_Name": "Northwestern Wildcats vs DePaul Blue Demons",
             "League_Name": "NCAA Men",
@@ -294,7 +311,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232334048/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "18",
+            "Id": "19",
             "Category": "NCAA Men",
             "Event_Name": "Alabama Crimson Tide vs Seton Hall Pirates",
             "League_Name": "NCAA Men",
@@ -311,7 +328,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232571600/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "19",
+            "Id": "20",
             "Category": "NCAA Men",
             "Event_Name": "Auburn Tigers vs Arizona Wildcats",
             "League_Name": "NCAA Men",
@@ -328,7 +345,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232582912/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "20",
+            "Id": "21",
             "Category": "NCAA Men",
             "Event_Name": "Mississippi State Bulldogs vs Xavier Musketeers",
             "League_Name": "NCAA Men",
@@ -345,7 +362,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232594224/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "21",
+            "Id": "22",
             "Category": "NCAA Men",
             "Event_Name": "Southern Methodist Mustangs vs Ball State Cardinals",
             "League_Name": "NCAA Men",
@@ -362,7 +379,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232599880/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "22",
+            "Id": "23",
             "Category": "American Football",
             "Event_Name": "UCLA vs Illinois",
             "League_Name": "CFB",
@@ -379,7 +396,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8703413208/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "23",
+            "Id": "24",
             "Category": "NCAA Men",
             "Event_Name": "UNLV Runnin&#039; Rebels vs Stanford Cardinal",
             "League_Name": "NCAA Men",
@@ -396,7 +413,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9232605536/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "24",
+            "Id": "25",
             "Category": "Hockey",
             "Event_Name": "Vancouver Canucks vs New York Rangers",
             "League_Name": "NHL",
@@ -413,7 +430,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8586803456/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "25",
+            "Id": "26",
             "Category": "Basketball",
             "Event_Name": "San Antonio Spurs vs Golden State Warriors",
             "League_Name": "NBA",
@@ -430,7 +447,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229636136/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "26",
+            "Id": "27",
             "Category": "Hockey",
             "Event_Name": "Vegas Golden Knights vs Nashville Predators",
             "League_Name": "NHL",
@@ -447,7 +464,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8586809112/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "27",
+            "Id": "28",
             "Category": "Basketball",
             "Event_Name": "Sacramento Kings vs Portland Trail Blazers",
             "League_Name": "NBA",
@@ -464,7 +481,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229641792/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "28",
+            "Id": "29",
             "Category": "American Football",
             "Event_Name": "Colorado vs Houston",
             "League_Name": "CFB",
@@ -481,7 +498,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8703418864/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "29",
+            "Id": "30",
             "Category": "Basketball",
             "Event_Name": "Los Angeles Clippers vs Oklahoma City Thunder",
             "League_Name": "NBA",
