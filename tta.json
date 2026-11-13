@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "13/11/26 07:21:53 IST",
-    "Total_Matches": 37,
+    "Last update": "13/11/26 07:26:34 IST",
+    "Total_Matches": 38,
     "Live_Data": [
         {
             "Id": "1",
@@ -533,6 +533,23 @@
         },
         {
             "Id": "32",
+            "Category": "Basketball",
+            "Event_Name": "Phoenix Suns vs Charlotte Hornets",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "HD SERVER",
+            "Team_A": "Phoenix Suns",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Charlotte Hornets",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "13/11/2026; 07:30:00 IST",
+            "End_Time": "13/11/2026; 10:00:00 IST",
+            "UTC_Start": "2026/11/13 02:00:00 +0000",
+            "UTC_End": "2026/11/13 04:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59930/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "33",
             "Category": "NCAA Men",
             "Event_Name": "Brigham Young Cougars vs Montana State Bobcats",
             "League_Name": "NCAA Men",
@@ -549,7 +566,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59929/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "33",
+            "Id": "34",
             "Category": "American Football",
             "Event_Name": "ULM vs Lafayette",
             "League_Name": "CFB",
@@ -566,7 +583,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/59927/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "34",
+            "Id": "35",
             "Category": "Hockey",
             "Event_Name": "Los Angeles Kings vs New York Islanders",
             "League_Name": "NHL",
@@ -583,7 +600,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8586430160/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "35",
+            "Id": "36",
             "Category": "NCAA Women",
             "Event_Name": "Washington Huskies vs CSU Bakersfield Roadrunners",
             "League_Name": "NCAA Women",
@@ -600,7 +617,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229466456/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "36",
+            "Id": "37",
             "Category": "NCAA Women",
             "Event_Name": "UCLA Bruins vs Arizona Wildcats",
             "League_Name": "NCAA Women",
@@ -617,7 +634,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9229472112/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "37",
+            "Id": "38",
             "Category": "NCAA Women",
             "Event_Name": "Oklahoma Sooners vs Oral Roberts Golden Eagles",
             "League_Name": "NCAA Women",
