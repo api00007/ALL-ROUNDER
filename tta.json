@@ -1,11 +1,28 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "15/11/26 15:57:06 IST",
-    "Total_Matches": 48,
+    "Last update": "15/11/26 16:07:45 IST",
+    "Total_Matches": 49,
     "Live_Data": [
         {
             "Id": "1",
+            "Category": "American Football",
+            "Event_Name": "NFL Redzone",
+            "League_Name": "NFL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
+            "Stream_Name": "NFL SERVER",
+            "Team_A": "NFL Redzone",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "NFL Redzone",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "15/11/2026; 23:30:00 IST",
+            "End_Time": "16/11/2026; 03:00:00 IST",
+            "UTC_Start": "2026/11/15 18:00:00 +0000",
+            "UTC_End": "2026/11/15 21:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/3566535883/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "2",
             "Category": "American Football",
             "Event_Name": "NFL Network",
             "League_Name": "NFL",
@@ -20,23 +37,6 @@
             "UTC_Start": "2026/11/15 05:00:00 +0000",
             "UTC_End": "2026/11/15 08:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/54923/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
-            "Category": "UEFA Nations League",
-            "Event_Name": "Cyprus vs Montenegro",
-            "League_Name": "UEFA Nations League",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
-            "Team_A": "Cyprus",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Montenegro",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "15/11/2026; 19:30:00 IST",
-            "End_Time": "15/11/2026; 22:30:00 IST",
-            "UTC_Start": "2026/11/15 14:00:00 +0000",
-            "UTC_End": "2026/11/15 17:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070729624/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "3",
@@ -57,6 +57,23 @@
         },
         {
             "Id": "4",
+            "Category": "UEFA Nations League",
+            "Event_Name": "Cyprus vs Montenegro",
+            "League_Name": "UEFA Nations League",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
+            "Team_A": "Cyprus",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Montenegro",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "15/11/2026; 19:30:00 IST",
+            "End_Time": "15/11/2026; 22:30:00 IST",
+            "UTC_Start": "2026/11/15 14:00:00 +0000",
+            "UTC_End": "2026/11/15 17:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070729624/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "5",
             "Category": "American Football",
             "Event_Name": "Detroit Lions vs New England Patriots",
             "League_Name": "NFL",
@@ -73,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705104352/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "6",
             "Category": "UEFA Nations League",
             "Event_Name": "Finland vs San Marino",
             "League_Name": "UEFA Nations League",
@@ -90,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070723968/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "7",
             "Category": "UEFA Nations League",
             "Event_Name": "Belarus vs Albania",
             "League_Name": "UEFA Nations League",
@@ -107,7 +124,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070718312/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "8",
             "Category": "NCAA Men",
             "Event_Name": "Memphis Tigers vs Louisville Cardinals",
             "League_Name": "NCAA Men",
@@ -124,7 +141,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9268764344/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "9",
             "Category": "NCAA Men",
             "Event_Name": "Iowa State Cyclones vs Niagara Purple Eagles",
             "League_Name": "NCAA Men",
@@ -141,7 +158,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9268758688/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "10",
             "Category": "American Football",
             "Event_Name": "Oklahoma vs Ole Miss",
             "League_Name": "CFB",
@@ -158,7 +175,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8703577232/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "10",
+            "Id": "11",
             "Category": "American Football",
             "Event_Name": "Tennessee Titans vs Jacksonville Jaguars",
             "League_Name": "NFL",
@@ -175,7 +192,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705143944/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "11",
+            "Id": "12",
             "Category": "American Football",
             "Event_Name": "New York Jets vs Buffalo Bills",
             "League_Name": "NFL",
@@ -190,23 +207,6 @@
             "UTC_Start": "2026/11/15 18:00:00 +0000",
             "UTC_End": "2026/11/15 21:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705138288/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "12",
-            "Category": "NCAA Men",
-            "Event_Name": "Nebraska Cornhuskers vs Boise State Broncos",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Nebraska Cornhuskers",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Boise State Broncos",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "15/11/2026; 23:30:00 IST",
-            "End_Time": "16/11/2026; 02:30:00 IST",
-            "UTC_Start": "2026/11/15 18:00:00 +0000",
-            "UTC_End": "2026/11/15 21:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9268770000/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "13",
@@ -228,19 +228,19 @@
         {
             "Id": "14",
             "Category": "American Football",
-            "Event_Name": "Green Bay Packers vs Minnesota Vikings",
+            "Event_Name": "Indianapolis Colts vs Miami Dolphins",
             "League_Name": "NFL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
             "Stream_Name": "NFL SERVER",
-            "Team_A": "Green Bay Packers",
+            "Team_A": "Indianapolis Colts",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Minnesota Vikings",
+            "Team_B": "Miami Dolphins",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "15/11/2026; 23:30:00 IST",
             "End_Time": "16/11/2026; 03:00:00 IST",
             "UTC_Start": "2026/11/15 18:00:00 +0000",
             "UTC_End": "2026/11/15 21:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705121320/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705126976/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "15",
@@ -279,19 +279,19 @@
         {
             "Id": "17",
             "Category": "American Football",
-            "Event_Name": "Indianapolis Colts vs Miami Dolphins",
+            "Event_Name": "Green Bay Packers vs Minnesota Vikings",
             "League_Name": "NFL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
             "Stream_Name": "NFL SERVER",
-            "Team_A": "Indianapolis Colts",
+            "Team_A": "Green Bay Packers",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Miami Dolphins",
+            "Team_B": "Minnesota Vikings",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "15/11/2026; 23:30:00 IST",
             "End_Time": "16/11/2026; 03:00:00 IST",
             "UTC_Start": "2026/11/15 18:00:00 +0000",
             "UTC_End": "2026/11/15 21:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705126976/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705121320/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "18",
@@ -312,6 +312,23 @@
         },
         {
             "Id": "19",
+            "Category": "NCAA Men",
+            "Event_Name": "Nebraska Cornhuskers vs Boise State Broncos",
+            "League_Name": "NCAA Men",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Nebraska Cornhuskers",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Boise State Broncos",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "15/11/2026; 23:30:00 IST",
+            "End_Time": "16/11/2026; 02:30:00 IST",
+            "UTC_Start": "2026/11/15 18:00:00 +0000",
+            "UTC_End": "2026/11/15 21:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9268770000/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "20",
             "Category": "NCAA Women",
             "Event_Name": "Iowa Hawkeyes vs Vanderbilt Commodores",
             "League_Name": "NCAA Women",
@@ -328,7 +345,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9269098048/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "20",
+            "Id": "21",
             "Category": "NCAA Women",
             "Event_Name": "South Carolina Gamecocks vs USC Trojans",
             "League_Name": "NCAA Women",
@@ -345,7 +362,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9269148952/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "21",
+            "Id": "22",
             "Category": "NCAA Women",
             "Event_Name": "South Dakota State Jackrabbits vs Oklahoma State Cowgirls",
             "League_Name": "NCAA Women",
@@ -362,58 +379,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9269245104/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "22",
-            "Category": "UEFA Nations League",
-            "Event_Name": "France vs Türkiye",
-            "League_Name": "UEFA Nations League",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
-            "Team_A": "France",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Türkiye",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "16/11/2026; 01:15:00 IST",
-            "End_Time": "16/11/2026; 04:15:00 IST",
-            "UTC_Start": "2026/11/15 19:45:00 +0000",
-            "UTC_End": "2026/11/15 22:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070701344/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
             "Id": "23",
-            "Category": "UEFA Nations League",
-            "Event_Name": "Croatia vs Czechia",
-            "League_Name": "UEFA Nations League",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
-            "Team_A": "Croatia",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Czechia",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "16/11/2026; 01:15:00 IST",
-            "End_Time": "16/11/2026; 04:15:00 IST",
-            "UTC_Start": "2026/11/15 19:45:00 +0000",
-            "UTC_End": "2026/11/15 22:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070707000/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "24",
-            "Category": "UEFA Nations League",
-            "Event_Name": "Spain vs England",
-            "League_Name": "UEFA Nations League",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
-            "Team_A": "Spain",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "England",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "16/11/2026; 01:15:00 IST",
-            "End_Time": "16/11/2026; 04:15:00 IST",
-            "UTC_Start": "2026/11/15 19:45:00 +0000",
-            "UTC_End": "2026/11/15 22:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070712656/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "25",
             "Category": "UEFA Nations League",
             "Event_Name": "Belgium vs Italy",
             "League_Name": "UEFA Nations League",
@@ -430,38 +396,72 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070695688/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "26",
-            "Category": "NCAA Men",
-            "Event_Name": "Iowa Hawkeyes vs Creighton Bluejays",
-            "League_Name": "NCAA Men",
+            "Id": "24",
+            "Category": "UEFA Nations League",
+            "Event_Name": "France vs Türkiye",
+            "League_Name": "UEFA Nations League",
             "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Iowa Hawkeyes",
+            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
+            "Team_A": "France",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Creighton Bluejays",
+            "Team_B": "Türkiye",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "16/11/2026; 01:30:00 IST",
-            "End_Time": "16/11/2026; 04:30:00 IST",
-            "UTC_Start": "2026/11/15 20:00:00 +0000",
-            "UTC_End": "2026/11/15 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9268837872/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Start_Time": "16/11/2026; 01:15:00 IST",
+            "End_Time": "16/11/2026; 04:15:00 IST",
+            "UTC_Start": "2026/11/15 19:45:00 +0000",
+            "UTC_End": "2026/11/15 22:45:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070701344/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "25",
+            "Category": "UEFA Nations League",
+            "Event_Name": "Croatia vs Czechia",
+            "League_Name": "UEFA Nations League",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
+            "Team_A": "Croatia",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Czechia",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "16/11/2026; 01:15:00 IST",
+            "End_Time": "16/11/2026; 04:15:00 IST",
+            "UTC_Start": "2026/11/15 19:45:00 +0000",
+            "UTC_End": "2026/11/15 22:45:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070707000/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "26",
+            "Category": "UEFA Nations League",
+            "Event_Name": "Spain vs England",
+            "League_Name": "UEFA Nations League",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "UEFA NATIONS LEAGUE SERVER",
+            "Team_A": "Spain",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "England",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "16/11/2026; 01:15:00 IST",
+            "End_Time": "16/11/2026; 04:15:00 IST",
+            "UTC_Start": "2026/11/15 19:45:00 +0000",
+            "UTC_End": "2026/11/15 22:45:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/7070712656/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "27",
-            "Category": "NCAA Women",
-            "Event_Name": "Duke Blue Devils vs Marshall Thundering Herd",
-            "League_Name": "NCAA Women",
+            "Category": "NCAA Men",
+            "Event_Name": "Saint Louis Billikens vs High Point Panthers",
+            "League_Name": "NCAA Men",
             "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA WOMEN SERVER",
-            "Team_A": "Duke Blue Devils",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Saint Louis Billikens",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Marshall Thundering Herd",
+            "Team_B": "High Point Panthers",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "16/11/2026; 01:30:00 IST",
             "End_Time": "16/11/2026; 04:30:00 IST",
             "UTC_Start": "2026/11/15 20:00:00 +0000",
             "UTC_End": "2026/11/15 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9269301664/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9268843528/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "28",
@@ -483,22 +483,39 @@
         {
             "Id": "29",
             "Category": "NCAA Men",
-            "Event_Name": "Saint Louis Billikens vs High Point Panthers",
+            "Event_Name": "Iowa Hawkeyes vs Creighton Bluejays",
             "League_Name": "NCAA Men",
             "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Saint Louis Billikens",
+            "Team_A": "Iowa Hawkeyes",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "High Point Panthers",
+            "Team_B": "Creighton Bluejays",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "16/11/2026; 01:30:00 IST",
             "End_Time": "16/11/2026; 04:30:00 IST",
             "UTC_Start": "2026/11/15 20:00:00 +0000",
             "UTC_End": "2026/11/15 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9268843528/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9268837872/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "30",
+            "Category": "NCAA Women",
+            "Event_Name": "Duke Blue Devils vs Marshall Thundering Herd",
+            "League_Name": "NCAA Women",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA WOMEN SERVER",
+            "Team_A": "Duke Blue Devils",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Marshall Thundering Herd",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "16/11/2026; 01:30:00 IST",
+            "End_Time": "16/11/2026; 04:30:00 IST",
+            "UTC_Start": "2026/11/15 20:00:00 +0000",
+            "UTC_End": "2026/11/15 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9269301664/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "31",
             "Category": "Basketball",
             "Event_Name": "Phoenix Suns vs Los Angeles Lakers",
             "League_Name": "NBA",
@@ -513,23 +530,6 @@
             "UTC_Start": "2026/11/15 21:00:00 +0000",
             "UTC_End": "2026/11/15 23:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9266507600/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "31",
-            "Category": "American Football",
-            "Event_Name": "Arizona Cardinals vs Los Angeles Rams",
-            "League_Name": "NFL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
-            "Stream_Name": "NFL SERVER",
-            "Team_A": "Arizona Cardinals",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Los Angeles Rams",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "16/11/2026; 02:35:00 IST",
-            "End_Time": "16/11/2026; 06:05:00 IST",
-            "UTC_Start": "2026/11/15 21:05:00 +0000",
-            "UTC_End": "2026/11/16 00:35:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705149600/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "32",
@@ -551,6 +551,23 @@
         {
             "Id": "33",
             "Category": "American Football",
+            "Event_Name": "Arizona Cardinals vs Los Angeles Rams",
+            "League_Name": "NFL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
+            "Stream_Name": "NFL SERVER",
+            "Team_A": "Arizona Cardinals",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Los Angeles Rams",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "16/11/2026; 02:35:00 IST",
+            "End_Time": "16/11/2026; 06:05:00 IST",
+            "UTC_Start": "2026/11/15 21:05:00 +0000",
+            "UTC_End": "2026/11/16 00:35:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705149600/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "34",
+            "Category": "American Football",
             "Event_Name": "Dallas Cowboys vs San Francisco 49ers",
             "League_Name": "NFL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
@@ -566,7 +583,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705160912/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "34",
+            "Id": "35",
             "Category": "Basketball",
             "Event_Name": "Los Angeles Clippers vs Charlotte Hornets",
             "League_Name": "NBA",
@@ -581,23 +598,6 @@
             "UTC_Start": "2026/11/15 21:30:00 +0000",
             "UTC_End": "2026/11/16 00:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9266513256/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "35",
-            "Category": "Basketball",
-            "Event_Name": "Utah Jazz vs San Antonio Spurs",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Utah Jazz",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "San Antonio Spurs",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "16/11/2026; 03:30:00 IST",
-            "End_Time": "16/11/2026; 06:00:00 IST",
-            "UTC_Start": "2026/11/15 22:00:00 +0000",
-            "UTC_End": "2026/11/16 00:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9266518912/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "36",
@@ -618,6 +618,23 @@
         },
         {
             "Id": "37",
+            "Category": "Basketball",
+            "Event_Name": "Utah Jazz vs San Antonio Spurs",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Utah Jazz",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "San Antonio Spurs",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "16/11/2026; 03:30:00 IST",
+            "End_Time": "16/11/2026; 06:00:00 IST",
+            "UTC_Start": "2026/11/15 22:00:00 +0000",
+            "UTC_End": "2026/11/16 00:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9266518912/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "38",
             "Category": "NCAA Women",
             "Event_Name": "Louisville Cardinals vs Connecticut Huskies",
             "League_Name": "NCAA Women",
@@ -632,23 +649,6 @@
             "UTC_Start": "2026/11/15 22:30:00 +0000",
             "UTC_End": "2026/11/16 01:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9269420440/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "38",
-            "Category": "CFL",
-            "Event_Name": "Edmonton Elks vs Montreal Alouettes",
-            "League_Name": "CFL",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "CFL SERVER",
-            "Team_A": "Edmonton Elks",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Montreal Alouettes",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "16/11/2026; 04:30:00 IST",
-            "End_Time": "16/11/2026; 07:30:00 IST",
-            "UTC_Start": "2026/11/15 23:00:00 +0000",
-            "UTC_End": "2026/11/16 02:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9266332264/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "39",
@@ -686,6 +686,23 @@
         },
         {
             "Id": "41",
+            "Category": "CFL",
+            "Event_Name": "Edmonton Elks vs Montreal Alouettes",
+            "League_Name": "CFL",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "CFL SERVER",
+            "Team_A": "Edmonton Elks",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Montreal Alouettes",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "16/11/2026; 04:30:00 IST",
+            "End_Time": "16/11/2026; 07:30:00 IST",
+            "UTC_Start": "2026/11/15 23:00:00 +0000",
+            "UTC_End": "2026/11/16 02:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9266332264/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "42",
             "Category": "NCAA Women",
             "Event_Name": "Syracuse Orange vs Canisius Golden Griffins",
             "League_Name": "NCAA Women",
@@ -702,7 +719,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9269443064/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "42",
+            "Id": "43",
             "Category": "Basketball",
             "Event_Name": "Washington Wizards vs Houston Rockets",
             "League_Name": "NBA",
@@ -719,7 +736,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9266535880/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "43",
+            "Id": "44",
             "Category": "Hockey",
             "Event_Name": "Philadelphia Flyers vs Edmonton Oilers",
             "League_Name": "NHL",
@@ -736,7 +753,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8590100904/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "44",
+            "Id": "45",
             "Category": "Hockey",
             "Event_Name": "Anaheim Ducks vs Calgary Flames",
             "League_Name": "NHL",
@@ -753,7 +770,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8590106560/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "45",
+            "Id": "46",
             "Category": "Basketball",
             "Event_Name": "Milwaukee Bucks vs Atlanta Hawks",
             "League_Name": "NBA",
@@ -770,7 +787,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9266541536/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "46",
+            "Id": "47",
             "Category": "Hockey",
             "Event_Name": "Dallas Stars vs Florida Panthers",
             "League_Name": "NHL",
@@ -787,7 +804,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8590112216/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "47",
+            "Id": "48",
             "Category": "NCAA Men",
             "Event_Name": "Wisconsin Badgers vs Coastal Carolina Chanticleers",
             "League_Name": "NCAA Men",
@@ -804,7 +821,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9268917056/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "48",
+            "Id": "49",
             "Category": "NCAA Men",
             "Event_Name": "Texas San Antonio Roadrunners vs Texas State Bobcats",
             "League_Name": "NCAA Men",
