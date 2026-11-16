@@ -1,45 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "glst-scraper",
-    "Last update": "16/11/26 10:21:08 IST",
-    "Total_Matches": 4,
+    "Last update": "16/11/26 10:31:39 IST",
+    "Total_Matches": 2,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "American Football",
-            "Event_Name": "Pittsburgh Steelers at Cincinnati Bengals",
-            "League_Name": "NFL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
-            "Stream_Name": "NFL SERVER",
-            "Team_A": "Pittsburgh Steelers",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/5c364c25-481c-4248-ad0a-e3f1c47fe915.webp",
-            "Team_B": "Cincinnati Bengals",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/a7f7fee8-d022-48e6-9827-27485bee6a8c.webp",
-            "Start_Time": "16/11/2026; 06:50:00 IST",
-            "End_Time": "16/11/2026; 09:50:00 IST",
-            "UTC_Start": "2026/11/16 01:20:00 +0000",
-            "UTC_End": "2026/11/16 04:20:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/ijzriafaq41.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
-            "Category": "Basketball",
-            "Event_Name": "Oklahoma City Thunder at Sacramento Kings",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Oklahoma City Thunder",
-            "Team_A_Logo": "https://streamcenter.st/api/images/badge/103b21d5-7c8c-48fe-8524-a57669ced530.webp",
-            "Team_B": "Sacramento Kings",
-            "Team_B_Logo": "https://streamcenter.st/api/images/badge/90261af4-da9d-483f-b317-7d808e76e3b8.webp",
-            "Start_Time": "16/11/2026; 07:30:00 IST",
-            "End_Time": "16/11/2026; 10:30:00 IST",
-            "UTC_Start": "2026/11/16 02:00:00 +0000",
-            "UTC_End": "2026/11/16 05:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/fdgsqdfawa73.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "3",
             "Category": "Hockey",
             "Event_Name": "Vancouver Canucks at Vegas Golden Knights",
             "League_Name": "NHL",
@@ -56,7 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://edgestream2.pro/hls/rtzaeyvhb53.m3u8|Referer=https://embedcenter.st\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "2",
             "Category": "Hockey",
             "Event_Name": "Nashville Predators at San Jose Sharks",
             "League_Name": "NHL",
