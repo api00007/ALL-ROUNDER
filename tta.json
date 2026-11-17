@@ -1,25 +1,25 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "17/11/26 06:11:57 IST",
+    "Last update": "17/11/26 06:17:04 IST",
     "Total_Matches": 43,
     "Live_Data": [
         {
             "Id": "1",
             "Category": "American Football",
-            "Event_Name": "Baltimore Ravens vs Los Angeles Chargers",
+            "Event_Name": "ManningCast",
             "League_Name": "NFL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
             "Stream_Name": "NFL SERVER",
-            "Team_A": "Baltimore Ravens",
+            "Team_A": "ManningCast",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Los Angeles Chargers",
+            "Team_B": "ManningCast",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "17/11/2026; 06:45:00 IST",
             "End_Time": "17/11/2026; 10:15:00 IST",
             "UTC_Start": "2026/11/17 01:15:00 +0000",
             "UTC_End": "2026/11/17 04:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60268/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60271/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "2",
@@ -27,7 +27,7 @@
             "Event_Name": "Baltimore Ravens vs Los Angeles Chargers",
             "League_Name": "NFL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
-            "Stream_Name": "HD SERVER",
+            "Stream_Name": "NFL SERVER",
             "Team_A": "Baltimore Ravens",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Team_B": "Los Angeles Chargers",
@@ -44,7 +44,7 @@
             "Event_Name": "Baltimore Ravens vs Los Angeles Chargers",
             "League_Name": "NFL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
-            "Stream_Name": "HD SERVER 2",
+            "Stream_Name": "HD SERVER",
             "Team_A": "Baltimore Ravens",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Team_B": "Los Angeles Chargers",
@@ -61,6 +61,23 @@
             "Event_Name": "Baltimore Ravens vs Los Angeles Chargers",
             "League_Name": "NFL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
+            "Stream_Name": "HD SERVER 2",
+            "Team_A": "Baltimore Ravens",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Los Angeles Chargers",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "17/11/2026; 06:45:00 IST",
+            "End_Time": "17/11/2026; 10:15:00 IST",
+            "UTC_Start": "2026/11/17 01:15:00 +0000",
+            "UTC_End": "2026/11/17 04:45:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60268/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "5",
+            "Category": "American Football",
+            "Event_Name": "Baltimore Ravens vs Los Angeles Chargers",
+            "League_Name": "NFL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
             "Stream_Name": "HD SERVER 3",
             "Team_A": "Baltimore Ravens",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
@@ -73,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60269/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "6",
             "Category": "American Football",
             "Event_Name": "Baltimore Ravens vs Los Angeles Chargers",
             "League_Name": "NFL",
@@ -88,23 +105,6 @@
             "UTC_Start": "2026/11/17 01:15:00 +0000",
             "UTC_End": "2026/11/17 04:45:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60270/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "6",
-            "Category": "American Football",
-            "Event_Name": "ManningCast",
-            "League_Name": "NFL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
-            "Stream_Name": "NFL SERVER",
-            "Team_A": "ManningCast",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "ManningCast",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "17/11/2026; 06:45:00 IST",
-            "End_Time": "17/11/2026; 10:15:00 IST",
-            "UTC_Start": "2026/11/17 01:15:00 +0000",
-            "UTC_End": "2026/11/17 04:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60271/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "7",
@@ -206,7 +206,7 @@
             "End_Time": "17/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/17 00:00:00 +0000",
             "UTC_End": "2026/11/17 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60288/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60279/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "13",
@@ -223,7 +223,7 @@
             "End_Time": "17/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/17 00:00:00 +0000",
             "UTC_End": "2026/11/17 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60279/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60287/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "14",
@@ -240,7 +240,7 @@
             "End_Time": "17/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/17 00:00:00 +0000",
             "UTC_End": "2026/11/17 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60287/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60288/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "15",
@@ -346,6 +346,23 @@
         },
         {
             "Id": "21",
+            "Category": "NCAA Men",
+            "Event_Name": "Kent State Golden Flashes vs Eastern Kentucky Colonels",
+            "League_Name": "NCAA Men",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Kent State Golden Flashes",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Eastern Kentucky Colonels",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "17/11/2026; 05:30:00 IST",
+            "End_Time": "17/11/2026; 08:30:00 IST",
+            "UTC_Start": "2026/11/17 00:00:00 +0000",
+            "UTC_End": "2026/11/17 03:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60281/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "22",
             "Category": "NCAA Women",
             "Event_Name": "Rutgers Scarlet Knights vs Albany Great Danes",
             "League_Name": "NCAA Women",
@@ -362,7 +379,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60283/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "22",
+            "Id": "23",
             "Category": "NCAA Men",
             "Event_Name": "Virginia Tech Hokies vs Richmond Spiders",
             "League_Name": "NCAA Men",
@@ -379,7 +396,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60276/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "23",
+            "Id": "24",
             "Category": "NCAA Men",
             "Event_Name": "Tulsa Golden Hurricane vs Western Kentucky Hilltoppers",
             "League_Name": "NCAA Men",
@@ -396,7 +413,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60282/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "24",
+            "Id": "25",
             "Category": "NCAA Men",
             "Event_Name": "Kentucky Wildcats vs Grambling St Tigers",
             "League_Name": "NCAA Men",
@@ -411,23 +428,6 @@
             "UTC_Start": "2026/11/17 00:00:00 +0000",
             "UTC_End": "2026/11/17 03:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60274/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "25",
-            "Category": "NCAA Men",
-            "Event_Name": "Kent State Golden Flashes vs Eastern Kentucky Colonels",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Kent State Golden Flashes",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Eastern Kentucky Colonels",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "17/11/2026; 05:30:00 IST",
-            "End_Time": "17/11/2026; 08:30:00 IST",
-            "UTC_Start": "2026/11/17 00:00:00 +0000",
-            "UTC_End": "2026/11/17 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60281/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "26",
