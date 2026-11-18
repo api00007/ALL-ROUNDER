@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "18/11/26 07:22:20 IST",
-    "Total_Matches": 50,
+    "Last update": "18/11/26 07:32:46 IST",
+    "Total_Matches": 46,
     "Live_Data": [
         {
             "Id": "1",
@@ -58,7 +58,7 @@
             "Team A": "Toronto Raptors",
             "Team B": "New York Knicks",
             "Title": "NBA (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60353/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60321/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "8",
@@ -66,7 +66,7 @@
             "Team A": "Toronto Raptors",
             "Team B": "New York Knicks",
             "Title": "NBA (S-2)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60321/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60322/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "9",
@@ -74,18 +74,34 @@
             "Team A": "Toronto Raptors",
             "Team B": "New York Knicks",
             "Title": "NBA (S-3)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60322/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60353/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "10",
-            "Rivels": "USA vs Haiti",
-            "Team A": "USA",
-            "Team B": "Haiti",
-            "Title": "CONCACAF Nations League (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60345/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Rivels": "Virginia Cavaliers vs Old Dominion Monarchs",
+            "Team A": "Virginia Cavaliers",
+            "Team B": "Old Dominion Monarchs",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60357/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "11",
+            "Rivels": "Oklahoma Sooners vs Texas Southern Tigers",
+            "Team A": "Oklahoma Sooners",
+            "Team B": "Texas Southern Tigers",
+            "Title": "NCAA Women (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60356/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "12",
+            "Rivels": "Tennessee Volunteers vs Michigan State Spartans",
+            "Team A": "Tennessee Volunteers",
+            "Team B": "Michigan State Spartans",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60358/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "13",
             "Rivels": "Mississippi Rebels vs Nicholls State Colonels",
             "Team A": "Mississippi Rebels",
             "Team B": "Nicholls State Colonels",
@@ -93,47 +109,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/60354/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "12",
-            "Rivels": "Austin Peay State vs Life University Running Eagles",
-            "Team A": "Austin Peay State",
-            "Team B": "Life University Running Eagles",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60365/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "13",
-            "Rivels": "Illinois State Redbirds vs Bellarmine Knights",
-            "Team A": "Illinois State Redbirds",
-            "Team B": "Bellarmine Knights",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60363/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
             "Id": "14",
-            "Rivels": "Rice Owls vs Texas A&amp;M-Corpus Christi Islanders",
-            "Team A": "Rice Owls",
-            "Team B": "Texas A&amp;M-Corpus Christi Islanders",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60364/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "15",
-            "Rivels": "Vanderbilt Commodores vs Eastern Illinois Panthers",
-            "Team A": "Vanderbilt Commodores",
-            "Team B": "Eastern Illinois Panthers",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60350/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "16",
-            "Rivels": "St. Louis Blues vs Anaheim Ducks",
-            "Team A": "St. Louis Blues",
-            "Team B": "Anaheim Ducks",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60347/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "17",
             "Rivels": "Minnesota Wild vs Nashville Predators",
             "Team A": "Minnesota Wild",
             "Team B": "Nashville Predators",
@@ -141,15 +117,47 @@
             "Link": "https://chatgpt.hereisman.net/playlist/60348/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "18",
-            "Rivels": "Chicago Blackhawks vs Toronto Maple Leafs",
-            "Team A": "Chicago Blackhawks",
-            "Team B": "Toronto Maple Leafs",
+            "Id": "15",
+            "Rivels": "Austin Peay State vs Life University Running Eagles",
+            "Team A": "Austin Peay State",
+            "Team B": "Life University Running Eagles",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60365/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "16",
+            "Rivels": "Vanderbilt Commodores vs Eastern Illinois Panthers",
+            "Team A": "Vanderbilt Commodores",
+            "Team B": "Eastern Illinois Panthers",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60350/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "17",
+            "Rivels": "St. Louis Blues vs Anaheim Ducks",
+            "Team A": "St. Louis Blues",
+            "Team B": "Anaheim Ducks",
             "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60340/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60347/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "18",
+            "Rivels": "Illinois State Redbirds vs Bellarmine Knights",
+            "Team A": "Illinois State Redbirds",
+            "Team B": "Bellarmine Knights",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60363/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "19",
+            "Rivels": "Rice Owls vs Texas A&amp;M-Corpus Christi Islanders",
+            "Team A": "Rice Owls",
+            "Team B": "Texas A&amp;M-Corpus Christi Islanders",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60364/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "20",
             "Rivels": "Tampa Bay Lightning vs Washington Capitals",
             "Team A": "Tampa Bay Lightning",
             "Team B": "Washington Capitals",
@@ -157,23 +165,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/60342/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "20",
-            "Rivels": "Alabama Crimson Tide vs Kennesaw State Owls",
-            "Team A": "Alabama Crimson Tide",
-            "Team B": "Kennesaw State Owls",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60361/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
             "Id": "21",
-            "Rivels": "Arkansas Razorbacks vs Indiana Hoosiers",
-            "Team A": "Arkansas Razorbacks",
-            "Team B": "Indiana Hoosiers",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60341/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "22",
             "Rivels": "Massachusetts Minutemen vs Bryant Bulldogs",
             "Team A": "Massachusetts Minutemen",
             "Team B": "Bryant Bulldogs",
@@ -181,39 +173,31 @@
             "Link": "https://chatgpt.hereisman.net/playlist/60360/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "23",
-            "Rivels": "Butler Bulldogs vs Western Carolina Catamounts",
-            "Team A": "Butler Bulldogs",
-            "Team B": "Western Carolina Catamounts",
+            "Id": "22",
+            "Rivels": "Arkansas Razorbacks vs Indiana Hoosiers",
+            "Team A": "Arkansas Razorbacks",
+            "Team B": "Indiana Hoosiers",
             "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60355/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60341/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "23",
+            "Rivels": "Alabama Crimson Tide vs Kennesaw State Owls",
+            "Team A": "Alabama Crimson Tide",
+            "Team B": "Kennesaw State Owls",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60361/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "24",
-            "Rivels": "Pittsburgh Panthers vs Villanova Wildcats",
-            "Team A": "Pittsburgh Panthers",
-            "Team B": "Villanova Wildcats",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60339/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Rivels": "Chicago Blackhawks vs Toronto Maple Leafs",
+            "Team A": "Chicago Blackhawks",
+            "Team B": "Toronto Maple Leafs",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60340/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "25",
-            "Rivels": "Wake Forest Demon Deacons vs Monmouth Hawks",
-            "Team A": "Wake Forest Demon Deacons",
-            "Team B": "Monmouth Hawks",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60335/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "26",
-            "Rivels": "Georgia Tech Yellow Jackets vs Norfolk State",
-            "Team A": "Georgia Tech Yellow Jackets",
-            "Team B": "Norfolk State",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60333/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "27",
             "Rivels": "Duke Blue Devils vs Illinois Fighting Illini",
             "Team A": "Duke Blue Devils",
             "Team B": "Illinois Fighting Illini",
@@ -221,12 +205,28 @@
             "Link": "https://chatgpt.hereisman.net/playlist/60327/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
+            "Id": "26",
+            "Rivels": "Wake Forest Demon Deacons vs Monmouth Hawks",
+            "Team A": "Wake Forest Demon Deacons",
+            "Team B": "Monmouth Hawks",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60335/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "27",
+            "Rivels": "Georgia Tech Yellow Jackets vs Norfolk State",
+            "Team A": "Georgia Tech Yellow Jackets",
+            "Team B": "Norfolk State",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60333/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
             "Id": "28",
-            "Rivels": "Florida Panthers vs Edmonton Oilers",
-            "Team A": "Florida Panthers",
-            "Team B": "Edmonton Oilers",
+            "Rivels": "Boston Bruins vs Los Angeles Kings",
+            "Team A": "Boston Bruins",
+            "Team B": "Los Angeles Kings",
             "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60332/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60338/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
             "Id": "29",
@@ -238,6 +238,14 @@
         },
         {
             "Id": "30",
+            "Rivels": "Butler Bulldogs vs Western Carolina Catamounts",
+            "Team A": "Butler Bulldogs",
+            "Team B": "Western Carolina Catamounts",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60355/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "31",
             "Rivels": "Kent State vs Miami Ohio",
             "Team A": "Kent State",
             "Team B": "Miami Ohio",
@@ -245,63 +253,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/60331/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "31",
-            "Rivels": "Nebraska Cornhuskers vs Mount Saint Mary&#039;s Mountaineers",
-            "Team A": "Nebraska Cornhuskers",
-            "Team B": "Mount Saint Mary&#039;s Mountaineers",
-            "Title": "NCAA Women (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60367/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
             "Id": "32",
-            "Rivels": "Winnipeg Jets vs Ottawa Senators",
-            "Team A": "Winnipeg Jets",
-            "Team B": "Ottawa Senators",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60336/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "33",
-            "Rivels": "Philadelphia Flyers vs Buffalo Sabres",
-            "Team A": "Philadelphia Flyers",
-            "Team B": "Buffalo Sabres",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60334/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "34",
-            "Rivels": "New York Islanders vs Columbus Blue Jackets",
-            "Team A": "New York Islanders",
-            "Team B": "Columbus Blue Jackets",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60330/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "35",
-            "Rivels": "New York Islanders vs Columbus Blue Jackets",
-            "Team A": "New York Islanders",
-            "Team B": "Columbus Blue Jackets",
-            "Title": "NHL (S-2)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60329/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "36",
-            "Rivels": "Boston Bruins vs Los Angeles Kings",
-            "Team A": "Boston Bruins",
-            "Team B": "Los Angeles Kings",
-            "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60338/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "37",
-            "Rivels": "South Carolina Gamecocks vs Florida Gulf Coast Eagles",
-            "Team A": "South Carolina Gamecocks",
-            "Team B": "Florida Gulf Coast Eagles",
-            "Title": "NCAA Women (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60352/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "38",
             "Rivels": "UCF Knights vs Mississippi State Bulldogs",
             "Team A": "UCF Knights",
             "Team B": "Mississippi State Bulldogs",
@@ -309,7 +261,47 @@
             "Link": "https://chatgpt.hereisman.net/playlist/60337/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "39",
+            "Id": "33",
+            "Rivels": "New York Islanders vs Columbus Blue Jackets",
+            "Team A": "New York Islanders",
+            "Team B": "Columbus Blue Jackets",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60329/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "34",
+            "Rivels": "New York Islanders vs Columbus Blue Jackets",
+            "Team A": "New York Islanders",
+            "Team B": "Columbus Blue Jackets",
+            "Title": "NHL (S-2)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60330/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "35",
+            "Rivels": "Philadelphia Flyers vs Buffalo Sabres",
+            "Team A": "Philadelphia Flyers",
+            "Team B": "Buffalo Sabres",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60334/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "36",
+            "Rivels": "Winnipeg Jets vs Ottawa Senators",
+            "Team A": "Winnipeg Jets",
+            "Team B": "Ottawa Senators",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60336/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "37",
+            "Rivels": "Florida Panthers vs Edmonton Oilers",
+            "Team A": "Florida Panthers",
+            "Team B": "Edmonton Oilers",
+            "Title": "NHL (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60332/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "38",
             "Rivels": "Western Michigan vs Eastern Michigan",
             "Team A": "Western Michigan",
             "Team B": "Eastern Michigan",
@@ -317,39 +309,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/60325/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "40",
-            "Rivels": "Tennessee Volunteers vs Michigan State Spartans",
-            "Team A": "Tennessee Volunteers",
-            "Team B": "Michigan State Spartans",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60358/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "41",
-            "Rivels": "Virginia Cavaliers vs Old Dominion Monarchs",
-            "Team A": "Virginia Cavaliers",
-            "Team B": "Old Dominion Monarchs",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60357/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "42",
-            "Rivels": "Oklahoma Sooners vs Texas Southern Tigers",
-            "Team A": "Oklahoma Sooners",
-            "Team B": "Texas Southern Tigers",
-            "Title": "NCAA Women (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60356/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "43",
-            "Rivels": "Kansas Jayhawks vs UNLV Runnin&#039; Rebels",
-            "Team A": "Kansas Jayhawks",
-            "Team B": "UNLV Runnin&#039; Rebels",
-            "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/60366/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-            "Id": "44",
+            "Id": "39",
             "Rivels": "Mexico vs Jamaica",
             "Team A": "Mexico",
             "Team B": "Jamaica",
@@ -357,39 +317,47 @@
             "Link": "https://chatgpt.hereisman.net/playlist/60362/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "45",
+            "Id": "40",
+            "Rivels": "Kansas Jayhawks vs UNLV Runnin&#039; Rebels",
+            "Team A": "Kansas Jayhawks",
+            "Team B": "UNLV Runnin&#039; Rebels",
+            "Title": "NCAA Men (S-1)",
+            "Link": "https://chatgpt.hereisman.net/playlist/60366/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+        },
+        {
+            "Id": "41",
             "Rivels": "Stanford Cardinal vs UC Irvine Anteaters",
             "Team A": "Stanford Cardinal",
             "Team B": "UC Irvine Anteaters",
             "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/9278928176/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60371/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "46",
+            "Id": "42",
             "Rivels": "California Baptist Lancers vs Seattle Redhawks",
             "Team A": "California Baptist Lancers",
             "Team B": "Seattle Redhawks",
             "Title": "NCAA Men (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/9278922520/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60370/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "47",
+            "Id": "43",
             "Rivels": "San Jose Sharks vs Calgary Flames",
             "Team A": "San Jose Sharks",
             "Team B": "Calgary Flames",
             "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8591068080/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60369/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "48",
+            "Id": "44",
             "Rivels": "Vegas Golden Knights vs Dallas Stars",
             "Team A": "Vegas Golden Knights",
             "Team B": "Dallas Stars",
             "Title": "NHL (S-1)",
-            "Link": "https://chatgpt.hereisman.net/playlist/8591073736/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+            "Link": "https://chatgpt.hereisman.net/playlist/60368/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "49",
+            "Id": "45",
             "Rivels": "Gonzaga Bulldogs vs Montana State Bobcats",
             "Team A": "Gonzaga Bulldogs",
             "Team B": "Montana State Bobcats",
@@ -397,7 +365,7 @@
             "Link": "https://chatgpt.hereisman.net/playlist/9278933832/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
         },
         {
-            "Id": "50",
+            "Id": "46",
             "Rivels": "West Virginia Mountaineers vs Auburn Tigers",
             "Team A": "West Virginia Mountaineers",
             "Team B": "Auburn Tigers",
