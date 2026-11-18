@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "18/11/26 20:52:05 IST",
+    "Last update": "18/11/26 21:02:25 IST",
     "Total_Matches": 33,
     "Live_Data": [
         {
@@ -108,6 +108,23 @@
         },
         {
             "Id": "7",
+            "Category": "Basketball",
+            "Event_Name": "Cleveland Cavaliers vs Memphis Grizzlies",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Cleveland Cavaliers",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Memphis Grizzlies",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "19/11/2026; 05:30:00 IST",
+            "End_Time": "19/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/11/19 00:00:00 +0000",
+            "UTC_End": "2026/11/19 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9286529840/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "8",
             "Category": "NCAA Men",
             "Event_Name": "St. John&#039;s Red Storm vs Siena Saints",
             "League_Name": "NCAA Men",
@@ -124,7 +141,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9287853344/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "9",
             "Category": "Basketball",
             "Event_Name": "Miami Heat vs Milwaukee Bucks",
             "League_Name": "NBA",
@@ -141,7 +158,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9286541152/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "10",
             "Category": "American Football",
             "Event_Name": "UMass vs Akron",
             "League_Name": "CFB",
@@ -156,23 +173,6 @@
             "UTC_Start": "2026/11/19 00:00:00 +0000",
             "UTC_End": "2026/11/19 03:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705200504/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "10",
-            "Category": "Basketball",
-            "Event_Name": "Indiana Pacers vs Houston Rockets",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Indiana Pacers",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Houston Rockets",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "19/11/2026; 05:30:00 IST",
-            "End_Time": "19/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/19 00:00:00 +0000",
-            "UTC_End": "2026/11/19 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9286535496/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "11",
@@ -194,19 +194,19 @@
         {
             "Id": "12",
             "Category": "Basketball",
-            "Event_Name": "Cleveland Cavaliers vs Memphis Grizzlies",
+            "Event_Name": "Indiana Pacers vs Houston Rockets",
             "League_Name": "NBA",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
             "Stream_Name": "NBA SERVER",
-            "Team_A": "Cleveland Cavaliers",
+            "Team_A": "Indiana Pacers",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Memphis Grizzlies",
+            "Team_B": "Houston Rockets",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "19/11/2026; 05:30:00 IST",
             "End_Time": "19/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/19 00:00:00 +0000",
             "UTC_End": "2026/11/19 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9286529840/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9286535496/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "13",
