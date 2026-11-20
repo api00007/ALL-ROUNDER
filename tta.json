@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "21/11/26 04:26:51 IST",
+    "Last update": "21/11/26 04:32:38 IST",
     "Total_Matches": 35,
     "Live_Data": [
         {
@@ -23,6 +23,23 @@
         },
         {
             "Id": "2",
+            "Category": "American Football",
+            "Event_Name": "UCF vs Iowa State",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "UCF",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Iowa State",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "21/11/2026; 04:30:00 IST",
+            "End_Time": "21/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/11/20 23:00:00 +0000",
+            "UTC_End": "2026/11/21 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60541/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "3",
             "Category": "NCAA Men",
             "Event_Name": "Dayton Flyers vs Utah Utes",
             "League_Name": "NCAA Men",
@@ -39,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60540/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "4",
             "Category": "NCAA Men",
             "Event_Name": "Miami Hurricanes vs Manhattan Jaspers",
             "League_Name": "NCAA Men",
@@ -56,7 +73,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60539/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "5",
             "Category": "NCAA Men",
             "Event_Name": "Liberty Flames vs Rhode Island Rams",
             "League_Name": "NCAA Men",
@@ -73,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60538/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "6",
             "Category": "NCAA Men",
             "Event_Name": "Idaho State Bengals vs South Dakota State Jackrabbits",
             "League_Name": "NCAA Men",
@@ -90,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60537/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "7",
             "Category": "Boxing",
             "Event_Name": "Lauren Price vs Michaela Kotaskova",
             "League_Name": "Boxing",
@@ -105,23 +122,6 @@
             "UTC_Start": "2026/11/20 18:00:00 +0000",
             "UTC_End": "2026/11/20 21:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60521/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "7",
-            "Category": "American Football",
-            "Event_Name": "UCF vs Iowa State",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "UCF",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Iowa State",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "21/11/2026; 04:30:00 IST",
-            "End_Time": "21/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/20 23:00:00 +0000",
-            "UTC_End": "2026/11/21 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60541/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "8",
@@ -444,7 +444,7 @@
             "End_Time": "21/11/2026; 10:30:00 IST",
             "UTC_Start": "2026/11/21 02:00:00 +0000",
             "UTC_End": "2026/11/21 05:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/3608058401/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/2120312011/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "27",
