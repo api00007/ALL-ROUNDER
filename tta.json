@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "20/11/26 06:12:40 IST",
+    "Last update": "20/11/26 06:17:32 IST",
     "Total_Matches": 58,
     "Live_Data": [
         {
@@ -244,23 +244,6 @@
         },
         {
             "Id": "15",
-            "Category": "Hockey",
-            "Event_Name": "Tampa Bay Lightning vs Edmonton Oilers",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Tampa Bay Lightning",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Edmonton Oilers",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "20/11/2026; 06:00:00 IST",
-            "End_Time": "20/11/2026; 08:30:00 IST",
-            "UTC_Start": "2026/11/20 00:30:00 +0000",
-            "UTC_End": "2026/11/20 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60486/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "16",
             "Category": "MLS",
             "Event_Name": "Orlando City SC vs FC Cincinnati",
             "League_Name": "MLS",
@@ -275,6 +258,23 @@
             "UTC_Start": "2026/11/20 00:30:00 +0000",
             "UTC_End": "2026/11/20 03:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60487/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "16",
+            "Category": "Hockey",
+            "Event_Name": "Tampa Bay Lightning vs Edmonton Oilers",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Tampa Bay Lightning",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Edmonton Oilers",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "20/11/2026; 06:00:00 IST",
+            "End_Time": "20/11/2026; 08:30:00 IST",
+            "UTC_Start": "2026/11/20 00:30:00 +0000",
+            "UTC_End": "2026/11/20 03:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60486/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "17",
@@ -364,6 +364,23 @@
         {
             "Id": "22",
             "Category": "Hockey",
+            "Event_Name": "Carolina Hurricanes vs Montréal Canadiens",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Carolina Hurricanes",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Montréal Canadiens",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "20/11/2026; 05:30:00 IST",
+            "End_Time": "20/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/11/20 00:00:00 +0000",
+            "UTC_End": "2026/11/20 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60478/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "23",
+            "Category": "Hockey",
             "Event_Name": "Winnipeg Jets vs New York Islanders",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
@@ -379,7 +396,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60484/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "23",
+            "Id": "24",
             "Category": "Hockey",
             "Event_Name": "Washington Capitals vs Buffalo Sabres",
             "League_Name": "NHL",
@@ -394,23 +411,6 @@
             "UTC_Start": "2026/11/20 00:00:00 +0000",
             "UTC_End": "2026/11/20 02:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60473/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "24",
-            "Category": "Hockey",
-            "Event_Name": "Ottawa Senators vs Philadelphia Flyers",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Ottawa Senators",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Philadelphia Flyers",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "20/11/2026; 05:30:00 IST",
-            "End_Time": "20/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/20 00:00:00 +0000",
-            "UTC_End": "2026/11/20 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60477/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "25",
@@ -500,19 +500,19 @@
         {
             "Id": "30",
             "Category": "Hockey",
-            "Event_Name": "Carolina Hurricanes vs Montréal Canadiens",
+            "Event_Name": "Ottawa Senators vs Philadelphia Flyers",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
             "Stream_Name": "NHL SERVER",
-            "Team_A": "Carolina Hurricanes",
+            "Team_A": "Ottawa Senators",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Montréal Canadiens",
+            "Team_B": "Philadelphia Flyers",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "20/11/2026; 05:30:00 IST",
             "End_Time": "20/11/2026; 08:00:00 IST",
             "UTC_Start": "2026/11/20 00:00:00 +0000",
             "UTC_End": "2026/11/20 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60478/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60477/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "31",
@@ -636,39 +636,22 @@
         {
             "Id": "38",
             "Category": "Hockey",
-            "Event_Name": "Chicago Blackhawks vs Columbus Blue Jackets",
+            "Event_Name": "Calgary Flames vs Minnesota Wild",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
             "Stream_Name": "NHL SERVER",
-            "Team_A": "Chicago Blackhawks",
+            "Team_A": "Calgary Flames",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Columbus Blue Jackets",
+            "Team_B": "Minnesota Wild",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "20/11/2026; 06:30:00 IST",
             "End_Time": "20/11/2026; 09:00:00 IST",
             "UTC_Start": "2026/11/20 01:00:00 +0000",
             "UTC_End": "2026/11/20 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60494/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60488/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "39",
-            "Category": "Hockey",
-            "Event_Name": "Chicago Blackhawks vs Columbus Blue Jackets",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "HD SERVER",
-            "Team_A": "Chicago Blackhawks",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Columbus Blue Jackets",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "20/11/2026; 06:30:00 IST",
-            "End_Time": "20/11/2026; 09:00:00 IST",
-            "UTC_Start": "2026/11/20 01:00:00 +0000",
-            "UTC_End": "2026/11/20 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60495/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "40",
             "Category": "NCAA Men",
             "Event_Name": "Texas Longhorns vs Southern Utah Thunderbirds",
             "League_Name": "NCAA Men",
@@ -685,7 +668,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60492/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "41",
+            "Id": "40",
             "Category": "NCAA Men",
             "Event_Name": "TCU Horned Frogs vs Texas A&amp;M Aggies",
             "League_Name": "NCAA Men",
@@ -702,21 +685,38 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60497/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "42",
+            "Id": "41",
             "Category": "Hockey",
-            "Event_Name": "Calgary Flames vs Minnesota Wild",
+            "Event_Name": "Chicago Blackhawks vs Columbus Blue Jackets",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
             "Stream_Name": "NHL SERVER",
-            "Team_A": "Calgary Flames",
+            "Team_A": "Chicago Blackhawks",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Minnesota Wild",
+            "Team_B": "Columbus Blue Jackets",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "20/11/2026; 06:30:00 IST",
             "End_Time": "20/11/2026; 09:00:00 IST",
             "UTC_Start": "2026/11/20 01:00:00 +0000",
             "UTC_End": "2026/11/20 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60488/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60494/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "42",
+            "Category": "Hockey",
+            "Event_Name": "Chicago Blackhawks vs Columbus Blue Jackets",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "HD SERVER",
+            "Team_A": "Chicago Blackhawks",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Columbus Blue Jackets",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "20/11/2026; 06:30:00 IST",
+            "End_Time": "20/11/2026; 09:00:00 IST",
+            "UTC_Start": "2026/11/20 01:00:00 +0000",
+            "UTC_End": "2026/11/20 03:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60495/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "43",
