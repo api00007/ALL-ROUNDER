@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "20/11/26 10:56:03 IST",
-    "Total_Matches": 9,
+    "Last update": "20/11/26 11:01:25 IST",
+    "Total_Matches": 7,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "NCAA Men",
-            "Event_Name": "USC Trojans vs Tarleton State Texans",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "USC Trojans",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Tarleton State Texans",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "20/11/2026; 09:30:00 IST",
-            "End_Time": "20/11/2026; 12:30:00 IST",
-            "UTC_Start": "2026/11/20 04:00:00 +0000",
-            "UTC_End": "2026/11/20 07:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60520/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "NCAA Men",
             "Event_Name": "Houston Cougars vs Kansas Jayhawks",
             "League_Name": "NCAA Men",
@@ -37,6 +20,23 @@
             "UTC_Start": "2026/11/20 04:00:00 +0000",
             "UTC_End": "2026/11/20 07:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60519/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "2",
+            "Category": "NCAA Men",
+            "Event_Name": "USC Trojans vs Tarleton State Texans",
+            "League_Name": "NCAA Men",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "USC Trojans",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Tarleton State Texans",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "20/11/2026; 09:30:00 IST",
+            "End_Time": "20/11/2026; 12:30:00 IST",
+            "UTC_Start": "2026/11/20 04:00:00 +0000",
+            "UTC_End": "2026/11/20 07:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60520/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "3",
@@ -57,23 +57,6 @@
         },
         {
             "Id": "4",
-            "Category": "MLS",
-            "Event_Name": "Seattle Sounders FC vs Real Salt Lake",
-            "League_Name": "MLS",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/242/image",
-            "Stream_Name": "MLS SERVER",
-            "Team_A": "Seattle Sounders FC",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Real Salt Lake",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "20/11/2026; 08:30:00 IST",
-            "End_Time": "20/11/2026; 11:30:00 IST",
-            "UTC_Start": "2026/11/20 03:00:00 +0000",
-            "UTC_End": "2026/11/20 06:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60515/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "5",
             "Category": "Hockey",
             "Event_Name": "Vegas Golden Knights vs Dallas Stars",
             "League_Name": "NHL",
@@ -90,24 +73,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60517/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
-            "Category": "Hockey",
-            "Event_Name": "Seattle Kraken vs Vancouver Canucks",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Seattle Kraken",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Vancouver Canucks",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "20/11/2026; 08:10:00 IST",
-            "End_Time": "20/11/2026; 10:40:00 IST",
-            "UTC_Start": "2026/11/20 02:40:00 +0000",
-            "UTC_End": "2026/11/20 05:10:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60511/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "7",
+            "Id": "5",
             "Category": "NCAA Men",
             "Event_Name": "Oklahoma State Cowboys vs Minnesota Golden Gophers",
             "League_Name": "NCAA Men",
@@ -124,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9308780544/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "6",
             "Category": "NCAA Men",
             "Event_Name": "Uab Blazers vs George Washington Revolutionaries",
             "League_Name": "NCAA Men",
@@ -141,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9308786200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "7",
             "Category": "NCAA Men",
             "Event_Name": "Northwestern Wildcats vs Virginia Tech Hokies",
             "League_Name": "NCAA Men",
