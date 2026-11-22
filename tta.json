@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "22/11/26 08:12:24 IST",
-    "Total_Matches": 46,
+    "Last update": "22/11/26 08:17:10 IST",
+    "Total_Matches": 42,
     "Live_Data": [
         {
             "Id": "1",
@@ -155,7 +155,7 @@
             "End_Time": "22/11/2026; 08:30:00 IST",
             "UTC_Start": "2026/11/22 00:30:00 +0000",
             "UTC_End": "2026/11/22 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60698/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60692/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "10",
@@ -172,7 +172,7 @@
             "End_Time": "22/11/2026; 08:30:00 IST",
             "UTC_Start": "2026/11/22 00:30:00 +0000",
             "UTC_End": "2026/11/22 03:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60692/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60698/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "11",
@@ -278,23 +278,6 @@
         },
         {
             "Id": "17",
-            "Category": "NWSL",
-            "Event_Name": "Washington Spirit vs Kansas City Current",
-            "League_Name": "NWSL",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NWSL SERVER",
-            "Team_A": "Washington Spirit",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Kansas City Current",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 06:30:00 IST",
-            "End_Time": "22/11/2026; 09:30:00 IST",
-            "UTC_Start": "2026/11/22 01:00:00 +0000",
-            "UTC_End": "2026/11/22 04:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60708/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "18",
             "Category": "American Football",
             "Event_Name": "UAB vs UTSA",
             "League_Name": "CFB",
@@ -311,58 +294,24 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60705/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
+            "Id": "18",
+            "Category": "NWSL",
+            "Event_Name": "Washington Spirit vs Kansas City Current",
+            "League_Name": "NWSL",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NWSL SERVER",
+            "Team_A": "Washington Spirit",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Kansas City Current",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "22/11/2026; 06:30:00 IST",
+            "End_Time": "22/11/2026; 09:30:00 IST",
+            "UTC_Start": "2026/11/22 01:00:00 +0000",
+            "UTC_End": "2026/11/22 04:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60708/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
             "Id": "19",
-            "Category": "American Football",
-            "Event_Name": "California vs Stanford",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "California",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Stanford",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 06:00:00 IST",
-            "End_Time": "22/11/2026; 09:30:00 IST",
-            "UTC_Start": "2026/11/22 00:30:00 +0000",
-            "UTC_End": "2026/11/22 04:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60693/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "20",
-            "Category": "American Football",
-            "Event_Name": "Louisville vs Pittsburgh",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Louisville",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Pittsburgh",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 06:00:00 IST",
-            "End_Time": "22/11/2026; 09:30:00 IST",
-            "UTC_Start": "2026/11/22 00:30:00 +0000",
-            "UTC_End": "2026/11/22 04:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60695/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "21",
-            "Category": "American Football",
-            "Event_Name": "Missouri vs Kentucky",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Missouri",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Kentucky",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 06:00:00 IST",
-            "End_Time": "22/11/2026; 09:30:00 IST",
-            "UTC_Start": "2026/11/22 00:30:00 +0000",
-            "UTC_End": "2026/11/22 04:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60696/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "22",
             "Category": "American Football",
             "Event_Name": "Fresno St. vs Colorado State",
             "League_Name": "CFB",
@@ -379,24 +328,58 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60694/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "23",
-            "Category": "Hockey",
-            "Event_Name": "Boston Bruins vs Washington Capitals",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Boston Bruins",
+            "Id": "20",
+            "Category": "American Football",
+            "Event_Name": "Missouri vs Kentucky",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Missouri",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Washington Capitals",
+            "Team_B": "Kentucky",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 05:30:00 IST",
-            "End_Time": "22/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/22 00:00:00 +0000",
-            "UTC_End": "2026/11/22 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60684/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Start_Time": "22/11/2026; 06:00:00 IST",
+            "End_Time": "22/11/2026; 09:30:00 IST",
+            "UTC_Start": "2026/11/22 00:30:00 +0000",
+            "UTC_End": "2026/11/22 04:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60696/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "24",
+            "Id": "21",
+            "Category": "American Football",
+            "Event_Name": "Louisville vs Pittsburgh",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Louisville",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Pittsburgh",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "22/11/2026; 06:00:00 IST",
+            "End_Time": "22/11/2026; 09:30:00 IST",
+            "UTC_Start": "2026/11/22 00:30:00 +0000",
+            "UTC_End": "2026/11/22 04:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60695/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "22",
+            "Category": "American Football",
+            "Event_Name": "California vs Stanford",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "California",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Stanford",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "22/11/2026; 06:00:00 IST",
+            "End_Time": "22/11/2026; 09:30:00 IST",
+            "UTC_Start": "2026/11/22 00:30:00 +0000",
+            "UTC_End": "2026/11/22 04:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60693/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "23",
             "Category": "Hockey",
             "Event_Name": "Winnipeg Jets vs Vegas Golden Knights",
             "League_Name": "NHL",
@@ -413,92 +396,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60685/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "25",
-            "Category": "American Football",
-            "Event_Name": "Louisiana Tech vs Arkansas State",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "Louisiana Tech",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Arkansas State",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 05:30:00 IST",
-            "End_Time": "22/11/2026; 09:00:00 IST",
-            "UTC_Start": "2026/11/22 00:00:00 +0000",
-            "UTC_End": "2026/11/22 03:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60686/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "26",
-            "Category": "Hockey",
-            "Event_Name": "Montréal Canadiens vs Philadelphia Flyers",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Montréal Canadiens",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Philadelphia Flyers",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 05:30:00 IST",
-            "End_Time": "22/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/22 00:00:00 +0000",
-            "UTC_End": "2026/11/22 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60682/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "27",
-            "Category": "Hockey",
-            "Event_Name": "Montréal Canadiens vs Philadelphia Flyers",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "HD SERVER",
-            "Team_A": "Montréal Canadiens",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Philadelphia Flyers",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 05:30:00 IST",
-            "End_Time": "22/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/22 00:00:00 +0000",
-            "UTC_End": "2026/11/22 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60681/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "28",
-            "Category": "Hockey",
-            "Event_Name": "Ottawa Senators vs Los Angeles Kings",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Ottawa Senators",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Los Angeles Kings",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 05:30:00 IST",
-            "End_Time": "22/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/22 00:00:00 +0000",
-            "UTC_End": "2026/11/22 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60680/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "29",
-            "Category": "Hockey",
-            "Event_Name": "St. Louis Blues vs New Jersey Devils",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "St. Louis Blues",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "New Jersey Devils",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 05:30:00 IST",
-            "End_Time": "22/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/22 00:00:00 +0000",
-            "UTC_End": "2026/11/22 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60683/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "30",
+            "Id": "24",
             "Category": "Hockey",
             "Event_Name": "Toronto Maple Leafs vs Columbus Blue Jackets",
             "League_Name": "NHL",
@@ -515,7 +413,58 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60689/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "31",
+            "Id": "25",
+            "Category": "Hockey",
+            "Event_Name": "Ottawa Senators vs Los Angeles Kings",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Ottawa Senators",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Los Angeles Kings",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "22/11/2026; 05:30:00 IST",
+            "End_Time": "22/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/11/22 00:00:00 +0000",
+            "UTC_End": "2026/11/22 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60680/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "26",
+            "Category": "Hockey",
+            "Event_Name": "Boston Bruins vs Washington Capitals",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Boston Bruins",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Washington Capitals",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "22/11/2026; 05:30:00 IST",
+            "End_Time": "22/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/11/22 00:00:00 +0000",
+            "UTC_End": "2026/11/22 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60684/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "27",
+            "Category": "American Football",
+            "Event_Name": "Louisiana Tech vs Arkansas State",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Louisiana Tech",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Arkansas State",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "22/11/2026; 05:30:00 IST",
+            "End_Time": "22/11/2026; 09:00:00 IST",
+            "UTC_Start": "2026/11/22 00:00:00 +0000",
+            "UTC_End": "2026/11/22 03:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60686/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "28",
             "Category": "American Football",
             "Event_Name": "San Jose St. vs UNLV",
             "League_Name": "CFB",
@@ -532,7 +481,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60687/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "32",
+            "Id": "29",
             "Category": "American Football",
             "Event_Name": "Kansas St. vs Arizona",
             "League_Name": "CFB",
@@ -549,24 +498,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60688/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "33",
-            "Category": "American Football",
-            "Event_Name": "USC vs Maryland",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "USC",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Maryland",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 08:12:24 IST",
-            "End_Time": "22/11/2026; 11:42:24 IST",
-            "UTC_Start": "2026/11/22 02:42:24 +0000",
-            "UTC_End": "2026/11/22 06:12:24 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705477648/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "34",
+            "Id": "30",
             "Category": "Hockey",
             "Event_Name": "Vancouver Canucks vs Minnesota Wild",
             "League_Name": "NHL",
@@ -583,7 +515,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60718/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "35",
+            "Id": "31",
             "Category": "Hockey",
             "Event_Name": "San Jose Sharks vs Seattle Kraken",
             "League_Name": "NHL",
@@ -600,7 +532,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60717/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "36",
+            "Id": "32",
             "Category": "American Football",
             "Event_Name": "Arizona St. vs Oklahoma St.",
             "League_Name": "CFB",
@@ -617,7 +549,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60720/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "37",
+            "Id": "33",
             "Category": "American Football",
             "Event_Name": "Nevada vs Hawaii",
             "League_Name": "CFB",
@@ -634,7 +566,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60721/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "38",
+            "Id": "34",
             "Category": "American Football",
             "Event_Name": "Oregon State vs Utah State",
             "League_Name": "CFB",
@@ -651,7 +583,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60722/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "39",
+            "Id": "35",
             "Category": "NCAA Men",
             "Event_Name": "Duke Blue Devils vs Washington St Cougars",
             "League_Name": "NCAA Men",
@@ -668,7 +600,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9314662784/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "40",
+            "Id": "36",
             "Category": "Serie A",
             "Event_Name": "Juventus vs Venezia",
             "League_Name": "Serie A",
@@ -685,7 +617,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8379228256/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "41",
+            "Id": "37",
             "Category": "LaLiga",
             "Event_Name": "FC Barcelona vs Villarreal",
             "League_Name": "LaLiga",
@@ -702,7 +634,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8377972624/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "42",
+            "Id": "38",
             "Category": "Premier League",
             "Event_Name": "Hull City vs Brighton &amp; Hove Albion",
             "League_Name": "Premier League",
@@ -719,7 +651,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8370308744/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "43",
+            "Id": "39",
             "Category": "Bundesliga",
             "Event_Name": "FC Augsburg vs 1. FSV Mainz 05",
             "League_Name": "Bundesliga",
@@ -736,7 +668,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8364528312/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "44",
+            "Id": "40",
             "Category": "Premier League",
             "Event_Name": "Liverpool FC vs Manchester United",
             "League_Name": "Premier League",
@@ -753,7 +685,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8370314400/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "45",
+            "Id": "41",
             "Category": "Bundesliga",
             "Event_Name": "SV Werder Bremen vs Hamburger SV",
             "League_Name": "Bundesliga",
@@ -770,7 +702,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8364550936/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "46",
+            "Id": "42",
             "Category": "NCAA Men",
             "Event_Name": "Nebraska Cornhuskers vs Butler Bulldogs",
             "League_Name": "NCAA Men",
