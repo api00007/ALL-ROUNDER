@@ -1,7 +1,7 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "22/11/26 19:33:22 IST",
+    "Last update": "22/11/26 19:37:35 IST",
     "Total_Matches": 52,
     "Live_Data": [
         {
@@ -41,23 +41,6 @@
         {
             "Id": "3",
             "Category": "Serie A",
-            "Event_Name": "Bologna vs Udinese",
-            "League_Name": "Serie A",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
-            "Stream_Name": "SERIE A SERVER",
-            "Team_A": "Bologna",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Udinese",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "22/11/2026; 19:30:00 IST",
-            "End_Time": "22/11/2026; 22:30:00 IST",
-            "UTC_Start": "2026/11/22 14:00:00 +0000",
-            "UTC_End": "2026/11/22 17:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60728/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "4",
-            "Category": "Serie A",
             "Event_Name": "Sassuolo vs Genoa",
             "League_Name": "Serie A",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
@@ -71,6 +54,23 @@
             "UTC_Start": "2026/11/22 14:00:00 +0000",
             "UTC_End": "2026/11/22 17:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60729/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "4",
+            "Category": "Serie A",
+            "Event_Name": "Bologna vs Udinese",
+            "League_Name": "Serie A",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
+            "Stream_Name": "SERIE A SERVER",
+            "Team_A": "Bologna",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Udinese",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "22/11/2026; 19:30:00 IST",
+            "End_Time": "22/11/2026; 22:30:00 IST",
+            "UTC_Start": "2026/11/22 14:00:00 +0000",
+            "UTC_End": "2026/11/22 17:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60728/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "5",
