@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "24/11/26 11:46:13 IST",
-    "Total_Matches": 12,
+    "Last update": "24/11/26 11:55:59 IST",
+    "Total_Matches": 11,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "American Football",
-            "Event_Name": "ManningCast",
-            "League_Name": "NFL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
-            "Stream_Name": "NFL SERVER",
-            "Team_A": "ManningCast",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "ManningCast",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "24/11/2026; 06:45:00 IST",
-            "End_Time": "24/11/2026; 10:15:00 IST",
-            "UTC_Start": "2026/11/24 01:15:00 +0000",
-            "UTC_End": "2026/11/24 04:45:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60850/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "NCAA Men",
             "Event_Name": "Arizona Wildcats vs Colorado State Rams",
             "League_Name": "NCAA Men",
@@ -39,7 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60900/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "2",
             "Category": "NCAA Men",
             "Event_Name": "St. Bonaventure Bonnies vs Wright State Raiders",
             "League_Name": "NCAA Men",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321472608/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "NCAA Men",
             "Event_Name": "Akron Zips vs Belmont Bruins",
             "League_Name": "NCAA Men",
@@ -73,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321483920/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "4",
             "Category": "UEFA Champions League",
             "Event_Name": "Galatasaray vs Aston Villa",
             "League_Name": "UEFA Champions League",
@@ -90,7 +73,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8042113688/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "5",
             "Category": "NCAA Men",
             "Event_Name": "Oklahoma Sooners vs Pittsburgh Panthers",
             "League_Name": "NCAA Men",
@@ -107,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321512200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "6",
             "Category": "NCAA Men",
             "Event_Name": "San Francisco Dons vs Oregon State Beavers",
             "League_Name": "NCAA Men",
@@ -124,7 +107,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321523512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "8",
+            "Id": "7",
             "Category": "UEFA Champions League",
             "Event_Name": "Arsenal vs Borussia Dortmund",
             "League_Name": "UEFA Champions League",
@@ -141,7 +124,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8041842200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "9",
+            "Id": "8",
             "Category": "UEFA Champions League",
             "Event_Name": "Feyenoord vs FC Porto",
             "League_Name": "UEFA Champions League",
@@ -158,7 +141,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8042091064/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "10",
+            "Id": "9",
             "Category": "UEFA Champions League",
             "Event_Name": "Manchester City vs SSC Napoli",
             "League_Name": "UEFA Champions League",
@@ -175,7 +158,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8042232464/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "11",
+            "Id": "10",
             "Category": "NCAA Men",
             "Event_Name": "Miami Hurricanes vs TCU Horned Frogs",
             "League_Name": "NCAA Men",
@@ -192,7 +175,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321534824/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "12",
+            "Id": "11",
             "Category": "NCAA Men",
             "Event_Name": "Tennessee Volunteers vs Maryland Terrapins",
             "League_Name": "NCAA Men",
