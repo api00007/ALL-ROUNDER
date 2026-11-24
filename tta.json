@@ -1,11 +1,28 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "24/11/26 23:26:46 IST",
+    "Last update": "24/11/26 23:32:25 IST",
     "Total_Matches": 44,
     "Live_Data": [
         {
             "Id": "1",
+            "Category": "NCAA Men",
+            "Event_Name": "Florida International Golden Panthers vs Southern Utah Thunderbirds",
+            "League_Name": "NCAA Men",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Florida International Golden Panthers",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Southern Utah Thunderbirds",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "24/11/2026; 23:30:00 IST",
+            "End_Time": "25/11/2026; 02:30:00 IST",
+            "UTC_Start": "2026/11/24 18:00:00 +0000",
+            "UTC_End": "2026/11/24 21:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60907/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "2",
             "Category": "UEFA Champions League",
             "Event_Name": "Bodø/Glimt vs LASK",
             "League_Name": "UEFA Champions League",
@@ -22,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60905/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "2",
+            "Id": "3",
             "Category": "UEFA Champions League",
             "Event_Name": "Galatasaray vs Aston Villa",
             "League_Name": "UEFA Champions League",
@@ -39,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60903/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "4",
             "Category": "NCAA Men",
             "Event_Name": "Akron Zips vs Belmont Bruins",
             "League_Name": "NCAA Men",
@@ -54,23 +71,6 @@
             "UTC_Start": "2026/11/24 17:30:00 +0000",
             "UTC_End": "2026/11/24 20:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60902/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "4",
-            "Category": "NCAA Men",
-            "Event_Name": "Florida International Golden Panthers vs Southern Utah Thunderbirds",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Florida International Golden Panthers",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Southern Utah Thunderbirds",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "24/11/2026; 23:30:00 IST",
-            "End_Time": "25/11/2026; 02:30:00 IST",
-            "UTC_Start": "2026/11/24 18:00:00 +0000",
-            "UTC_End": "2026/11/24 21:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60907/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "5",
@@ -104,7 +104,7 @@
             "End_Time": "25/11/2026; 03:30:00 IST",
             "UTC_Start": "2026/11/24 19:00:00 +0000",
             "UTC_End": "2026/11/24 22:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321523512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60908/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "7",
@@ -160,6 +160,23 @@
         {
             "Id": "10",
             "Category": "UEFA Champions League",
+            "Event_Name": "Arsenal vs Borussia Dortmund",
+            "League_Name": "UEFA Champions League",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/7/image",
+            "Stream_Name": "UEFA CHAMPIONS LEAGUE SERVER",
+            "Team_A": "Arsenal",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Borussia Dortmund",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "25/11/2026; 01:30:00 IST",
+            "End_Time": "25/11/2026; 04:30:00 IST",
+            "UTC_Start": "2026/11/24 20:00:00 +0000",
+            "UTC_End": "2026/11/24 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8041842200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "11",
+            "Category": "UEFA Champions League",
             "Event_Name": "Como vs AEK Athens",
             "League_Name": "UEFA Champions League",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/7/image",
@@ -173,23 +190,6 @@
             "UTC_Start": "2026/11/24 20:00:00 +0000",
             "UTC_End": "2026/11/24 23:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8041989256/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "11",
-            "Category": "NCAA Men",
-            "Event_Name": "Yale Bulldogs vs Appalachian State Mountaineers",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Yale Bulldogs",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Appalachian State Mountaineers",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "25/11/2026; 01:30:00 IST",
-            "End_Time": "25/11/2026; 04:30:00 IST",
-            "UTC_Start": "2026/11/24 20:00:00 +0000",
-            "UTC_End": "2026/11/24 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321546136/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "12",
@@ -244,40 +244,23 @@
         },
         {
             "Id": "15",
-            "Category": "UEFA Champions League",
-            "Event_Name": "ŠK Slovan Bratislava vs Real Betis",
-            "League_Name": "UEFA Champions League",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/7/image",
-            "Stream_Name": "UEFA CHAMPIONS LEAGUE SERVER",
-            "Team_A": "ŠK Slovan Bratislava",
+            "Category": "NCAA Men",
+            "Event_Name": "Yale Bulldogs vs Appalachian State Mountaineers",
+            "League_Name": "NCAA Men",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Yale Bulldogs",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Real Betis",
+            "Team_B": "Appalachian State Mountaineers",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "25/11/2026; 01:30:00 IST",
             "End_Time": "25/11/2026; 04:30:00 IST",
             "UTC_Start": "2026/11/24 20:00:00 +0000",
             "UTC_End": "2026/11/24 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8042588792/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321546136/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "16",
-            "Category": "UEFA Champions League",
-            "Event_Name": "Arsenal vs Borussia Dortmund",
-            "League_Name": "UEFA Champions League",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/7/image",
-            "Stream_Name": "UEFA CHAMPIONS LEAGUE SERVER",
-            "Team_A": "Arsenal",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Borussia Dortmund",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "25/11/2026; 01:30:00 IST",
-            "End_Time": "25/11/2026; 04:30:00 IST",
-            "UTC_Start": "2026/11/24 20:00:00 +0000",
-            "UTC_End": "2026/11/24 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8041842200/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "17",
             "Category": "NCAA Men",
             "Event_Name": "Miami Hurricanes vs TCU Horned Frogs",
             "League_Name": "NCAA Men",
@@ -294,7 +277,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321534824/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "18",
+            "Id": "17",
             "Category": "NCAA Men",
             "Event_Name": "Tennessee Volunteers vs Maryland Terrapins",
             "League_Name": "NCAA Men",
@@ -309,6 +292,23 @@
             "UTC_Start": "2026/11/24 20:00:00 +0000",
             "UTC_End": "2026/11/24 23:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321540480/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "18",
+            "Category": "UEFA Champions League",
+            "Event_Name": "ŠK Slovan Bratislava vs Real Betis",
+            "League_Name": "UEFA Champions League",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/7/image",
+            "Stream_Name": "UEFA CHAMPIONS LEAGUE SERVER",
+            "Team_A": "ŠK Slovan Bratislava",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Real Betis",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "25/11/2026; 01:30:00 IST",
+            "End_Time": "25/11/2026; 04:30:00 IST",
+            "UTC_Start": "2026/11/24 20:00:00 +0000",
+            "UTC_End": "2026/11/24 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8042588792/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "19",
@@ -465,23 +465,6 @@
         },
         {
             "Id": "28",
-            "Category": "Basketball",
-            "Event_Name": "Orlando Magic vs Detroit Pistons",
-            "League_Name": "NBA",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
-            "Stream_Name": "NBA SERVER",
-            "Team_A": "Orlando Magic",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Detroit Pistons",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "25/11/2026; 05:30:00 IST",
-            "End_Time": "25/11/2026; 08:00:00 IST",
-            "UTC_Start": "2026/11/25 00:00:00 +0000",
-            "UTC_End": "2026/11/25 02:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9320403624/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "29",
             "Category": "American Football",
             "Event_Name": "Eastern Michigan vs Kent State",
             "League_Name": "CFB",
@@ -496,6 +479,23 @@
             "UTC_Start": "2026/11/25 00:00:00 +0000",
             "UTC_End": "2026/11/25 03:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8705998000/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "29",
+            "Category": "Basketball",
+            "Event_Name": "Orlando Magic vs Detroit Pistons",
+            "League_Name": "NBA",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
+            "Stream_Name": "NBA SERVER",
+            "Team_A": "Orlando Magic",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Detroit Pistons",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "25/11/2026; 05:30:00 IST",
+            "End_Time": "25/11/2026; 08:00:00 IST",
+            "UTC_Start": "2026/11/25 00:00:00 +0000",
+            "UTC_End": "2026/11/25 02:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9320403624/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "30",
@@ -550,23 +550,6 @@
         },
         {
             "Id": "33",
-            "Category": "NCAA Men",
-            "Event_Name": "Texas Tech Red Raiders vs Louisville Cardinals",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Texas Tech Red Raiders",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Louisville Cardinals",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "25/11/2026; 06:30:00 IST",
-            "End_Time": "25/11/2026; 09:30:00 IST",
-            "UTC_Start": "2026/11/25 01:00:00 +0000",
-            "UTC_End": "2026/11/25 04:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321817624/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "34",
             "Category": "NCAA Women",
             "Event_Name": "Connecticut Huskies vs South Carolina Gamecocks",
             "League_Name": "NCAA Women",
@@ -581,6 +564,23 @@
             "UTC_Start": "2026/11/25 01:00:00 +0000",
             "UTC_End": "2026/11/25 04:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9322801768/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "34",
+            "Category": "NCAA Men",
+            "Event_Name": "Texas Tech Red Raiders vs Louisville Cardinals",
+            "League_Name": "NCAA Men",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Texas Tech Red Raiders",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Louisville Cardinals",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "25/11/2026; 06:30:00 IST",
+            "End_Time": "25/11/2026; 09:30:00 IST",
+            "UTC_Start": "2026/11/25 01:00:00 +0000",
+            "UTC_End": "2026/11/25 04:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9321817624/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "35",
