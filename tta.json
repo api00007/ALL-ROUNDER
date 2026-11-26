@@ -1,8 +1,8 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "26/11/26 15:21:28 IST",
-    "Total_Matches": 21,
+    "Last update": "26/11/26 15:26:25 IST",
+    "Total_Matches": 23,
     "Live_Data": [
         {
             "Id": "1",
@@ -211,23 +211,6 @@
         {
             "Id": "13",
             "Category": "NCAA Men",
-            "Event_Name": "Tennessee Volunteers vs Iowa State Cyclones",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Tennessee Volunteers",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Iowa State Cyclones",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "27/11/2026; 02:00:00 IST",
-            "End_Time": "27/11/2026; 05:00:00 IST",
-            "UTC_Start": "2026/11/26 20:30:00 +0000",
-            "UTC_End": "2026/11/26 23:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9456656664/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "14",
-            "Category": "NCAA Men",
             "Event_Name": "Miami Hurricanes vs Michigan Wolverines",
             "League_Name": "NCAA Men",
             "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
@@ -241,6 +224,23 @@
             "UTC_Start": "2026/11/26 20:30:00 +0000",
             "UTC_End": "2026/11/26 23:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9456651008/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "14",
+            "Category": "NCAA Men",
+            "Event_Name": "Tennessee Volunteers vs Iowa State Cyclones",
+            "League_Name": "NCAA Men",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA MEN SERVER",
+            "Team_A": "Tennessee Volunteers",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Iowa State Cyclones",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "27/11/2026; 02:00:00 IST",
+            "End_Time": "27/11/2026; 05:00:00 IST",
+            "UTC_Start": "2026/11/26 20:30:00 +0000",
+            "UTC_End": "2026/11/26 23:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9456656664/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "15",
@@ -360,6 +360,40 @@
             "UTC_Start": "2026/11/27 00:00:00 +0000",
             "UTC_End": "2026/11/27 03:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9325765512/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "22",
+            "Category": "American Football",
+            "Event_Name": "Texas Tech vs TCU",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "Texas Tech",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "TCU",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "27/11/2026; 06:30:00 IST",
+            "End_Time": "27/11/2026; 10:00:00 IST",
+            "UTC_Start": "2026/11/27 01:00:00 +0000",
+            "UTC_End": "2026/11/27 04:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706026280/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "23",
+            "Category": "American Football",
+            "Event_Name": "Buffalo Bills vs Kansas City Chiefs",
+            "League_Name": "NFL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
+            "Stream_Name": "NFL SERVER",
+            "Team_A": "Buffalo Bills",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Kansas City Chiefs",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "27/11/2026; 06:50:00 IST",
+            "End_Time": "27/11/2026; 10:20:00 IST",
+            "UTC_Start": "2026/11/27 01:20:00 +0000",
+            "UTC_End": "2026/11/27 04:50:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706020624/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
