@@ -3985,9 +3985,9 @@
   ],
   "sports_live": {
     "Finish": "00",
-    "Last update time": "04:48:27 PM 27-11-2026",
+    "Last update time": "01:38:26 AM 28-11-2026",
     "Live": "00",
-    "Upcoming": "76",
+    "Upcoming": "62",
     "events": [
       {
         "cat": "Boxing",
@@ -4008,6 +4008,18 @@
             "link": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8",
             "source": "ivan",
             "title": "SERVER 3",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/TDDD.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61171/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
             "tokenApi": ""
           }
         ],
@@ -4067,12 +4079,6 @@
         "cat": "Motorsport",
         "channels_data": [
           {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-            "source": "ivan",
-            "title": "TSN SPORTS FHD",
-            "tokenApi": ""
-          },
-          {
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
             "source": "ivan",
             "title": "FANCODE FHD",
@@ -4091,19 +4097,13 @@
             "tokenApi": ""
           },
           {
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-            "source": "ivan",
-            "title": "CANAL5 FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/60456/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61118/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
             "source": "ivan",
             "title": "SKY SPORTS F1 HD",
             "tokenApi": ""
           },
           {
-            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/59d22f5b-e8e0-4db7-9765-56a5b9e8f236/master.m3u8",
+            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/76499995-c8a6-4163-b39c-99f6566e78f1/master.m3u8",
             "source": "ivan",
             "title": "Sportscast FHD",
             "tokenApi": ""
@@ -4115,9 +4115,15 @@
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.55/hls/4GGGG.m3u8|Referer=http://www.fawanews.sc/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.59/hls/TFFFAAAQQQ.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
             "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+            "source": "ivan",
+            "title": "FANCODE SD",
             "tokenApi": ""
           }
         ],
@@ -4274,15 +4280,30 @@
             "tokenApi": ""
           },
           {
-            "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+            "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
             "source": "ivan",
-            "title": "TEN SPORTS HD",
+            "title": "PTV SPORTS HD",
             "tokenApi": ""
+          },
+          {
+            "link": "http://c8.vfruitfairy.com/ICCWomen1/index.m3u8",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": {
+              "api": "http://c8.vfruitfairy.com/ICCWomen1/index.m3u8",
+              "default_string": "N8x7Y%m+6n",
+              "ip_api": "https://api.ipify.org/",
+              "link_key": "playback_url",
+              "request_body_type": "text",
+              "request_type": "get",
+              "type": "ls",
+              "url": "http://c8.vfruitfairy.com/ICCWomen1/index.m3u8"
+            }
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/11/27 19:00:00 +0000",
+          "endTime": "2026/11/27 17:00:00 +0000",
           "eventName": "Men's Asia Cup Rising Stars 2026",
           "isHot": "0",
           "startTime": "2026/11/27 10:00:00 +0000",
@@ -4403,25 +4424,19 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive2411/ENG/master.m3u8|Referer=https://www.sonyliv.com/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2711/ENG/master.m3u8|Referer=https://www.sonyliv.com/",
             "source": "ivan",
             "title": "SonyLiv (ENG)",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2411/HIN/master.m3u8|Referer=https://www.sonyliv.com/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2711/HIN/master.m3u8|Referer=https://www.sonyliv.com/",
             "source": "ivan",
             "title": "SonyLiv (HIN)",
             "tokenApi": ""
           },
           {
-            "link": "https://dai.google.com/linear/hls/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8",
-            "source": "ivan",
-            "title": "HD SERVER",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/S666AAA.m3u8|Referer=http://www.fawanews.sc/",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/TDDDAAA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
             "title": "SD SERVER",
             "tokenApi": ""
@@ -4446,9 +4461,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.55/hls/TFFFAA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -4502,9 +4517,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.55/hls/TFFFA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/filihyb6x1/out/v1/e2b737b02ca046729b34f0594a611494/cenc.mpd|drmScheme=clearkey&drmLicense=26977ba93795552a60559679ab740b38:e75175191d0ed494da3dec258bbfd74f",
+            "source": "ivan",
+            "title": "FIFA+ FHD",
             "tokenApi": ""
           }
         ],
@@ -4613,7 +4634,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61133/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4638,9 +4659,15 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61136/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61138/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -4663,7 +4690,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61132/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4688,7 +4715,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61137/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4763,7 +4790,7 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61141/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4788,7 +4815,7 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61139/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4813,7 +4840,7 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61142/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4838,7 +4865,7 @@
         "cat": "NCAA Women",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61144/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4863,7 +4890,7 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61151/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4888,7 +4915,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61131/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4938,13 +4965,55 @@
         "cat": "Serie A",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gg0rmjihjl/out/v1/4ccddc4ece124dfea1218da02041c157/cenc.mpd|drmScheme=clearkey&drmLicense=e6e22985c29a0dfdecf528c4a7676460:fe1afefdbc44ca30d050c91a9bce398d",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "PARAMOUNT+ FHD",
             "tokenApi": ""
           },
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8k46ztto00/out/v1/447ebc03e794450c98f24d7591323b91/cenc.mpd|drmScheme=clearkey&drmLicense=0b6273c96d73dbe33a1c23d0cdafd0f5:02c9d302b52a335d5894b959c7163687",
+            "source": "ivan",
+            "title": "DAZN SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd|drmScheme=clearkey&drmLicense=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+            "source": "ivan",
+            "title": "FUBO SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hetox8fynx/out/v1/a4fff4b9436f441a93c24aa1456b4cf7/cenc.mpd|drmScheme=clearkey&drmLicense=111784d740e66e769bd7508c38b0774f:188e7efd2209ae9f3baae9b9ec5091b6",
+            "source": "ivan",
+            "title": "PEACOCK ES FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ustjfegyos/out/v1/b7211fed5c814088aa644380e13f0501/cenc.mpd|drmScheme=clearkey&drmLicense=98bd6fc54947d165d36e5a04de3f0581:db0a1eedf65951e5046fc9997eb4296a",
+            "source": "ivan",
+            "title": "DAZN ITALIA FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61154/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://www.rtmpcdn.com/live/4e2e7e1a-211e-42db-803f-e8c812dade15.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "HD QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/V444AAAA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61154/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -4969,9 +5038,15 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61161/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61162/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -4994,7 +5069,7 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61166/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -5019,7 +5094,7 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61163/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -5044,7 +5119,7 @@
         "cat": "Hockey",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61160/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -5069,7 +5144,7 @@
         "cat": "Premier League",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61164/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -5094,7 +5169,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61157/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -5119,7 +5194,7 @@
         "cat": "LaLiga",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61165/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -5144,9 +5219,33 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61148/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61145/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61146/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61147/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "SERVER 4",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61168/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "SERVER 5",
             "tokenApi": ""
           }
         ],
@@ -5169,9 +5268,15 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61174/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61175/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5194,7 +5299,7 @@
         "cat": "American Football",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61173/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -5444,9 +5549,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.55/hls/DEDEDEAAAAQQ.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://live3979.zundrixmediapipeline.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "source": "ivan",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5469,9 +5580,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/XAXAXAQ.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5494,9 +5605,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/XAXAXAQQ.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5519,9 +5630,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/TDDDAA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8?",
+            "source": "ivan",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5544,9 +5661,21 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/TDDDA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "source": "ivan",
+            "title": "FOX SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+            "source": "ivan",
+            "title": "TSN SPORTS FHD",
             "tokenApi": ""
           }
         ],
@@ -5569,9 +5698,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/TDDDAAAA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "source": "ivan",
+            "title": "FOX DEPORTES FHD",
             "tokenApi": ""
           }
         ],
@@ -5594,9 +5729,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "FOX SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/JRRRA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5619,9 +5760,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/JRRR.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5644,9 +5785,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/8KKK.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5669,9 +5810,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/8KKKA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5694,9 +5835,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/JMMMAAAA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd|drmScheme=clearkey&drmLicense=42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e",
+            "source": "ivan",
+            "title": "SKY BUNDESLIGA FHD",
             "tokenApi": ""
           }
         ],
@@ -5719,9 +5866,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SKY TOP EVENT FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/JMMMAAA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5744,9 +5897,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/JMMMAA.m3u8|Referer=http://www.fawanews.sc/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "source": "ivan",
+            "title": "FOX SPORTS FHD",
             "tokenApi": ""
           }
         ],
@@ -5769,9 +5928,15 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://pull.fmp.live/sla/1-6aeca107fbc4c8ef094ac38f.m3u8?auth_key=1795826461-0-0-f92548d4f479ea072022dcf532e3de88|Referer=https://fmp.live/",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/G222AA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "SD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5844,9 +6009,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://messi.damitv.st/live-hls/channel/keuken-kampioen-divisie/2026-11-27/dor-vit/playlist.m3u8?tk=Y-MXJAbuT4atV0qEMki-Hw&e=1795833980|Referer=https://ondemand.st",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -5969,9 +6134,33 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SKY TOP EVENT FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://www.rtmpcdn.com/live/88fbc948-5f87-44b7-b376-f2f52765a58e.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "HD QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/POPOPO.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/maanoeqzs8/out/v1/38cc1e025cec427fa8cef5fa4983f6be/cenc.mpd|drmScheme=clearkey&drmLicense=85e4f481b44e70c30aded405b26c962d:f934839b98c7e6dbefc00a7fe8b63d53",
+            "source": "ivan",
+            "title": "PEACOCK ES FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lf6ajotsgb/out/v1/5cb3ebc857154f9a94ab114037adb683/cenc.mpd|drmScheme=clearkey&drmLicense=453f2209b8018ef19deb3d73862dab69:a1a6f566ced17173f4636f38e9be5970",
+            "source": "ivan",
+            "title": "SKY BUNDESLIGA FHD",
             "tokenApi": ""
           }
         ],
@@ -5994,9 +6183,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "LaLiga Hypermotion",
             "tokenApi": ""
           }
         ],
@@ -6019,9 +6208,33 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "beIN SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+            "source": "ivan",
+            "title": "beIN Español FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rmn19s8wdd/out/v1/c6fff80daa1945ff8fdac0c199dea401/cenc.mpd|drmScheme=clearkey&drmLicense=d668737f16a0f76a7e3f57d1566697bf:68d3ed7004cbe4f6a6c569bc03f9db88",
+            "source": "ivan",
+            "title": "DAZN SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://www.rtmpcdn.com/live/7b56e7fa-1a8c-49f6-9884-239228beb295.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "HD QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/V444AA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6044,9 +6257,33 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "PREMIER SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/carfwu7l1o/out/v1/3430d6ab78dd42f38f928c5f19d2811e/cenc.mpd|drmScheme=clearkey&drmLicense=76c4df04d790c7eeb96af5a9461fd3c9:9b999af8ef8c92139365cdbb586e4168",
+            "source": "ivan",
+            "title": "DAZN SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61165/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "ESPN DEPORTES HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://www.rtmpcdn.com/live/feedec15-468f-4947-bd82-0dc385dc2e09.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "HD QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.44/hls/POPOPOQQAAA.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6069,9 +6306,39 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SKY SPORT PL FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+            "source": "ivan",
+            "title": "SKY SPORTS EPL",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cj9ylmqsf0/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/cenc.mpd|drmScheme=clearkey&drmLicense=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+            "source": "ivan",
+            "title": "FUBO SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61164/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "ivan",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://www.rtmpcdn.com/live/migu1.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "HD QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.50/hls/PPPP.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6094,9 +6361,21 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "CBS SPORTS FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://www.rtmpcdn.com/live/644a23ba-7dbc-47c8-9e1a-e000bd326f12.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "HD QUALITY",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=http://193.47.62.41/hls/V444AAAAQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "source": "ivan",
+            "title": "LOW QUALITY",
             "tokenApi": ""
           }
         ],
@@ -6147,6 +6426,12 @@
             "link": "https://no_link.m3u8",
             "source": "ivan",
             "title": "Link 1",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
             "tokenApi": ""
           }
         ],
@@ -6219,9 +6504,9 @@
         "cat": "Football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "SportDigital Fussball",
             "tokenApi": ""
           }
         ],
@@ -6735,9 +7020,15 @@
         "cat": "American football",
         "channels_data": [
           {
-            "link": "https://no_link.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
             "source": "ivan",
-            "title": "Link 1",
+            "title": "TSN SPORTS 1 FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+            "source": "ivan",
+            "title": "TSN SPORTS 3 FHD",
             "tokenApi": ""
           }
         ],
@@ -6912,19 +7203,13 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd|drmScheme=clearkey&drmLicense=d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/syx49vqdrr/out/v1/909eab72dfa945a08debe81846c5b78f/cenc.mpd|drmScheme=clearkey&drmLicense=76c58ac4712177bfd921342e3ff02a5e:343e96a54fc9a8649ab4448993ebad54",
             "source": "ivan",
             "title": "WILLOW FHD",
             "tokenApi": ""
           },
           {
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "source": "ivan",
-            "title": "FANCODE FHD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd|drmScheme=clearkey&drmLicense=d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/syx49vqdrr/out/v1/909eab72dfa945a08debe81846c5b78f/cenc.mpd|drmScheme=clearkey&drmLicense=76c58ac4712177bfd921342e3ff02a5e:343e96a54fc9a8649ab4448993ebad54",
             "source": "ivan",
             "title": "WILLOW ALT",
             "tokenApi": ""
@@ -6933,12 +7218,6 @@
             "link": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8",
             "source": "ivan",
             "title": "UNITE8 HIN HD",
-            "tokenApi": ""
-          },
-          {
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "source": "ivan",
-            "title": "FANCODE SD",
             "tokenApi": ""
           },
           {
@@ -6951,6 +7230,18 @@
             "link": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd|drmScheme=clearkey&drmLicense=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f",
             "source": "ivan",
             "title": "UNITE SPORTS (IND)",
+            "tokenApi": ""
+          },
+          {
+            "link": "http://107.167.16.138/zeezesthd/tracks-v1a1/mono.ts.m3u8?token=test",
+            "source": "ivan",
+            "title": "ZEE ZEST HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+            "source": "ivan",
+            "title": "TNT SPORTS FHD",
             "tokenApi": ""
           }
         ],
@@ -7344,7 +7635,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61159/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7394,7 +7685,7 @@
         "cat": "NCAA Women",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61130/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7494,7 +7785,7 @@
         "cat": "OFC",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61127/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7544,7 +7835,7 @@
         "cat": "NCAA Women",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61135/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7569,7 +7860,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61150/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7594,9 +7885,15 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61149/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61156/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
             "tokenApi": ""
           }
         ],
@@ -7619,7 +7916,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61152/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7644,7 +7941,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61153/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7669,7 +7966,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61176/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7694,7 +7991,7 @@
         "cat": "NCAA Men",
         "channels_data": [
           {
-            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61172/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
             "source": "tta",
             "title": "GOALZEN LIVE",
             "tokenApi": ""
@@ -7714,6 +8011,338 @@
         "id": 774842019,
         "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
         "title": "NCAA Men"
+      },
+      {
+        "cat": "NCAA Men",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61140/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61158/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "HD SERVER",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/28 01:00:00 +0000",
+          "eventName": "St Mary&#039;s Gaels vs Texas Longhorns",
+          "isHot": "0",
+          "startTime": "2026/11/27 22:00:00 +0000",
+          "teamA": "St Mary&#039;s Gaels",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Texas Longhorns",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 781438792,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "NCAA Men"
+      },
+      {
+        "cat": "NCAA Men",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/28 04:30:00 +0000",
+          "eventName": "Miami Hurricanes vs Alabama Crimson Tide",
+          "isHot": "0",
+          "startTime": "2026/11/28 01:30:00 +0000",
+          "teamA": "Miami Hurricanes",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Alabama Crimson Tide",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 788647371,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "NCAA Men"
+      },
+      {
+        "cat": "NCAA Men",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/28 05:00:00 +0000",
+          "eventName": "Tennessee Volunteers vs Louisville Cardinals",
+          "isHot": "0",
+          "startTime": "2026/11/28 02:00:00 +0000",
+          "teamA": "Tennessee Volunteers",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Louisville Cardinals",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 788647475,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "NCAA Men"
+      },
+      {
+        "cat": "NCAA Men",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61143/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/27 21:30:00 +0000",
+          "eventName": "Wake Forest Demon Deacons vs Memphis Tigers",
+          "isHot": "0",
+          "startTime": "2026/11/27 18:30:00 +0000",
+          "teamA": "Wake Forest Demon Deacons",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Memphis Tigers",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 792243742,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "NCAA Men"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "source": "ivan",
+            "title": "PREMIERE BR FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "source": "ivan",
+            "title": "SportDigital Fussball",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/28 01:20:00 +0000",
+          "eventName": "Campeonato Brasileiro Série A",
+          "isHot": "0",
+          "startTime": "2026/11/27 23:00:00 +0000",
+          "teamA": "Fluminense",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "teamB": "Cruzeiro",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image"
+        },
+        "id": 6404,
+        "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "title": "Campeonato Brasileiro Série A"
+      },
+      {
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd|drmScheme=clearkey&drmLicense=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3",
+            "source": "ivan",
+            "title": "WILLOW FHD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd|drmScheme=clearkey&drmLicense=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3",
+            "source": "ivan",
+            "title": "WILLOW ALT",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://cdn07khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
+            "source": "ivan",
+            "title": "TAMASHA PK",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e",
+            "source": "ivan",
+            "title": "SonyLiv (Asia)",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://sonymtmnew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198",
+            "source": "ivan",
+            "title": "SonyLiv HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+            "source": "ivan",
+            "title": "PTV SPORTS HD",
+            "tokenApi": ""
+          },
+          {
+            "link": "http://c8.vfruitfairy.com/ICCWomen1/index.m3u8",
+            "source": "ivan",
+            "title": "SD SERVER",
+            "tokenApi": {
+              "api": "http://c8.vfruitfairy.com/ICCWomen1/index.m3u8",
+              "default_string": "N8x7Y%m+6n",
+              "ip_api": "https://api.ipify.org/",
+              "link_key": "playback_url",
+              "request_body_type": "text",
+              "request_type": "get",
+              "type": "ls",
+              "url": "http://c8.vfruitfairy.com/ICCWomen1/index.m3u8"
+            }
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/29 20:00:00 +0000",
+          "eventName": "Men's Asia Cup Rising Stars 2026",
+          "isHot": "0",
+          "startTime": "2026/11/29 09:50:00 +0000",
+          "teamA": "PAK-A",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+          "teamB": "SL-A",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image"
+        },
+        "id": 5888,
+        "league_logo": "https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "title": "Men's Asia Cup Rising Stars 2026"
+      },
+      {
+        "cat": "NCAA Women",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61155/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/27 23:00:00 +0000",
+          "eventName": "California Golden Bears vs Delaware Blue Hens",
+          "isHot": "0",
+          "startTime": "2026/11/27 20:00:00 +0000",
+          "teamA": "California Golden Bears",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Delaware Blue Hens",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 806645740,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "NCAA Women"
+      },
+      {
+        "cat": "FIBA World Cup Qualification, Europe",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61169/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/27 22:00:00 +0000",
+          "eventName": "Slovenia vs Finland",
+          "isHot": "0",
+          "startTime": "2026/11/27 19:00:00 +0000",
+          "teamA": "Slovenia",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Finland",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 807533226,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "FIBA World Cup Qualification, Europe"
+      },
+      {
+        "cat": "FIBA World Cup Qualification, Europe",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61170/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/27 22:45:00 +0000",
+          "eventName": "Poland vs Croatia",
+          "isHot": "0",
+          "startTime": "2026/11/27 19:45:00 +0000",
+          "teamA": "Poland",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Croatia",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 807533353,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "FIBA World Cup Qualification, Europe"
+      },
+      {
+        "cat": "FIBA World Cup Qualification, Americas",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/28 02:10:00 +0000",
+          "eventName": "Brazil vs USA",
+          "isHot": "0",
+          "startTime": "2026/11/27 23:10:00 +0000",
+          "teamA": "Brazil",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "USA",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 807533505,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "FIBA World Cup Qualification, Americas"
+      },
+      {
+        "cat": "FIBA World Cup Qualification, Americas",
+        "channels_data": [
+          {
+            "link": "https://stream-proxy.goalzen.site/proxy/php?url=https://file.genoads.com/ch1.m3u8",
+            "source": "tta",
+            "title": "GOALZEN LIVE",
+            "tokenApi": ""
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/11/28 04:10:00 +0000",
+          "eventName": "Colombia vs Dominican Republic",
+          "isHot": "0",
+          "startTime": "2026/11/28 01:10:00 +0000",
+          "teamA": "Colombia",
+          "teamAFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+          "teamB": "Dominican Republic",
+          "teamBFlag": "https://i.ibb.co/1Yh8PdLH/1000459066.png"
+        },
+        "id": 807864007,
+        "league_logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+        "title": "FIBA World Cup Qualification, Americas"
       }
     ]
   }
