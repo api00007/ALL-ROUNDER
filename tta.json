@@ -1,28 +1,11 @@
 {
     "Owner": "Ivan-FluX",
     "App name": "Goozapp-auto-scraper",
-    "Last update": "27/11/26 12:32:22 IST",
-    "Total_Matches": 35,
+    "Last update": "27/11/26 12:36:37 IST",
+    "Total_Matches": 34,
     "Live_Data": [
         {
             "Id": "1",
-            "Category": "NCAA Men",
-            "Event_Name": "Texas Tech Red Raiders vs Oregon Ducks",
-            "League_Name": "NCAA Men",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA MEN SERVER",
-            "Team_A": "Texas Tech Red Raiders",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Oregon Ducks",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "27/11/2026; 10:27:00 IST",
-            "End_Time": "27/11/2026; 13:27:00 IST",
-            "UTC_Start": "2026/11/27 04:57:00 +0000",
-            "UTC_End": "2026/11/27 07:57:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/61124/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "2",
             "Category": "NCAA Men",
             "Event_Name": "Xavier Musketeers vs Virginia Cavaliers",
             "League_Name": "NCAA Men",
@@ -39,7 +22,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9328073160/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "3",
+            "Id": "2",
             "Category": "American Football",
             "Event_Name": "Akron vs Buffalo",
             "League_Name": "CFB",
@@ -56,7 +39,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706043248/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "4",
+            "Id": "3",
             "Category": "American Football",
             "Event_Name": "UTSA vs Tulsa",
             "League_Name": "CFB",
@@ -73,7 +56,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706082840/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "5",
+            "Id": "4",
             "Category": "American Football",
             "Event_Name": "Ole Miss vs Mississippi St.",
             "League_Name": "CFB",
@@ -90,7 +73,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706060216/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "6",
+            "Id": "5",
             "Category": "American Football",
             "Event_Name": "Ohio vs Toledo",
             "League_Name": "CFB",
@@ -107,7 +90,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706054560/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "7",
+            "Id": "6",
             "Category": "American Football",
             "Event_Name": "Iowa vs Nebraska",
             "League_Name": "CFB",
@@ -122,6 +105,23 @@
             "UTC_Start": "2026/11/27 17:00:00 +0000",
             "UTC_End": "2026/11/27 20:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706048904/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "7",
+            "Category": "Hockey",
+            "Event_Name": "Nashville Predators vs Utah Mammoth",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Nashville Predators",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Utah Mammoth",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "27/11/2026; 23:30:00 IST",
+            "End_Time": "28/11/2026; 02:00:00 IST",
+            "UTC_Start": "2026/11/27 18:00:00 +0000",
+            "UTC_End": "2026/11/27 20:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598477440/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "8",
@@ -159,23 +159,6 @@
         },
         {
             "Id": "10",
-            "Category": "Hockey",
-            "Event_Name": "Nashville Predators vs Utah Mammoth",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Nashville Predators",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Utah Mammoth",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "27/11/2026; 23:30:00 IST",
-            "End_Time": "28/11/2026; 02:00:00 IST",
-            "UTC_Start": "2026/11/27 18:00:00 +0000",
-            "UTC_End": "2026/11/27 20:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598477440/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "11",
             "Category": "NCAA Women",
             "Event_Name": "TCU Horned Frogs vs Georgia Tech Yellow Jackets",
             "League_Name": "NCAA Women",
@@ -192,7 +175,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9328616136/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "12",
+            "Id": "11",
             "Category": "Hockey",
             "Event_Name": "St. Louis Blues vs Dallas Stars",
             "League_Name": "NHL",
@@ -209,7 +192,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598488752/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "13",
+            "Id": "12",
             "Category": "Bundesliga",
             "Event_Name": "SV Werder Bremen vs Borussia M&#039;gladbach",
             "League_Name": "Bundesliga",
@@ -226,7 +209,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8385619536/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "14",
+            "Id": "13",
             "Category": "Serie A",
             "Event_Name": "Venezia vs Bologna",
             "League_Name": "Serie A",
@@ -243,41 +226,41 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8385574288/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "15",
-            "Category": "American Football",
-            "Event_Name": "Pittsburgh Steelers vs Denver Broncos",
-            "League_Name": "NFL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
-            "Stream_Name": "NFL SERVER",
-            "Team_A": "Pittsburgh Steelers",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Denver Broncos",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "28/11/2026; 01:30:00 IST",
-            "End_Time": "28/11/2026; 05:00:00 IST",
-            "UTC_Start": "2026/11/27 20:00:00 +0000",
-            "UTC_End": "2026/11/27 23:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706037592/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "16",
+            "Id": "14",
             "Category": "Hockey",
-            "Event_Name": "Washington Capitals vs Florida Panthers",
+            "Event_Name": "Philadelphia Flyers vs Vancouver Canucks",
             "League_Name": "NHL",
             "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
             "Stream_Name": "NHL SERVER",
-            "Team_A": "Washington Capitals",
+            "Team_A": "Philadelphia Flyers",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Florida Panthers",
+            "Team_B": "Vancouver Canucks",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "28/11/2026; 01:30:00 IST",
             "End_Time": "28/11/2026; 04:00:00 IST",
             "UTC_Start": "2026/11/27 20:00:00 +0000",
             "UTC_End": "2026/11/27 22:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598511376/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598500064/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "17",
+            "Id": "15",
+            "Category": "Premier League",
+            "Event_Name": "Nottingham Forest vs Chelsea",
+            "League_Name": "Premier League",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
+            "Stream_Name": "PREMIER LEAGUE SERVER",
+            "Team_A": "Nottingham Forest",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Chelsea",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "28/11/2026; 01:30:00 IST",
+            "End_Time": "28/11/2026; 04:30:00 IST",
+            "UTC_Start": "2026/11/27 20:00:00 +0000",
+            "UTC_End": "2026/11/27 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8392287960/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "16",
             "Category": "Hockey",
             "Event_Name": "Columbus Blue Jackets vs Detroit Red Wings",
             "League_Name": "NHL",
@@ -294,21 +277,38 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598494408/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "18",
-            "Category": "Hockey",
-            "Event_Name": "Philadelphia Flyers vs Vancouver Canucks",
-            "League_Name": "NHL",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
-            "Stream_Name": "NHL SERVER",
-            "Team_A": "Philadelphia Flyers",
+            "Id": "17",
+            "Category": "LaLiga",
+            "Event_Name": "Levante UD vs Real Racing Club",
+            "League_Name": "LaLiga",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/8/image",
+            "Stream_Name": "LALIGA SERVER",
+            "Team_A": "Levante UD",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Vancouver Canucks",
+            "Team_B": "Real Racing Club",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "28/11/2026; 01:30:00 IST",
-            "End_Time": "28/11/2026; 04:00:00 IST",
+            "End_Time": "28/11/2026; 04:30:00 IST",
             "UTC_Start": "2026/11/27 20:00:00 +0000",
-            "UTC_End": "2026/11/27 22:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598500064/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "UTC_End": "2026/11/27 23:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8399307056/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "18",
+            "Category": "American Football",
+            "Event_Name": "South Alabama vs Appalachian St.",
+            "League_Name": "CFB",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
+            "Stream_Name": "CFB SERVER",
+            "Team_A": "South Alabama",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Appalachian St.",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "28/11/2026; 01:30:00 IST",
+            "End_Time": "28/11/2026; 05:00:00 IST",
+            "UTC_Start": "2026/11/27 20:00:00 +0000",
+            "UTC_End": "2026/11/27 23:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706088496/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "19",
@@ -329,57 +329,40 @@
         },
         {
             "Id": "20",
-            "Category": "American Football",
-            "Event_Name": "South Alabama vs Appalachian St.",
-            "League_Name": "CFB",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/11200/image",
-            "Stream_Name": "CFB SERVER",
-            "Team_A": "South Alabama",
+            "Category": "Hockey",
+            "Event_Name": "Washington Capitals vs Florida Panthers",
+            "League_Name": "NHL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/234/image",
+            "Stream_Name": "NHL SERVER",
+            "Team_A": "Washington Capitals",
             "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Appalachian St.",
+            "Team_B": "Florida Panthers",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "28/11/2026; 01:30:00 IST",
+            "End_Time": "28/11/2026; 04:00:00 IST",
+            "UTC_Start": "2026/11/27 20:00:00 +0000",
+            "UTC_End": "2026/11/27 22:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598511376/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "21",
+            "Category": "American Football",
+            "Event_Name": "Pittsburgh Steelers vs Denver Broncos",
+            "League_Name": "NFL",
+            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/9464/image",
+            "Stream_Name": "NFL SERVER",
+            "Team_A": "Pittsburgh Steelers",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Denver Broncos",
             "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
             "Start_Time": "28/11/2026; 01:30:00 IST",
             "End_Time": "28/11/2026; 05:00:00 IST",
             "UTC_Start": "2026/11/27 20:00:00 +0000",
             "UTC_End": "2026/11/27 23:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706088496/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "21",
-            "Category": "Premier League",
-            "Event_Name": "Nottingham Forest vs Chelsea",
-            "League_Name": "Premier League",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
-            "Stream_Name": "PREMIER LEAGUE SERVER",
-            "Team_A": "Nottingham Forest",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Chelsea",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "28/11/2026; 01:30:00 IST",
-            "End_Time": "28/11/2026; 04:30:00 IST",
-            "UTC_Start": "2026/11/27 20:00:00 +0000",
-            "UTC_End": "2026/11/27 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8392287960/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706037592/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "22",
-            "Category": "LaLiga",
-            "Event_Name": "Levante UD vs Real Racing Club",
-            "League_Name": "LaLiga",
-            "League_Logo": "https://api.sofascore.app/api/v1/unique-tournament/8/image",
-            "Stream_Name": "LALIGA SERVER",
-            "Team_A": "Levante UD",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Real Racing Club",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "28/11/2026; 01:30:00 IST",
-            "End_Time": "28/11/2026; 04:30:00 IST",
-            "UTC_Start": "2026/11/27 20:00:00 +0000",
-            "UTC_End": "2026/11/27 23:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8399307056/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "23",
             "Category": "American Football",
             "Event_Name": "Florida State vs Florida",
             "League_Name": "CFB",
@@ -396,7 +379,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706094152/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "24",
+            "Id": "23",
             "Category": "American Football",
             "Event_Name": "Memphis vs Temple",
             "League_Name": "CFB",
@@ -413,7 +396,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706071528/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "25",
+            "Id": "24",
             "Category": "American Football",
             "Event_Name": "San Jose St. vs North Dakota State Bison",
             "League_Name": "CFB",
@@ -430,7 +413,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8706099808/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "26",
+            "Id": "25",
             "Category": "Hockey",
             "Event_Name": "San Jose Sharks vs Vegas Golden Knights",
             "League_Name": "NHL",
@@ -447,7 +430,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598528344/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "27",
+            "Id": "26",
             "Category": "Hockey",
             "Event_Name": "Minnesota Wild vs Colorado Avalanche",
             "League_Name": "NHL",
@@ -464,7 +447,7 @@
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598522688/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
-            "Id": "28",
+            "Id": "27",
             "Category": "Hockey",
             "Event_Name": "Anaheim Ducks vs Los Angeles Kings",
             "League_Name": "NHL",
@@ -479,6 +462,23 @@
             "UTC_Start": "2026/11/27 21:00:00 +0000",
             "UTC_End": "2026/11/27 23:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8598517032/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "28",
+            "Category": "NCAA Women",
+            "Event_Name": "Villanova Wildcats vs LSU Tigers",
+            "League_Name": "NCAA Women",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "NCAA WOMEN SERVER",
+            "Team_A": "Villanova Wildcats",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "LSU Tigers",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "28/11/2026; 03:00:00 IST",
+            "End_Time": "28/11/2026; 06:00:00 IST",
+            "UTC_Start": "2026/11/27 21:30:00 +0000",
+            "UTC_End": "2026/11/28 00:30:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9328734912/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "29",
@@ -499,23 +499,6 @@
         },
         {
             "Id": "30",
-            "Category": "NCAA Women",
-            "Event_Name": "Villanova Wildcats vs LSU Tigers",
-            "League_Name": "NCAA Women",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "NCAA WOMEN SERVER",
-            "Team_A": "Villanova Wildcats",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "LSU Tigers",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "28/11/2026; 03:00:00 IST",
-            "End_Time": "28/11/2026; 06:00:00 IST",
-            "UTC_Start": "2026/11/27 21:30:00 +0000",
-            "UTC_End": "2026/11/28 00:30:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9328734912/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "31",
             "Category": "NCAA Men",
             "Event_Name": "Boston College Eagles vs Cincinnati Bearcats",
             "League_Name": "NCAA Men",
@@ -530,6 +513,23 @@
             "UTC_Start": "2026/11/27 21:30:00 +0000",
             "UTC_End": "2026/11/28 00:30:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9328163656/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
+        },
+        {
+            "Id": "31",
+            "Category": "CONCACAF W Championship",
+            "Event_Name": "Jamaica vs Costa Rica",
+            "League_Name": "CONCACAF W Championship",
+            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Stream_Name": "CONCACAF W CHAMPIONSHIP SERVER",
+            "Team_A": "Jamaica",
+            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Team_B": "Costa Rica",
+            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
+            "Start_Time": "28/11/2026; 03:30:00 IST",
+            "End_Time": "28/11/2026; 06:30:00 IST",
+            "UTC_Start": "2026/11/27 22:00:00 +0000",
+            "UTC_End": "2026/11/28 01:00:00 +0000",
+            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8390359264/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         },
         {
             "Id": "32",
@@ -581,23 +581,6 @@
             "UTC_Start": "2026/11/27 22:00:00 +0000",
             "UTC_End": "2026/11/28 01:00:00 +0000",
             "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/9328180624/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
-        },
-        {
-            "Id": "35",
-            "Category": "CONCACAF W Championship",
-            "Event_Name": "Jamaica vs Costa Rica",
-            "League_Name": "CONCACAF W Championship",
-            "League_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Stream_Name": "CONCACAF W CHAMPIONSHIP SERVER",
-            "Team_A": "Jamaica",
-            "Team_A_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Team_B": "Costa Rica",
-            "Team_B_Logo": "https://i.ibb.co/1Yh8PdLH/1000459066.png",
-            "Start_Time": "28/11/2026; 03:30:00 IST",
-            "End_Time": "28/11/2026; 06:30:00 IST",
-            "UTC_Start": "2026/11/27 22:00:00 +0000",
-            "UTC_End": "2026/11/28 01:00:00 +0000",
-            "Link": "<iframe src=\"https://ivan-player.vercel.app/?play=https://stream-proxy.goalzen.site/proxy/php?url=https://chatgpt.hereisman.net/playlist/8390359264/load-playlist.m3u8|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
         }
     ]
 }
